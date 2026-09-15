@@ -1,0 +1,39 @@
+name: Mise à jour des actus LUMEN
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # toutes les 30 minutes
+  workflow_dispatch:          # bouton "Run workflow" manuel dans GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Installer les dépendances du script
+        working-directory: scripts
+        run: npm install
+
+      - name: Générer les actus
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node fetch-news.js
+
+      - name: Publier les changements
+        run: |
+          git config user.name "lumen-bot"
+          git config user.email "bot@lumen.local"
+          git add data/articles.json
+          git diff --quiet --cached || git commit -m "Actus mises à jour automatiquement"
+          git push
