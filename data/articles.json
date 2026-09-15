@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Firefox : Mozilla vient d'optimiser la gestion de la mémoire et l'ouverture des PDF",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629728-firefox-156.html",
+    "pubDate": "2026-09-15T12:02:00.000Z",
+    "summary": "Mozilla publie Firefox 156, disponible sur Windows, macOS, Linux et Android. Cette mise à jour accélère l'ouverture des PDF, allège la charge mémoire sur les grandes images JPEG, et corrige un bug qui"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Salesforce and Nvidia&#8217;s new reasoning model is everything the AI labs should fear",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "pubDate": "2026-09-15T12:00:00.000Z",
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "192.168.1.1 : comment accéder à l&#8217;interface administrateur de votre box internet ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/forfait-internet/1233353_192-168-1-1-comment-acceder-a-linterface-administrateur-de-votre-box-internet",
+    "pubDate": "2026-09-15T11:50:38.000Z",
+    "summary": "Pour piloter votre réseau local, dépanner votre connexion ou simplement changer le mot de passe du Wi-Fi, vous devrez accéder à l'interface utilisateur de votre box Internet grâce à l'adresse IP 192.1"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ce PC portable de Samsung est parfait pour les étudiants et il passe sous les 500€ grâce à Amazon",
     "source": "Clubic",
     "category": "logiciels",
@@ -91,11 +118,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Galaxy Z Fold 8 Ultra, pliable le plus fin de Samsung, voit déjà son prix chuter de 600 €",
+    "title": "Amazon casse déjà fortement le prix du Galaxy Z Fold 8 Ultra, le nouveau smartphone pliable le plus fin de Samsung",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3247757_le-galaxy-z-fold-8-ultra-pliable-le-plus-fin-de-samsung-voit-deja-son-prix-chuter-de-600-e",
-    "pubDate": "2026-09-15T10:04:49.000Z",
+    "pubDate": "2026-09-15T10:05:00.000Z",
     "summary": "Le Samsung Galaxy Z Fold 8 Ultra est l'un des derniers pliables de la marque sud-coréenne, le plus fin de sa lignée, à retrouver pour 1 599 euros au lieu de 2 199 euros sur Amazon."
   },
   {
@@ -118,7 +145,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Nasa vient d&#8217;économiser des années de carburant pour son télescope Roman, grâce à une manœuvre ultra-précise",
+    "title": "Télescope Roman : une manœuvre si précise que la Nasa espère désormais 22 ans de mission",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2333179-la-nasa-vient-deconomiser-des-annees-de-carburant-pour-son-telescope-roman-grace-a-une-manoeuvre-ultra-precise.html",
@@ -136,16 +163,16 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Xiaomi Poco M8 Pro 5G promet une autonomie de 2 jours pour moins de 200 €",
+    "title": "Moins de 200 € pour ce smartphone Xiaomi avec 2 jours d&#8217;autonomie",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3247783_le-xiaomi-poco-m8-pro-5g-promet-une-autonomie-de-2-jours-pour-moins-de-200-e",
-    "pubDate": "2026-09-15T09:31:54.000Z",
+    "pubDate": "2026-09-15T09:32:00.000Z",
     "summary": "Xiaomi a lancé, en début d'année, son Poco M8 Pro 5G, un smartphone équipé d'une batterie de 6 500 mAh. Un modèle ultra-endurant, donc, que l'on trouve actuellement à 199,52 euros au lieu de 353 euros"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Une cyberattaque foudroyante perturbe le suivi mondial des météores et des bolides",
+    "title": "Le suivi mondial des météores et des bolides est paralysé par une cyberattaque",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/cyberguerre/2333191-une-cyberattaque-foudroyante-perturbe-le-suivi-mondial-des-meteores-et-des-bolides.html",
@@ -217,15 +244,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "SFR lance une offre fibre sans décodeur, avec une box reconditionnée et des arbres plantés !",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629737-sfr-lance-une-offre-fibre-sans-decodeur-avec-une-box-reconditionnee-et-des-arbres-plantes.html",
-    "pubDate": "2026-09-15T09:04:00.000Z",
-    "summary": "SFR a lancé ce mardi « SFR Fibre Sobriété », sa première offre fibre optique sans décodeur, associée à une box internet reconditionnée. Facturée à moins de 30 euros par mois, elle mise sur la sobriété"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Emmy Awards 2026 : la liste des séries à rattraper d&#8217;urgence (et les pépites à ne pas manquer)",
     "source": "Numerama",
     "category": "culture",
@@ -277,15 +295,6 @@
     "url": "https://www.frandroid.com/produits-android/3247747_cest-confirme-le-monstrueux-oppo-find-x10-pro-max-et-sa-puce-2-nm-arrivent-en-france",
     "pubDate": "2026-09-15T08:24:47.000Z",
     "summary": "Le Find X10 Pro Max sortira en France. Oppo vient de le confirmer. Il arrive avec le meilleur processeur de MediaTek, le Dimensity 9600 Pro, une puce gravée en 2 nm."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Interdiction des réseaux sociaux aux moins de 15 ans : la France repart à l’attaque avec l’aide de l’Europe",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/politique/3247713_interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-la-france-repart-a-lattaque-avec-laide-de-leurope",
-    "pubDate": "2026-09-15T08:23:28.000Z",
-    "summary": "Emmanuel Macron en a fait une mesure phare de la fin de son quinquennat et ne veut pas lâcher le morceau. Après une première censure par le Conseil constitutionnel, le président de la République pouss"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "pubDate": "2026-09-14T20:44:14.000Z",
     "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-    "pubDate": "2026-09-14T20:07:37.000Z",
-    "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
   }
 ]
