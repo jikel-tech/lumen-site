@@ -1,0 +1,3 @@
+[build]
+  publish = "."
+  ignore = "bash scripts/netlify-ignore.sh"

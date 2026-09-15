@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LUMEN — L'actualité tech, résumée et sourcée</title>
+<meta name="description" content="LUMEN agrège et résume l'actualité tech en continu : smartphones, IA, logiciels, culture numérique. Mis à jour automatiquement toutes les 30 minutes.">
+<meta name="theme-color" content="#0B0F0D">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+
+<!-- Open Graph / réseaux sociaux -->
+<meta property="og:title" content="LUMEN — L'actualité tech, résumée et sourcée">
+<meta property="og:description" content="Toute la tech en un coup d'œil : résumés courts, sources vérifiées, mis à jour en continu.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Données structurées SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": "LUMEN",
+  "description": "Agrégateur et résumeur d'actualité technologique.",
+  "url": "https://votre-domaine.com"
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;1,9..144,400&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --ink:#0B0F0D; --ink-2:#121814; --paper:#ECE9DF; --paper-dim:#B9B6AC;
+    --phosphor:#7FFFB0; --phosphor-dim:#4E8E68; --amber:#FFB25E;
+    --line:rgba(236,233,223,0.14); --radius:2px;
+  }
+  html[data-theme="light"]{
+    --ink:#F3F1EA; --ink-2:#E9E6DC; --paper:#171512; --paper-dim:#5C584E;
+    --phosphor:#1F8A57; --phosphor-dim:#2FA968; --amber:#B4661F;
+    --line:rgba(23,21,18,0.12);
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--ink); color:var(--paper); font-family:'Space Grotesk', sans-serif; line-height:1.5; transition:background 0.3s, color 0.3s;}
+  ::selection{background:var(--phosphor); color:var(--ink);}
+  a{color:inherit; text-decoration:none;}
+  .display{font-family:'Fraunces', serif; font-weight:400;}
+  .wrap{max-width:1180px; margin:0 auto; padding:0 32px;}
+  @media(prefers-reduced-motion: reduce){*{animation-duration:0.01ms !important; transition-duration:0.01ms !important;}}
+  a:focus-visible, button:focus-visible, input:focus-visible{outline:2px solid var(--phosphor); outline-offset:3px;}
+
+  header{position:fixed; top:0; left:0; right:0; z-index:100; background:rgba(11,15,13,0.85); backdrop-filter:blur(10px); border-bottom:1px solid var(--line); transition:background 0.3s;}
+  html[data-theme="light"] header{background:rgba(243,241,234,0.9);}
+  nav.wrap{display:flex; align-items:center; gap:24px; height:72px;}
+  .logo{font-family:'Fraunces', serif; font-size:1.3rem; white-space:nowrap;}
+  .logo em{font-style:italic; color:var(--phosphor);}
+  .search-box{flex:1; max-width:420px; position:relative;}
+  .search-box input{
+    width:100%; background:var(--ink-2); border:1px solid var(--line); color:var(--paper);
+    padding:10px 16px 10px 38px; border-radius:20px; font-family:inherit; font-size:0.9rem;
+  }
+  .search-box input:focus{border-color:var(--phosphor); outline:none;}
+  .search-icon{position:absolute; left:14px; top:50%; transform:translateY(-50%); opacity:0.5; font-size:0.9rem;}
+  .nav-right{display:flex; align-items:center; gap:14px; margin-left:auto;}
+  .theme-toggle{
+    background:none; border:1px solid var(--line); width:38px; height:38px; border-radius:50%;
+    cursor:pointer; color:var(--paper); font-size:1rem; display:flex; align-items:center; justify-content:center;
+  }
+  .nav-cta{border:1px solid var(--paper); padding:9px 18px; font-size:0.85rem; border-radius:var(--radius); white-space:nowrap; cursor:pointer; background:none; color:var(--paper); font-family:inherit;}
+  .nav-cta:hover{background:var(--paper); color:var(--ink);}
+
+  .hero{padding:150px 0 60px;}
+  .hero-eyebrow{font-size:0.85rem; color:var(--phosphor); margin-bottom:16px;}
+  h1.hero-title{font-family:'Fraunces', serif; font-size:clamp(2.2rem, 5.5vw, 4rem); line-height:1.02; max-width:780px;}
+  h1.hero-title i{font-style:italic; color:var(--phosphor);}
+  .hero-sub{max-width:560px; margin-top:18px; color:var(--paper-dim); font-size:1.02rem;}
+  .live-badge{display:inline-flex; align-items:center; gap:8px; margin-top:22px; font-size:0.82rem; color:var(--paper-dim);}
+  .live-dot{width:7px; height:7px; border-radius:50%; background:var(--phosphor); animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;} 50%{opacity:0.3;}}
+
+  .filters{display:flex; gap:10px; margin:36px 0; flex-wrap:wrap;}
+  .filter-btn{background:none; border:1px solid var(--line); color:var(--paper-dim); padding:8px 18px; font-size:0.85rem; border-radius:16px; cursor:pointer; font-family:inherit; transition:all 0.2s;}
+  .filter-btn.active, .filter-btn:hover{border-color:var(--phosphor); color:var(--phosphor);}
+
+  section{padding:20px 0 80px;}
+  .section-title{font-family:'Fraunces', serif; font-size:1.6rem; margin-bottom:28px; display:flex; align-items:center; justify-content:space-between;}
+  .refresh-note{font-size:0.78rem; color:var(--paper-dim); font-weight:400; font-family:'Space Grotesk',sans-serif;}
+
+  .news-grid{display:grid; grid-template-columns:repeat(3, 1fr); gap:1px; background:var(--line); border:1px solid var(--line);}
+  .news-card{background:var(--ink); padding:28px; cursor:pointer; transition:background 0.2s; display:flex; flex-direction:column;}
+  .news-card:hover{background:var(--ink-2);}
+  .news-meta{display:flex; justify-content:space-between; font-size:0.76rem; color:var(--phosphor); margin-bottom:14px;}
+  .news-card h3{font-family:'Fraunces', serif; font-weight:400; font-size:1.2rem; line-height:1.3; margin-bottom:12px;}
+  .news-card p{color:var(--paper-dim); font-size:0.88rem; flex:1;}
+  .news-source{font-size:0.78rem; color:var(--paper-dim); margin-top:16px; padding-top:16px; border-top:1px solid var(--line);}
+  .empty-state{padding:60px 20px; text-align:center; color:var(--paper-dim); grid-column:1/-1;}
+
+  .ad-slot{
+    border:1px dashed var(--line); border-radius:var(--radius); padding:20px; text-align:center;
+    color:var(--paper-dim); font-size:0.78rem; margin:40px 0;
+  }
+
+  .newsletter-inline{background:var(--ink-2); border:1px solid var(--line); border-radius:var(--radius); padding:44px; margin-top:60px; display:flex; justify-content:space-between; align-items:center; gap:32px; flex-wrap:wrap;}
+  .newsletter-inline h3{font-family:'Fraunces', serif; font-size:1.5rem; margin-bottom:8px;}
+  .newsletter-inline p{color:var(--paper-dim); font-size:0.9rem;}
+  #newsletter-form{display:flex; gap:10px; flex-wrap:wrap;}
+  #newsletter-form input{background:var(--ink); border:1px solid var(--line); color:var(--paper); padding:12px 16px; border-radius:var(--radius); font-family:inherit; min-width:220px;}
+  #newsletter-form button{background:var(--phosphor); color:var(--ink); border:none; padding:12px 24px; border-radius:var(--radius); font-weight:600; cursor:pointer; font-family:inherit;}
+
+  /* Modal article */
+  .modal-overlay{position:fixed; inset:0; background:rgba(0,0,0,0.7); z-index:200; display:none; align-items:center; justify-content:center; padding:20px;}
+  .modal-overlay.open{display:flex;}
+  .modal{background:var(--ink); border:1px solid var(--line); max-width:600px; width:100%; padding:40px; border-radius:var(--radius); max-height:85vh; overflow-y:auto; position:relative;}
+  .modal-close{position:absolute; top:18px; right:18px; background:none; border:none; color:var(--paper-dim); font-size:1.3rem; cursor:pointer;}
+  .modal-meta{font-size:0.78rem; color:var(--phosphor); margin-bottom:14px;}
+  .modal h2{font-family:'Fraunces', serif; font-weight:400; font-size:1.6rem; margin-bottom:18px; line-height:1.25;}
+  .modal-summary-label{font-size:0.75rem; color:var(--paper-dim); text-transform:none; margin-bottom:6px;}
+  .modal p.summary{color:var(--paper); font-size:1rem; line-height:1.6; margin-bottom:28px;}
+  .modal-source-btn{display:inline-block; background:var(--phosphor); color:var(--ink); padding:12px 24px; border-radius:var(--radius); font-size:0.9rem; font-weight:600;}
+
+  /* Popup newsletter */
+  .popup{position:fixed; bottom:24px; right:24px; background:var(--ink-2); border:1px solid var(--line); padding:24px; max-width:320px; border-radius:var(--radius); z-index:150; box-shadow:0 20px 50px rgba(0,0,0,0.4); transform:translateY(140%); transition:transform 0.4s ease;}
+  .popup.visible{transform:translateY(0);}
+  .popup h4{font-family:'Fraunces', serif; font-size:1.1rem; margin-bottom:8px;}
+  .popup p{font-size:0.85rem; color:var(--paper-dim); margin-bottom:14px;}
+  .popup form{display:flex; gap:8px;}
+  .popup input{flex:1; background:var(--ink); border:1px solid var(--line); color:var(--paper); padding:9px 12px; border-radius:var(--radius); font-family:inherit; font-size:0.85rem;}
+  .popup button{background:var(--phosphor); border:none; color:var(--ink); padding:9px 14px; border-radius:var(--radius); font-weight:600; cursor:pointer; font-size:0.85rem;}
+  .popup-close{position:absolute; top:10px; right:12px; background:none; border:none; color:var(--paper-dim); cursor:pointer; font-size:1rem;}
+
+  footer{padding:48px 0; border-top:1px solid var(--line);}
+  .footer-grid{display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:20px;}
+  .footer-links{display:flex; gap:24px; font-size:0.85rem; color:var(--paper-dim);}
+  .footer-links a:hover{color:var(--phosphor);}
+  .footer-note{font-size:0.78rem; color:var(--paper-dim);}
+
+  @media(max-width:860px){
+    .search-box{display:none;}
+    .news-grid{grid-template-columns:1fr;}
+    .newsletter-inline{flex-direction:column; align-items:flex-start;}
+    .popup{right:12px; left:12px; max-width:none;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <nav class="wrap">
+    <div class="logo">LUM<em>en</em></div>
+    <div class="search-box">
+      <span class="search-icon">⌕</span>
+      <input type="text" id="searchInput" placeholder="Rechercher une actu, une marque, un sujet…" aria-label="Recherche">
+    </div>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" aria-label="Changer de thème">☾</button>
+      <button class="nav-cta" id="newsletterCta">S'abonner</button>
+    </div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="hero-eyebrow">Agrégateur tech</span>
+    <h1 class="hero-title">Toute la <i>tech</i>, résumée en trois lignes, sourcée à chaque fois.</h1>
+    <p class="hero-sub">LUMEN surveille en continu l'actualité smartphones, IA, logiciels et culture numérique, et vous livre l'essentiel — avec un lien direct vers l'article d'origine.</p>
+    <div class="live-badge"><span class="live-dot"></span> Mis à jour automatiquement toutes les 30 minutes</div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-filter="all">Tout</button>
+      <button class="filter-btn" data-filter="smartphones">Smartphones</button>
+      <button class="filter-btn" data-filter="ia">Intelligence artificielle</button>
+      <button class="filter-btn" data-filter="logiciels">Logiciels</button>
+      <button class="filter-btn" data-filter="culture">Culture numérique</button>
+    </div>
+
+    <div class="section-title">
+      Dernières actus
+      <span class="refresh-note" id="refreshNote">Chargement…</span>
+    </div>
+
+    <div class="news-grid" id="newsGrid"></div>
+
+    <div class="ad-slot">Emplacement publicitaire (Google AdSense) — actif après validation de votre compte</div>
+
+    <div class="newsletter-inline">
+      <div>
+        <h3>3 actus tech par jour, dans votre boîte mail</h3>
+        <p>Zéro spam. Désabonnement en un clic.</p>
+      </div>
+      <form id="newsletter-form">
+        <input type="email" placeholder="votre@email.com" required>
+        <button type="submit">Recevoir</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-grid">
+    <div class="logo" style="font-size:1.05rem;">LUM<em>en</em></div>
+    <div class="footer-links">
+      <a href="#" id="footerAbout">À propos</a>
+      <a href="#" id="footerContact">Contact</a>
+      <a href="manifest.json">PWA</a>
+    </div>
+    <div class="footer-note">© 2026 LUMEN — Kribi, Cameroun</div>
+  </div>
+</footer>
+
+<!-- Modal article -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <button class="modal-close" id="modalClose" aria-label="Fermer">✕</button>
+    <div class="modal-meta" id="modalMeta"></div>
+    <h2 id="modalTitle"></h2>
+    <div class="modal-summary-label">Résumé</div>
+    <p class="summary" id="modalSummary"></p>
+    <a href="#" id="modalSourceBtn" class="modal-source-btn" target="_blank" rel="noopener noreferrer">Lire la source →</a>
+  </div>
+</div>
+
+<!-- Popup newsletter -->
+<div class="popup" id="popup">
+  <button class="popup-close" id="popupClose" aria-label="Fermer">✕</button>
+  <h4>Reçois les 3 actus tech du jour</h4>
+  <p>Une sélection courte, chaque matin.</p>
+  <form id="popupForm">
+    <input type="email" placeholder="votre@email.com" required>
+    <button type="submit">OK</button>
+  </form>
+</div>
+
+<script>
+/* ---------- Thème sombre / clair (préférence en mémoire, pas de localStorage ici) ---------- */
+const root = document.documentElement;
+const themeToggle = document.getElementById('themeToggle');
+if(window.matchMedia('(prefers-color-scheme: light)').matches){
+  root.setAttribute('data-theme','light'); themeToggle.textContent='☀';
+}
+themeToggle.addEventListener('click', () => {
+  const isLight = root.getAttribute('data-theme') === 'light';
+  root.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  themeToggle.textContent = isLight ? '☾' : '☀';
+});
+/* Note déploiement : une fois le site hébergé sur votre propre domaine (hors aperçu Claude),
+   vous pouvez remplacer ce bloc par une version avec localStorage pour mémoriser le choix
+   d'un chargement à l'autre. */
+
+/* ---------- Données : chargées depuis data/articles.json, généré par l'automatisation ---------- */
+let ARTICLES = [];
+const FALLBACK_ARTICLES = [
+  {id:'1', title:"Tecno lance une nouvelle gamme de milieu de gamme en Afrique", source:"Exemple Tech", category:"smartphones", url:"#", pubDate:new Date().toISOString(), summary:"Article d'exemple — sera remplacé automatiquement par les vraies actus une fois l'automatisation activée (voir README-DEPLOY.md)."},
+  {id:'2', title:"Les modèles d'IA génératifs progressent sur le raisonnement", source:"Exemple Tech", category:"ia", url:"#", pubDate:new Date().toISOString(), summary:"Contenu de démonstration en attendant la première exécution du script d'agrégation automatique."},
+  {id:'3', title:"Une mise à jour majeure attendue pour un logiciel populaire", source:"Exemple Tech", category:"logiciels", url:"#", pubDate:new Date().toISOString(), summary:"Ceci est un article factice pour visualiser la mise en page avant la connexion des flux réels."}
+];
+
+// Sur Netlify : pointez ceci vers le fichier brut sur GitHub plutôt que le chemin local.
+// Ainsi le JSON se met à jour toutes les 30 min SANS redéployer le site (donc sans
+// consommer de crédits Netlify à chaque exécution du robot). Exemple :
+// 'https://raw.githubusercontent.com/votre-utilisateur/lumen-site/main/data/articles.json'
+const ARTICLES_URL = 'data/articles.json';
+
+async function loadArticles(){
+  try{
+    const res = await fetch(ARTICLES_URL, {cache:'no-store'});
+    if(!res.ok) throw new Error('no data file yet');
+    const data = await res.json();
+    ARTICLES = Array.isArray(data) && data.length ? data : FALLBACK_ARTICLES;
+  }catch(e){
+    ARTICLES = FALLBACK_ARTICLES;
+  }
+  document.getElementById('refreshNote').textContent =
+    'Dernière mise à jour : ' + new Date(ARTICLES[0]?.pubDate || Date.now()).toLocaleString('fr-FR');
+  renderGrid(ARTICLES);
+}
+
+function renderGrid(list){
+  const grid = document.getElementById('newsGrid');
+  grid.innerHTML = '';
+  if(!list.length){
+    grid.innerHTML = '<div class="empty-state">Aucune actu ne correspond à votre recherche.</div>';
+    return;
+  }
+  list.forEach(a => {
+    const card = document.createElement('div');
+    card.className = 'news-card';
+    card.innerHTML = `
+      <div class="news-meta"><span>${a.category}</span><span>${timeAgo(a.pubDate)}</span></div>
+      <h3>${escapeHtml(a.title)}</h3>
+      <p>${escapeHtml((a.summary||'').slice(0,110))}${(a.summary||'').length>110?'…':''}</p>
+      <div class="news-source">${escapeHtml(a.source)}</div>
+    `;
+    card.addEventListener('click', () => openModal(a));
+    grid.appendChild(card);
+  });
+}
+
+function timeAgo(dateStr){
+  const diff = Math.floor((Date.now() - new Date(dateStr).getTime())/60000);
+  if(diff < 60) return `il y a ${Math.max(diff,0)} min`;
+  if(diff < 1440) return `il y a ${Math.floor(diff/60)} h`;
+  return `il y a ${Math.floor(diff/1440)} j`;
+}
+function escapeHtml(str){
+  const div = document.createElement('div'); div.textContent = str || ''; return div.innerHTML;
+}
+
+/* ---------- Recherche instantanée ---------- */
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  const activeCat = document.querySelector('.filter-btn.active').dataset.filter;
+  let filtered = ARTICLES;
+  if(activeCat !== 'all') filtered = filtered.filter(a => a.category === activeCat);
+  if(q) filtered = filtered.filter(a =>
+    a.title.toLowerCase().includes(q) ||
+    a.source.toLowerCase().includes(q) ||
+    a.category.toLowerCase().includes(q)
+  );
+  renderGrid(filtered);
+});
+
+/* ---------- Filtres catégories ---------- */
+document.getElementById('filters').addEventListener('click', (e) => {
+  if(!e.target.classList.contains('filter-btn')) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  const cat = e.target.dataset.filter;
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  let filtered = cat === 'all' ? ARTICLES : ARTICLES.filter(a => a.category === cat);
+  if(q) filtered = filtered.filter(a => a.title.toLowerCase().includes(q));
+  renderGrid(filtered);
+});
+
+/* ---------- Modal article ---------- */
+function openModal(article){
+  document.getElementById('modalMeta').textContent = `${article.category} · ${article.source} · ${timeAgo(article.pubDate)}`;
+  document.getElementById('modalTitle').textContent = article.title;
+  document.getElementById('modalSummary').textContent = article.summary;
+  document.getElementById('modalSourceBtn').href = article.url;
+  document.getElementById('modalOverlay').classList.add('open');
+}
+document.getElementById('modalClose').addEventListener('click', () => document.getElementById('modalOverlay').classList.remove('open'));
+document.getElementById('modalOverlay').addEventListener('click', (e) => { if(e.target.id === 'modalOverlay') e.currentTarget.classList.remove('open'); });
+
+/* ---------- Newsletter (démo — à connecter à Brevo, voir README-DEPLOY.md) ---------- */
+['newsletter-form','popupForm'].forEach(id => {
+  document.getElementById(id).addEventListener('submit', function(e){
+    e.preventDefault();
+    this.innerHTML = '<span style="color:var(--phosphor); font-size:0.85rem;">Merci — vérifiez votre boîte mail.</span>';
+  });
+});
+
+/* ---------- Popup newsletter après 15s ---------- */
+let popupShown = false;
+setTimeout(() => {
+  if(!popupShown){ document.getElementById('popup').classList.add('visible'); popupShown = true; }
+}, 15000);
+document.getElementById('popupClose').addEventListener('click', () => document.getElementById('popup').classList.remove('visible'));
+document.getElementById('newsletterCta').addEventListener('click', () => document.getElementById('popup').classList.add('visible'));
+
+/* ---------- Service worker (PWA) ---------- */
+if('serviceWorker' in navigator){
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
+
+/* ---------- Google Analytics 4 (placeholder — remplacez G-XXXXXXX par votre ID) ---------- */
+// <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+// gtag('config', 'G-XXXXXXX');
+
+loadArticles();
+</script>
+
+</body>
+</html>
