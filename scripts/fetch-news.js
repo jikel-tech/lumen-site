@@ -116,7 +116,7 @@ async function main() {
     .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
     .slice(0, MAX_ARTICLES);
 
-  await writeFile( '../data/articles.json'JSON.stringify(sorted, null, 2), 'utf-8');
+  await writeFile( '../data/articles.json',JSON.stringify(sorted, null, 2), 'utf-8');
   console.log(`✅ ${sorted.length} articles écrits dans data/articles.json`);
 }
 
