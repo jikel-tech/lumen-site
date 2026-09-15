@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Discord est victime d&#8217;une grosse panne ce mardi 15 septembre 2026",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2333537-discord-est-victime-dune-grosse-panne-ce-mardi-15-septembre-2026.html",
+    "pubDate": "2026-09-15T14:47:05.000Z",
+    "summary": "Panique chez les gamers, les communautés en ligne et les travailleurs du Web : Discord subit actuellement une panne d'ampleur et c'est mondial."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude lance une nouvelle fonctionnalité qui pourrait changer votre façon de gérer l’argent",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629803-claude-lance-une-nouvelle-fonctionnalite-qui-pourrait-changer-votre-facon-de-gerer-l-argent.html",
+    "pubDate": "2026-09-15T14:46:00.000Z",
+    "summary": "L'IA n'aura bientôt plus de limite semble-t-il. Anthropic veut en effet faire de Claude votre outil préféré de gestion de vos finances !"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "pubDate": "2026-09-15T14:42:37.000Z",
+    "summary": "Essentially is a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le Dyson V10 Konical aspire 24% de son prix chez Amazon",
     "source": "Clubic",
     "category": "logiciels",
@@ -298,15 +325,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "L’iPhone 18 Pro vient à peine de sortir que son prix chute déjà de 200€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629518-a-peine-presente-l-iphone-18-pro-256-go-tombe-a-1279-avec-une-odr.html",
-    "pubDate": "2026-09-15T12:55:00.000Z",
-    "summary": "Il aura fallu seulement quelques jours pour voir le prix du tout nouvel iPhone 18 Pro commencer à bouger. RED by SFR propose déjà 200 € remboursés sur le modèle 256 Go, sous conditions."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Quelle plateforme de streaming choisir pour voir les séries les plus récompensées en 2026 ?",
     "source": "Numerama",
     "category": "culture",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
     "pubDate": "2026-09-15T12:19:38.000Z",
     "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Salesforce and Nvidia&#8217;s new reasoning model is everything the AI labs should fear",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "pubDate": "2026-09-15T12:00:00.000Z",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon fait baisser le prix de la première batterie Ugreen à refroidissement liquide",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html",
-    "pubDate": "2026-09-15T10:27:37.000Z",
-    "summary": "[Deal du jour] Sortie début septembre 2026, la batterie externe magnétique Ugreen MagFlow Pro mise sur un refroidissement liquide visible pour tenir la charge rapide. Elle passe à 105,99 € au lieu de "
   }
 ]
