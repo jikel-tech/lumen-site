@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Piraté, le compte officiel de HBO Max a servi à diffuser des malwares sur Reddit",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2333429-pirate-le-compte-officiel-de-hbo-max-a-servi-a-diffuser-des-malwares-sur-reddit.html",
+    "pubDate": "2026-09-15T13:11:45.000Z",
+    "summary": "Des pirates ont détourné le compte Reddit vérifié de HBO Max pour lancer une vague de publicités malveillantes, en s'appuyant sur la technique ClickFix pour piéger les utilisateurs Mac et Windows."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Revolut face à un chantage : 680 dossiers d&#8217;identité entre les mains d&#8217;inconnus qui réclament 800 millions de dollars",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/services/banque-en-ligne/3248277_revolut-face-a-un-chantage-680-dossiers-didentite-entre-les-mains-dinconnus-qui-reclament-800-millions-de-dollars",
+    "pubDate": "2026-09-15T13:04:10.000Z",
+    "summary": "Revolut parlait d'un nombre « limité » de clients touchés. Le Financial Times en compte 680, le régulateur britannique enquête et des pirates réclament une rançon. Tout n'est pas vérifiable pour autan"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "pubDate": "2026-09-15T13:00:00.000Z",
+    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Spotify finally lets parents exclude kids&#8217; music from Wrapped and recommendations",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+    "pubDate": "2026-09-15T13:00:00.000Z",
+    "summary": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Googlebook : tenez-vous prêts, coup d'envoi des précommandes la semaine prochaine",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629758-googlebook-les-precommandes-ouvrent-lancement-prevu-le-21-septembre.html",
+    "pubDate": "2026-09-15T12:57:00.000Z",
+    "summary": "Les Googlebook, c'est pour bientôt. Google a annoncé l'ouverture des précommandes, le 21 septembre prochain, pour sa nouvelle gamme d'ordinateurs portables. Coup d'envoi prévu plus précisément à 15 he"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L’iPhone 18 Pro vient à peine de sortir que son prix chute déjà de 200€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-629518-a-peine-presente-l-iphone-18-pro-256-go-tombe-a-1279-avec-une-odr.html",
+    "pubDate": "2026-09-15T12:55:00.000Z",
+    "summary": "Il aura fallu seulement quelques jours pour voir le prix du tout nouvel iPhone 18 Pro commencer à bouger. RED by SFR propose déjà 200 € remboursés sur le modèle 256 Go, sous conditions."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "MediaTek dévoile son SoC en 2 nm : le Dimensity 9600 Pro est officiel",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629776-mediatek-devoile-son-soc-en-2-nm-le-dimensity-9600-pro-est-officiel.html",
+    "pubDate": "2026-09-15T12:55:00.000Z",
+    "summary": "Les premières puces pour smartphones gravées en 2 nanomètres arrivent. Après l'A20 Pro d'Apple, c'est au tour de MediaTek de dégainer ses deux premières puces exploitant une telle finesse de gravure, "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Quelle plateforme de streaming choisir pour voir les séries les plus récompensées en 2026 ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2333373-quelle-plateforme-de-streaming-choisir-pour-voir-les-series-les-plus-recompensees-en-2026.html",
+    "pubDate": "2026-09-15T12:47:14.000Z",
+    "summary": "Les Emmy Awards 2026 rebattent les cartes du streaming, et cela pèse sur le budget des abonnés. Quelle plateforme est la meilleure pour s'abonner ? Netflix ? Prime Video ? Apple TV ? Voici celles qui "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Il était en rupture : le Midea PortaSplit revient chez JoyBuy avec livraison rapide",
     "source": "Clubic",
     "category": "logiciels",
@@ -87,7 +159,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
     "pubDate": "2026-09-15T12:00:00.000Z",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks."
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -172,15 +244,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "\"Un canular\"... Trump balaie le risque d’extinction par l’IA comme le réchauffement climatique",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629761-un-canular-trump-balaie-le-risque-d-extinction-par-l-ia-comme-le-rechauffement-climatique.html",
-    "pubDate": "2026-09-15T10:21:00.000Z",
-    "summary": "Donald Trump rejette les scénarios d’une intelligence artificielle capable de menacer l’humanité et les rapproche de ce qu’il appelle « l’arnaque du réchauffement climatique ». Au moment où plusieurs "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "PS5 Slim, FAT ou PS5 Pro : laquelle acheter en 2026 avant GTA 6 ?",
     "source": "Numerama",
     "category": "culture",
@@ -196,24 +259,6 @@
     "url": "https://www.frandroid.com/bons-plans/3247757_le-galaxy-z-fold-8-ultra-pliable-le-plus-fin-de-samsung-voit-deja-son-prix-chuter-de-600-e",
     "pubDate": "2026-09-15T10:05:00.000Z",
     "summary": "Le Samsung Galaxy Z Fold 8 Ultra est l'un des derniers pliables de la marque sud-coréenne, le plus fin de sa lignée, à retrouver pour 1 599 euros au lieu de 2 199 euros sur Amazon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Android 14 provoque un énorme décalage audio sur plusieurs TV Sony BRAVIA",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629752-android-14-provoque-un-enorme-decalage-audio-sur-plusieurs-sony-bravia.html",
-    "pubDate": "2026-09-15T09:57:00.000Z",
-    "summary": "Plusieurs téléviseurs Sony BRAVIA équipés du SoC MediaTek Pentonic 1000 souffrent d'un important problème de synchronisation audio sous Android 14. RTINGS a reproduit un retard pouvant atteindre plusi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Il se prenait pour un procureur devant son clavier, comment un « geek » parisien a piégé notaires et entreprises",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629701-il-se-prenait-pour-un-procureur-devant-son-clavier-comment-un-geek-parisien-a-piege-notaires-et-entreprises.html",
-    "pubDate": "2026-09-15T09:54:00.000Z",
-    "summary": "Un jeune parisien de 25 ans, qui se targue d'être très à l'aise avec l'informatique, est soupçonné d'avoir usurpé l'identité de magistrats et de policiers pour escroquer notaires et entreprises. Le pr"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -280,16 +325,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Rachat de SFR : les syndicats assignent la direction d&#8217;Altice France en justice",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/sfr/3247771_rachat-de-sfr-les-syndicats-assignent-la-direction-daltice-france-en-justice",
-    "pubDate": "2026-09-15T09:04:54.000Z",
-    "summary": "Le CSE central d'Altice France annonce avoir assigné la direction du groupe en justice. Alors que la vente de SFR prend des allures de casse sociale, les syndicats veulent accéder à des documents rela"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après Pinocchio, la suite de Lies of P pourrait s&#8217;intéresser au Magicien d&#8217;Oz",
+    "title": "Le Magicien d&#8217;Oz serait au coeur de la suite de Lies of P",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2333159-apres-pinocchio-la-suite-de-lies-of-p-pourrait-sinteresser-au-magicien-doz.html",
@@ -322,41 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2333137-la-sortie-de-rayman-legends-retold-est-repoussee-alors-que-son-developpement-est-termine.html",
     "pubDate": "2026-09-15T07:45:31.000Z",
     "summary": "Parmi les nombreux jeux à sortir en cette rentrée 2026, et jusqu’au très attendu « vous savez qui », Rayman Legends Retold a décidé de souffler un bon coup et d’annoncer son report de deux mois, le te"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Remboursement du passe Navigo : jusqu&#8217;à 90,80 € dédommagés, la plateforme ouvre aujourd&#8217;hui",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-jusqua-9080-dedommages-la-plateforme-ouvre-aujourdhui.html",
-    "pubDate": "2026-09-15T07:25:24.000Z",
-    "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une nouvelle campagne de dédommagement d'Île-de-France Mobilités est ouverte à partir de la mi-septembre 2026. Voici les déta"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Valve lance son nouveau casque VR à plus de 1 000 € (avec un jeu offert)",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2333119-valve-lance-son-nouveau-casque-vr-a-plus-de-1-000-e-avec-un-jeu-offert.html",
-    "pubDate": "2026-09-15T05:27:00.000Z",
-    "summary": "Valve a lancé les inscriptions pour le lancement du Steam Frame, casque de réalité virtuelle autonome dont la facture dépasse les 1 000 €."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "pubDate": "2026-09-15T01:50:48.000Z",
-    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "pubDate": "2026-09-14T21:51:02.000Z",
-    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
   }
 ]
