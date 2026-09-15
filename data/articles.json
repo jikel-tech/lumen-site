@@ -1,12 +1,48 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sans électricité ni panneau solaire : le MIT produit de l&#8217;eau potable dans la Vallée de la Mort",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/energie/3245489_sans-electricite-ni-panneau-solaire-le-mit-produit-de-leau-potable-dans-la-vallee-de-la-mort",
+    "pubDate": "2026-09-15T18:04:53.000Z",
+    "summary": "L'été 2026 vient de nous le prouver : la disponibilité de l'eau s'annonce comme un défi majeur des prochaines décennies. Tous les procédés actuels permettant d'obtenir de l'eau potable à partir de l'a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test du Ninja CrushBOSS : trois appareils en un, et aucun ne déçoit",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/3248335_test-du-ninja-crushboss-trois-appareils-en-un-et-aucun-ne-decoit",
+    "pubDate": "2026-09-15T18:00:00.000Z",
+    "summary": "Un blender, un robot culinaire et une gourde mixeuse sur une seule base motorisée de 1 200 W : le Ninja CrushBOSS promet de remplacer trois appareils à lui tout seul, avec un écran qui guide chaque pr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Plus besoin de tout trimballer : cette sacoche française à 90 € intègre son propre antivol",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/velo-electrique/3248009_plus-besoin-de-tout-trimballer-cette-sacoche-francaise-a-90-e-integre-son-propre-antivol",
+    "pubDate": "2026-09-15T17:46:22.000Z",
+    "summary": "Avec un antivol intégré qui met son contenu à l’abri du vol, une surface imperméable et un prix contenu, la sacoche Overade Loxi est un produit original… et de conception française !"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "AI agents now have a place to snitch",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "pubDate": "2026-09-15T17:42:59.000Z",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "US military confirms it launched space weapons into Earth&#8217;s orbit",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
     "pubDate": "2026-09-15T17:09:06.000Z",
-    "summary": "This is the first public acknowledgement that the U.S. military put a space weapon in Earth's orbit."
+    "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -15,7 +51,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
     "pubDate": "2026-09-15T17:05:24.000Z",
-    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp."
+    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -322,41 +358,5 @@
     "url": "https://www.frandroid.com/marques/openai/3248201_openai-soffre-les-ingenieurs-a-lorigine-du-mode-portrait-de-liphone",
     "pubDate": "2026-09-15T14:25:29.000Z",
     "summary": "L'éditeur de ChatGPT vient de racheter Glass Imaging, une start-up californienne fondée par deux anciens d'Apple. Reste à savoir ce qu'il compte en faire : nourrir la reconnaissance visuelle de ses mo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple intègre Apple TV et Arcade sans surcoût dans iCloud+, mais pas en France",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3248339_apple-integre-apple-tv-et-arcade-sans-surcout-dans-icloud-mais-pas-en-france",
-    "pubDate": "2026-09-15T14:23:50.000Z",
-    "summary": "Apple inclut désormais Apple TV et Apple Arcade sans surcoût dans son abonnement iCloud+, dans plus de 100 pays. La France et les États-Unis ne sont pas concernés, contrairement à une large partie de "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-    "pubDate": "2026-09-15T14:22:49.000Z",
-    "summary": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Evvy raises $40M as it seeks to further women&#8217;s health research with vaginal microbiome data",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-    "pubDate": "2026-09-15T14:13:59.000Z",
-    "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Puce M5 Max, 36 Go, SSD 2 To : ce MacBook Pro 16, un monstre de puissance pour les pros, profite d&#8217;une remise de 600 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3248197_puce-m5-max-36-go-ssd-2-to-ce-macbook-pro-16-un-monstre-de-puissance-pour-les-pros-profite-dune-remise-de-600-e",
-    "pubDate": "2026-09-15T14:12:00.000Z",
-    "summary": "Les professionnels qui exécutent des tâches très lourdes au quotidien, et qui ont un budget conséquent, pourront se tourner vers le MacBook Pro 16 M5 Max, actuellement proposé à 4 499 euros au lieu de"
   }
 ]
