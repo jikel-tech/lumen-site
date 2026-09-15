@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon fait baisser le prix de la première batterie Ugreen à refroidissement liquide",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html",
+    "pubDate": "2026-09-15T10:27:37.000Z",
+    "summary": "[Deal du jour] Sortie début septembre 2026, la batterie externe magnétique Ugreen MagFlow Pro mise sur un refroidissement liquide visible pour tenir la charge rapide. Elle passe à 105,99 € au lieu de "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le French Day est terminé, mais ce TV 4K de 55\" signé Samsung est dispo pour 260€ de moins",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-629716-le-french-day-est-termine-mais-ce-tv-4k-de-55-signe-samsung-est-dispo-pour-260-euros-de-moins.html",
+    "pubDate": "2026-09-15T10:25:00.000Z",
+    "summary": "Le Samsung 55U8075F est un téléviseur qui mise énormément sur son processeur qui permet l’upscaling vers la 4K. C’est le moment de le découvrir à prix réduit puisqu’il passe sous les 350 euros sur Ama"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "\"Un canular\"... Trump balaie le risque d’extinction par l’IA comme le réchauffement climatique",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629761-un-canular-trump-balaie-le-risque-d-extinction-par-l-ia-comme-le-rechauffement-climatique.html",
+    "pubDate": "2026-09-15T10:21:00.000Z",
+    "summary": "Donald Trump rejette les scénarios d’une intelligence artificielle capable de menacer l’humanité et les rapproche de ce qu’il appelle « l’arnaque du réchauffement climatique ». Au moment où plusieurs "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "PS5 Slim, FAT ou PS5 Pro : laquelle acheter en 2026 avant GTA 6 ?",
     "source": "Numerama",
     "category": "culture",
@@ -262,30 +289,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Mistral et Numspot s'allient pour une intelligence artificielle 100 % made in France",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629707-mistral-et-numspot-s-allient-pour-une-intelligence-artificielle-100-made-in-france.html",
-    "pubDate": "2026-09-15T08:04:00.000Z",
-    "summary": "Numspot et Mistral ont annoncé mardi la création d'une offre d'intelligence artificielle managée sur une infrastructure cloud souveraine, une première en France. Les deux partenaires engagent aussi un"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le Moustache Lundi 27 devient plus léger et moins cher : le daily idéal ?",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2298733-le-moustache-lundi-27-devient-plus-leger-et-moins-cher-le-daily-ideal.html",
     "pubDate": "2026-09-15T08:00:00.000Z",
     "summary": "Ce titre dithyrambique pour une prise en main vélo n'est pas une pub déguisée. Mais il faut appeler un chat un chat, et dans ce cas précis, c'est un bon achat. Car ce nouveau Lundi 27 est réussi. Pas "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Waymo débarque à Las Vegas avec ses taxis sans conducteur",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629668-waymo-debarque-a-las-vegas-avec-ses-taxis-sans-conducteur.html",
-    "pubDate": "2026-09-15T08:00:00.000Z",
-    "summary": "Waymo a lancé son service de voitures sans chauffeur à Las Vegas ce lundi, sa quinzième ville aux États-Unis. L'entreprise arrive sur un marché déjà occupé par Zoox, qui propose des courses payantes d"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
     "pubDate": "2026-09-14T20:07:37.000Z",
     "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-    "pubDate": "2026-09-14T18:14:29.000Z",
-    "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers."
   }
 ]
