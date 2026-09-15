@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "pubDate": "2026-09-15T18:29:20.000Z",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Quel scandale » : la prime EDF pour les voitures chinoises BYD fait exploser le gouvernement",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3248207_quel-scandale-la-prime-edf-pour-les-voitures-chinoises-byd-fait-exploser-le-gouvernement",
+    "pubDate": "2026-09-15T18:19:35.000Z",
+    "summary": "La marque de voitures chinoise BYD a annoncé récemment bénéficier désormais de la prime CEE (bonus écologique français) pour l’ensemble de sa gamme électrique. Toutefois, cette prime pose problème à c"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "pubDate": "2026-09-15T18:16:07.000Z",
+    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Sans électricité ni panneau solaire : le MIT produit de l&#8217;eau potable dans la Vallée de la Mort",
     "source": "Frandroid",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/marques/msi/3247861_msi-confirme-quune-claw-8-moins-puissante-mais-aussi-moins-chere-est-bien-en-route",
     "pubDate": "2026-09-15T14:35:36.000Z",
     "summary": "MSI s'apprête à lancer une nouvelle mouture, un peu plus abordable, de sa console portable Claw 8 EX AI+. Cette machine semble toutefois s'appuyer sur la puce Arc G3 « classique » déjà connue, et non "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Discord subit une panne mondiale",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629818-discord-connait-une-panne.html",
-    "pubDate": "2026-09-15T14:34:00.000Z",
-    "summary": "Discord semble connaitre actuellement une panne mondiale. L'entreprise n'a pas encore communiqué sur le sujet."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-09-15T14:30:00.000Z",
-    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "OpenAI s&#8217;offre les ingénieurs à l&#8217;origine du mode Portrait de l&#8217;iPhone",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/openai/3248201_openai-soffre-les-ingenieurs-a-lorigine-du-mode-portrait-de-liphone",
-    "pubDate": "2026-09-15T14:25:29.000Z",
-    "summary": "L'éditeur de ChatGPT vient de racheter Glass Imaging, une start-up californienne fondée par deux anciens d'Apple. Reste à savoir ce qu'il compte en faire : nourrir la reconnaissance visuelle de ses mo"
   }
 ]
