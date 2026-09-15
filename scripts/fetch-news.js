@@ -1,17 +1,11 @@
 // Script d'agrégation LUMEN
-// Va chercher des flux RSS officiels (pas de scraping de pages HTML — on respecte
-// les conditions d'utilisation des sites sources), les transforme en un JSON
-// que le site statique affiche. Exécuté toutes les 30 min par GitHub Actions.
-//
-// Usage local : node scripts/fetch-news.js
-// (Node 18+ requis pour fetch() natif)
+// Va chercher des flux RSS officiels, génère un résumé (Gemini, gratuit, en priorité —
+// sinon Anthropic si configuré — sinon l'extrait RSS tel quel), écrit data/articles.json.
+// Exécuté toutes les 30 min par GitHub Actions.
 
 import { XMLParser } from 'fast-xml-parser';
 import { writeFile } from 'node:fs/promises';
 
-// -----------------------------------------------------------------------
-// 1. Liste des flux RSS — à adapter librement (ajoutez/retirez des sources)
-// -----------------------------------------------------------------------
 const FEEDS = [
   { url: 'https://www.frandroid.com/feed', source: 'Frandroid', category: 'smartphones' },
   { url: 'https://www.numerama.com/feed/', source: 'Numerama', category: 'culture' },
@@ -20,38 +14,54 @@ const FEEDS = [
 ];
 
 const MAX_ARTICLES = 40;
-const SUMMARY_MAX_LEN = 200; // extrait court — jamais l'article complet (respect du droit d'auteur)
+const SUMMARY_MAX_LEN = 200;
 
-// -----------------------------------------------------------------------
-// 2. (Optionnel) résumé IA en 3 lignes via l'API Anthropic, si une clé est fournie
-//    Sinon on retombe sur l'extrait RSS tronqué — le site fonctionne dans les deux cas.
-// -----------------------------------------------------------------------
 async function aiSummarize(title, excerpt) {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) return null;
-  try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01',
-      },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 150,
-        messages: [{
-          role: 'user',
-          content: `Résume en français, en exactement 3 phrases courtes, sans reformuler mot à mot le texte source, l'information suivante destinée à un lecteur tech pressé.\nTitre: ${title}\nExtrait: ${excerpt}`,
-        }],
-      }),
-    });
-    const data = await res.json();
-    return data?.content?.[0]?.text?.trim() || null;
-  } catch (err) {
-    console.error('Résumé IA indisponible, on garde l\'extrait RSS :', err.message);
-    return null;
+  const prompt = `Résume en français, en exactement 3 phrases courtes, sans reformuler mot à mot le texte source, l'information suivante destinée à un lecteur tech pressé.\nTitre: ${title}\nExtrait: ${excerpt}`;
+
+  const geminiKey = process.env.GEMINI_API_KEY;
+  if (geminiKey) {
+    try {
+      const res = await fetch(
+        'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent',
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'x-goog-api-key': geminiKey },
+          body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+        }
+      );
+      const data = await res.json();
+      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
+      if (text) return text;
+    } catch (err) {
+      console.error('Résumé Gemini indisponible :', err.message);
+    }
   }
+
+  const anthropicKey = process.env.ANTHROPIC_API_KEY;
+  if (anthropicKey) {
+    try {
+      const res = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': anthropicKey,
+          'anthropic-version': '2023-06-01',
+        },
+        body: JSON.stringify({
+          model: 'claude-haiku-4-5-20251001',
+          max_tokens: 150,
+          messages: [{ role: 'user', content: prompt }],
+        }),
+      });
+      const data = await res.json();
+      return data?.content?.[0]?.text?.trim() || null;
+    } catch (err) {
+      console.error('Résumé Anthropic indisponible :', err.message);
+    }
+  }
+
+  return null;
 }
 
 function stripHtml(str = '') {
@@ -116,7 +126,7 @@ async function main() {
     .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
     .slice(0, MAX_ARTICLES);
 
-  await writeFile( '../data/articles.json',JSON.stringify(sorted, null, 2), 'utf-8');
+  await writeFile('../data/articles.json', JSON.stringify(sorted, null, 2), 'utf-8');
   console.log(`✅ ${sorted.length} articles écrits dans data/articles.json`);
 }
 
