@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Your AI agents can now control your Google Home devices",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "pubDate": "2026-09-16T17:00:00.000Z",
+    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home act"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L'iPad Air M3 512go reste dans le coup en passant sous les 1000€ chez Boulanger",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630004-l-ipad-air-m3-reste-dans-l-ere-du-temps-en-passant-sous-les-1-000-euros-chez-boulanger.html",
+    "pubDate": "2026-09-16T16:58:00.000Z",
+    "summary": "Avec sa puissante puce M3, l’iPad Air M3 est une tablette polyvalente sublimée par une dalle IPS de 2 360 x 1 640 pixels. Chez Boulanger, elle est actuellement disponible à 919 euros."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Streaming français depuis l'étranger : comment bien choisir son serveur CyberGhost VPN",
     "source": "Clubic",
@@ -15,7 +33,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
     "pubDate": "2026-09-16T16:30:00.000Z",
-    "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally"
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -70,6 +88,15 @@
     "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-16T16:00:00.000Z",
     "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "pubDate": "2026-09-16T16:00:00.000Z",
+    "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -243,15 +270,6 @@
     "summary": ""
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Des recruteurs piégés par des e-mails de France Travail qui contiennent des CV au format PDF aussi piégés",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629992-des-recruteurs-pieges-par-des-e-mails-de-france-travail-qui-contiennent-des-cv-au-format-pdf-aussi-pieges.html",
-    "pubDate": "2026-09-16T14:33:00.000Z",
-    "summary": "Une arnaque redoutable cible en ce moment les recruteurs qui passent par France Travail Pro, qui reçoivent un e-mail authentique, avec un CV en pièce jointe qui contient un piège à mots de passe."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Amazon gives its workers a raise of $1 per hour",
     "source": "TechCrunch",
@@ -340,23 +358,5 @@
     "url": "https://www.frandroid.com/marques/amd/3250183_amd-preparerait-sa-propre-technologie-de-rendu-neuronal-pour-contrer-le-dlss-5-de-nvidia",
     "pubDate": "2026-09-16T13:59:05.000Z",
     "summary": "AMD développerait sa propre technologie de rendu neuronal, dans la lignée du DLSS 5 de Nvidia, pour sa prochaine génération de cartes graphiques. L'information vient d'un leaker, sans aucune confirmat"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iOS 27 : 15 petits réglages cachés qui font gagner du temps au quotidien",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/os/ios/3249723_photos-recadrees-presse-papiers-cache-wi-fi-enfin-detaille-les-reglages-ios-27-que-personne-ne-vous-a-montres",
-    "pubDate": "2026-09-16T13:34:03.000Z",
-    "summary": "Après les réglages évidents, place au deuxième rideau. Quinze options d'iOS 27 planquées dans des sous-menus, dont trois que l'on active surtout pour annuler ce qu'Apple a décidé à notre place."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-    "pubDate": "2026-09-16T13:23:02.000Z",
-    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
   }
 ]
