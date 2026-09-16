@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les data centers américains pourraient consommer d'ici 10 ans plus de gaz naturel que l’Allemagne et le Japon réunis",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629965-les-data-centers-americains-pourraient-consommer-d-ici-10-ans-plus-de-gaz-naturel-que-l-allemagne-et-le-japon-reunis.html",
+    "pubDate": "2026-09-16T14:03:00.000Z",
+    "summary": "L'énergie est la mère des batailles pour le secteur de l'intelligence artificielle. Et pour se le rappeler, il suffit de jeter un oeil à ces nouvelles prédictions."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La course aux modèles les plus puissants s&#8217;intensifie : 4,4 mois séparent les modèles open source des géants de l&#8217;IA",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2334035-la-course-aux-modeles-les-plus-puissants-sintensifie-44-mois-separent-les-modeles-open-source-des-geants-de-lia.html",
+    "pubDate": "2026-09-16T14:01:05.000Z",
+    "summary": "Le 14 septembre 2026, Mozilla a publié une nouvelle version de son rapport State of Open Source AI. Un chiffre retient l'attention : les modèles ouverts accusent un retard de 4,4 mois sur la frontière"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-09-16T14:00:00.000Z",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "AMD préparerait sa propre technologie de rendu neuronal pour contrer le DLSS 5 de Nvidia",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/amd/3250183_amd-preparerait-sa-propre-technologie-de-rendu-neuronal-pour-contrer-le-dlss-5-de-nvidia",
+    "pubDate": "2026-09-16T13:59:05.000Z",
+    "summary": "AMD développerait sa propre technologie de rendu neuronal, dans la lignée du DLSS 5 de Nvidia, pour sa prochaine génération de cartes graphiques. L'information vient d'un leaker, sans aucune confirmat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Google corrige une faille zero-day activement exploitée sur les Pixel",
     "source": "Clubic",
     "category": "logiciels",
@@ -70,6 +106,15 @@
     "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3247165_asus-baisse-le-prix-de-ses-zenbook-et-pc-gaming-pour-la-rentree-2026-jusqua-600-e-de-reduction",
     "pubDate": "2026-09-16T13:07:38.000Z",
     "summary": "Besoin d’un nouveau PC portable pour la rentrée ? En plus d'appliquer de grosses réductions sur ses modèles de référence, ASUS multiplie les petites attentions séduisantes en ce mois de septembre 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "pubDate": "2026-09-16T13:00:00.000Z",
+    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -208,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce capteur Aqara sait tout de vous sans caméra, jusqu'à alerter votre propriétaire",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629941-ce-capteur-aqara-sait-tout-de-vous-sans-camera-jusqu-a-alerter-votre-proprietaire.html",
-    "pubDate": "2026-09-16T11:31:00.000Z",
-    "summary": "Aqara lance le FP400, un capteur de présence radar capable de suivre jusqu’à dix personnes en même temps dans une pièce, sans jamais capturer d’image. La technique impressionne. Mais une fonction en p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La Nasa publie sur son site cette photo d&#8217;un rare alignement Lune-Vénus prise en plein jour depuis l&#8217;Ain",
     "source": "Numerama",
     "category": "culture",
@@ -298,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test du Mova ViAX 250 : le robot tondeuse sans fil qui vise les petits jardins pour moins de 600 euros",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/maison-connectee/robots-tondeuses/3239711_test-du-mova-viax-250-le-robot-tondeuse-sans-fil-qui-vise-les-petits-jardins-pour-moins-de-600-euros",
-    "pubDate": "2026-09-16T10:17:18.000Z",
-    "summary": "La gamme ViAX de Mova s’attaque aux petites pelouses avec une promesse séduisante : une tonte efficace, sans aucun fil périmétrique ni antenne, le tout dans un format simple à utiliser et à installer,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le marché et les tribunaux suffiront : Mark Zuckerberg s&#8217;oppose fermement aux appels à ralentir l&#8217;IA",
     "source": "Numerama",
     "category": "culture",
@@ -331,32 +358,5 @@
     "url": "https://www.numerama.com/tech/2333881-amazon-baisse-le-prix-de-laspirateur-laveur-dreame-t16-pro-note-9-10-par-la-redaction.html",
     "pubDate": "2026-09-16T09:29:52.000Z",
     "summary": "[Deal du jour] Le Dreame T16 Pro Heat-A, l'aspirateur laveur haut de gamme de la marque qui aspire et lave les sols à l'eau chaude, passe à 549 € au lieu de 629 € sur Amazon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le télescope Roman de la Nasa a enfin ouvert les yeux",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2333879-le-telescope-roman-de-la-nasa-a-enfin-ouvert-les-yeux.html",
-    "pubDate": "2026-09-16T09:20:30.000Z",
-    "summary": "Un des instruments du télescope Nancy Grace Roman a pu être testé. Le Wide Field Instrument doit pouvoir explorer de vastes zones du ciel nocturne avec une grande précision, et les premiers résultats "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le co-créateur de ChatGPT lance « Jev », un modèle qui ne rédige rien et c&#8217;est là toute la solution",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2333731-le-co-createur-de-chatgpt-lance-jev-un-modele-qui-ne-redige-rien-et-cest-la-toute-la-solution.html",
-    "pubDate": "2026-09-16T08:38:53.000Z",
-    "summary": "Diogo Almeida, chercheur passé par OpenAI, lance un modèle d'IA qui refuse de générer du texte. En quelques heures, l'annonce a suscité un engouement exceptionnel, voici pourquoi."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "pubDate": "2026-09-16T00:20:39.000Z",
-    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
   }
 ]
