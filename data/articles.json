@@ -1,5 +1,86 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "pubDate": "2026-09-16T10:34:47.000Z",
+    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Shark TurboBlade, un ventilateur sans pale capable de rafraîchir dans deux directions à la fois, perd 80 € de son prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3249509_le-shark-turboblade-un-ventilateur-sans-pale-capable-de-rafraichir-dans-deux-directions-a-la-fois-perd-80-e-de-son-prix",
+    "pubDate": "2026-09-16T10:31:47.000Z",
+    "summary": "Le Shark TurboBlade est un ventilateur colonne sans pale qui se distingue par sa diffusion multidirectionnelle et sa portée de 20 mètres. Aujourd'hui, on le retrouve en promotion à 199,99 euros au lie"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Cybercab de Tesla est-il illégal ? Le régulateur américain exige des preuves sous serment",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2333959-le-cybercab-de-tesla-est-il-illegal-le-regulateur-americain-exige-des-preuves-sous-serment.html",
+    "pubDate": "2026-09-16T10:30:00.000Z",
+    "summary": "Le régulateur automobile américain a sommé Tesla de prouver, sous serment, que son Cybercab sans volant respecte bien les normes fédérales de sécurité. La marque a jusqu’au 30 septembre pour répondre."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Photos recadrées, presse-papiers caché, Wi-Fi enfin détaillé : les réglages iOS 27 que personne ne vous a montrés",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/os/ios/3249723_photos-recadrees-presse-papiers-cache-wi-fi-enfin-detaille-les-reglages-ios-27-que-personne-ne-vous-a-montres",
+    "pubDate": "2026-09-16T10:28:05.000Z",
+    "summary": "Après les réglages évidents, place au deuxième rideau. Quinze options d'iOS 27 planquées dans des sous-menus, dont trois que l'on active surtout pour annuler ce qu'Apple a décidé à notre place."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Meta préparerait de nouvelles lunettes moins intrusives pour rassurer les consommateurs",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/3249413_meta-preparerait-de-nouvelles-lunettes-moins-intrusives-pour-rassurer-les-consommateurs",
+    "pubDate": "2026-09-16T10:23:20.000Z",
+    "summary": "Meta préparerait des lunettes connectées sans caméra, au nom de code Luna, pour cet automne. Le groupe pourrait les présenter à sa conférence Connect, les 23 et 24 septembre, avec une sortie en octobr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La série Orgueil et Préjugés de Netflix déclenche la colère des fans de Jane Austen",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2334013-la-serie-orgueil-et-prejuges-de-netflix-declenche-la-colere-des-fans-de-jane-austen.html",
+    "pubDate": "2026-09-16T10:23:19.000Z",
+    "summary": "À peine dévoilée en détails, la nouvelle adaptation d'Orgueil et Préjugés en série par Netflix suscite déjà une vive levée de boucliers de la part de certains fans de Jane Austen."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Le sexe a disparu » : Zack Snyder (300) s&#8217;en prend violemment à Hollywood",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2333743-le-sexe-a-disparu-du-cinema-le-coup-de-gueule-de-zack-snyder-300-contre-hollywood.html",
+    "pubDate": "2026-09-16T10:20:00.000Z",
+    "summary": "Alors que les blockbusters hollywoodiens semblent s'être lissés au fil des ans, Zack Snyder pousse un coup de gueule sans concession sur le sexe au cinéma."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon frappe fort ce mercredi avec 7 Ventes Flash qui valent encore le détour après les French Days",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-629632-apres-les-french-days-amazon-lance-7-ventes-flash-a-surveiller-ce-mardi.html",
+    "pubDate": "2026-09-16T10:18:00.000Z",
+    "summary": "Les French Days viennent tout juste de s’achever et Amazon repart déjà à l’offensive. Robots aspirateurs, accessoires auto, chargeur USB-C ou smartphone haut de gamme : voici 7 offres repérées ce mard"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test du Mova ViAX 250 : le robot tondeuse sans fil qui vise les petits jardins pour moins de 600 euros",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/robots-tondeuses/3239711_test-du-mova-viax-250-le-robot-tondeuse-sans-fil-qui-vise-les-petits-jardins-pour-moins-de-600-euros",
+    "pubDate": "2026-09-16T10:17:18.000Z",
+    "summary": "La gamme ViAX de Mova s’attaque aux petites pelouses avec une promesse séduisante : une tonte efficace, sans aucun fil périmétrique ni antenne, le tout dans un format simple à utiliser et à installer,"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Renault et Geely accélèrent sur la voiture électrique au Brésil avec ce nouvel investissement massif",
     "source": "Frandroid",
@@ -127,15 +208,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "HyperOS 4 : la bêta mondiale s&#8217;ouvre à nos Xiaomi, voici comment la rejoindre",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/xiaomi/3249395_hyperos-4-la-beta-mondiale-souvre-a-nos-xiaomi-voici-comment-la-rejoindre",
-    "pubDate": "2026-09-16T09:25:37.000Z",
-    "summary": "Xiaomi a ouvert le 10 septembre 2026 les inscriptions à la bêta mondiale d'HyperOS 4, sa nouvelle surcouche Android au look tout en verre. Trois modèles y ont droit pour l'instant, quatre de plus à pa"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le télescope Roman de la Nasa a enfin ouvert les yeux",
     "source": "Numerama",
     "category": "culture",
@@ -154,39 +226,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone mis à jour ? Voici les réglages iOS 27 à changer tout de suite",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/os/ios/3248623_iphone-mis-a-jour-voici-les-reglages-ios-27-a-changer-tout-de-suite",
-    "pubDate": "2026-09-16T09:07:02.000Z",
-    "summary": "iOS 27 est disponible depuis le 14 septembre au soir. Une quinzaine de réglages, souvent planqués à trois sous-menus de profondeur, séparent la mise à jour subie de la mise à jour utile."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jensen Huang (Nvidia) refuse de ralentir l’IA : « la sécurité est un problème d’ingénierie, pas un problème juridique »",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3249097_jensen-huang-nvidia-refuse-de-ralentir-lia-la-securite-est-un-probleme-dingenierie-pas-un-probleme-juridique",
-    "pubDate": "2026-09-16T09:05:21.000Z",
-    "summary": "Au Dreamforce de Salesforce, ce mardi 15 septembre, le patron de Nvidia Jensen Huang a balayé les appels à ralentir l'IA lancés quelques jours plus tôt par Dario Amodei et Sam Altman. Pour lui, le mar"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Visas numériques : alors qu'ils sont très pratiques, les compagnies aériennes ont du mal à vérifier leur authenticité",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-629905-visas-numeriques-alors-qu-ils-sont-tres-pratiques-les-compagnies-aeriennes-ont-du-mal-a-verifier-son-authenticite.html",
     "pubDate": "2026-09-16T08:59:00.000Z",
     "summary": "Plus de 100 pays délivrent désormais des eVisas, des visas numériques. Sauf que les compagnies aériennes peinent toujours à vérifier leur authenticité. L'IATA, qui représente les transporteurs du mond"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pendant que le chauffeur se repose, cette borne ultra-rapide recharge un camion électrique en 20 minutes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/voitures-electriques/3248945_pendant-que-le-chauffeur-se-repose-cette-borne-ultra-rapide-recharge-un-camion-electrique-en-20-minutes",
-    "pubDate": "2026-09-16T08:58:25.000Z",
-    "summary": "La recharge éclair des camions électriques devient réalité en Europe avec cette borne de 1,44 MW (1 440 kW). De quoi charger un semi électrique en 20 minutes."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -205,15 +250,6 @@
     "url": "https://www.clubic.com/bons-plans-629839-le-xiaomi-redmi-note-15-pro-passe-sous-les-300-euros-grace-a-un-code-promo-d-aliexpress.html",
     "pubDate": "2026-09-16T08:54:00.000Z",
     "summary": "Le Xiaomi Redmi Note 15 Pro est un téléphone résistant grâce à la certification IP68 et son écran certifié Gorilla Glass Victus 2 efficace contre les chutes. Sur AliExpress, il perd plus de 30 euros s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Le sexe a disparu du cinéma » : le coup de gueule de Zack Snyder (300) contre Hollywood",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2333743-le-sexe-a-disparu-du-cinema-le-coup-de-gueule-de-zack-snyder-300-contre-hollywood.html",
-    "pubDate": "2026-09-16T08:53:13.000Z",
-    "summary": "Alors que les blockbusters hollywoodiens semblent s'être lissés au fil des ans, Zack Snyder pousse un coup de gueule sans concession sur le sexe au cinéma."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -271,15 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pourquoi un VPN devrait figurer sur votre liste de rentrée ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629893-pourquoi-un-vpn-devrait-figurer-sur-votre-liste-de-rentree.html",
-    "pubDate": "2026-09-16T08:13:00.000Z",
-    "summary": "Chaque rentrée, on pense à renouveler l'ordinateur, à choisir la bonne imprimante ou à comparer les forfaits mobiles étudiants. Mais un poste reste systématiquement oublié : la sécurité numérique. Voi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "World of Warcraft Forever : comment accéder à la bêta sans tomber dans le piège",
     "source": "Numerama",
     "category": "culture",
@@ -304,15 +331,6 @@
     "url": "https://www.numerama.com/pop-culture/2333703-face-a-certains-retours-desastreux-sur-marvels-wolverine-insomniac-games-promet-des-ameliorations.html",
     "pubDate": "2026-09-16T07:58:45.000Z",
     "summary": "Insomniac Games a annoncé qu'il compte améliorer Marvel's Wolverine ces prochaines semaines. Le studio a lu, vu et entendu certains retours négatifs, très pénalisants pour l'expérience de jeu."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Renault et Geely accélèrent sur les véhicules électriques au Brésil en renforçant leur alliance",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2333649-renault-et-geely-accelerent-sur-les-vehicules-electriques-au-bresil-en-renforcant-leur-alliance.html",
-    "pubDate": "2026-09-16T03:56:04.000Z",
-    "summary": "La joint-venture Renault Geely do Brasil vient d'officialiser un investissement supplémentaire de 319 millions d’euros pour produire des véhicules 100 % électriques basés sur la plateforme chinoise GE"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "pubDate": "2026-09-15T20:12:53.000Z",
     "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "pubDate": "2026-09-15T19:00:00.000Z",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "pubDate": "2026-09-15T18:29:20.000Z",
-    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
   }
 ]
