@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google corrige une faille zero-day activement exploitée sur les Pixel",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629989-google-corrige-une-faille-zero-day-activement-exploitee-sur-les-pixel.html",
+    "pubDate": "2026-09-16T13:37:00.000Z",
+    "summary": "Google vient de publier une grosse mise à jour de sécurité pour ses Pixel. Au programme, 110 vulnérabilités corrigées, dont une faille du modem déjà exploitée dans des attaques ciblées."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iOS 27 : 15 petits réglages cachés qui font gagner du temps au quotidien",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/os/ios/3249723_photos-recadrees-presse-papiers-cache-wi-fi-enfin-detaille-les-reglages-ios-27-que-personne-ne-vous-a-montres",
+    "pubDate": "2026-09-16T13:34:03.000Z",
+    "summary": "Après les réglages évidents, place au deuxième rideau. Quinze options d'iOS 27 planquées dans des sous-menus, dont trois que l'on active surtout pour annuler ce qu'Apple a décidé à notre place."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tests de l&#8217;iPhone 18 Pro : sans surprise, le meilleur iPhone grâce à un argument",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3249903_tests-de-liphone-18-pro-sans-surprise-le-meilleur-iphone-grace-a-un-argument",
+    "pubDate": "2026-09-16T13:33:26.000Z",
+    "summary": "La presse a pu essayer les nouveaux iPhone 18 Pro et 18 Pro Max pendant une semaine avant le lancement des smartphones ce vendredi 18 septembre. Voici leur verdict."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "pubDate": "2026-09-16T13:23:02.000Z",
+    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "HP détaille enfin son premier modèle RTX Spark : l'OmniBook Ultra 16",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629935-hp-detaille-enfin-son-premier-modele-rtx-spark-l-omnibook-ultra-16.html",
+    "pubDate": "2026-09-16T13:21:00.000Z",
+    "summary": "Trois bons mois après le Computex et l’annonce des puces RTX Spark, HP détaille enfin son premier PC portable équipé des nouvelles solutions de NVIDIA : l’OmniBook Ultra 16. Un modèle très haut de gam"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Freiner l'IA ? C'est non ! Pour Meta et NVIDIA, le plan d'Anthropic ne passe pas",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629983-freiner-l-ia-c-est-non-pour-meta-et-nvidia-le-plan-d-anthropic-ne-passe-pas.html",
+    "pubDate": "2026-09-16T13:17:00.000Z",
+    "summary": "Freiner sur l'IA, c'était le plan d'Anthropic, approuvé par Elon Musk et Sam Altman. Toutefois, deux autres acteurs majeurs de la tech n'approuvent pas. Laissent-ils la place libre à une IA hors de co"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Notée 9/10, cette montre Wear OS Oppo qui fait mieux que la concurrence voit son prix chuter de 140 €",
     "source": "Frandroid",
     "category": "smartphones",
@@ -189,33 +243,6 @@
     "summary": "Le Dell 16 est un PC portable équipé d'un processeur Intel Core 7 et d'un To de SSD. Une configuration solide dont le prix chute à 819 euros au lieu de 1 449 euros sur Amazon, un tarif bien plus raiso"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "IA : Ursula von der Leyen soutient à son tour le ralentissement du développement technologique",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629944-ia-ursula-von-der-leyen-soutient-a-son-tour-le-ralentissement-du-developpement-technologique.html",
-    "pubDate": "2026-09-16T11:12:00.000Z",
-    "summary": "Tous les grands de ce monde ne réagissent pas de la même façon à l'idée de ralentir le développement de l'IA. À Bruxelles, on a plutôt tendance à soutenir cet appel."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "HarfangLab décroche la certification ISO 27001:2022, un nouveau gage de sérieux pour l'EDR made in France",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629923-harfanglab-decroche-la-certification-iso-27001-2022-un-nouveau-gage-de-serieux-pour-l-edr-made-in-france.html",
-    "pubDate": "2026-09-16T10:46:00.000Z",
-    "summary": "L'éditeur français de cybersécurité HarfangLab a annoncé mercredi avoir obtenu la certification ISO 27001:2022, délivrée par l'organisme Cyberval, qui vient renforcer la crédibilité de l'entreprise, d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous payez ChatGPT et Claude tous les mois ? 1min.AI propose un accès multi-IA à vie pour environ 35€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629920-vous-payez-chatgpt-et-claude-tous-les-mois-1min-ai-propose-un-acces-multi-ia-a-vie-pour-environ-35.html",
-    "pubDate": "2026-09-16T10:44:00.000Z",
-    "summary": "StackSocial affiche la licence Pro à vie de 1min.AI à 39,99 $, soit environ 34,63 € au taux relevé aujourd'hui. L’idée : réunir GPT, Claude, Gemini et d’autres modèles dans une même interface sans mul"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Amazon launches Alexa+ in India with Hindi support",
     "source": "TechCrunch",
@@ -241,15 +268,6 @@
     "url": "https://www.numerama.com/vroom/2333959-le-cybercab-de-tesla-est-il-illegal-le-regulateur-americain-exige-des-preuves-sous-serment.html",
     "pubDate": "2026-09-16T10:30:00.000Z",
     "summary": "Le régulateur automobile américain a sommé Tesla de prouver, sous serment, que son Cybercab sans volant respecte bien les normes fédérales de sécurité. La marque a jusqu’au 30 septembre pour répondre."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Photos recadrées, presse-papiers caché, Wi-Fi enfin détaillé : les réglages iOS 27 que personne ne vous a montrés",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/os/ios/3249723_photos-recadrees-presse-papiers-cache-wi-fi-enfin-detaille-les-reglages-ios-27-que-personne-ne-vous-a-montres",
-    "pubDate": "2026-09-16T10:28:05.000Z",
-    "summary": "Après les réglages évidents, place au deuxième rideau. Quinze options d'iOS 27 planquées dans des sous-menus, dont trois que l'on active surtout pour annuler ce qu'Apple a décidé à notre place."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -286,15 +304,6 @@
     "url": "https://www.frandroid.com/produits-android/maison-connectee/robots-tondeuses/3239711_test-du-mova-viax-250-le-robot-tondeuse-sans-fil-qui-vise-les-petits-jardins-pour-moins-de-600-euros",
     "pubDate": "2026-09-16T10:17:18.000Z",
     "summary": "La gamme ViAX de Mova s’attaque aux petites pelouses avec une promesse séduisante : une tonte efficace, sans aucun fil périmétrique ni antenne, le tout dans un format simple à utiliser et à installer,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Renault et Geely accélèrent sur la voiture électrique au Brésil avec ce nouvel investissement massif",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/renault/3249303_renault-et-geely-accelerent-sur-la-voiture-electrique-au-bresil-avec-ce-nouvel-investissement-massif",
-    "pubDate": "2026-09-16T10:12:56.000Z",
-    "summary": "Associés dans le cadre d’une joint-venture, Renault et Geely annoncent un nouvel investissement de 319 millions d'euros. Le but&nbsp;? Produire des voitures électriques au Brésil, avec un accord gagna"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "pubDate": "2026-09-16T00:20:39.000Z",
     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "pubDate": "2026-09-15T21:47:38.000Z",
-    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
   }
 ]
