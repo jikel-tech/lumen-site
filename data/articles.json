@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "L'ENISA, l'agence de cybersécurité européenne, s'appuie sur OpenAI pour combler ses vulnérabilités",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629842-l-enisa-l-agence-de-securite-europeenne-s-appuie-sur-openai-pour-combler-ses-vulnerabilites.html",
+    "pubDate": "2026-09-16T07:42:00.000Z",
+    "summary": "L'agence européenne de cybersécurité Enisa a eu recours à un modèle avancé d'OpenAI pour analyser le code d'un projet de l'Union européenne. Ce travail a permis de repérer quatre failles, dont une jug"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un pirate affirme détenir les données et 450 000 IBAN d&#8217;une mutuelle étudiante",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3249013_un-pirate-affirme-detenir-les-donnees-et-450-000-iban-dune-mutuelle-etudiante",
+    "pubDate": "2026-09-16T07:40:28.000Z",
+    "summary": "Un pirate surnommé RedStone affirme avoir mis en vente les bases de données du Groupe MGEL, mutuelle étudiante du Grand Est, avec plus de 450&nbsp;000 IBAN à la clé. À ce stade, la mutuelle n'a rien c"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Meta lance Meta One pour débloquer plus de fonctions sur Instagram, WhatsApp et Facebook",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/meta/3248849_meta-lance-meta-one-pour-debloquer-plus-de-fonctions-sur-instagram-whatsapp-et-facebook",
+    "pubDate": "2026-09-16T07:33:40.000Z",
+    "summary": "Meta veut désormais monétiser ses outils d’intelligence artificielle les plus avancés avec Meta One, un nouvel abonnement décliné pour les particuliers et les professionnels. L’offre donne accès à dav"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Jev : un cofondateur de ChatGPT lance une IA qui répond en 100 ms, là où GPT met plusieurs secondes",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3248981_jev-un-cofondateur-de-chatgpt-lance-une-ia-qui-repond-en-100-ms-la-ou-gpt-met-plusieurs-secondes",
+    "pubDate": "2026-09-16T07:23:02.000Z",
+    "summary": "Diogo Almeida, coauteur des travaux qui ont mené à ChatGPT, sort de deux ans de silence avec Jev, un modèle d'IA incapable d'écrire une phrase. Facturé 0,042 dollar le million de tokens, sortie gratui"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Starship vise (enfin) l'orbite : ce que prépare SpaceX pour son 14e vol, la cadence s'accélère",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629880-starship-vise-enfin-l-orbite-ce-que-prepare-spacex-pour-son-14e-vol-la-cadence-s-accelere.html",
+    "pubDate": "2026-09-16T07:21:00.000Z",
+    "summary": "SpaceX a enfin fixé la date : Starship s’élancera pour son 14e vol dès la semaine prochaine. Une mission inédite, puisque la mégafusée va tenter d’atteindre l’orbite pour la toute première fois."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vélos et trottinettes électriques : 91 acteurs du secteur demandent aux Pays-Bas d&#8217;abandonner un projet de loi controversé",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/velo-electrique/3248951_velos-et-trottinettes-electriques-91-acteurs-du-secteur-demandent-aux-pays-bas-dabandonner-un-projet-de-loi-controverse",
+    "pubDate": "2026-09-16T07:15:20.000Z",
+    "summary": "L'organisation professionnelle européenne des véhicules électriques légers a écrit au ministre néerlandais des Infrastructures pour lui demander de retirer un projet de réglementation nationale. Elle "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Samsung Galaxy A18 : 80 euros de plus pour moins bien, la mauvaise surprise de la rentrée",
     "source": "Frandroid",
     "category": "smartphones",
@@ -207,15 +261,6 @@
     "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Quel scandale » : la prime EDF pour les voitures chinoises BYD fait exploser le gouvernement",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/byd/3248207_quel-scandale-la-prime-edf-pour-les-voitures-chinoises-byd-fait-exploser-le-gouvernement",
-    "pubDate": "2026-09-15T18:19:35.000Z",
-    "summary": "La marque de voitures chinoise BYD a annoncé récemment bénéficier désormais de la prime CEE (bonus écologique français) pour l’ensemble de sa gamme électrique. Toutefois, cette prime pose problème à c"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
     "source": "TechCrunch",
@@ -223,33 +268,6 @@
     "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
     "pubDate": "2026-09-15T18:16:07.000Z",
     "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sans électricité ni panneau solaire : le MIT produit de l&#8217;eau potable dans la Vallée de la Mort",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/energie/3245489_sans-electricite-ni-panneau-solaire-le-mit-produit-de-leau-potable-dans-la-vallee-de-la-mort",
-    "pubDate": "2026-09-15T18:04:53.000Z",
-    "summary": "L'été 2026 vient de nous le prouver : la disponibilité de l'eau s'annonce comme un défi majeur des prochaines décennies. Tous les procédés actuels permettant d'obtenir de l'eau potable à partir de l'a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test du Ninja CrushBOSS : trois appareils en un, et aucun ne déçoit",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/maison-connectee/3248335_test-du-ninja-crushboss-trois-appareils-en-un-et-aucun-ne-decoit",
-    "pubDate": "2026-09-15T18:00:00.000Z",
-    "summary": "Un blender, un robot culinaire et une gourde mixeuse sur une seule base motorisée de 1 200 W : le Ninja CrushBOSS promet de remplacer trois appareils à lui tout seul, avec un écran qui guide chaque pr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Plus besoin de tout trimballer : cette sacoche française à 90 € intègre son propre antivol",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/velo-electrique/3248009_plus-besoin-de-tout-trimballer-cette-sacoche-francaise-a-90-e-integre-son-propre-antivol",
-    "pubDate": "2026-09-15T17:46:22.000Z",
-    "summary": "Avec un antivol intégré qui met son contenu à l’abri du vol, une surface imperméable et un prix contenu, la sacoche Overade Loxi est un produit original… et de conception française !"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -297,15 +315,6 @@
     "summary": "Deloitte et le Français Docaposte viennent de publier un livre blanc consacré à la fraude et à l'intelligence artificielle dans la banque et l'assurance, exhibant le concept de « pare-feu de confiance"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nouvelle gamme Dreame T Series : 5 aspirateurs-laveurs pour 5 façons de nettoyer ses sols",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629455-nouvelle-gamme-dreame-t-series-5-aspirateurs-laveurs-pour-5-facons-de-nettoyer-ses-sols.html",
-    "pubDate": "2026-09-15T16:30:00.000Z",
-    "summary": "Avec sa nouvelle T Series, Dreame décline l’aspirateur-laveur en cinq modèles, du T12 Pro au T16 Pro Steam. Au programme : forte aspiration, lavage à l’eau chaude ou à la vapeur, détection de la salet"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
     "source": "TechCrunch",
@@ -313,15 +322,6 @@
     "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
     "pubDate": "2026-09-15T16:00:00.000Z",
     "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Aliexpress prolonge les French Days en retirant 100€ à ce mini PC dédié au gaming",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629815-aliexpress-prolonge-les-french-days-en-retirant-100-euros-a-ce-mini-pc-dedie-au-gaming.html",
-    "pubDate": "2026-09-15T15:53:00.000Z",
-    "summary": "Le Kamrui H1 est un mini PC complet équipé de l’AMD Ryzen 7 7735HS, de 24 Go de RAM et d’un SSD d’1 To. Le tout passe sous les 400 euros chez AliExpress, ce qui est appréciable en cette période d’infl"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
