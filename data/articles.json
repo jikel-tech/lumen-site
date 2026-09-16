@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "IA : Ursula von der Leyen soutient à son tour le ralentissement du développement technologique",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629944-ia-ursula-von-der-leyen-soutient-a-son-tour-le-ralentissement-du-developpement-technologique.html",
+    "pubDate": "2026-09-16T11:12:00.000Z",
+    "summary": "Tous les grands de ce monde ne réagissent pas de la même façon à l'idée de ralentir le développement de l'IA. À Bruxelles, on a plutôt tendance à soutenir cet appel."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "HarfangLab décroche la certification ISO 27001:2022, un nouveau gage de sérieux pour l'EDR made in France",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629923-harfanglab-decroche-la-certification-iso-27001-2022-un-nouveau-gage-de-serieux-pour-l-edr-made-in-france.html",
+    "pubDate": "2026-09-16T10:46:00.000Z",
+    "summary": "L'éditeur français de cybersécurité HarfangLab a annoncé mercredi avoir obtenu la certification ISO 27001:2022, délivrée par l'organisme Cyberval, qui vient renforcer la crédibilité de l'entreprise, d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vous payez ChatGPT et Claude tous les mois ? 1min.AI propose un accès multi-IA à vie pour environ 35€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-629920-vous-payez-chatgpt-et-claude-tous-les-mois-1min-ai-propose-un-acces-multi-ia-a-vie-pour-environ-35.html",
+    "pubDate": "2026-09-16T10:44:00.000Z",
+    "summary": "StackSocial affiche la licence Pro à vie de 1min.AI à 39,99 $, soit environ 34,63 € au taux relevé aujourd'hui. L’idée : réunir GPT, Claude, Gemini et d’autres modèles dans une même interface sans mul"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Amazon launches Alexa+ in India with Hindi support",
     "source": "TechCrunch",
@@ -262,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sans surprise, le marché du smartphone dégringole (et ce n'est pas près de s'arranger)",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629902-sans-surprise-le-marche-du-smartphone-degringole-et-ce-n-est-pas-pres-de-s-arranger.html",
-    "pubDate": "2026-09-16T08:40:00.000Z",
-    "summary": "Chahuté par les hausses généralisées des prix, le marché des smartphones boit la tasse. D'après les données du cabinet Omdia, qui publie ses prédictions pour la fin d'année 2026, le marché se dirige v"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le co-créateur de ChatGPT lance « Jev », un modèle qui ne rédige rien et c&#8217;est là toute la solution",
     "source": "Numerama",
     "category": "culture",
@@ -280,30 +298,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La désinstallation d’un logiciel sous Windows laisse traîner des fichiers inutiles : cet outil les efface",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629359-vous-pensiez-avoir-tout-desinstalle-ce-logiciel-vous-assure-le-grand-menage.html",
-    "pubDate": "2026-09-16T08:30:00.000Z",
-    "summary": "Supprimer un programme de Windows paraît simplissime : on lance la désinstallation et on passe à autre chose. Pourtant, certains fichiers, dossiers ou entrées de la base de registre peuvent être toujo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "En dévoilant Diablo 5 si tôt, Blizzard compte aussi sur les fans",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2333711-en-devoilant-diablo-5-si-tot-blizzard-compte-aussi-sur-les-fans.html",
     "pubDate": "2026-09-16T08:29:28.000Z",
     "summary": "Blizzard a officialisé Diablo V à la BlizzCon 2026, alors que sa sortie n’est prévue qu’au printemps 2029. Une annonce particulièrement précoce que le studio assume pleinement."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Android 17 QPR1 arrive : voici les nouveautés majeures de ce déploiement stable",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629883-android-17-qpr1-arrive-voici-les-nouveautes-majeures-de-ce-deploiement-stable.html",
-    "pubDate": "2026-09-16T08:16:00.000Z",
-    "summary": "On l’attendait, la voici enfin : Android 17 QPR1 est parmi nous. Cette mise à jour, qui fait suite à de nombreuses versions bêta, comprend plusieurs nouveautés intéressantes."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
