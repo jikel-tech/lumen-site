@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+    "pubDate": "2026-09-16T18:00:54.000Z",
+    "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Festival d'annonces par Anthropic pour Claude, avec fusion de fonctionnalités et arrivées de Claude Docs et Slides",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630037-festival-d-annonces-par-anthropic-pour-claude-avec-fusion-de-fonctionnalites-et-arrivees-de-claude-docs-et-slides.html",
+    "pubDate": "2026-09-16T17:43:00.000Z",
+    "summary": "Anthropic fusionne Claude Cowork et le chatbot classique en une seule interface, disponible dès ce mercredi sur les forfaits Pro et Max. L'entreprise lance aussi simultanément Claude Docs et Claude Sl"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Your AI agents can now control your Google Home devices",
     "source": "TechCrunch",
     "category": "ia",
@@ -261,15 +279,6 @@
     "summary": "Écran moins flatteur qu’une dalle AMOLED, mais 14 jours d’autonomie et des outils d’entraînement complets : la Garmin Forerunner 255 reste une montre pensée pour courir, pédaler et nager."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gemini 3.8 Live veut en finir avec les silences gênants des assistants vocaux",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-629995-gemini-3-8-live-veut-en-finir-avec-les-silences-genants-des-assistants-vocaux.html",
-    "pubDate": "2026-09-16T14:38:00.000Z",
-    "summary": ""
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Amazon gives its workers a raise of $1 per hour",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-16T14:00:00.000Z",
     "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "AMD préparerait sa propre technologie de rendu neuronal pour contrer le DLSS 5 de Nvidia",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/amd/3250183_amd-preparerait-sa-propre-technologie-de-rendu-neuronal-pour-contrer-le-dlss-5-de-nvidia",
-    "pubDate": "2026-09-16T13:59:05.000Z",
-    "summary": "AMD développerait sa propre technologie de rendu neuronal, dans la lignée du DLSS 5 de Nvidia, pour sa prochaine génération de cartes graphiques. L'information vient d'un leaker, sans aucune confirmat"
   }
 ]
