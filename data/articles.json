@@ -1,12 +1,21 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Canon EOS R8 Mark II : le plein format le plus accessible gagne enfin la stabilisation capteur",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/canon/3238811_canon-eos-r8-mark-ii-le-plein-format-le-plus-accessible-gagne-enfin-la-stabilisation-capteur",
+    "pubDate": "2026-09-16T01:00:00.000Z",
+    "summary": "Canon présente ce mercredi 16 septembre l'EOS R8 Mark II, son hybride plein format le plus accessible, vendu 1 799 euros nu et disponible le 20 octobre. Il inaugure une stabilisation intégrée au boîti"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "pubDate": "2026-09-16T00:20:39.000Z",
-    "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2333509-far-cry-date-de-sortie-histoire-casting-tout-savoir-sur-la-serie-tv-a-venir.html",
     "pubDate": "2026-09-15T14:36:09.000Z",
     "summary": "Far Cry, l'une des franchises de jeux vidéo les plus explosives de l'histoire, s'apprête enfin à basculer sur le petit écran. Voici tout ce qu'il faut savoir sur la série à venir."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "MSI confirme qu&#8217;une Claw 8 moins puissante&#8230; mais aussi moins chère, est bien en route",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/msi/3247861_msi-confirme-quune-claw-8-moins-puissante-mais-aussi-moins-chere-est-bien-en-route",
-    "pubDate": "2026-09-15T14:35:36.000Z",
-    "summary": "MSI s'apprête à lancer une nouvelle mouture, un peu plus abordable, de sa console portable Claw 8 EX AI+. Cette machine semble toutefois s'appuyer sur la puce Arc G3 « classique » déjà connue, et non "
   }
 ]
