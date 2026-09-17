@@ -1,6 +1,96 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Apple lance la bêta d&#8217;iOS 27.2 : Siri AI parle français, mais pas sur les iPhone européens",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3250709_apple-lance-la-beta-dios-27-2-siri-ai-parle-francais-mais-pas-sur-les-iphone-europeens",
+    "pubDate": "2026-09-17T05:38:54.000Z",
+    "summary": "Apple a mis en ligne ce mercredi 16 septembre la première bêta développeurs d'iOS 27.2, deux jours seulement après la sortie publique d'iOS 27. Au menu&nbsp;: une application Santé repensée, Siri AI e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Clavier gaming 65% : The G-Lab frappe fort avec un modèle sans fil complet sous les 80€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630034-clavier-gaming-65-the-g-lab-frappe-fort-avec-un-modele-sans-fil-complet-sous-les-80.html",
+    "pubDate": "2026-09-17T05:37:00.000Z",
+    "summary": "The G-Lab fait entrer le format 65% dans sa gamme Elite. À 80 euros, son nouveau clavier mécanique associe triple connexion, montage gasket et touches PBT sur un marché déjà très disputé."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "GrapheneOS accuse Google de « restreindre l’accès aux correctifs de sécurité » et aux nouvelles fonctionnalités d’Android",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/rom-custom-2/custom-rom/3250717_grapheneos-accuse-google-de-restreindre-lacces-aux-correctifs-de-securite-et-aux-nouvelles-fonctionnalites-dandroid",
+    "pubDate": "2026-09-17T05:31:57.000Z",
+    "summary": "La célèbre ROM alternative GrapheneOS rencontre encore des problèmes de développement avec la sortie de la dernière version d’Android. La faute à Google, qui se la jouerait perso sur les dernières fon"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test du Xiaomi Redmi Note 17 5G : plus cher, moins bien, la douche froide",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/xiaomi/3233989_test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide",
+    "pubDate": "2026-09-17T05:30:00.000Z",
+    "summary": "Le Xiaomi Redmi Note 17 5G rebat les cartes de la gamme la plus populaire de la marque, mais pas dans le bon sens. Il est plus cher et moins bien qu'avant."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Back to School ASUS : jusqu’à 600 € de remise sur une sélection de PC portables",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-629089-back-to-school-asus-jusqu-a-600-de-remise-sur-une-selection-de-pc-portables.html",
+    "pubDate": "2026-09-17T05:30:00.000Z",
+    "summary": "La rentrée, c’est souvent « le moment idéal » pour changer (entre autres) de PC, et ASUS compte bien le rappeler avec une sélection particulièrement séduisante sur sa boutique. Jusqu’à 600 € de remise"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google maîtrise tout le matériel des Pixel, et pourtant ils ont été piratés",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/google/3250713_google-maitrise-tout-le-materiel-des-pixel-11-et-pourtant-ils-ont-ete-pirates",
+    "pubDate": "2026-09-17T05:20:23.000Z",
+    "summary": "Google a confirmé, dans son bulletin de sécurité de septembre 2026, qu'un nombre «&nbsp;limité&nbsp;» de Pixel ont été piratés via une faille de leur modem, lors d'attaques dites «&nbsp;ciblées&nbsp;»"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vénus a pu avoir une lune, mais peut-être qu&#8217;elle l&#8217;a dévorée",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2328935-venus-a-pu-avoir-une-lune-mais-peut-etre-quelle-la-devoree.html",
+    "pubDate": "2026-09-17T05:18:27.000Z",
+    "summary": "Souvent considérée comme une jumelle de la Terre, Vénus n'a pourtant pas de Lune. De nouveaux travaux avancent qu'elle a peut-être eu un satellite, détruit très tôt dans l'histoire de la planète."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Stowaway : le site qui vous montre le paysage depuis les avions qui survolent votre maison",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2323729-stowaway-le-site-qui-vous-montre-le-paysage-depuis-les-avions-qui-survolent-votre-maison.html",
+    "pubDate": "2026-09-17T05:16:34.000Z",
+    "summary": "Un avion traverse le ciel au-dessus de votre logement ? Le site Stowaway permet de le suivre en temps réel, puis d’admirer le paysage depuis son « hublot ». Si l'expérience est assez bien faite, elle "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Home passe au MCP et laisse Claude et ChatGPT piloter votre maison, mais sous conditions",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3250707_google-home-passe-au-mcp-et-laisse-claude-et-chatgpt-piloter-votre-maison-mais-sous-conditions",
+    "pubDate": "2026-09-17T05:15:38.000Z",
+    "summary": "Google a ouvert mardi 16 septembre un accès anticipé à un serveur MCP pour Google Home. Concrètement, n'importe quel agent IA compatible – Claude, ChatGPT et consorts – peut désormais piloter vos appa"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Einride et Lidl lancent le premier camion autonome sans cabine sur route publique en Allemagne",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630076-einride-et-lidl-lancent-le-premier-camion-autonome-sans-cabine-sur-route-publique-en-allemagne.html",
+    "pubDate": "2026-09-17T05:15:00.000Z",
+    "summary": "Einride fait rouler pour Lidl, en Hesse, un camion électrique sans cabine, sans conducteur ni opérateur de sécurité à bord, entre un centre de distribution et un magasin. Le Kraftfahrt-Bundesamt, l'Of"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Samsung Galaxy Tab S11 avec 400 € de moins : pourquoi c&#8217;est le meilleur choix avant l&#8217;arrivée des Tab S12 ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -262,101 +352,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le futur numéro anti-fraude bientôt en France : comment ça va marcher ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/banque-en-ligne/3250375_le-futur-numero-anti-fraude-bientot-en-france-comment-ca-va-marcher",
-    "pubDate": "2026-09-16T15:23:27.000Z",
-    "summary": "La Banque de France et les banques étudient un numéro court unique à composer en cas d'appel suspect, sur le modèle du 159 britannique. L'idée tombe bien&nbsp;: la fraude par manipulation a coûté 516&"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Assassin&#8217;s Creed, Rayman, Far Cry… : Ubisoft brade tout son catalogue de jeux sur PC",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2334215-assassins-creed-rayman-far-cry-ubisoft-brade-tout-son-catalogue-de-jeux-sur-pc.html",
     "pubDate": "2026-09-16T15:19:09.000Z",
     "summary": "Quarante ans après ses débuts, Ubisoft a quelques classiques à faire redécouvrir. Pour l’occasion, l’éditeur brade plusieurs de ses grandes licences sur PC. Voici les jeux sur lesquels nous dépenserio"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Créer un VPN : par où commencer ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/guide-19644-creer-un-vpn-par-ou-commencer.html",
-    "pubDate": "2026-09-16T15:15:00.000Z",
-    "summary": "Vous voulez accéder à votre réseau depuis l’extérieur, chiffrer une connexion ou garder la maîtrise de l’infrastructure par laquelle passent vos données ? Derrière l’expression « créer un VPN » se cac"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Plus d'un an après sa sortie, le Sony WH-1000XM6 descend nettement sous les 300€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629998-plus-d-un-an-apres-sa-sortie-le-sony-wh-1000xm6-descend-nettement-sous-les-300.html",
-    "pubDate": "2026-09-16T15:12:00.000Z",
-    "summary": "Désigné meilleur casque Bluetooth dans notre comparatif, le Sony WH-1000XM6 profite d’une remise de près de 90 € sur AliExpress. L’occasion de s’offrir un vrai silence dans les transports, à condition"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Une bande de noobs qui utilisent des LLM » : pourquoi le créateur de PS5 Linux jette l&#8217;éponge à cause de l&#8217;IA",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/3250295_une-bande-de-noobs-qui-utilisent-des-llm-pourquoi-le-createur-de-ps5-linux-jette-leponge-a-cause-de-lia",
-    "pubDate": "2026-09-16T15:07:05.000Z",
-    "summary": "Andy Nguyen, l'un des hackers les plus connus de la PlayStation, a annoncé ce mercredi 16 septembre 2026 abandonner le projet PS5 Linux. En cause&nbsp;: l'arrivée dans l'open source de développeurs qu"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La version française de WhatsApp s&#8217;emmêle les pinceaux avec son option de confidentialité avancée",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2334257-la-version-francaise-de-whatsapp-semmele-les-pinceaux-avec-son-option-de-confidentialite-avancee.html",
-    "pubDate": "2026-09-16T15:05:19.000Z",
-    "summary": "Un des réglages de confidentialité de WhatsApp explique exactement l'inverse de ce qu'il est censé faire. Sur la version française de l'application, un contre-sens s'est glissé dans le texte censé ras"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test Acer Swift Air 14 : le rival du MacBook Neo plombé par Windows 11",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-627244-test-acer-swift-air-14-le-rival-du-macbook-neo-plombe-par-windows-11.html",
-    "pubDate": "2026-09-16T15:01:00.000Z",
-    "summary": "Présenté au Computex 2026, l’Acer Swift Air 14 fait partie, avec quelques autres, de la première vague de PC « d’entrée de gamme premium » lancés en réponse directe au MacBook Neo. Avec son châssis en"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pas de facture mobile avant 2027 : La Poste Mobile offre 4 mois gratuits sur ses forfaits 5G [Sponso]",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/telecom/forfait-mobile/3242731_pas-de-facture-mobile-avant-2027-la-poste-mobile-offre-4-mois-gratuits-sur-ses-forfaits-5g",
-    "pubDate": "2026-09-16T14:59:00.000Z",
-    "summary": "130 Go de 5G à 10,99 € par mois sans engagement, c'est déjà très attractif. Aujourd'hui, La Poste Mobile propose une offre exceptionnelle avec pas moins de quatre mois gratuits !"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Voici 5 bonnes raisons de mettre un VPN sur votre liste de rentrée ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629893-pourquoi-un-vpn-devrait-figurer-sur-votre-liste-de-rentree.html",
-    "pubDate": "2026-09-16T14:53:00.000Z",
-    "summary": "Chaque rentrée, on pense à renouveler l'ordinateur, à choisir la bonne imprimante ou à comparer les forfaits mobiles étudiants. Mais un poste reste systématiquement oublié : la sécurité numérique. Voi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Réparer la batterie plutôt que la changer : le spécialiste EV Clinic ouvre son premier atelier en France",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2334161-reparer-la-batterie-plutot-que-la-changer-le-specialiste-ev-clinic-ouvre-son-premier-atelier-en-france.html",
-    "pubDate": "2026-09-16T14:41:45.000Z",
-    "summary": "EV Clinic, spécialiste croate de la réparation de voitures électriques, arrive en France. Son premier atelier, en région parisienne, promet d'entretenir les électriques hors du réseau constructeur, à "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un Xbox Game Pass à la carte sans jeux « day 1 » : Microsoft préparerait de gros changements",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3250057_un-xbox-game-pass-a-la-carte-sans-jeux-day-1-microsoft-preparerait-de-gros-changements",
-    "pubDate": "2026-09-16T14:22:47.000Z",
-    "summary": "Selon un leaker ayant déjà prouvé la fiabilité de ses informations, le Xbox Game Pass pourrait être profondément remanié dans les prochains mois. Pas sûr que les modifications envisagées plaisent aux "
   }
 ]
