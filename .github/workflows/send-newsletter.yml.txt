@@ -1,0 +1,24 @@
+name: Envoi de la newsletter LUMen
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # tous les jours à 7h UTC (~8h heure du Cameroun)
+  workflow_dispatch:        # bouton "Run workflow" pour tester manuellement
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Envoyer la newsletter
+        working-directory: scripts
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: node send-newsletter.js
