@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Politique de sécurité informatique : pourquoi celle de votre PME est probablement obsolète ou inexistante",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/dossier-626593-politique-de-securite-informatique-pourquoi-celle-de-votre-pme-est-probablement-obsolete-ou-inexistante.html",
+    "pubDate": "2026-09-17T17:02:00.000Z",
+    "summary": "Votre nouveau salarié hérite souvent d’un compte informatique calqué sur celui d'un collègue, chargé de droits sans rapport avec son poste. À l’inverse, l’accès d'un salarié parti est actif des semain"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le Tineco Floor One S7 Pro que nous avions noté 8/10 passe à 219,22€",
     "source": "Clubic",
     "category": "logiciels",
@@ -46,7 +55,7 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Apple will let EU apps use less alarming tracking consent screens",
+    "title": "Apple will let EU apps use less-alarming tracking-consent screens",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
     "pubDate": "2026-09-17T13:38:33.000Z",
     "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ces VPN censés protéger votre vie privée embarquent des traqueurs et peuvent vous géolocaliser",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630166-ces-vpn-censes-proteger-votre-vie-privee-embarquent-des-traqueurs-et-peuvent-vous-geolocaliser.html",
-    "pubDate": "2026-09-17T13:36:00.000Z",
-    "summary": "Une enquête menée par Proton dresse un portrait peu rassurant des VPN mobiles. Traqueurs publicitaires, accès à la localisation et éditeurs difficiles à identifier concernent plusieurs applications té"
   }
 ]
