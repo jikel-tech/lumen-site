@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Musk&#8217;s long-time backer is giving SpaceX stock to its investors",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+    "pubDate": "2026-09-16T23:50:07.000Z",
+    "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "pubDate": "2026-09-16T23:43:09.000Z",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "US automakers could soon be forced to include AM radio for free",
     "source": "TechCrunch",
     "category": "ia",
@@ -117,15 +135,6 @@
     "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-    "pubDate": "2026-09-16T18:00:54.000Z",
-    "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Festival d'annonces par Anthropic pour Claude, avec fusion de fonctionnalités et arrivées de Claude Docs et Slides",
     "source": "Clubic",
@@ -133,15 +142,6 @@
     "url": "https://www.clubic.com/actualite-630037-festival-d-annonces-par-anthropic-pour-claude-avec-fusion-de-fonctionnalites-et-arrivees-de-claude-docs-et-slides.html",
     "pubDate": "2026-09-16T17:43:00.000Z",
     "summary": "Anthropic fusionne Claude Cowork et le chatbot classique en une seule interface, disponible dès ce mercredi sur les forfaits Pro et Max. L'entreprise lance aussi simultanément Claude Docs et Claude Sl"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Your AI agents can now control your Google Home devices",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "pubDate": "2026-09-16T17:00:00.000Z",
-    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
