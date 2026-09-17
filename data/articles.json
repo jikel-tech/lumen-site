@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "The fix for rogue AI agents could be more AI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "pubDate": "2026-09-17T20:34:47.000Z",
+    "summary": "Y Combinator has funded 106 companies related to AI observability in recent years"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "pubDate": "2026-09-17T20:34:24.000Z",
+    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Is the AI safety debate about safety or control?",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "pubDate": "2026-09-17T20:19:37.000Z",
+    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "UN turns to Google to make its global data ready for AI agents",
     "source": "TechCrunch",
     "category": "ia",
@@ -279,24 +306,6 @@
     "summary": "Après les voitures électriques, l'Union européenne se penche sur un nouveau front commercial : celui des hybrides chinois. Bruxelles réclame désormais à Pékin une limitation volontaire des exportation"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Last call: Disrupt volunteer application closes soon",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-    "pubDate": "2026-09-17T15:02:00.000Z",
-    "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "I tried Tovala&#8217;s smart oven for two weeks — here&#8217;s whether it beats takeout",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-    "pubDate": "2026-09-17T15:00:00.000Z",
-    "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Huawei : en Chine, la mystérieuse disparition du patron Ren Zhengfei fait exploser les rumeurs",
     "source": "Clubic",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3251523_bambu-lab-lance-la-h2c-son-imprimante-3d-anti-gaspillage-deja-a-150-e",
     "pubDate": "2026-09-17T14:33:35.000Z",
     "summary": "Parmi les nombreuses imprimantes 3D du marché, on trouve la Bambu Lab H2C, un modèle qui veut en finir avec le filament gaspillé lors des impressions multicolores. En ce moment, on la trouve déjà en p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test Samsung S92H : faut-il encore dépenser plus pour un excellent OLED ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-626257-test-samsung-s92h.html",
-    "pubDate": "2026-09-17T14:15:00.000Z",
-    "summary": "Le Samsung S92H reprend une formule désormais bien connue chez le constructeur, mais avec une évolution qui change sensiblement la donne : son traitement antireflet Glare Free. Sur le modèle de 55 pou"
   }
 ]
