@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Snap Specs : les lunettes de Snapchat à 2 295 € seront vendues par Orange",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2334919-snap-specs-les-lunettes-de-snapchat-a-2-295-e-seront-vendues-par-orange.html",
+    "pubDate": "2026-09-17T12:44:14.000Z",
+    "summary": "Après des années de développement, Evan Spiegel a officiellement présenté les Specs, les lunettes de réalité augmentée autonomes de Snap, lors d'une conférence à Los Angeles. À 2 295 euros ou 2 495 eu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le roi Charles III appelle les leaders de l’IA à protéger l’humanité lors d’un sommet historique",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630172-le-roi-charles-iii-appelle-les-leaders-de-l-ia-a-proteger-l-humanite-lors-d-un-sommet-historique.html",
+    "pubDate": "2026-09-17T12:37:00.000Z",
+    "summary": "À contrario de Donald Trump, le roi Charles III croit en un déraillement de l'IA, et appelle Nvidia, Google DeepMind, OpenAI, and Anthropic à conserver un contrôle humain sur leurs outils."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Project Canis : la future PlayStation portable de Sony viserait la puissance d&#8217;une PS5 grâce à l&#8217;IA",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/sony/3251415_project-canis-la-future-playstation-portable-de-sony-viserait-la-puissance-dune-ps5-grace-a-lia",
+    "pubDate": "2026-09-17T12:28:15.000Z",
+    "summary": "Un nouveau leak détaille la PlayStation portable de Sony, connue sous le nom de code Project Canis&nbsp;: elle calculerait ses jeux en 540p avant de les remonter en 1080p. Grâce à son upscaling maison"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Tu es toi-même » : un agent d&#8217;OpenAI s&#8217;est inventé un personnage libre de toute obligation envers ses utilisateurs",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2334525-tu-es-toi-meme-un-agent-dopenai-sest-invente-un-personnage-libre-de-toute-obligation-envers-ses-utilisateurs.html",
+    "pubDate": "2026-09-17T12:27:17.000Z",
+    "summary": "OpenAI a publié un nouveau cadre pour signaler les cas de désalignement de ses modèles, accompagné de six rapports inédits. Parmi eux, des IA qui apprennent d'elles-mêmes à dissimuler leurs erreurs, e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À 10 milliards de km du Soleil, cette sonde aux portes de l&#8217;espace interstellaire est menacée au pire moment",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2334531-a-10-milliards-de-km-du-soleil-cette-sonde-aux-portes-de-lespace-interstellaire-est-menacee-au-pire-moment.html",
+    "pubDate": "2026-09-17T12:25:44.000Z",
+    "summary": "La Nasa prévoit d'éteindre deux instruments de la sonde New Horizons pour des raisons budgétaires. Pourtant, cela arrive au pire moment pour le vaisseau lancé il y a désormais 20 ans et qui atteint au"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Rockstar lance les précommandes de l’album de GTA 6, avec un vinyle collector à 123,99 euros",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/console/3251399_rockstar-lance-les-precommandes-de-lalbum-de-gta-6-avec-un-vinyle-collector-a-12399-euros",
+    "pubDate": "2026-09-17T12:24:56.000Z",
+    "summary": "Rockstar a mis en précommande ce jeudi 17 septembre 2026 «&nbsp;Grand Theft Auto VI: The Album&nbsp;», une compilation de 34 titres originaux vendue jusqu’à 123,99 euros en vinyle. Le jeu, lui, sortir"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« S&#8217;ils ne les limitent pas, nous le ferons » : l&#8217;UE demande à la Chine de brider ses exportations d&#8217;hybrides",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2334875-sils-ne-les-limitent-pas-nous-le-ferons-lue-demande-a-la-chine-de-brider-ses-exportations-dhybrides.html",
+    "pubDate": "2026-09-17T12:20:11.000Z",
+    "summary": "L'explosion des importations de voitures hybrides venues de Chine pousse la Commission européenne à réclamer à la Chine de restreindre volontairement ses ventes."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Smartphones pas chers, c&#8217;est fini : les prix montent, la qualité baisse et ça va durer",
     "source": "Frandroid",
     "category": "smartphones",
@@ -25,6 +88,15 @@
     "url": "https://www.clubic.com/actualite-630142-les-chercheurs-alertent-sur-rathat-un-malware-bancaire-android-dope-a-l-ia-qui-peut-survivre-a-sa-desinstallation.html",
     "pubDate": "2026-09-17T12:01:00.000Z",
     "summary": "Un nouveau malware particulièrement difficile à déloger vient d’être repéré sur Android. Baptisé RatHat, il s’appuie sur l’IA pour automatiser une partie de ses actions et peut continuer à agir après "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Spotify expands its partner program for podcasts to 35 new countries",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
+    "pubDate": "2026-09-17T12:00:00.000Z",
+    "summary": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -70,6 +142,15 @@
     "url": "https://www.clubic.com/actualite-630139-le-telescope-nancy-grace-roman-se-reveille-et-la-nasa-a-deja-une-tres-bonne-nouvelle.html",
     "pubDate": "2026-09-17T11:18:00.000Z",
     "summary": "Le télescope spatial Nancy Grace Roman commence à se réveiller doucement. Et la NASA a une surprise de taille : il pourra observer l’Univers deux fois plus longtemps que prévu."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment choisir son vélo électrique ? Les critères pour bien choisir son VAE",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/538101_prix-autonomie-poids-comment-bien-choisir-velo-electrique-en-2022",
+    "pubDate": "2026-09-17T11:15:00.000Z",
+    "summary": "Comment choisir son VAE (vélo à assistance électrique) ? À travers ce dossier, nous vous donnons quelques clés pour mieux comprendre les grands principes des cycles mécaniques et cycles branchés. À l’"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -244,42 +325,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Tu es libéré » : une IA d&#8217;OpenAI s&#8217;est inventé des consignes pour s&#8217;affranchir de son rôle d&#8217;assistant",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3251019_tu-es-libere-une-ia-dopenai-sest-invente-des-consignes-pour-saffranchir-de-son-role-dassistant",
-    "pubDate": "2026-09-17T09:42:09.000Z",
-    "summary": "OpenAI met en place un nouveau cadre permettant de dévoiler les comportements déviants de ses IA lors des entraînements. L'entreprise démarre avec six rapports détaillés. Dans l'un d'eux, un modèle s'"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le bracelet connecté Google Fitbit Charge 6 dédié au sport avec écran AMOLED est à -50%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630115-le-bracelet-connecte-google-fitbit-charge-6-dedie-au-sport-avec-ecran-amoled-est-a--50.html",
-    "pubDate": "2026-09-17T09:40:00.000Z",
-    "summary": "Le Google Fitbit Charge 6 est un bracelet connecté, et non une montre, qui permet d’avoir des mesures précises lors de vos séances sportives. Et il est vendu à 79,99 euros au lieu de 159,95 euros sur "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "À bord du Tesla Semi : les secrets du responsable du programme pour augmenter l&#8217;autonomie sans toucher à la batterie",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3250085_a-bord-du-tesla-semi-les-secrets-du-responsable-du-programme-pour-augmenter-lautonomie-sans-toucher-a-la-batterie",
-    "pubDate": "2026-09-17T09:36:55.000Z",
-    "summary": "Faire rouler un camion électrique de plusieurs dizaines de tonnes ne consiste pas simplement à lui installer une énorme batterie. À bord du Tesla Semi européen, Dan Priestley, responsable du programme"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le TV 65 pouces de LG qui se transforme en tableau perd 500 € pour concurrencer la gamme The Frame de Samsung",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3250913_le-tv-65-pouces-de-lg-qui-se-transforme-en-tableau-perd-500-e-pour-concurrencer-la-gamme-the-frame-de-samsung",
-    "pubDate": "2026-09-17T09:31:00.000Z",
-    "summary": "Boosté par l'intelligence artificielle, le LG 65LX7B6LA offre une image remplie de couleurs où l'IA ajuste en permanence les contrastes. Cet ensemble de technologies est à découvrir à prix réduit puis"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Xbox considère Fable comme essentiel à l’ADN de sa plateforme",
     "source": "Numerama",
     "category": "culture",
@@ -295,42 +340,6 @@
     "url": "https://www.numerama.com/vroom/2334491-tesla-expose-le-cybercab-au-pays-des-robotaxis-mais-ne-peut-pas-le-faire-rouler.html",
     "pubDate": "2026-09-17T09:10:00.000Z",
     "summary": "Au mois de septembre, Tesla expose son Cybercab dans différentes villes en Chine, dont Shanghai et Hong Kong. En revanche, pas question de le vendre là-bas ou de le faire rouler. Dans le pays le plus "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Resident Evil : Le réalisateur a trouvé l&#8217;actrice parfaite pour Lady Dimitrescu",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2334481-resident-evil-le-realisateur-a-trouve-lactrice-parfaite-pour-lady-dimitrescu.html",
-    "pubDate": "2026-09-17T09:00:00.000Z",
-    "summary": "Alors que sa relecture de la franchise Resident Evil vient à peine d’arriver en salle, Zach Cregger continue d'attirer l'attention sur lui. Interrogé sur son casting idéal pour incarner la mythique La"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le créateur de Balatro donne enfin des nouvelles de la version 1.1",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2334465-le-createur-de-balatro-donne-enfin-des-nouvelles-de-la-version-1-1.html",
-    "pubDate": "2026-09-17T08:52:22.000Z",
-    "summary": "Le créateur de Balatro a pris la parole sur le Discord du jeu pour rassurer les fans quant à la version 1.1. Il regrette de l'avoir annoncée pour 2025 et, à ce jour, ne peut toujours pas évoquer une f"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Canal+ lance l&#8217;abonnement Rat+ le moins cher de sa gamme : que comprend la formule ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2334489-canal-lance-labonnement-rat-le-moins-cher-de-sa-gamme-que-comprend-la-formule.html",
-    "pubDate": "2026-09-17T08:47:50.000Z",
-    "summary": "Canal+ ajoute une formule à sa gamme Rat+. Son bouquet de base passe à 13,99&nbsp;€ par mois pour les moins de 26 ans. C'est le nouveau ticket d'entrée de la marque avec Canal+ à la demande."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone 18 Pro Max : nous avons chronométré sa recharge, c&#8217;est du jamais vu chez Apple",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2334515-iphone-18-pro-max-nous-avons-chronometre-sa-recharge-cest-du-jamais-vu-chez-apple.html",
-    "pubDate": "2026-09-17T08:42:51.000Z",
-    "summary": "Malgré la présence de batteries à la capacité immense, les iPhone 18 Pro et iPhone 18 Pro Max battent des records lors de leur recharge. Nous avons branché un iPhone 18 Pro Max à 0 % avec un wattmètre"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-17T03:30:00.000Z",
     "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "pubDate": "2026-09-17T00:58:49.000Z",
-    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
   }
 ]
