@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon propose un écran PC gaming Full HD de 27\" et 144 Hz en promo à moins de 100 €",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630136-amazon-propose-un-ecran-pc-gaming-full-hd-de-27-et-144-hz-en-promo-a-moins-de-100.html",
+    "pubDate": "2026-09-17T14:35:00.000Z",
+    "summary": "L’écran PC Iiyama G-Master G2741HSU est un modèle abordable en promo à 99,90 euros au lieu de 119 euros qui promet avant tout la fluidité à 144 Hz."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Bambu Lab lance la H2C, son imprimante 3D anti-gaspillage, déjà à -150 €",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3251523_bambu-lab-lance-la-h2c-son-imprimante-3d-anti-gaspillage-deja-a-150-e",
+    "pubDate": "2026-09-17T14:33:35.000Z",
+    "summary": "Parmi les nombreuses imprimantes 3D du marché, on trouve la Bambu Lab H2C, un modèle qui veut en finir avec le filament gaspillé lors des impressions multicolores. En ce moment, on la trouve déjà en p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Bose veut équiper les sportifs avec ses écouteurs qui se clipsent sur les oreilles nouvelle génération",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/bose/3248953_bose-veut-equiper-les-sportifs-avec-ses-ecouteurs-qui-se-clipsent-sur-les-oreilles-nouvelle-generation",
+    "pubDate": "2026-09-17T14:15:56.000Z",
+    "summary": "Bose enrichit sa gamme audio à conception ouverte avec deux nouveaux modèles, les écouteurs oreilles libres Sport et Ultra 2e génération. Autonomie prolongée, appels plus clairs et nouveau mode cinéma"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test Samsung S92H : faut-il encore dépenser plus pour un excellent OLED ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/test-produit-626257-test-samsung-s92h.html",
+    "pubDate": "2026-09-17T14:15:00.000Z",
+    "summary": "Le Samsung S92H reprend une formule désormais bien connue chez le constructeur, mais avec une évolution qui change sensiblement la donne : son traitement antireflet Glare Free. Sur le modèle de 55 pou"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Apple pourrait bientôt faire fabriquer une partie de ses puces mémoire aux États-Unis",
     "source": "Clubic",
     "category": "logiciels",
@@ -78,7 +114,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
     "pubDate": "2026-09-17T13:46:16.000Z",
-    "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions"
+    "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -91,12 +127,12 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
     "pubDate": "2026-09-17T13:38:33.000Z",
-    "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -298,30 +334,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Rockstar lance les précommandes de l’album de GTA 6, avec un vinyle collector à 123,99 euros",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/console/3251399_rockstar-lance-les-precommandes-de-lalbum-de-gta-6-avec-un-vinyle-collector-a-12399-euros",
-    "pubDate": "2026-09-17T12:24:56.000Z",
-    "summary": "Rockstar a mis en précommande ce jeudi 17 septembre 2026 «&nbsp;Grand Theft Auto VI: The Album&nbsp;», une compilation de 34 titres originaux vendue jusqu’à 123,99 euros en vinyle. Le jeu, lui, sortir"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "« S&#8217;ils ne les limitent pas, nous le ferons » : l&#8217;UE demande à la Chine de brider ses exportations d&#8217;hybrides",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2334875-sils-ne-les-limitent-pas-nous-le-ferons-lue-demande-a-la-chine-de-brider-ses-exportations-dhybrides.html",
     "pubDate": "2026-09-17T12:20:11.000Z",
     "summary": "L'explosion des importations de voitures hybrides venues de Chine pousse la Commission européenne à réclamer à la Chine de restreindre volontairement ses ventes."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Smartphones pas chers, c&#8217;est fini : les prix montent, la qualité baisse et ça va durer",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/smartphone/3251035_smartphones-pas-chers-cest-fini-les-prix-montent-la-qualite-baisse-et-ca-va-durer",
-    "pubDate": "2026-09-17T12:15:03.000Z",
-    "summary": "Sorti ce jeudi 17 septembre, le Xiaomi Redmi Note 17 5G coûte 50 euros de plus que la génération précédente, pour une fiche technique rabotée sur presque tous les points. Et il est loin d'être un cas "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-630142-les-chercheurs-alertent-sur-rathat-un-malware-bancaire-android-dope-a-l-ia-qui-peut-survivre-a-sa-desinstallation.html",
     "pubDate": "2026-09-17T12:01:00.000Z",
     "summary": "Un nouveau malware particulièrement difficile à déloger vient d’être repéré sur Android. Baptisé RatHat, il s’appuie sur l’IA pour automatiser une partie de ses actions et peut continuer à agir après "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Spotify expands its partner program for podcasts to 35 new countries",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-    "pubDate": "2026-09-17T12:00:00.000Z",
-    "summary": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "L'UE veut interdire les réseaux sociaux aux mineurs de moins de 13 ans et dévoile son plan",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630157-l-ue-veut-interdire-les-reseaux-sociaux-aux-mineurs-de-moins-de-13-ans-et-devoile-son-plan.html",
-    "pubDate": "2026-09-17T11:55:00.000Z",
-    "summary": "La Commission européenne a présenté ce jeudi son EU Kids Act, un règlement qui fixe un âge minimum pour l'accès des mineurs aux réseaux sociaux dans toute l'Union. Une initiative qui relance le débat "
   }
 ]
