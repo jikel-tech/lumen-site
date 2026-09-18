@@ -1,5 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Family offices are clamoring for AI investments",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+    "pubDate": "2026-09-18T16:00:00.000Z",
+    "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tesla Semi : la formule « une journée complète avec un seul arrêt » arrive en France",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/tesla/3252189_tesla-semi-la-formule-une-journee-complete-avec-un-seul-arret-arrive-en-france",
+    "pubDate": "2026-09-18T15:59:18.000Z",
+    "summary": "Avec une batterie de 548 kWh et une puissance de recharge pouvant atteindre 800 kW, le Tesla Semi a des besoins bien supérieurs à ceux d’une voiture électrique. Mais encore faut-il disposer des bornes"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "DAS : qu&#8217;est-ce que c&#8217;est et quels sont les smartphones qui émettent le moins de rayonnement ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/smartphone/462065_classement-das-quels-sont-les-smartphones-qui-emettent-le-moins-et-le-plus-de-radiations",
+    "pubDate": "2026-09-18T15:57:34.000Z",
+    "summary": "Les smartphones émettent tous des ondes électromagnétiques pour fonctionner. Le Débit d'Absorption Spécifique (DAS) permet d'évaluer la quantité d'ondes émises : on vous explique ici de quoi il s'agit"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Études, télétravail : ce PC Dell 16\" avec 16 Go + 1 To est à -45% en ce moment",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630307-etudes-teletravail-ce-pc-dell-16-avec-16-go-1-to-est-a--45-en-ce-moment.html",
+    "pubDate": "2026-09-18T15:50:00.000Z",
+    "summary": "Le Dell 16 DC16250 est un 16 pouces de bureautique, affiché 819 € au lieu de 1 449 € chez Amazon dans sa version Core 7 150U. Nous avons regardé ce que cette configuration apporte vraiment, et ce qu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Honor présente le Tiangong AXB35 Ultra, un mini-PC surpuissant conçu avec Nvidia",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/3253331_honor-presente-le-tiangong-axb35-ultra-un-mini-pc-surpuissant-concu-avec-nvidia",
+    "pubDate": "2026-09-18T15:49:14.000Z",
+    "summary": "HONOR sort de son couloir smartphone&nbsp;: la marque a présenté le Tiangong AXB35 Ultra, un mini-PC de 2 litres animé par la puce Nvidia RTX Spark et 128 Go de mémoire. Une machine pensée pour faire "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+    "pubDate": "2026-09-18T15:44:09.000Z",
+    "summary": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À bord du Tesla Semi, son responsable nous explique comment le FSD va débarquer",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/tesla/3252483_a-bord-du-tesla-semi-son-responsable-nous-explique-comment-le-fsd-va-debarquer",
+    "pubDate": "2026-09-18T15:41:43.000Z",
+    "summary": "Tesla a déjà confirmé que son système de conduite autonome FSD allait arriver sur le Semi. Mais comment compte-t-il l’adapter à son camion électrique ? À bord du Semi européen, Dan Priestley, responsa"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Gears of War: E-Day, une configuration exigeante à prévoir sur PC",
     "source": "Frandroid",
@@ -162,15 +225,6 @@
     "summary": "Le meilleur iPhone et celui qu’on vous conseille d’acheter ne sont pas toujours les mêmes. Du reconditionné aux nouveaux iPhone 18 Pro et Duo, Numerama vous aide à choisir le meilleur iPhone pour vos "
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Muse fait renaître les produits high-tech vintages",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/audio/3253075_muse-fait-renaitre-les-produits-high-tech-vintages",
-    "pubDate": "2026-09-18T14:15:06.000Z",
-    "summary": "La marque française Muse remet au goût du jour trois icônes audio des années 80 et 90 : ghettoblaster, baladeur cassette et radio nomade. Une collection qui surfe sur le retour du vinyle, du CD et de "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
     "source": "TechCrunch",
@@ -226,39 +280,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "C&#8217;est le retour des PC portables sous RTX 5060 à moins de 1 000 € grâce à cette offre Boulanger",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/2804177_cest-le-retour-des-pc-portables-sous-rtx-5060-a-moins-de-1-000-euros-grace-a-cette-offre-boulanger",
-    "pubDate": "2026-09-18T13:48:00.000Z",
-    "summary": "Avec la flambée des prix liée à la crise des composants, les PC gaming abordables se font rares. Bonne surprise : le HP Victus 15 avec RTX 5060 tombe sous les 1 000 euros chez Boulanger, une vraie aub"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon fait tomber le clavier Logitech MX Keys S sous la barre des 50 €",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2335761-amazon-fait-tomber-le-clavier-logitech-mx-keys-s-sous-la-barre-des-50-e.html",
     "pubDate": "2026-09-18T13:36:27.000Z",
     "summary": "[Deal du jour] Le clavier sans fil Logitech MX Keys S descend à 49,99 € sur Amazon, contre 89,90 € en temps normal. Un tarif rare pour ce clavier pensé pour la bureautique et le télétravail."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Honor 700 Pro s&#8217;inspirerait de Xiaomi avec un écran au dos",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/3252413_le-futur-honor-700-pro-se-devoile-avec-un-ecran-secondaire-au-dos-et-un-capteur-de-200-megapixels",
-    "pubDate": "2026-09-18T13:33:53.000Z",
-    "summary": "Le futur Honor 700 Pro embarquerait un petit écran secondaire au dos et un capteur photo de 200 mégapixels. Une idée que Xiaomi a remise à la mode l'an dernier."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après Doom, un internaute entraîne le cerveau de mouche de Google à jouer à Balatro",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3252303_apres-doom-ce-cerveau-de-mouche-modelise-par-google-gagne-maintenant-a-balatro",
-    "pubDate": "2026-09-18T13:22:10.000Z",
-    "summary": "Jouer à Balatro à partir du cerveau d'une mouche cartographié par Google, c'est l'exploit réalisé par un internaute."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://www.clubic.com/actualite-630322-nightmare-stresser-le-geant-du-ddos-a-la-demande-tombe-aux-mains-du-fbi.html",
     "pubDate": "2026-09-18T12:01:00.000Z",
     "summary": "Le FBI vient de saisir les principaux domaines de Nightmare Stresser, l’un des plus anciens services de DDoS à la demande encore en activité. Depuis 2022, la plateforme aurait servi à lancer plusieurs"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Miami Vice 85 : après Michael B. Jordan et Austin Butler, le film pioche dans le casting de L&#8217;Odyssée",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2335553-miami-vice-85-apres-michael-b-jordan-et-austin-butler-le-film-pioche-dans-le-casting-de-lodyssee.html",
-    "pubDate": "2026-09-18T11:30:00.000Z",
-    "summary": "Universal continue d'empiler les pièces maîtresses pour son reboot le plus ambitieux de la décennie. Après avoir verrouillé son duo de choc sous les traits de Michael B. Jordan et Austin Butler, la re"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La montre connectée n°1 de notre comparatif 2026 est en promo à 251,99€ 🏆",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630301-la-montre-connectee-n-1-de-notre-comparatif-2026-est-en-promo-a-251-99.html",
-    "pubDate": "2026-09-18T11:05:00.000Z",
-    "summary": "Élue meilleure montre connectée de notre comparatif 2026, la Galaxy Watch8 mise sur le coaching sportif et le suivi du sommeil plutôt que sur la surenchère technique. Amazon affiche la version 40 "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Réparer la batterie de votre iPhone 18 Pro va vous coûter encore plus cher",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630316-reparer-la-batterie-de-votre-iphone-18-pro-va-vous-couter-encore-plus-cher.html",
-    "pubDate": "2026-09-18T10:55:00.000Z",
-    "summary": "Apple a mis à jour sa page de tarifs de réparation avec les prix des iPhone 18 Pro et Pro Max. En France, remplacer la batterie hors garantie coûte désormais 149 euros, contre 135 euros pour la généra"
   }
 ]
