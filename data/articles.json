@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "pubDate": "2026-09-18T16:35:49.000Z",
+    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les mythiques courses de pod de Star Wars reviennent bientôt dans Galactic Racer, en précommande à 44,99 € sur PS5",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3253083_les-mythiques-courses-de-pod-de-star-wars-reviennent-bientot-dans-galactic-racer-en-precommande-a-4499-e-sur-ps5",
+    "pubDate": "2026-09-18T16:17:00.000Z",
+    "summary": "Star Wars Galactic Racer est un jeu de courses arcade dans l'univers de Star Wars, inspiré des scènes de La Menace Fantôme. Il est en préco PS5 sur Amazon à 44,99 euros au lieu de 59,99 euros."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pénurie de RAM : Samsung hausse ses tarifs en 2027 pour Apple, les prix des iPhone prêts à encore augmenter ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630397-penurie-de-ram-samsung-hausse-ses-tarifs-en-2027-pour-apple-les-prix-des-iphone-pret-a-encore-augmenter.html",
+    "pubDate": "2026-09-18T16:17:00.000Z",
+    "summary": "Les prix des composants mémoires augmentent encore très fortement pour la prochaine année. Apple vient en effet de passer un accord avec Samsung qui pourrait faire mal aux tarifs des iPhone !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test du Xiaomi Redmi Note 17 Pro 5G, le smartphone qui mise tout sur l&#8217;autonomie",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/xiaomi/3235547_test-du-xiaomi-redmi-note-17-pro-5g-le-smartphone-qui-mise-tout-sur-lautonomie",
+    "pubDate": "2026-09-18T16:15:51.000Z",
+    "summary": "Pour offrir une autonomie hors norme, le Xiaomi Redmi Note 17 Pro embarque une batterie de 8340 mAh ainsi que le processeur Snapdragon 6s Gen 4 de Qualcomm."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Family offices are clamoring for AI investments",
     "source": "TechCrunch",
     "category": "ia",
@@ -105,7 +141,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
     "pubDate": "2026-09-18T15:22:16.000Z",
-    "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your whole entire bed is the cool side."
+    "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -178,24 +214,6 @@
     "url": "https://www.numerama.com/pop-culture/2058629-la-game-boy-en-lego-perd-pres-dun-tiers-de-son-prix-difficile-de-ne-pas-etre-nostalgique.html",
     "pubDate": "2026-09-18T14:49:51.000Z",
     "summary": "Retrouver la Game Boy de son enfance, pièce après pièce : voilà le programme de ce set Lego qui reproduit la console portable de Nintendo. Amazon le propose à 40,99 € au lieu de 59,99 €, soit 19 € de "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nouveau service de streaming gratuit : le célèbre guide JustWatch frappe un très grand coup",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/svod/3252777_nouveau-service-de-streaming-gratuit-le-celebre-guide-justwatch-frappe-un-tres-grand-coup",
-    "pubDate": "2026-09-18T14:33:07.000Z",
-    "summary": "Jusque-là guide en ligne pour trouver sur quelle plateforme de streaming regarder un programme, JustWatch annonce le lancement de son propre service de streaming, en partenariat avec de grands groupes"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On a trouvé le gadget pas cher qui transforme vos photos de smartphone en autocollants",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3253177_on-a-trouve-le-gadget-pas-cher-qui-transforme-vos-photos-de-smartphone-en-autocollants",
-    "pubDate": "2026-09-18T14:31:09.000Z",
-    "summary": "La Xiaomi Portable Photo Printer 1S imprime vos photos de smartphone en Bluetooth, sans cartouche d'encre. Elle passe de 59,99 euros à 52,30 euros chez Amazon."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-630328-thales-lance-hexaforce-remarquable-systeme-d-ia-militaire-qui-veut-redefinir-le-commandement-de-l-otan.html",
     "pubDate": "2026-09-18T12:17:00.000Z",
     "summary": "Thales a dévoilé cette semaine HexaForce, un système de commandement militaire boosté à l'intelligence artificielle, déjà testé et conçu pour l'OTAN et ses alliés, qui promet d'accélérer la prise de d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "25 000 taxis autonomes en Europe : Bolt et Lucid veulent couper l&#8217;herbe sous le pied à Waymo",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2335711-25-000-taxis-autonomes-en-europe-bolt-et-lucid-veulent-couper-lherbe-sous-le-pied-a-waymo.html",
-    "pubDate": "2026-09-18T12:11:12.000Z",
-    "summary": "Lucid et Bolt ont annoncé vouloir déployer 25 000 taxis autonomes sur les routes européennes. D'ici à 2035, la firme de VTC entend atteindre les 100 000 robotaxis. Ni le calendrier de déploiement ni l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nightmare Stresser, le géant du DDoS à la demande, tombe aux mains du FBI",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630322-nightmare-stresser-le-geant-du-ddos-a-la-demande-tombe-aux-mains-du-fbi.html",
-    "pubDate": "2026-09-18T12:01:00.000Z",
-    "summary": "Le FBI vient de saisir les principaux domaines de Nightmare Stresser, l’un des plus anciens services de DDoS à la demande encore en activité. Depuis 2022, la plateforme aurait servi à lancer plusieurs"
   }
 ]
