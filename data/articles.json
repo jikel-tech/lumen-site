@@ -1,5 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "pubDate": "2026-09-18T14:00:14.000Z",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sophie Adenot a une peluche Pikachu dans l&#8217;ISS, et ce n&#8217;est pas pour devenir la meilleure dresseuse",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2335725-sophie-adenot-a-une-peluche-pikachu-dans-liss-et-ce-nest-pas-pour-devenir-la-meilleure-dresseuse.html",
+    "pubDate": "2026-09-18T14:00:00.000Z",
+    "summary": "Pokémon s'invite dans l'espace. La célèbre licence a conclu un partenariat avec l'Agence spatiale européenne, en vue d'une série d'événements mêlant les deux univers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-09-18T14:00:00.000Z",
+    "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le reboot Netflix de Narnia par la réalisatrice de Barbie déjà jugé woke par les fans",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2335261-le-reboot-netflix-de-narnia-deja-juge-trop-woke-enrage-les-puristes.html",
+    "pubDate": "2026-09-18T13:59:00.000Z",
+    "summary": "Alors que le public espérait désespérément retrouver la magie féerique et l'innocence des premiers films des années 2000, Greta Gerwig vient d'asséner le coup de grâce à la franchise pour de nombreux "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic a désormais un laboratoire secret de biologie, et veut que son IA Claude y dirige des robots",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630370-anthropic-a-desormais-un-laboratoire-secret-de-biologie-et-veut-que-son-ia-claude-y-dirige-des-robots.html",
+    "pubDate": "2026-09-18T13:54:00.000Z",
+    "summary": "Anthropic ouvre un laboratoire de biologie à San Francisco pour son IA Claude. L'entreprise veut désormais que son IA Claude pilote elle-même des expériences biologiques, sans pour autant se lancer da"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Domino&#8217;s Pizza se moque de la lave « PS2 » de Marvel&#8217;s Wolverine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2335787-dominos-pizza-se-moque-de-la-lave-ps2-de-marvels-wolverine.html",
+    "pubDate": "2026-09-18T13:48:20.000Z",
+    "summary": "L'enseigne de restauration Domino's Pizza s'est moquée du rendu graphique de la lave dans Marvel's Wolverine, ajoutant une pièce à sa campagne de moqueries, sur le ton de l'humour, contre PlayStation."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "C&#8217;est le retour des PC portables sous RTX 5060 à moins de 1 000 € grâce à cette offre Boulanger",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/2804177_cest-le-retour-des-pc-portables-sous-rtx-5060-a-moins-de-1-000-euros-grace-a-cette-offre-boulanger",
+    "pubDate": "2026-09-18T13:48:00.000Z",
+    "summary": "Avec la flambée des prix liée à la crise des composants, les PC gaming abordables se font rares. Bonne surprise : le HP Victus 15 avec RTX 5060 tombe sous les 1 000 euros chez Boulanger, une vraie aub"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon fait tomber le clavier Logitech MX Keys S sous la barre des 50 €",
     "source": "Numerama",
@@ -226,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "L&#8217;iPhone 18 Pro est mieux refroidi que certains smartphones gaming, comme le démontrent ces tests",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/smartphone/3252289_liphone-18-pro-est-mieux-refroidi-que-les-meilleurs-smartphones-gaming-comme-le-demontrent-ces-tests",
-    "pubDate": "2026-09-18T10:32:33.000Z",
-    "summary": "Équipé d'une nouvelle chambre à vapeur, l'iPhone 18 Pro Max impressionne par ses capacités de dissipation thermique. Nettement plus frais que l'iPhone 17 Pro Max à l'usage, il est aussi moins exposé à"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment Claude Opus 5 a aidé des chercheurs à accéder aux dépôts internes d’OpenAI",
     "source": "Numerama",
     "category": "culture",
@@ -280,48 +334,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Remboursement du passe Navigo : voici la date limite pour récupérer jusqu&#8217;à 90,80 €",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-jusqua-9080-dedommages-voici-jusqua-quand-la-plateforme-est-ouverte.html",
-    "pubDate": "2026-09-18T09:55:49.000Z",
-    "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une campagne de dédommagement d'Île-de-France Mobilités est ouverte depuis la mi-septembre 2026. Voici les détails pratiques,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Je ne suis pas emballé » : le réalisateur de The Last of US tacle les jeux AAA",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2335273-je-ne-suis-pas-emballe-le-realisateur-de-the-last-of-us-tacle-les-jeux-aaa.html",
-    "pubDate": "2026-09-18T09:55:26.000Z",
-    "summary": "Bruce Straley, co-créateur et réalisateur de The Last of Us et d’Uncharted 4, a travaillé sur de nombreux titres AAA. Tellement qu’il a fini par prendre ses distances avec les grosses productions. Cel"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Crew Dragon bientôt à la retraite : la NASA doit se tourner vers Starliner, la capsule à problèmes de Boeing",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-630280-crew-dragon-bientot-a-la-retraite-la-nasa-doit-se-tourner-vers-starliner-la-capsule-a-problemes-de-boeing.html",
     "pubDate": "2026-09-18T09:43:00.000Z",
     "summary": "C’est un immense retournement de situation. SpaceX envisage très sérieusement de mettre à la retraite sa capsule Crew Dragon. Sans autre solution, la NASA devrait donc se tourner vers Starliner."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "SeLoger lance une recherche immobilière par intelligence artificielle, on l'a testée pour vous",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630289-seloger-lance-une-recherche-immobiliere-par-intelligence-artificielle-on-l-a-testee-pour-vous.html",
-    "pubDate": "2026-09-18T09:32:00.000Z",
-    "summary": "La plateforme SeLoger a lancé, en septembre, ce qu'elle dit être la première recherche immobilière propulsée par l'intelligence artificielle. D'une simple requête, elle sélectionne les logements qui s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Figure lâche son robot dans 30 maisons inconnues pour faire le ménage : voici ce qu&#8217;il y parvient à faire",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2335285-figure-lache-son-robot-dans-30-maisons-inconnues-pour-faire-le-menage-voici-ce-quil-y-parvient-a-faire.html",
-    "pubDate": "2026-09-18T09:02:11.000Z",
-    "summary": "Figure a fait entrer son robot humanoïde dans 30 maisons qu'il n'avait jamais vues, sans réentraînement, pour ranger, plier des serviettes et faire des lits. Le résultat, environ 56&nbsp;% de réussite"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "pubDate": "2026-09-17T23:25:52.000Z",
     "summary": "The round values the data center giant at $30.9 billion."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "pubDate": "2026-09-17T23:21:17.000Z",
-    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-    "pubDate": "2026-09-17T23:08:24.000Z",
-    "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
   }
 ]
