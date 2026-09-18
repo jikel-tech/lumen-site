@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon fait passer ce mastodonte OLED de 39\" à seulement 699,99€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630295-amazon-fait-passer-ce-mastodonte-oled-de-39-a-seulement-699-99.html",
+    "pubDate": "2026-09-18T10:40:00.000Z",
+    "summary": "Lancé à 1 499 € en juin 2024, le LG UltraGear 39GS95QE est aujourd’hui affiché à 699,99 € chez Amazon. Un écran OLED 21:9 de 39 pouces qui vise le jeu avant tout, avec des concessions assumées s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Dyson Humidify+Cool PH2 De‑Nox en promo à -200 € : un appareil 3-en-1 pensé pour l’air sec et pollué",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3252243_le-dyson-humidifycool-ph2-de-nox-en-promo-a-200-e-un-appareil-3-en-1-pense-pour-lair-sec-et-pollue",
+    "pubDate": "2026-09-18T10:39:00.000Z",
+    "summary": "Ce produit, c'est le Dyson Humidify+ Cool PH2 De-NOx, un nom à rallonge derrière lequel se cache un appareil qui ventile, purifie et humidifie pour 599 euros au lieu de 799 euros sur Boulanger."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;iPhone 18 Pro est mieux refroidi que les meilleurs smartphones gaming, comme le démontrent ces tests",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/smartphone/3252289_liphone-18-pro-est-mieux-refroidi-que-les-meilleurs-smartphones-gaming-comme-le-demontrent-ces-tests",
+    "pubDate": "2026-09-18T10:32:33.000Z",
+    "summary": "Équipé d'une nouvelle chambre à vapeur, l'iPhone 18 Pro Max impressionne par ses capacités de dissipation thermique. Nettement plus frais que l'iPhone 17 Pro Max à l'usage, il est aussi moins exposé à"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment Claude Opus 5 a aidé des chercheurs à accéder aux dépôts internes d’OpenAI",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2335357-comment-claude-opus-5-a-aide-des-chercheurs-a-acceder-aux-depots-internes-dopenai.html",
+    "pubDate": "2026-09-18T10:15:00.000Z",
+    "summary": "Une équipe de recherche en cybersécurité a exploité deux failles combinées pour accéder à des comptes d’employés d’OpenAI et atteindre les dépôts de code internes de l'entreprise, avec l'assistance de"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Samsung prépare-t-il la fin de ses TV QLED ? La production aurait chuté de 80 %",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630298-samsung-prepare-t-il-la-fin-de-ses-tv-qled-la-production-aurait-chute-de-80.html",
+    "pubDate": "2026-09-18T10:15:00.000Z",
+    "summary": "Le QLED a longtemps été l’un des principaux étendards technologiques de Samsung sur le marché du téléviseur. Mais le constructeur coréen serait désormais en train d’en réduire fortement la place au se"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Dreame Matrix10 Pro : ce robot aspirateur qui change seul de serpillière perd 400 €",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2335537-dreame-matrix10-pro-ce-robot-aspirateur-qui-change-seul-de-serpilliere-perd-400-e.html",
+    "pubDate": "2026-09-18T10:13:36.000Z",
+    "summary": "[Deal du jour] Amazon propose en ce moment le Dreame Matrix10 Pro à 599 € au lieu de 999 €, un robot aspirateur-laveur performant et capable de changer seul de serpillière selon la pièce qu'il nettoie"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ventes flash Amazon : 12 offres à saisir ce vendredi avant le Prime Day d'octobre",
     "source": "Clubic",
     "category": "logiciels",
@@ -112,7 +166,7 @@
     "title": "Piratage de Brevo : comment une clé compromise a menacé plus de 100 000 sites",
     "source": "Frandroid",
     "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3252317_piratage-de-brevo-comment-une-cle-compromise-a-menace-plus-de-100-000-sites",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3252317_piratage-de-brevo-comment-une-cle-compromise-a-menace-plus-de-100-000-sites",
     "pubDate": "2026-09-18T09:37:14.000Z",
     "summary": "Ce lundi 14 septembre 2026, des pirates ont détourné une clé Cloudflare de Brevo, l'ex-Sendinblue, pour glisser du code malveillant dans des ressources reprises par plus de 100 000 sites. C'est le deu"
   },
@@ -151,24 +205,6 @@
     "url": "https://www.clubic.com/actualite-630235-nextcloud-devoile-une-version-bureau-de-sa-suite-bureautique-avec-euro-office.html",
     "pubDate": "2026-09-18T09:20:00.000Z",
     "summary": "Nextcloud vient d'annoncer que sa suite bureautique, jusque-là cantonnée au navigateur, sera bientôt déclinée sous la forme d'un client de bureau pour Windows, Linux et macOS grâce à Euro-Office. Cett"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Quels sont les meilleurs aspirateurs robots laveurs de 2026 ? Notre sélection",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/guide-objets-connectes/616642_quels-sont-les-meilleurs-robots-aspirateurs-pour-dire-adieu-aux-corvees",
-    "pubDate": "2026-09-18T09:15:30.000Z",
-    "summary": "Voici notre comparatif complet des meilleurs aspirateurs robots 2026, tous testés et approuvés par la rédaction de Frandroid. Du meilleur robot aspirateur laveur haut de gamme au modèle pas cher, nous"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Snap Specs : les lunettes AR de Snapchat arrivent en France à 2 295 euros, via Orange",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/fai/3252167_snap-specs-les-lunettes-ar-de-snapchat-arrivent-en-france-a-2-295-euros-via-orange",
-    "pubDate": "2026-09-18T09:14:05.000Z",
-    "summary": "Snap a présenté ses lunettes de réalité augmentée Specs le mercredi 16 septembre 2026 à Los Angeles. Facturées 2 295 euros, elles seront commercialisées à l'automne 2026 en France, aux États-Unis et a"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -280,48 +316,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "GIGABYTE : 5 écrans gaming en promotion pour muscler son setup avant la rentrée",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-628774-gigabyte-5-ecrans-gaming-en-promotion-pour-muscler-son-setup-avant-la-rentree.html",
-    "pubDate": "2026-09-18T07:50:00.000Z",
-    "summary": "Du QHD 180 Hz au QD-OLED 240 Hz, GIGABYTE profite de sa promotion jusqu’au 21 septembre pour proposer cinq écrans gaming adaptés à des profils très différents."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous pourrez bientôt jongler entre trois comptes WhatsApp sur votre iPhone",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630232-vous-pourrez-bientot-jongler-entre-trois-comptes-whatsapp-sur-votre-iphone.html",
-    "pubDate": "2026-09-18T07:48:00.000Z",
-    "summary": "WhatsApp va étendre son système multicompte sur iPhone, lequel pourrait bientôt accueillir un troisième profil dans la même application. Ces travaux ont été repérée dans une version bêta interne, rése"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "PlayStation confond Cloud et Vincent dans un tweet sur Final Fantasy VII et se fait épingler",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2335233-playstation-confond-cloud-et-vincent-dans-un-tweet-sur-final-fantasy-vii-et-se-fait-epingler.html",
     "pubDate": "2026-09-18T06:58:15.000Z",
     "summary": "Le compte X de la marque PlayStation a été pris en flagrant délit d'une erreur monumentale, liée à Final Fantasy VII Revelation. Le community manager a confondu deux personnages du jeu pourtant culte,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fire Emblem Fortune&#8217;s Weave : par quel personnage commencer sa partie",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2335141-fire-emblem-fortunes-weave-par-quel-personnage-commencer-sa-partie.html",
-    "pubDate": "2026-09-18T06:13:17.000Z",
-    "summary": "Cai, Dietrich, Theodora ou Leda : Fire Emblem: Fortune’s Weave vous laisse choisir votre point de départ, avant de vous permettre de passer d’une histoire à l’autre. Mais avec quatre protagonistes et "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le prochain GTA Online en 2027 ? C&#8217;est ce qu&#8217;annonce le patron de Twitch",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2335221-le-prochain-gta-online-en-2027-cest-ce-quannonce-le-patron-de-twitch.html",
-    "pubDate": "2026-09-18T06:06:31.000Z",
-    "summary": "Dan Clancy, CEO de Twitch, a laissé entendre que le mode en ligne de GTA 6 pourrait arriver en 2027. Il s'attend à une explosion d'audience sur la plateforme de streaming."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
