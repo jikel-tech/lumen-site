@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Notre cerveau refuse de l&#8217;admettre et se trompe lourdement, mais au loto la grille 1-2-3-4-5-6 n&#8217;a rien de spécial",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html",
+    "pubDate": "2026-09-19T13:33:00.000Z",
+    "summary": "Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitive"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Binance : Christina Lagarde aurait pesé pour bloquer l'obtention de la licence MiCA",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630433-binance-christina-lagarde-aurait-pese-pour-bloquer-l-obtention-de-la-licence-mica.html",
+    "pubDate": "2026-09-19T13:23:00.000Z",
+    "summary": "La patronne de la BCE a encore eu de l'impact dans le secteur des cryptomonnaies. Cette fois, elle aurait pesé sur le dossier Binance."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avec plus ou moins 200 € en poche, faut-il craquer pour le nouveau Samsung Galaxy A18 ou le Xiaomi Redmi 17 ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3252691_avec-plus-ou-moins-200-e-en-poche-faut-il-craquer-pour-le-nouveau-samsung-galaxy-a18-ou-le-xiaomi-redmi-17",
+    "pubDate": "2026-09-19T13:11:00.000Z",
+    "summary": "Le Samsung Galaxy A18 et le Xiaomi Redmi 17 sont deux nouvelles références sur le marché des smartphones déjà en promotion. Des modèles ciblant les petits budgets, mais lequel offre le meilleur rappor"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
     "source": "TechCrunch",
@@ -253,30 +280,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "\"Le premier moment iPhone du robot domestique n'aura pas de jambes\" : la vision du patron de Narwal (Interview)",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/dossier-630016-le-premier-moment-iphone-du-robot-domestique-n-aura-pas-de-jambes-la-vision-du-patron-de-narwal-interview.html",
-    "pubDate": "2026-09-19T07:00:00.000Z",
-    "summary": "Dix ans après ses débuts, Narwal fait descendre son lavage en continu sous la barre des 1 000 euros avec le Freo 20. Son fondateur Junbin Zhang, rencontré à Berlin à l’occasion de l’IFA 2026, dessine "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment bien choisir sa souris ? [Sponso]",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/souris/3234113_comment-bien-choisir-sa-souris",
     "pubDate": "2026-09-19T06:29:00.000Z",
     "summary": "Bien choisir une souris, c’est trouver le périphérique qui combine la connectique, le capteur et l’ergonomie adaptés à vos besoins spécifiques. Une tâche bien différente selon que l’on cherche un modè"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Boulanger fait chuter le prix de ce TV 4K QLED 65 pouces Philips Ambilight à moins de 700 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3250245_boulanger-fait-chuter-le-prix-de-ce-tv-4k-qled-65-pouces-philips-ambilight-a-moins-de-700-e",
-    "pubDate": "2026-09-19T05:44:00.000Z",
-    "summary": "Envie d'une grande TV sans dépenser plus de 1 000 euros ? Voici le Philips 65PQS8631 : un téléviseur avec une dalle QLED de 65 pouces profitant de l'Ambilight pour une plus grande immersion. Aujourd'h"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
     "pubDate": "2026-09-18T20:25:22.000Z",
     "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-    "pubDate": "2026-09-18T20:24:33.000Z",
-    "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance."
   }
 ]
