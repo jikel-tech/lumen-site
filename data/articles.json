@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "pubDate": "2026-09-19T19:57:47.000Z",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Vous voulez parler à cette actrice IA ? Il va falloir scanner votre visage avant",
     "source": "Clubic",
@@ -46,7 +55,7 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Even mid-sprint to a secret flight, the Navy&#8217;s tech chief has a pitch for investors",
+    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3253521_chatgpt-sinstalle-gratuitement-dans-microsoft-word-pour-tout-le-monde",
     "pubDate": "2026-09-19T09:00:00.000Z",
     "summary": "Ce jeudi 17 septembre, OpenAI a lancé l'intégration officielle de ChatGPT dans Microsoft Word, gratuite sur tous les forfaits. L'assistant vient s'installer dans le traitement de texte de Microsoft, p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un rapport de renseignement écrit avec une IA a failli déclencher une crise militaire entre les États-Unis et la Chine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2336305-un-rapport-de-renseignement-ecrit-avec-une-ia-a-failli-declencher-une-crise-militaire-entre-les-etats-unis-et-la-chine.html",
-    "pubDate": "2026-09-19T07:40:15.000Z",
-    "summary": "Selon une révélation de CNN, un rapport de renseignement rédigé à l'aide d'une IA a failli déclencher une crise militaire majeure entre les États-Unis et la Chine. En cause : une « hallucination » sur"
   }
 ]
