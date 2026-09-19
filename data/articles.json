@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce pack Marshall à moins de 850 € réunit une barre de son 5.1 et un caisson de basses, de quoi profiter d&#8217;un home cinema immersif",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3250173_ce-pack-marshall-a-moins-de-850-e-reunit-une-barre-de-son-5-1-et-un-caisson-de-basses-de-quoi-profiter-dun-home-cinema-immersif",
+    "pubDate": "2026-09-19T15:32:00.000Z",
+    "summary": "Compacte, puissante et compatible Dolby Atmos/DTS:X, la barre de son Marshall Heston 60 cumule les atouts. On la recommande encore davantage quand elle se trouve dans un pack affiché à 849 euros au li"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Samsung casse le prix de son pliable anti-iPhone Duo",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3253539_samsung-casse-le-prix-de-son-pliable-anti-iphone-duo",
+    "pubDate": "2026-09-19T15:24:06.000Z",
+    "summary": "Le Samsung Galaxy Z Fold 8, ce pliable au format passeport calé entre le Flip et le grand Fold, passe à 1319 euros au lieu de 1730 euros chez Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Une Tesla au bord du vide en FSD, remboursement de Navigo et un camion sans chauffeur livre Lidl: le récap’ Vroom de la semaine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2335871-une-tesla-au-bord-du-vide-en-fsd-remboursement-de-navigo-et-un-camion-sans-chauffeur-livre-lidl-le-recap-vroom-de-la-semaine.html",
+    "pubDate": "2026-09-19T15:20:00.000Z",
+    "summary": "À la une sur Vroom cette semaine : le Tesla FSD a montré ses capacités de manœuvres complexes sur une route périlleuse, certains voyageurs peuvent se faire rembourser leur pass Navigo et Lidl se fait "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Samsung Galaxy S27 Pro & S27 Ultra : les batteries dévoilées, une grosse surprise en vue",
     "source": "Clubic",
     "category": "logiciels",
@@ -289,24 +316,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google prépare l&#8217;intégration d&#8217;iMessage dans Gemini pour macOS",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3253495_google-prepare-lintegration-dimessage-dans-gemini-pour-macos",
-    "pubDate": "2026-09-19T07:29:38.000Z",
-    "summary": "Google prépare l'arrivée d'iMessage dans son application Gemini pour macOS, une nouveauté repérée ce vendredi 18 septembre 2026. L'assistant pourra lire, chercher et envoyer des messages Apple, une se"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "12 Go de RAM et 4 350 mAh : Clicks muscle son « BlackBerry » sans hausser le prix",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/blackberry/3253497_12-go-de-ram-et-4-350-mah-clicks-muscle-son-blackberry-sans-hausser-le-prix",
-    "pubDate": "2026-09-19T07:28:24.000Z",
-    "summary": "Clicks a confirmé le 18 septembre 2026 les caractéristiques finales de son Communicator, un smartphone Android à clavier physique dans l'esprit BlackBerry. La marque gonfle la RAM et la batterie, sans"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Nintendo brade une flopée de jeux Square Enix sur l&#8217;eShop, dont plusieurs Final Fantasy",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "pubDate": "2026-09-18T23:25:01.000Z",
     "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "pubDate": "2026-09-18T23:13:31.000Z",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
   }
 ]
