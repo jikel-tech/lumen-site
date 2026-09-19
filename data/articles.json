@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "pubDate": "2026-09-19T17:30:00.000Z",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Even mid-sprint to a secret flight, the Navy&#8217;s tech chief has a pitch for investors",
     "source": "TechCrunch",
     "category": "ia",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2336149-nintendo-brade-une-flopee-de-jeux-square-enix-sur-leshop-dont-plusieurs-final-fantasy.html",
     "pubDate": "2026-09-19T07:05:00.000Z",
     "summary": "[Deal du jour] Square Enix solde une large sélection de ses jeux sur le Nintendo eShop. Les Final Fantasy et plusieurs Dragon Quest figurent parmi les titres concernés par cette vague de promotions."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Baguette One, bientôt un vol orbital inédit du Starship, manœuvre parfaite de la Nasa – le récap’ sciences de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2335785-baguette-one-vol-orbital-inedit-du-starship-manoeuvre-parfaite-de-la-nasa-le-recap-sciences-de-la-semaine.html",
-    "pubDate": "2026-09-19T04:45:00.000Z",
-    "summary": "L'actualité scientifique de la semaine peut se résumer en un mot : l'espace ! Premier envol de Baguette One prévu en France métropolitaine, paramètres du futur vol orbital du Starship, manœuvre parfai"
   }
 ]
