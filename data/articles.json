@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce SSD externe Crucial X10 Pro 1 TB voué à disparaître se paye un baroud d&#8217;honneur avec cette promo",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3252443_ce-ssd-externe-crucial-x10-pro-1-tb-voue-a-disparaitre-se-paye-un-baroud-dhonneur-avec-cette-promo",
+    "pubDate": "2026-09-19T11:19:00.000Z",
+    "summary": "Le Crucial X10 Pro 1 To est un SSD externe conçu pour les transferts lourds et les usages nomades exigeants qui passe de 199,99 euros à 169,99 euros sur Darty."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un lien piégé peut forcer WordPress à installer un thème puis exécuter du code",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630418-un-lien-piege-peut-forcer-wordpress-a-installer-un-theme-puis-executer-du-code.html",
+    "pubDate": "2026-09-19T11:15:00.000Z",
+    "summary": "Il suffit qu'un administrateur WordPress connecté ouvre un lien piégé pour que s'installe un thème du répertoire officiel choisi par l'attaquant. Si ce thème est mal protégé, l'attaquant peut ensuite "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Midea revoit son climatiseur PortaSplit pour 2027 : nouveau gaz réfrigérant et compatibilité Matter",
     "source": "Numerama",
     "category": "culture",
@@ -217,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon casse les prix ce week-end : 15 offres tech jusqu'à -70% de remise",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630376-amazon-casse-les-prix-ce-week-end-15-offres-tech-jusqu-a--70-de-remise.html",
-    "pubDate": "2026-09-19T06:00:00.000Z",
-    "summary": "Sur une même fiche Amazon, la remise peut s’afficher deux fois avec deux pourcentages différents : l’un calculé sur le prix le plus bas des trente derniers jours, l’autre sur le prix conseillé du fabr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Boulanger fait chuter le prix de ce TV 4K QLED 65 pouces Philips Ambilight à moins de 700 €",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
     "pubDate": "2026-09-18T18:49:30.000Z",
     "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "pubDate": "2026-09-18T17:59:53.000Z",
-    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
   }
 ]
