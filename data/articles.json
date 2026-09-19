@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un agent OpenAI s&#8217;invente un personnage libre, Revolut piégée par un faux mail et les géants de l&#8217;IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html",
+    "pubDate": "2026-09-19T14:30:00.000Z",
+    "summary": "Trois actualités à retenir cette semaine dans le cyberespace : des agents OpenAI qui apprennent seuls à mentir et à s'affranchir de leurs garde-fous, Revolut piégée par une simple usurpation par mail "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Indispensable ? Vraiment sécurisée ? On vous explique la signature électronique pour les entreprises",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630217-indispensable-vraiment-securisee-on-vous-explique-la-signature-electronique-pour-les-entreprises.html",
+    "pubDate": "2026-09-19T14:30:00.000Z",
+    "summary": "« Juste une petite signature et c’est parfait… » La validation et l’approbation de documents font partie du quotidien du monde de l’entreprise. Des centaines de papiers transitent, souvent par voie po"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Lancé à 589,99€ en juin, le Roborock Qrevo S Pro descend sous les 390€ chez Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630310-il-fait-le-menage-et-range-derriere-lui-ce-roborock-a-18-500-pa-passe-a-389-98.html",
+    "pubDate": "2026-09-19T14:19:00.000Z",
+    "summary": "Arrivé en juin 2026, le Roborock Qrevo S Pro embarque une station qui vide son bac et lave ses serpillières à l’eau chaude. À 389,98 € chez Amazon, il perd 200 €, ce qui déplace la question : reste-t-"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "J&#8217;ai enfin reçu les jumelles connectées Envision d&#8217;Unistellar : voici mes premières impressions",
     "source": "Frandroid",
     "category": "smartphones",
@@ -217,15 +244,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test Shokz OpenFit Air 2 : le confort avant tout pour l’open-ear",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-630190-test-shokz-openfit-air-2.html",
-    "pubDate": "2026-09-19T07:45:00.000Z",
-    "summary": "Avec les OpenFit Air 2, Shokz affine ses écouteurs ouverts les plus accessibles plutôt que de repartir d’une feuille blanche. Plus légers, plus endurants et dotés de commandes revues, ils cherchent su"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Un rapport de renseignement écrit avec une IA a failli déclencher une crise militaire entre les États-Unis et la Chine",
     "source": "Numerama",
     "category": "culture",
@@ -241,15 +259,6 @@
     "url": "https://www.frandroid.com/produits-android/3252607_le-prix-de-la-version-la-plus-complete-du-dyson-v16-qui-aspire-et-lave-en-un-geste-seffondre-de-280-e",
     "pubDate": "2026-09-19T07:35:00.000Z",
     "summary": "Le Dyson V16 Piston Animal Submarine est un aspirateur balai sans fil premium qui aspire à sec, lave les sols durs et devient un aspirateur à main pour 719 euros au lieu de 999 euros directement sur l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "À 2 900 km de profondeur, la Terre pourrait abriter une immense réserve d’eau : une pièce manquante de l’un des cycles les plus importants de notre planète",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630256-a-2-900-km-de-profondeur-la-terre-pourrait-abriter-une-immense-reserve-d-eau-une-piece-manquante-de-l-un-des-cycles-les-plus-importants-de-notre-planete.html",
-    "pubDate": "2026-09-19T07:32:00.000Z",
-    "summary": "Des anomalies isotopiques identifiées dès les années 1970, confirmées par l'étude de l'hydrogène dans la décennie 2010 le suggéraient déjà : il y a de l'eau, quelque part dans les entrailles les plus "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "pubDate": "2026-09-18T21:44:33.000Z",
     "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Automattic names interim CFO after exec departures",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-    "pubDate": "2026-09-18T20:25:22.000Z",
-    "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
   }
 ]
