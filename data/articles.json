@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Samsung Galaxy S27 Pro & S27 Ultra : les batteries dévoilées, une grosse surprise en vue",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630436-samsung-galaxy-s27-pro-s27-ultra-les-batteries-devoilees-une-grosse-surprise-en-vue.html",
+    "pubDate": "2026-09-19T15:02:00.000Z",
+    "summary": "Samsung aurait fait un gros effort sur la batterie de ses futurs smartphones. Surtout du côté du prochain Galaxy S27 Ultra !"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "pubDate": "2026-09-19T15:00:00.000Z",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "AI safety conversations have gotten unbelievable",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "pubDate": "2026-09-19T15:00:00.000Z",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Un agent OpenAI s&#8217;invente un personnage libre, Revolut piégée par un faux mail et les géants de l&#8217;IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
     "source": "Numerama",
     "category": "culture",
@@ -226,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les géants de l’IA veulent ralentir mais le droit de la concurrence pourrait les rattraper",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630412-les-geants-de-l-ia-veulent-ralentir-mais-le-droit-de-la-concurrence-pourrait-les-rattraper.html",
-    "pubDate": "2026-09-19T08:14:00.000Z",
-    "summary": "OpenAI et Anthropic ont annoncé vouloir ralentir le développement de leurs modèles pour renforcer la sécurité. Aux États-Unis, des spécialistes du droit de la concurrence redoutent que ce ralentisseme"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les meilleurs smartphones à grand écran (6,7 pouces et plus) en 2026",
     "source": "Frandroid",
     "category": "smartphones",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
     "pubDate": "2026-09-18T23:13:31.000Z",
     "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "AI hallucination nearly triggers US military operation",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "pubDate": "2026-09-18T23:12:32.000Z",
-    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-    "pubDate": "2026-09-18T21:44:33.000Z",
-    "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
   }
 ]
