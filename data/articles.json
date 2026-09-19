@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "pubDate": "2026-09-19T20:39:13.000Z",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
     "source": "TechCrunch",
     "category": "ia",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2336351-des-drones-non-identifies-ont-force-laeroport-de-luxembourg-a-fermer-vendredi-soir.html",
     "pubDate": "2026-09-19T09:01:54.000Z",
     "summary": "Le survol de drones non identifiés a forcé la fermeture de l'aéroport du Luxembourg, dans la soirée du vendredi 18 septembre 2026. Le trafic reprend progressivement ce samedi. L'origine des appareils "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "ChatGPT s&#8217;installe gratuitement dans Microsoft Word pour tout le monde",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3253521_chatgpt-sinstalle-gratuitement-dans-microsoft-word-pour-tout-le-monde",
-    "pubDate": "2026-09-19T09:00:00.000Z",
-    "summary": "Ce jeudi 17 septembre, OpenAI a lancé l'intégration officielle de ChatGPT dans Microsoft Word, gratuite sur tous les forfaits. L'assistant vient s'installer dans le traitement de texte de Microsoft, p"
   }
 ]
