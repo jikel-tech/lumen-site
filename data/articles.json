@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ils prédisent l&#8217;apocalypse par l&#8217;IA, c&#8217;est quoi les AI doomers ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
+    "pubDate": "2026-09-19T16:32:00.000Z",
+    "summary": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L’essor de l’IA produirait assez de déchets électroniques pour faire 6 fois le tour de la Terre",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630439-l-essor-de-l-ia-produirait-assez-de-dechets-electroniques-pour-faire-6-fois-le-tour-de-la-terre.html",
+    "pubDate": "2026-09-19T16:15:00.000Z",
+    "summary": "Selon Basel Action Network (BAN), l'infrastructure de l'IA pourrait produire entre 395 et 617 millions de tonnes de déchets électroniques entre 2025 et 2050. Remplis de ces déchets, 20 millions de con"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "J&#8217;ai démonté le nouveau Lenovo ThinkPad en moins de 10 minutes : la réparabilité est-elle enfin de retour sur PC ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -289,15 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Écran 5K pour Mac : l'ASUS ProArt PA27JCV tombe à 499,79€ chez Amazon",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630304-ecran-5k-pour-mac-l-asus-proart-pa27jcv-tombe-a-499-79-chez-amazon.html",
-    "pubDate": "2026-09-19T08:45:00.000Z",
-    "summary": "Le 5K en 27 pouces reste une rareté sur le marché des écrans, et son ticket d’entrée tient la plupart des créateurs à distance. L’ASUS ProArt PA27JCV descend à 499,79 € chez Amazon, un niveau d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les meilleurs smartphones à grand écran (6,7 pouces et plus) en 2026",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
     "pubDate": "2026-09-19T01:00:00.000Z",
     "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "pubDate": "2026-09-19T00:12:07.000Z",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
   }
 ]
