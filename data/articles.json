@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "La Fnac fait tomber l&#8217;Oura Ring 4 à 265 € avec la sortie du nouveau modèle",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2335827-la-fnac-fait-tomber-loura-ring-4-a-265-e-avec-la-sortie-du-nouveau-modele.html",
+    "pubDate": "2026-09-20T11:00:00.000Z",
+    "summary": "[Deal du jour] La bague connectée Oura Ring 4, lancée fin 2024 à 399 €, passe à 265 € à la Fnac. Une baisse de 134 € sur un modèle en titane rarement bradé."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Marseille-PSG : à quelle heure et sur quelle chaîne regarder le Classique ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html",
     "pubDate": "2026-09-19T13:33:00.000Z",
     "summary": "Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitive"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "pubDate": "2026-09-19T13:00:00.000Z",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
   }
 ]
