@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "8 raccourcis Windows ultra faciles (deux touches maximum) pour gagner du temps sans se tordre les doigts",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2329241-8-raccourcis-windows-ultra-faciles-deux-touches-maximum-pour-gagner-du-temps-sans-se-tordre-les-doigts.html",
+    "pubDate": "2026-09-20T15:02:00.000Z",
+    "summary": "Sur Windows, il existe des dizaines de raccourcis que les power users maîtrisent, mais qui peuvent vite ressembler à de la gymnastique pour les doigts. Et si on revenait à l'essentiel ? Voici notre sé"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "A small but growing number of founders are betting on bringing people together offline",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+    "pubDate": "2026-09-20T15:00:00.000Z",
+    "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a sma"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment désactiver un VPN ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -340,23 +358,5 @@
     "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
     "pubDate": "2026-09-19T16:32:00.000Z",
     "summary": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Une Tesla au bord du vide en FSD, remboursement de Navigo et un camion sans chauffeur livre Lidl: le récap’ Vroom de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2335871-une-tesla-au-bord-du-vide-en-fsd-remboursement-de-navigo-et-un-camion-sans-chauffeur-livre-lidl-le-recap-vroom-de-la-semaine.html",
-    "pubDate": "2026-09-19T15:20:00.000Z",
-    "summary": "À la une sur Vroom cette semaine : le Tesla FSD a montré ses capacités de manœuvres complexes sur une route périlleuse, certains voyageurs peuvent se faire rembourser leur pass Navigo et Lidl se fait "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "pubDate": "2026-09-19T15:00:00.000Z",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features "
   }
 ]
