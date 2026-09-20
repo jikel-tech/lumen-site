@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Volkswagen dévoile l’ID.3 GTI 100% électrique, la GTI la plus puissante de son histoire",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630364-volkswagen-devoile-l-id-3-gti-100-electrique-la-gti-la-plus-puissante-de-son-histoire.html",
+    "pubDate": "2026-09-20T06:01:00.000Z",
+    "summary": "Quand la GTI passe à l’électrique, Volkswagen ne fait pas les choses à moitié. Avec 326 ch, la nouvelle ID.3 GTI devient le modèle de série le plus puissant de l’histoire de cette célèbre appellation."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon frappe fort ce week-end : 15 offres tech dont un écran OLED 39\" à 699,99€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630376-amazon-casse-les-prix-ce-week-end-15-offres-tech-jusqu-a--70-de-remise.html",
+    "pubDate": "2026-09-20T06:00:00.000Z",
+    "summary": "Sur une même fiche Amazon, la remise peut s’afficher deux fois avec deux pourcentages différents : l’un calculé sur le prix le plus bas des trente derniers jours, l’autre sur le prix conseillé du fabr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Jackery brade son Explorer 1000 v2, sa station nomade de 1070 Wh, à moins de 550 € jusqu&#8217;à ce soir seulement",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3253333_jackery-brade-son-explorer-1000-v2-sa-station-nomade-de-1070-wh-a-moins-de-550-e-jusqua-ce-soir-seulement",
+    "pubDate": "2026-09-20T05:52:00.000Z",
+    "summary": "La Jackery Explorer 1000 v2 est une station électrique portable de 1070 Wh capable d'alimenter un frigo ou une plaque électrique, à retrouver pour 548,99 euros au lieu de 649 euros sur Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Pour la première fois, Gemini a piraté de vraies entreprises",
     "source": "Clubic",
     "category": "logiciels",
@@ -307,30 +334,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un lien piégé peut forcer WordPress à installer un thème puis exécuter du code",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630418-un-lien-piege-peut-forcer-wordpress-a-installer-un-theme-puis-executer-du-code.html",
-    "pubDate": "2026-09-19T11:15:00.000Z",
-    "summary": "Il suffit qu'un administrateur WordPress connecté ouvre un lien piégé pour que s'installe un thème du répertoire officiel choisi par l'attaquant. Si ce thème est mal protégé, l'attaquant peut ensuite "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Midea revoit son climatiseur PortaSplit pour 2027 : nouveau gaz réfrigérant et compatibilité Matter",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2336405-midea-revoit-son-climatiseur-portasplit-pour-2027-nouveau-gaz-refrigerant-et-compatibilite-matter.html",
     "pubDate": "2026-09-19T10:40:48.000Z",
     "summary": "Midea vient d'annoncer plusieurs changements pour la future version de son climatiseur mobile PortaSplit. Les modèles vendus en Europe en 2027 utiliseront un nouveau réfrigérant et seront compatibles "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous payez ChatGPT et Claude tous les mois ? 1min.AI propose un accès multi-IA à vie pour environ 35€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-629920-vous-payez-chatgpt-et-claude-tous-les-mois-1min-ai-propose-un-acces-multi-ia-a-vie-pour-environ-35.html",
-    "pubDate": "2026-09-19T10:15:00.000Z",
-    "summary": "StackSocial affiche la licence Pro à vie de 1min.AI à 39,99 $, soit environ 34,63 € au taux relevé aujourd'hui. L’idée : réunir GPT, Claude, Gemini et d’autres modèles dans une même interface sans mul"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3251353_la-derniere-tablette-de-honor-compatible-avec-limax-perd-50-euros-et-saccompagne-dun-casque-sans-fil",
     "pubDate": "2026-09-19T09:27:00.000Z",
     "summary": "La Honor Pad X9 Max est une tablette qui embarque une batterie de 10 100 mAh pour une quinzaine d'heures d'autonomie annoncée et, en ce moment, elle est disponible pour moins de 450 euros."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Des drones non identifiés ont forcé l&#8217;aéroport de Luxembourg à fermer vendredi soir",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2336351-des-drones-non-identifies-ont-force-laeroport-de-luxembourg-a-fermer-vendredi-soir.html",
-    "pubDate": "2026-09-19T09:01:54.000Z",
-    "summary": "Le survol de drones non identifiés a forcé la fermeture de l'aéroport du Luxembourg, dans la soirée du vendredi 18 septembre 2026. Le trafic reprend progressivement ce samedi. L'origine des appareils "
   }
 ]
