@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+    "pubDate": "2026-09-20T16:02:00.000Z",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click Tech"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Samsung Galaxy Z Fold 8 vs Honor Magic V6 : comment choisir le meilleur smartphone pliable Android ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/versus/3240001_samsung-galaxy-z-fold-8-vs-honor-magic-v6-comment-choisir-le-meilleur-smartphone-pliable-android",
+    "pubDate": "2026-09-20T16:00:00.000Z",
+    "summary": "Il y a un nouveau shérif en ville. Avec son Galaxy Z Fold 8, Samsung cherche à&nbsp;réinventer un marché qui fait du surplace&nbsp;: celui des pliants XXL, dont le Honor Magic V6 est un fier représent"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un écran de 60\" dans sa chambre : le Wielio 1080p passe à 94,99€ ce weekend",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630358-un-ecran-de-60-dans-sa-chambre-le-wielio-1080p-passe-a-94-99-ce-weekend.html",
+    "pubDate": "2026-09-20T15:45:00.000Z",
+    "summary": "La vidéoprojection à moins de 100 € impose un arbitrage simple : on gagne la taille d’image, on perd la luminosité. Le Wielio 1080p, affiché à 94,99 € chez Amazon, illustre bien ce compromis, et "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Data XXL, couverture mondiale ou 4 mois gratuits, voici trois forfaits à connaître",
     "source": "Frandroid",
@@ -253,15 +280,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "L'AMD Radeon RX 9050 testée en version 4 Go : pas loin d'une descente en Enfer ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630451-l-amd-radeon-rx-9050-testee-en-version-4-go-pas-loin-d-un-descente-en-enfer.html",
-    "pubDate": "2026-09-20T08:03:00.000Z",
-    "summary": "À force de faire des économies sur les capacités des modèles d'entrée de gamme, AMD et NVIDIA en viennent à proposer des cartes graphiques dont la pérennité est plus que compromise."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Jours fériés dans l&#8217;espace : à quoi les astronautes de l&#8217;ISS, comme Sophie Adenot, ont vraiment droit",
     "source": "Numerama",
     "category": "culture",
@@ -324,15 +342,6 @@
     "summary": "Pourquoi passer du temps à regarder de bons films ? La vie est trop courte pour se faire plaisir avec de belles images, de jolis cadrages, un montage propre et des actrices et acteurs talentueux. Non,"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "En ce mois de rentrée, ce laptop de Lenovo avec son écran OLED de 16&#8243; passe sous les 900 euros et un sac à dos est offert",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3252341_en-ce-mois-de-rentree-ce-laptop-de-lenovo-avec-son-ecran-oled-de-16-passe-sous-les-900-euros-et-un-sac-a-dos-est-offert",
-    "pubDate": "2026-09-19T17:38:00.000Z",
-    "summary": "Le Lenovo IdeaPad Slim 5 16IPH11 est un PC portable très complet puisqu'il possède un écran OLED de 16 pouces, un Intel Core Ultra 5 et 16 Go de RAM. Ce PC portable est à retrouver avec une réduction "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
     "pubDate": "2026-09-19T17:00:00.000Z",
     "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from A"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ils prédisent l&#8217;apocalypse par l&#8217;IA, c&#8217;est quoi les AI doomers ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
-    "pubDate": "2026-09-19T16:32:00.000Z",
-    "summary": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA."
   }
 ]
