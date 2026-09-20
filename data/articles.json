@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment désactiver un VPN ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/guide-19669-comment-desactiver-un-vpn.html",
+    "pubDate": "2026-09-20T14:19:00.000Z",
+    "summary": "Un clic sur « Déconnecter » ne clôt pas toujours l’affaire. L’application VPN interrompt bien le tunnel, mais d’autres réglages peuvent continuer d’agir en arrière-plan : kill switch, reconnexion auto"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "J&#8217;ai testé la conduite autonome de BYD : convaincante, mais déjà « obsolète » selon la marque",
     "source": "Frandroid",
     "category": "smartphones",
@@ -16,6 +25,15 @@
     "url": "https://www.numerama.com/pop-culture/2336027-cartes-pokemon-30em-anniversaire-wow-forever-de-gaulle-en-svod-le-recap-pop-culture-de-la-semaine.html",
     "pubDate": "2026-09-20T14:00:00.000Z",
     "summary": "Que retenir de l'actualité Pop Culture de la semaine ? Entre les cartes Pokémon Anniversaire, la sortie de De Gaulle en SVOD et l'arrivée de WoW Forever, il y a de tout pour faire un monde."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-09-20T14:00:00.000Z",
+    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -235,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Roomba Duo d'iRobot transporte un mini-robot sur son dos, mais à quoi ça sert ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630271-le-roomba-duo-d-irobot-transporte-un-mini-robot-sur-son-dos-mais-a-quoi-ca-sert.html",
-    "pubDate": "2026-09-20T07:00:00.000Z",
-    "summary": "iRobot a dévoilé durant l’IFA 2026 un concept inédit : un robot aspirateur-laveur capable de transporter et déposer un second robot plus petit dans les recoins inaccessibles. Séduisant sur le papier, "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La voiture électrique décolle même dans le pays où l’éthanol est roi",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "pubDate": "2026-09-19T15:00:00.000Z",
     "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "AI safety conversations have gotten unbelievable",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "pubDate": "2026-09-19T15:00:00.000Z",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
   }
 ]
