@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai testé la conduite autonome de BYD : convaincante, mais déjà « obsolète » selon la marque",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3142655_jai-teste-la-conduite-autonome-de-byd-convaincante-mais-deja-obsolete-selon-la-marque",
+    "pubDate": "2026-09-20T14:01:00.000Z",
+    "summary": "Fin mai, à peine quelques heures avant de dévoiler sa nouvelle génération de technologies de conduite intelligente, BYD nous a invités à monter à bord de l’un de ses modèles dans les rues de Shenzhen,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cartes Pokémon 30em anniversaire, Wow Forever, De Gaulle en SVOD&#8230;le recap pop culture de la semaine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2336027-cartes-pokemon-30em-anniversaire-wow-forever-de-gaulle-en-svod-le-recap-pop-culture-de-la-semaine.html",
+    "pubDate": "2026-09-20T14:00:00.000Z",
+    "summary": "Que retenir de l'actualité Pop Culture de la semaine ? Entre les cartes Pokémon Anniversaire, la sortie de De Gaulle en SVOD et l'arrivée de WoW Forever, il y a de tout pour faire un monde."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon casse le prix de ce moniteur 5K de 27&#8243; compatible avec le HDR",
     "source": "Frandroid",
     "category": "smartphones",
@@ -316,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai démonté le nouveau Lenovo ThinkPad en moins de 10 minutes : la réparabilité est-elle enfin de retour sur PC ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/lenovo/3237317_jai-demonte-le-nouveau-lenovo-thinkpad-en-moins-de-10-minutes-la-reparabilite-est-elle-enfin-de-retour-sur-pc",
-    "pubDate": "2026-09-19T16:01:00.000Z",
-    "summary": "Lenovo rafraîchit sa gamme ThinkPad cette année avec le concept de châssis « Space Frame », une armature qui facilite l’accès aux composants pour en simplifier le dépannage et le remplacement."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Une Tesla au bord du vide en FSD, remboursement de Navigo et un camion sans chauffeur livre Lidl: le récap’ Vroom de la semaine",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "pubDate": "2026-09-19T15:00:00.000Z",
     "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un agent OpenAI s&#8217;invente un personnage libre, Revolut piégée par un faux mail et les géants de l&#8217;IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html",
-    "pubDate": "2026-09-19T14:30:00.000Z",
-    "summary": "Trois actualités à retenir cette semaine dans le cyberespace : des agents OpenAI qui apprennent seuls à mentir et à s'affranchir de leurs garde-fous, Revolut piégée par une simple usurpation par mail "
   }
 ]
