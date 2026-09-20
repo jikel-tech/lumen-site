@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Mars cache peut-être un magma riche en fer au-dessus de son noyau, les chercheurs tiennent une piste sérieuse",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630448-mars-cache-peut-etre-un-magma-riche-en-fer-au-dessus-de-son-noyau-les-chercheurs-tiennent-une-piste-serieuse.html",
+    "pubDate": "2026-09-20T06:27:00.000Z",
+    "summary": "Des chercheurs ont reproduit en laboratoire les conditions du manteau de Mars. Leur étude suggère que le magma riche en fer né vers 1 550 km de profondeur pourrait former la couche détectée par la mis"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La voiture électrique décolle même dans le pays où l’éthanol est roi",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2335851-la-voiture-electrique-decolle-meme-dans-le-pays-ou-lethanol-est-roi.html",
+    "pubDate": "2026-09-20T06:25:00.000Z",
+    "summary": "Le Brésil, pays de l’éthanol, se met à accélérer plus rapidement qu'imaginé sur l’électrique. Et les constructeurs chinois n’y sont pas pour rien. Je vous embarque avec moi pour un voyage au Brésil da"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Volkswagen dévoile l’ID.3 GTI 100% électrique, la GTI la plus puissante de son histoire",
     "source": "Clubic",
     "category": "logiciels",
@@ -298,15 +316,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le FBI et les garde-côtes inspectent deux navires après une cyberattaque présumée, l'Iran soupçonné",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630427-le-fbi-et-les-garde-cotes-inspectent-deux-navires-apres-une-cyberattaque-presumee-liran-soupconne.html",
-    "pubDate": "2026-09-19T12:18:00.000Z",
-    "summary": "Les garde-côtes américains et le FBI sont montés à bord de deux navires en route vers le Texas, les 21 et 24 août, après une intrusion informatique présumée. Les enquêteurs ont trouvé une activité mal"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "On a testé la Navee GT5 Max, une trottinette électrique qui secoue Segway et Xiaomi",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/marques/garmin/3240977_jai-teste-la-garmin-fenix-9-pro-le-titane-change-tout-lautonomie-un-peu-moins",
     "pubDate": "2026-09-19T10:00:00.000Z",
     "summary": "Fini le plastique, place au titane. La Garmin Fenix 9 Pro s'offre une montée en gamme évidente, avec un écran Amoled de 3000 cd/m². Entre un stockage doublé et de nouvelles métriques, la montre regorg"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La dernière tablette de Honor, compatible avec l&#8217;IMAX, perd 50 euros et s&#8217;accompagne d&#8217;un casque sans fil",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3251353_la-derniere-tablette-de-honor-compatible-avec-limax-perd-50-euros-et-saccompagne-dun-casque-sans-fil",
-    "pubDate": "2026-09-19T09:27:00.000Z",
-    "summary": "La Honor Pad X9 Max est une tablette qui embarque une batterie de 10 100 mAh pour une quinzaine d'heures d'autonomie annoncée et, en ce moment, elle est disponible pour moins de 450 euros."
   }
 ]
