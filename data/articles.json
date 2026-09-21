@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Au CERN, des physiciens recréent une gerbe de particules cosmiques en laboratoire pour la première fois",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2336659-au-cern-des-physiciens-recreent-une-gerbe-de-particules-cosmiques-en-laboratoire-pour-la-premiere-fois.html",
+    "pubDate": "2026-09-21T21:28:03.000Z",
+    "summary": "Des scientifiques du CERN se sont servis du Grand Collisionneur de Hadrons pour créer sur place le même phénomène qui se produit lorsque des rayons énergétiques présents dans l'Univers heurtent les ga"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/actualite-630622-xiaomi-18-pro-les-fiches-techniques-et-la-tres-prochaine-date-de-lancement-devoilees.html",
     "pubDate": "2026-09-21T14:48:00.000Z",
     "summary": "C'est au tour de Xiaomi de prendre de la place avec sa nouvelle série de smartphones Xiaomi 18 Pro. Des appareils qui se dévoilent presque totalement avant leur sortie."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "pubDate": "2026-09-21T14:39:22.000Z",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience."
   }
 ]
