@@ -1,5 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "pubDate": "2026-09-21T16:38:51.000Z",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "3 fois moins chère que le nucléaire : cette centrale bretonne produit une électricité record depuis 60 ans",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/energie/3253547_3-fois-moins-chere-que-le-nucleaire-cette-centrale-bretonne-produit-une-electricite-record-depuis-60-ans",
+    "pubDate": "2026-09-21T16:35:15.000Z",
+    "summary": "Il existe en Bretagne une centrale capable de produire chaque année 500 gigawattheures d'une électricité décarbonée, et trois fois moins chère que le nucléaire, depuis 1966 ! L'usine marémotrice de la"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Compatible PS5 et livré avec son dissipateur, ce SSD Lexar de 4 To perd 50 euros",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2337093-compatible-ps5-et-livre-avec-son-dissipateur-ce-ssd-lexar-de-4-to-perd-50-euros.html",
+    "pubDate": "2026-09-21T16:30:00.000Z",
+    "summary": "[Deal du jour] Garder ses jeux installés sans devoir faire le ménage à chaque nouveauté : c’est la promesse des 4 To du Lexar EQ790. Ce SSD compatible PC et PS5 tombe en promotion sur Amazon, avec son"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ryzen 9, 32 Go de RAM, RTX 5070 Ti : ce laptop gamer OLED répond aux besoins des joueurs exigeants et perd 400 €",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3254681_ryzen-9-32-go-de-ram-rtx-5070-ti-ce-laptop-gamer-oled-repond-aux-besoins-des-joueurs-exigeants-et-perd-400-e",
+    "pubDate": "2026-09-21T16:26:00.000Z",
+    "summary": "Avec son processeur musclé, sa carte graphique performante et son écran OLED ultra-fluide, le Gigabyte Aorus Master 16 a de sérieux arguments pour convaincre les gamers les plus pointilleux. Il a en p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Leapmotor veut supprimer la batterie 12 volts de ses voitures électriques, une première en 70 ans",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/leapmotor/3254625_leapmotor-veut-supprimer-la-batterie-12-volts-de-ses-voitures-electriques-une-premiere-en-70-ans",
+    "pubDate": "2026-09-21T16:24:28.000Z",
+    "summary": "Leapmotor a présenté le 16 septembre dernier deux nouveautés pour ses futures voitures électriques : une architecture censée offrir beaucoup plus de place à bord, et une batterie capable de remplacer "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Équinoxe d&#8217;automne 2026 : pourquoi l&#8217;automne commence le 23 septembre, pas le 21",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/549792-equinoxe-dautomne-2026-pourquoi-lautomne-commence-le-23-septembre-pas-le-21.html",
+    "pubDate": "2026-09-21T16:20:22.000Z",
+    "summary": "En 2026, l'automne commence officiellement le 23 septembre. On aurait pu s'attendre à ce que l'équinoxe se produise plus tôt, par exemple le lundi 21 septembre. Pourquoi n'est-ce pas le cas ? Pour le "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Lancée à 481€, la Xiaomi Pad 7 256 Go est à 252,97€ : que vaut l'offre face à un iPad ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630592-lancee-a-481-la-xiaomi-pad-7-256-go-est-a-252-97-que-vaut-l-offre-face-a-un-ipad.html",
+    "pubDate": "2026-09-21T16:19:00.000Z",
+    "summary": "La Xiaomi Pad 7 joue sur le terrain de l’iPad : grande dalle 3,2K à 144 Hz, quatre haut-parleurs et 8 850 mAh de batterie. Son prix de 252,97 € en version 256 Go change l’arbitrage, et nous regardons "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Grande première du Starship : suivez en direct le vol orbital que va tenter la fusée géante",
     "source": "Numerama",
@@ -162,15 +225,6 @@
     "summary": "Depuis plusieurs jours, des internautes constatent qu'ils ne peuvent pas choisir une définition de vidéo supérieure à 480p dans l'application mobile YouTube. Il y a des solutions de contournement temp"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "27 milliards de paramètres dans 5,9 Go : l&#8217;IA chinoise géante qui tourne sur Mac et iPhone",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3254539_27-milliards-de-parametres-dans-59-go-lia-chinoise-geante-qui-tourne-sur-mac-et-iphone",
-    "pubDate": "2026-09-21T15:00:17.000Z",
-    "summary": "La startup américaine PrismML a publié Ternary Bonsai 2 27B, un modèle d'IA de 27 milliards de paramètres qui tient dans 5,9 Go de mémoire. Soit de quoi le faire tenir dans un smartphone ou un simple "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
     "source": "TechCrunch",
@@ -190,30 +244,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Comment transférer ses playlists Spotify vers Apple Music ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/streaming-musical/1839875_comment-transferer-ses-playlists-spotify-vers-apple-music",
-    "pubDate": "2026-09-21T14:55:00.000Z",
-    "summary": "Hop ! Vous avez décidé de changer de service de streaming musical en passant de Spotify à Apple Music. Mais transférer ses playlists ne se fait pas en un claquement de doigts. Heureusement, il y a des"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Xiaomi 18 Pro : les fiches techniques et la (très prochaine) date de lancement dévoilées",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-630622-xiaomi-18-pro-les-fiches-techniques-et-la-tres-prochaine-date-de-lancement-devoilees.html",
     "pubDate": "2026-09-21T14:48:00.000Z",
     "summary": "C'est au tour de Xiaomi de prendre de la place avec sa nouvelle série de smartphones Xiaomi 18 Pro. Des appareils qui se dévoilent presque totalement avant leur sortie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La batterie de votre Pixel 11 se vide rapidement ? Votre routeur pourrait être le coupable",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3254307_la-batterie-de-votre-pixel-11-se-vide-rapidement-votre-routeur-pourrait-etre-le-coupable",
-    "pubDate": "2026-09-21T14:40:57.000Z",
-    "summary": "Un internaute perplexe devant la faible autonomie de la batterie de son Pixel 11 a mené des tests. Et tous les indices pointent vers le même coupable : le routeur auquel il connecte l'appareil en Wi-F"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -240,7 +276,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-21T14:30:00.000Z",
-    "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25."
+    "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -322,41 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-630586-cet-aspirateur-balai-laveur-roborock-s-incline-a-180-c-pour-passer-sous-tous-les-meubles-et-sous-la-barre-des-150.html",
     "pubDate": "2026-09-21T13:23:00.000Z",
     "summary": "Le Roborock F25 RT est un aspirateur balai laveur positionné comme l’option la plus accessible de cette gamme, qui l’est encore plus avec les 210 € de réduction sur Cdiscount."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google lance officiellement ses Googlebook pour concurrencer les MacBook d&#8217;Apple",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2336957-google-lance-officiellement-ses-googlebook-pour-concurrencer-les-macbook-dapple.html",
-    "pubDate": "2026-09-21T13:15:00.000Z",
-    "summary": "Les premiers Googlebook sont officiels. Avec ces nouveaux ordinateurs portables, Google rapproche Android du PC et fait une grande place à Gemini. Modèles, prix et disponibilité : voici ce qu’il faut "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google présente en détail ses Googlebook, les ordinateurs qui ne font plus qu'un avec Android",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630325-google-presente-en-detail-ses-googlebook-les-ordinateurs-qui-ne-font-plus-qu-un-avec-android.html",
-    "pubDate": "2026-09-21T13:00:00.000Z",
-    "summary": "À deux semaines du lancement d’une première fournée de Googlebook, Google communique enfin en détail sur cette nouvelle catégorie d’appareils. On découvre donc cette semaine leurs prix, leurs spécific"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette modification de l’éco-score pourrait faire perdre le bonus (et AEN) à plusieurs voitures électriques",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2336955-eco-score-des-voitures-electriques-une-revision-du-calcul-pourrait-entrainer-un-vrai-chamboule-tout.html",
-    "pubDate": "2026-09-21T12:55:19.000Z",
-    "summary": "Un projet de révision de l'éco-score est en réflexion au sein du gouvernement pour créer une troisième catégorie dédiée aux véhicules électriques 7 places. Ce cadeau pour les véhicules familiaux cache"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous avez trop de réunions ? Ce petit badge qui enregistre et résume vos réunions grâce à l&#8217;IA perd 51 € pour la rentrée",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2336825-vous-avez-trop-de-reunions-ce-petit-badge-qui-enregistre-et-resume-vos-reunions-grace-a-lia-perd-51-e-pour-la-rentree.html",
-    "pubDate": "2026-09-21T12:15:00.000Z",
-    "summary": "[Deal du jour] Le Plaud NotePin, un petit enregistreur vocal qui transcrit et résume vos conversations avec l'IA, tombe à 118,90 € au lieu de 169,90 € sur le site de la marque."
   }
 ]
