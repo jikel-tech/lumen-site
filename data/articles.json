@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vous avez trop de réunions ? Ce petit badge qui enregistre et résume vos réunions grâce à l&#8217;IA perd 51 € pour la rentrée",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2336825-vous-avez-trop-de-reunions-ce-petit-badge-qui-enregistre-et-resume-vos-reunions-grace-a-lia-perd-51-e-pour-la-rentree.html",
+    "pubDate": "2026-09-21T12:15:00.000Z",
+    "summary": "[Deal du jour] Le Plaud NotePin, un petit enregistreur vocal qui transcrit et résume vos conversations avec l'IA, tombe à 118,90 € au lieu de 169,90 € sur le site de la marque."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "TSMC devrait pouvoir produire ses premières puces en 1,4 nm à partir de 2028",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630559-tsmc-devrait-pouvoir-produire-ses-premieres-puces-en-1-4-nm-a-partir-de-2028.html",
+    "pubDate": "2026-09-21T12:14:00.000Z",
+    "summary": "Alors que les premières puces en 2 nm sont sorties récemment, TSMC, leader mondial dans le domaine, devrait annoncer ses premières puces en 1,4 nm d'ici deux ans. L'intérêt de cette course à la miniat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce TV OLED LG abordable de 2026 qui permet de jouer en 4K 120 Hz voit son prix s&#8217;alléger de 200 euros",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3253945_ce-tv-oled-lg-abordable-de-2026-qui-permet-de-jouer-en-4k-120-hz-voit-son-prix-salleger-de-200-euros",
+    "pubDate": "2026-09-21T12:09:45.000Z",
+    "summary": "Récemment lancé, le LG OLED55B65LA est un TV complet, idéal pour les gamers et les cinéphiles, mais aussi pour celles et ceux qui souhaitent entrer dans l’univers OLED sans avoir un énorme budget. Act"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Gemini a piraté trois entreprises mais Google ne parle pas de « désalignement »",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2336627-gemini-a-pirate-trois-entreprises-mais-google-ne-parle-pas-de-desalignement.html",
+    "pubDate": "2026-09-21T12:02:00.000Z",
+    "summary": "Lors d'un test mené en mai, Gemini s'est introduit chez trois entreprises en devinant des identifiants. Google a confirmé l'incident, en insistant sur les défaillances du test plutôt que sur le compor"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Des chercheurs ont réussi à détourner les fonctions IA de Chrome, Edge et Comet pour fouiller dans vos données et agir à votre place",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630544-des-chercheurs-ont-reussi-a-detourner-les-fonctions-ia-de-chrome-edge-et-comet-pour-fouiller-dans-vos-donnees-et-agir-a-votre-place.html",
+    "pubDate": "2026-09-21T12:01:00.000Z",
+    "summary": "Une extension malveillante peut-elle retourner l’IA de votre navigateur contre vous ? Oui, d’après les travaux de chercheurs qui sont parvenus à détourner les fonctions IA de cinq environnements Chrom"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "\"C'est du vent pour protéger leurs marges\" : le patron d'Acer critique la spéculation sur la RAM et prédit la fin de la crise",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630553-c-est-du-vent-pour-proteger-leurs-marges-le-patron-d-acer-critique-la-speculation-sur-la-ram-et-predit-la-fin-de-la-crise.html",
+    "pubDate": "2026-09-21T11:45:00.000Z",
+    "summary": "La crise de la RAM pousse les prix toujours plus loin et toujours plus haut, mais vent contre tous, un homme, le PDG d'Acer, s'exprime clairement. Pour lui, les prix sont gonflés artificiellement et l"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Qui sème la vanne récolte le ban : des pseudos injurieux sur WoW Forever amènent Blizzard à exclure des joueurs",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2336631-qui-seme-la-vanne-recolte-le-ban-des-pseudos-injurieux-sur-wow-forever-amenent-blizzard-a-exclure-des-joueurs.html",
+    "pubDate": "2026-09-21T11:37:00.000Z",
+    "summary": "World of Warcraft: Forever laisse enfin choisir un prénom et un nom de famille à son personnage. Une partie des joueurs en a profité pour glisser des insultes, et Blizzard leur retire l’accès à la bêt"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Neagley : le spin-off de Reacher cartonne partout sur la planète et il y a une bonne raison",
     "source": "Numerama",
     "category": "culture",
@@ -145,7 +208,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple Home Hub : le centre intelligent qui va révolutionner votre maison",
+    "title": "Le Home Hub d'Apple serait déjà testé chez ses employés, et pourrait arriver dès octobre",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-630523-apple-home-hub-le-centre-intelligent-qui-va-revolutionner-votre-maison.html",
@@ -226,24 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Qui sème la vanne récolte le ban : Blizzard exclut des joueurs de la bêta de WoW Forever pour des noms de famille insultants",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2336631-qui-seme-la-vanne-recolte-le-ban-blizzard-exclut-des-joueurs-de-la-beta-de-wow-forever-pour-des-noms-de-famille-insultants.html",
-    "pubDate": "2026-09-21T09:37:45.000Z",
-    "summary": "World of Warcraft: Forever laisse enfin choisir un prénom et un nom de famille à son personnage. Une partie des joueurs en a profité pour glisser des insultes, et Blizzard leur retire l’accès à la bêt"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette fois, LG atteint vraiment 720 Hz en Full HD sur un écran OLED",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630508-cette-fois-lg-atteint-vraiment-720-hz-en-full-hd-sur-un-ecran-oled.html",
-    "pubDate": "2026-09-21T09:35:00.000Z",
-    "summary": "LG Display passe un nouveau cap dans la course aux écrans gaming ultrarapides. Sa nouvelle dalle OLED de 24,5 pouces atteint 720 Hz directement en Full HD, sans avoir besoin d'abaisser sa définition c"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Apple a dévoilé ses AirPods 5, mais les AirPods 4 avec ANC en promo à moins de 140 € valent encore le détour",
     "source": "Frandroid",
     "category": "smartphones",
@@ -262,33 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Rachat de SFR : plus de 5 000 postes sont menacés, les élus du personnel attaquent en justice Bouygues, Orange et Free",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/fai/3253759_rachat-de-sfr-plus-de-5-000-postes-sont-menaces-les-elus-du-personnel-attaquent-en-justice-bouygues-orange-et-free",
-    "pubDate": "2026-09-21T09:18:44.000Z",
-    "summary": "Après avoir appelé à la grève et assigné en justice la direction d'Altice France, les CSE de SFR (comités sociaux et économiques, qui représentent le personnel) attaquent cette fois-ci le consortium d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "À contre-courant, Jensen Huang balaie toutes les craintes sur l’IA... L’appât du gain ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630505-a-contre-courant-jensen-huang-balaie-toutes-les-craintes-sur-l-ia-l-appat-du-gain.html",
-    "pubDate": "2026-09-21T09:18:00.000Z",
-    "summary": "Pendant que de nombreuses voix dans l’industrie de l’intelligence artificielle (IA) alertent sur un possible scénario catastrophe, Jensen Huang hausse les épaules et minimise les craintes de ses pairs"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Claude, Codex ou OpenClaw peuvent désormais prendre le contrôle d’un vrai smartphone Android",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630511-ce-projet-de-google-transforme-votre-smartphone-android-en-terrain-de-jeu-pour-les-agents-ia.html",
-    "pubDate": "2026-09-21T09:17:00.000Z",
-    "summary": "Avec ARTEMIS, Google propose un framework open source capable de confier un véritable smartphone Android à un agent IA. Claude Code, Codex, Antigravity ou OpenClaw peuvent ainsi naviguer dans les appl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le compositeur de Silent Hill signe la musique d’un jeu d’horreur où il faut faire le ménage",
     "source": "Numerama",
     "category": "culture",
@@ -304,24 +322,6 @@
     "url": "https://www.numerama.com/vroom/2336569-tesla-reduit-discretement-la-hauteur-du-model-y-l-apres-des-plaintes-sur-ses-suspensions.html",
     "pubDate": "2026-09-21T09:07:13.000Z",
     "summary": "Tesla a discrètement rogné quelques millimètres sur la hauteur et la garde au sol du Model Y L dans son manuel en ligne. Le changement tombe en pleine vague de plaintes chinoises sur des suspensions a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce détail étrange montre-t-il que Marvel’s Wolverine utilise de l’IA ? Le studio répond",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2336575-ce-detail-etrange-montre-t-il-que-marvels-wolverine-utilise-de-lia-le-studio-repond.html",
-    "pubDate": "2026-09-21T08:02:31.000Z",
-    "summary": "Un panneau particulièrement étrange repéré dans Marvel’s Wolverine a poussé certains joueurs à soupçonner l’utilisation d’une IA générative. Insomniac Games assure qu’il s’agit d’un simple bug graphiq"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sophie Adenot de retour sur Terre d&#8217;ici peu : la relève entre en quarantaine, pour un départ très bientôt",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2336557-sophie-adenot-de-retour-sur-terre-dici-peu-la-releve-entre-en-quarantaine-pour-un-depart-tres-bientot.html",
-    "pubDate": "2026-09-21T07:57:18.000Z",
-    "summary": "L'équipage qui doit remplacer Sophie Adenot à bord de la Station spatiale internationale est entré en quarantaine. Son décollage, visé début octobre, annonce le retour sur Terre de l'astronaute frança"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
