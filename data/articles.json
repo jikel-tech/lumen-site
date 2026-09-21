@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "pubDate": "2026-09-21T20:15:58.000Z",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "0 € de facture d&#8217;électricité pendant 10 ans : l&#8217;incroyable projet d&#8217;Octopus Energy près de Rennes",
     "source": "Frandroid",
@@ -10,7 +19,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "50 € à l&#8217;achat, 300 € d&#8217;économies par an : pourquoi le routeur solaire bat toutes les batteries",
+    "title": "150 € à l&#8217;achat, 300 € d&#8217;économies par an : pourquoi le routeur solaire bat toutes les batteries",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/survoltes/energie/3253557_50-e-a-lachat-300-e-deconomies-par-an-pourquoi-le-routeur-solaire-bat-toutes-les-batteries",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
     "pubDate": "2026-09-21T14:39:22.000Z",
     "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Warner/Paramount : les autorités américaines imposent une énorme condition qui peut tout changer",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2337051-warner-paramount-les-autorites-americaines-imposent-une-enorme-condition-qui-peut-tout-changer.html",
-    "pubDate": "2026-09-21T14:34:53.000Z",
-    "summary": "Pour valider le rachat pharaonique de Warner Bros Discovery par Paramount Skydance pour 110 milliards de dollars, les autorités américaines exigent un engagement inédit. Et la note est très salée."
   }
 ]
