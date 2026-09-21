@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+    "pubDate": "2026-09-21T18:23:05.000Z",
+    "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50 megawatt nuclear power plant."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "À peine sorti, ce robot laveur Narwal à serpillière autonettoyante baisse déjà de prix",
     "source": "Numerama",
@@ -150,7 +159,7 @@
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2327839-grande-premiere-du-starship-suivez-en-direct-le-vol-orbital-que-va-tenter-la-fusee-geante.html",
     "pubDate": "2026-09-21T16:12:33.000Z",
-    "summary": "Le 14e vol d'essai du Starship, la fusée géante de SpaceX, est attendu à partir du 22 septembre 2026 depuis le Texas. Cette fois, l'entreprise vise pour de bon l'orbite, avec de vrais satellites Starl"
+    "summary": "Le 14e vol d'essai du Starship, la fusée géante de SpaceX, est attendu à partir du 28 septembre 2026 depuis le Texas. Cette fois, l'entreprise vise pour de bon l'orbite, avec de vrais satellites Starl"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -321,7 +330,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
     "pubDate": "2026-09-21T14:39:22.000Z",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
+    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-630532-boulanger-met-en-lumiere-la-philips-hue-go-une-lampe-connectee-multicolore-bradee-a--33.html",
     "pubDate": "2026-09-21T14:27:00.000Z",
     "summary": "La Philips Hue Go White & Color Ambiance est une lampe connectée qui fonctionne sur secteur ou batterie, qui se retrouve à 59,99 euros au lieu de 89,99 euros sur Boulanger."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Bitcoin monte très fort à plus de 85 000 dollars, et cette fois, les altcoins suivent",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630595-le-bitcoin-monte-tres-fort-a-plus-de-85-000-dollars-et-cette-fois-les-altcoins-suivent.html",
-    "pubDate": "2026-09-21T14:21:00.000Z",
-    "summary": "Petit à petit, on retrouve un marché des cryptos en meilleure santé. Le Bitcoin vient ainsi de bénéficier d'une forte impulsion, et entraîne derrière lui les altcoins."
   }
 ]
