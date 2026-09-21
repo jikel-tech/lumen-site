@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tesla réduit discrètement la hauteur du Model Y L après des plaintes sur ses suspensions",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2336569-tesla-reduit-discretement-la-hauteur-du-model-y-l-apres-des-plaintes-sur-ses-suspensions.html",
+    "pubDate": "2026-09-21T09:07:13.000Z",
+    "summary": "Tesla a discrètement rogné quelques millimètres sur la hauteur et la garde au sol du Model Y L dans son manuel en ligne. Le changement tombe en pleine vague de plaintes chinoises sur des suspensions a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test Samsung Galaxy S26 FE : une évolution très sage… malgré un prix en hausse",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/test-produit-628570-test-samsung-galaxy-s26-fe-une-evolution-tres-sage-malgre-un-prix-en-hausse.html",
+    "pubDate": "2026-09-21T09:01:00.000Z",
+    "summary": "Quelques semaines seulement après le lancement de ses nouveaux pliants, Samsung nous revient déjà avec une référence nettement moins enthousiasmante : le Galaxy S26 FE. Dans une autre vie, on appelait"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft prépare une nouvelle option pour empêcher vos fichiers de survivre à une réinstallation de Windows 11",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630520-microsoft-prepare-une-nouvelle-option-pour-empecher-vos-fichiers-de-survivre-a-une-reinstallation-de-windows-11.html",
+    "pubDate": "2026-09-21T08:43:00.000Z",
+    "summary": "Réinitialiser Windows ne garantit pas toujours la disparition définitive des fichiers locaux. Microsoft teste désormais une option d’effacement sécurisé dans Cloud Rebuild, son nouvel outil de réinsta"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "iPhone 20 Pro : une première fuite dévoile la taille des écrans pour 2027",
     "source": "Frandroid",
     "category": "smartphones",
@@ -270,24 +297,6 @@
     "summary": "Remedy Entertainment n'a pas hésité à rendre hommage à David Lynch, dont les œuvres ont inspiré ses jeux vidéo. Une citation tirée de la série Twin Peaks se trouve dans Control Resonant."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pourquoi Apple a abandonné son Apple Pencil plus court conçu pour l’iPhone Duo",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630487-pourquoi-apple-a-abandonne-son-apple-pencil-plus-court-concu-pour-l-iphone-duo.html",
-    "pubDate": "2026-09-21T05:48:00.000Z",
-    "summary": "L'Apple Pencil USB-C accompagnera l'iPhone Duo, mais ce n'était pas le plan initial d'Apple. La firme américaine avait conçu un stylet inédit spécialement pour son premier smartphone pliant, avant d'y"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon casse les prix ce lundi : 15 offres tech jusqu'à -70% de remise",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630376-amazon-casse-les-prix-ce-week-end-15-offres-tech-jusqu-a--70-de-remise.html",
-    "pubDate": "2026-09-21T05:30:00.000Z",
-    "summary": "Sur une même fiche Amazon, la remise peut s’afficher deux fois avec deux pourcentages différents : l’un calculé sur le prix le plus bas des trente derniers jours, l’autre sur le prix conseillé du fabr"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/sciences/2334615-une-premiere-pour-le-starship-voila-minute-par-minute-ce-que-la-fusee-geante-de-spacex-va-tenter.html",
     "pubDate": "2026-09-20T16:32:00.000Z",
     "summary": "Cette nouvelle mission spatiale marque une étape cruciale dans le développement du Starship : pour la première fois, la fusée poids lourd de SpaceX tentera de se placer réellement en orbite autour de "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-    "pubDate": "2026-09-20T16:30:00.000Z",
-    "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics."
   }
 ]
