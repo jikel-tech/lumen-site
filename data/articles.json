@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Waymo&#8217;s latest expansion strategy: teenagers",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+    "pubDate": "2026-09-22T17:36:06.000Z",
+    "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voiture électrique : Geely va officialiser un système de recharge... en 4 minutes !",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630856-voiture-electrique-geely-va-officialiser-un-systeme-de-recharge-en-4-minutes.html",
+    "pubDate": "2026-09-22T17:26:00.000Z",
+    "summary": "Du côté des constructeurs chinois, on cherche à proposer une vitesse de recharge de véhicule la plus élevée possible. Et Geely devrait encore repousser les limites avec son système qui arrive."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Decathlon et Alstom expliquent comment ils veulent faciliter le transport de son vélo dans un train",
     "source": "Clubic",
@@ -288,15 +306,6 @@
     "summary": "Le musée de George Lucas ouvre ses portes ce mardi 22 septembre à Los Angeles. Dans une interview à CBS, le cinéaste explique qu'il a renoncé à trois nouveaux films Star Wars pour le bâtir."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Beats 360 : la promesse d'un casque sportif et personnalisable, pour iOS et Android",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630589-beats-360-la-promesse-d-un-casque-sportif-et-personnalisable-pour-ios-et-android.html",
-    "pubDate": "2026-09-22T14:00:00.000Z",
-    "summary": "Soyons honnêtes, les casques Beats ne font plus autant rêver qu’avant. Dans l’ombre d’Apple, cantonné à être une sorte de branche sportive pour la firme de Cupertino, ses produits ont toujours paru mo"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "TikTok&#8217;s US arm joins Lantern, a cross-platform child safety initiative",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/telecom/box-internet/3256365_papier-alu-derriere-la-box-wi-fi-ce-que-dit-vraiment-letude-de-dartmouth-que-tout-le-monde-cite-depuis-2017",
     "pubDate": "2026-09-22T13:44:01.000Z",
     "summary": "Une feuille d'aluminium pliée derrière la box pour doper son débit, l'astuce ressort à peu près tous les ans. Elle s'appuie sur une vraie étude universitaire, dont elle a gardé le nom et oublié à peu "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cybertek HERMES : un PC gaming 100 % AMD à 1 450 € capable de tenir la 2K sur tous les AAA [Sponso]",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/3254153_cybertek-hermes-un-pc-gaming-100-amd-a-1-450-e-capable-de-tenir-la-2k-sur-tous-les-aaa",
-    "pubDate": "2026-09-22T13:41:11.000Z",
-    "summary": "Jouer à tous les jeux du moment (et ceux à venir) jusqu'en 1440p, c'est la promesse du PC HERMES assemblé par Cybertek. Pour 1 449,99 €, cette configuration AMD est excellente pour s'initier au gaming"
   }
 ]
