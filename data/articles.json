@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+    "pubDate": "2026-09-22T18:40:30.000Z",
+    "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "OpenAI lance GPT-6 Sol, quelques minutes après la sortie de Claude Opus 5.5",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/openai/3256771_openai-lance-gpt-6-sol-quelques-minutes-apres-la-sortie-de-claude-opus-5-5",
+    "pubDate": "2026-09-22T18:39:57.000Z",
+    "summary": "OpenAI a lancé GPT-6 Sol quelques minutes seulement après qu'Anthropic a présenté Claude Opus 5.5. Deux modèles rivaux dévoilés le même jour, dans le même mouchoir de poche."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude Opus 5.5 : Anthropic promet 40 % moins cher et 30 % plus rapide",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3256807_claude-opus-5-5-anthropic-promet-40-moins-cher-et-30-plus-rapide",
+    "pubDate": "2026-09-22T18:36:51.000Z",
+    "summary": "Anthropic lance Claude Opus 5.5 ce 22 septembre 2026, premier modèle d'une nouvelle famille baptisée «&nbsp;Claude 5.5&nbsp;». La marque le dit 40&nbsp;% moins cher et 30&nbsp;% plus rapide qu'Opus 5,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic lance Claude Opus 5.5, 40 % moins cher à faire tourner qu&#8217;Opus 5",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3256799_anthropic-lance-claude-opus-5-5-40-moins-cher-a-faire-tourner-quopus-5",
+    "pubDate": "2026-09-22T18:30:39.000Z",
+    "summary": "Anthropic a lancé Claude Opus 5.5 le 22 septembre 2026, un modèle qui atteint le niveau de son haut de gamme Fable 5.1 sur la plupart des tâches tout en coûtant 40&nbsp;% moins cher à faire tourner qu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Après le smartphone, MediaTek vise le PC Android avec le Dimensity CX C10 Max",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/mediatek-materiels-accessoires/3256791_apres-le-smartphone-mediatek-vise-le-pc-android-avec-le-dimensity-cx-c10-max",
+    "pubDate": "2026-09-22T18:30:07.000Z",
+    "summary": "MediaTek a présenté le 21 septembre 2026 le Dimensity CX C10 Max, sa première puce pour ordinateur portable, taillée pour les Googlebooks. Elle manque pourtant à l'appel des premiers modèles lancés le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Montage 4K, multipiste et gratuit : Adobe Premiere arrive sur Android",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/applications/3256773_montage-4k-multipiste-et-gratuit-adobe-premiere-arrive-sur-android",
+    "pubDate": "2026-09-22T18:27:02.000Z",
+    "summary": "Adobe déploie son application Premiere sur Android ce 22 septembre 2026, gratuitement et sans abonnement Creative Cloud. Soit un an après sa sortie sur iPhone."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "A16z is challenging Silicon Valley&#8217;s love for drop-outs by launching a school",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "pubDate": "2026-09-22T18:24:34.000Z",
+    "summary": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
     "source": "TechCrunch",
     "category": "ia",
@@ -295,68 +358,5 @@
     "url": "https://www.frandroid.com/marques/apple/3256445_apple-avait-promis-cette-fonction-aux-iphone-16-et-17-pro-mais-ils-ny-auront-pas-le-droit",
     "pubDate": "2026-09-22T14:02:44.000Z",
     "summary": "Apple a discrètement retiré une nouvelle fonction photo de l'iPhone 16 Pro et de l'iPhone 17 Pro pour la réserver à l'iPhone 18 Pro, sans un mot d'explication."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour financer vos études, BNP Paribas propose une offre de rentrée à 0,99 % TAEG à durée limitée [Sponso]",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2334693-pour-financer-vos-etudes-bnp-paribas-propose-une-offre-de-rentree-a-099-taeg-a-duree-limitee.html",
-    "pubDate": "2026-09-22T14:02:00.000Z",
-    "summary": "Cet article a été réalisé en collaboration avec BNP Paribas Que vous commenciez vos études en France ou à l'étranger, les frais de scolarité et le coût de la vie peuvent rapidement représenter une omb"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Il avait les acteurs, il avait les scénarios, et pourtant George Lucas a choisi de ne jamais tourner son ultime trilogie Star Wars",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2337655-il-avait-les-acteurs-il-avait-les-scenarios-et-pourtant-george-lucas-a-choisi-de-ne-jamais-tourner-son-ultime-trilogie-star-wars.html",
-    "pubDate": "2026-09-22T14:00:00.000Z",
-    "summary": "Le musée de George Lucas ouvre ses portes ce mardi 22 septembre à Los Angeles. Dans une interview à CBS, le cinéaste explique qu'il a renoncé à trois nouveaux films Star Wars pour le bâtir."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "TikTok&#8217;s US arm joins Lantern, a cross-platform child safety initiative",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-    "pubDate": "2026-09-22T14:00:00.000Z",
-    "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-09-22T14:00:00.000Z",
-    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Meilleur Nothing Phone en 2026 : comparatif et avis sur toute la gamme",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/2529725_quels-sont-les-meilleurs-smartphones-nothing-et-cmf",
-    "pubDate": "2026-09-22T13:51:06.000Z",
-    "summary": "La marque Nothing est parvenue à s'imposer sur un marché pourtant bien chargé. Notre comparatif des meilleurs smartphones Nothing et CMF de 2026 passe en revue toute la gamme — du Nothing Phone (4a) a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Harry Potter : le thème principal de votre enfance aussi dans la série ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2337375-harry-potter-la-musique-culte-sera-t-elle-de-retour-dans-la-serie-hbo.html",
-    "pubDate": "2026-09-22T13:50:00.000Z",
-    "summary": "Pas de nostalgie facile au menu du retour à Poudlard. Pour la très ambitieuse réadaptation sérielle des romans Harry Potter de J.K. Rowling, le compositeur oscarisé Hans Zimmer prend le pari risqué de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "C&#8217;est la guerre du caddie : Amazon bloque le nouvel agent shopping autonome de Meta",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2337653-cest-la-guerre-du-caddie-amazon-bloque-le-nouvel-agent-shopping-autonome-de-meta.html",
-    "pubDate": "2026-09-22T13:45:00.000Z",
-    "summary": "Depuis quelques jours, l'IA de Meta ne peut plus faire vos courses sur Amazon. Le géant du e-commerce dénonce un outil non autorisé qui enfreint ses conditions d'utilisation."
   }
 ]
