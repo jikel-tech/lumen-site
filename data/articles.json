@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "pubDate": "2026-09-22T19:09:11.000Z",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
     "source": "TechCrunch",
     "category": "ia",
@@ -55,12 +64,12 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "A16z is challenging Silicon Valley&#8217;s love for drop-outs by launching a school",
+    "title": "a16z is challenging Silicon Valley&#8217;s love for drop-outs by launching a school",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
     "pubDate": "2026-09-22T18:24:34.000Z",
-    "summary": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program."
+    "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2337725-malgre-lannulation-de-daredevil-une-serie-marvel-inattendue-est-en-route.html",
     "pubDate": "2026-09-22T14:10:00.000Z",
     "summary": "Après la fin annoncée surprise de Daredevil: Born Again au terme de sa saison 3 et la récente annulation pour une future saison 2 de Wonder Man, Marvel Television réorganise sa stratégie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple avait promis cette fonction aux iPhone 16 et 17 Pro, mais ils n&#8217;y auront pas le droit",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3256445_apple-avait-promis-cette-fonction-aux-iphone-16-et-17-pro-mais-ils-ny-auront-pas-le-droit",
-    "pubDate": "2026-09-22T14:02:44.000Z",
-    "summary": "Apple a discrètement retiré une nouvelle fonction photo de l'iPhone 16 Pro et de l'iPhone 17 Pro pour la réserver à l'iPhone 18 Pro, sans un mot d'explication."
   }
 ]
