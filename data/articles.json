@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Thunderobot dévoile un laptop Ryzen AI Max+ 395 avec 85 Go de cache IA sur SSD",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630769-thunderobot-devoile-un-laptop-ryzen-ai-max-395-avec-85-go-de-cache-ia-sur-ssd.html",
+    "pubDate": "2026-09-22T15:05:00.000Z",
+    "summary": "On connaissait surtout Thunderobot pour ses PC portables gaming, le voilà qui dégaine désormais l’AI Master M7000, une station de travail mobile dévolue au calcul local de (très) grands modèles de lan"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "pubDate": "2026-09-22T15:00:00.000Z",
+    "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "pubDate": "2026-09-22T15:00:00.000Z",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 b"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "pubDate": "2026-09-22T15:00:00.000Z",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "En fin de cycle, la Nintendo Switch avec Mario Kart 8 Deluxe passe sous les 200€",
     "source": "Clubic",
     "category": "logiciels",
@@ -322,41 +358,5 @@
     "url": "https://www.clubic.com/actualite-630790-un-ventilateur-noctua-trouve-sa-place-dans-une-camera-concue-pour-valider-les-prises-de-vue.html",
     "pubDate": "2026-09-22T12:42:00.000Z",
     "summary": "Après les cartes graphiques, les boîtiers ou les alimentations et même les souris, Noctua trouve une nouvelle occasion de faire briller ses couleurs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets once again",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "pubDate": "2026-09-22T12:23:05.000Z",
-    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Retraite du Falcon 9 de SpaceX : toute l’industrie des satellites panique déjà",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630772-retraite-du-falcon-9-de-spacex-toute-l-industrie-des-satellites-panique-deja.html",
-    "pubDate": "2026-09-22T12:21:00.000Z",
-    "summary": "Il fallait s’y attendre, et ça se confirme. SpaceX ferme discrètement la porte à ses clients commerciaux : impossible désormais de réserver un vol Falcon 9 au-delà de 2028. Une nouvelle qui plonge une"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Polymarket fait pression pour être enfin autorisé dans l'Union Européenne",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630787-polymarket-fait-pression-pour-etre-enfin-autorise-dans-l-union-europeenne.html",
-    "pubDate": "2026-09-22T12:06:00.000Z",
-    "summary": "Gagner de l'argent sur l'actu, c'est séduisant non ? C'est ce que propose Polymarket. Mais voilà, la plateforme est interdite dans certains pays, dont la France, enfin, jusqu'à maintenant. En effet, e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft prépare la généralisation du navigateur intégré à Copilot sur Windows et macOS",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630778-microsoft-prepare-la-generalisation-du-navigateur-integre-a-copilot-sur-windows-et-macos.html",
-    "pubDate": "2026-09-22T12:02:00.000Z",
-    "summary": "En chantier depuis quelques mois sur Windows, le navigateur intégré à Copilot s’apprête à toucher beaucoup plus d’utilisateurs et d'utilisatrices. Microsoft prépare son déploiement élargi sur PC et Ma"
   }
 ]
