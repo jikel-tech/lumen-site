@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "pubDate": "2026-09-22T21:56:43.000Z",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Claude Opus 5.5 et GPT-6 Sol sortent le même jour : Anthropic et OpenAI ont du mal à « ralentir » l&#8217;IA",
     "source": "Numerama",
@@ -304,15 +313,6 @@
     "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
     "pubDate": "2026-09-22T15:00:00.000Z",
     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "pubDate": "2026-09-22T15:00:00.000Z",
-    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
