@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude Opus 5.5 et GPT-6 Sol sortent le même jour : Anthropic et OpenAI ont du mal à « ralentir » l&#8217;IA",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
+    "pubDate": "2026-09-22T20:11:00.000Z",
+    "summary": "Quelques jours après avoir appelé à ralentir la course à l'IA, Anthropic lance Claude Opus 5.5 et OpenAI complète sa gamme GPT-6 avec GPT-6-Sol et GPT-6-Luna. La bonne surprise vient des prix : les de"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "pubDate": "2026-09-22T20:00:00.000Z",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Apple could take on Whoop with a new fitness tracker, report says",
     "source": "TechCrunch",
@@ -324,15 +342,6 @@
     "summary": "Xbox a annoncé le 22 septembre 2026 une nouvelle réorganisation de ses studios et la suppression de 268 postes, dans un billet intitulé «&nbsp;Continuing Our Reset&nbsp;»."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "pubDate": "2026-09-22T14:30:00.000Z",
-    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "2h de cours par jour grâce à l’IA : c’est quoi Alpha School, l’école choisie par Fidji Simo pour sa fille ?",
     "source": "Numerama",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3256301_jason-et-lucia-vont-susurrer-dans-vos-oreilles-avec-ce-pack-gta-vi-casque-jbl-quantum-100p-en-precommande-a-6999-e",
     "pubDate": "2026-09-22T14:16:00.000Z",
     "summary": "Joybuy propose un pack avec GTA VI et le casque filaire JBL Quantum 100P pour 69,99 euros au lieu de 109,98 euros, pour profiter du futur hit de Rockstar dans les meilleures conditions à sa sortie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Malgré l&#8217;annulation de Daredevil, une série Marvel inattendue est en route",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2337725-malgre-lannulation-de-daredevil-une-serie-marvel-inattendue-est-en-route.html",
-    "pubDate": "2026-09-22T14:10:00.000Z",
-    "summary": "Après la fin annoncée surprise de Daredevil: Born Again au terme de sa saison 3 et la récente annulation pour une future saison 2 de Wonder Man, Marvel Television réorganise sa stratégie."
   }
 ]
