@@ -1,12 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "pubDate": "2026-09-22T18:00:00.000Z",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude Opus 5.5 : Anthropic lance un nouveau modèle IA juste avant son IPO",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630859-claude-opus-5-5-anthropic-lance-un-nouveau-modele-ia-juste-avant-son-ipo.html",
+    "pubDate": "2026-09-22T17:57:00.000Z",
+    "summary": "Anthropic continue d'avancer dans le développement de technologies IA, malgré ses craintes de perte de contrôle. Aujourd'hui on découvre ainsi le nouveau modèle IA Claude Opus 5.5."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Waymo&#8217;s latest expansion strategy: teenagers",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
     "pubDate": "2026-09-22T17:36:06.000Z",
-    "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors."
+    "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -244,15 +262,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon casse le prix du Logitech MX Keys S et le passe sous les 45€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630775-amazon-casse-le-prix-du-logitech-mx-keys-s-et-le-passe-sous-les-45-euros.html",
-    "pubDate": "2026-09-22T14:23:00.000Z",
-    "summary": "Le Logitech MX Keys S se présente avec un rétroéclairage intelligent. Un point fort puisqu’il permet au clavier d’avoir une autonomie de dix jours en le laissant allumé. C'est le moment de le découvri"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Jason et Lucia vont susurrer dans vos oreilles avec ce pack GTA VI + casque JBL Quantum 100P en précommande à 69,99 €",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2337653-cest-la-guerre-du-caddie-amazon-bloque-le-nouvel-agent-shopping-autonome-de-meta.html",
     "pubDate": "2026-09-22T13:45:00.000Z",
     "summary": "Depuis quelques jours, l'IA de Meta ne peut plus faire vos courses sur Amazon. Le géant du e-commerce dénonce un outil non autorisé qui enfreint ses conditions d'utilisation."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Papier alu derrière la box Wi-Fi : ce que dit vraiment l&#8217;étude de Dartmouth que tout le monde cite depuis 2017",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/telecom/box-internet/3256365_papier-alu-derriere-la-box-wi-fi-ce-que-dit-vraiment-letude-de-dartmouth-que-tout-le-monde-cite-depuis-2017",
-    "pubDate": "2026-09-22T13:44:01.000Z",
-    "summary": "Une feuille d'aluminium pliée derrière la box pour doper son débit, l'astuce ressort à peu près tous les ans. Elle s'appuie sur une vraie étude universitaire, dont elle a gardé le nom et oublié à peu "
   }
 ]
