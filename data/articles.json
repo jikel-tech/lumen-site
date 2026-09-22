@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sur Telegram, des logs d'infostealers exposent des sessions d'IA, dont celles de Claude",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-sur-telegram-des-logs-dinfostealers-exposent-des-sessions-dia-dont-celles-de-claude.html",
+    "pubDate": "2026-09-22T05:00:00.000Z",
+    "summary": "Des infostealers copient sur votre ordinateur la session Claude ouverte dans votre navigateur, et des pirates la rejouent pour entrer dans votre compte sans mot de passe ni double authentification. Fi"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-21T15:00:00.000Z",
     "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Une IA trouve une nouvelle route vers Alpha du Centaure… pour un voyage de 80 000 ans",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630610-une-ia-trouve-une-nouvelle-route-vers-alpha-du-centaure-pour-un-voyage-de-80-000-ans.html",
-    "pubDate": "2026-09-21T14:56:00.000Z",
-    "summary": "La mission Fermi Explorer veut envoyer une sonde vers une autre étoile avant la fin de la décennie. Grâce à une trajectoire optimisée par intelligence artificielle, ses concepteurs espèrent y parvenir"
   }
 ]
