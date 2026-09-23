@@ -1,12 +1,21 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "pubDate": "2026-09-23T19:31:28.000Z",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Modal Motors is trying to cut China out of electric motors entirely",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
     "pubDate": "2026-09-23T19:05:00.000Z",
-    "summary": "The startup is working on small, light motors with no rare earth magnets that are suited for drones, fans, and robots."
+    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2338681-pour-george-lucas-les-fans-qui-critiquent-ses-modifications-de-star-wars-ne-savent-pas-comment-on-fait-des-films.html",
     "pubDate": "2026-09-23T14:30:00.000Z",
     "summary": "Le Lucas Museum of Narrative Art a ouvert ses portes ce mardi 22 septembre à Los Angeles, et George Lucas est ressorti de sa réserve. L'occasion de rappeler une constante : près de cinquante ans après"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
   }
 ]
