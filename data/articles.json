@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Oui, vos extensions Chrome sont devenues très lentes sur Mac, la faute à Google",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630826-oui-vos-extensions-chrome-sont-devenues-tres-lentes-sur-mac-la-faute-a-google.html",
+    "pubDate": "2026-09-23T06:17:00.000Z",
+    "summary": "Sur Mac, vos extensions Chrome sont soudainement lentes ? Alors qu'elles ne s'ouvraient instantanément ? Pas de panique, c'est un bug ! Google teste actuellement un correctif, pour l'instant réservé à"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le prochain jeu StarCraft sortira-t-il sur PlayStation ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2338211-le-prochain-jeu-starcraft-sortira-t-il-sur-playstation.html",
+    "pubDate": "2026-09-23T06:04:18.000Z",
+    "summary": "Blizzard Entertainment a précisé que le futur jeu StarCraft ne sera pas « exclusif » à Xbox, mais sans vraiment dire qu'il sera aussi disponible sur PlayStation."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Atos embarque le président de VideoLan (VLC) dans son nouveau comité scientifique pour une IA \"souveraine\"",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630871-atos-embarque-le-president-de-videolan-vlc-dans-son-nouveau-comite-scientifique-pour-une-ia-souveraine.html",
+    "pubDate": "2026-09-23T06:04:00.000Z",
+    "summary": "Atos a dévoilé mardi un comité scientifique chargé de guider sa stratégie d'intelligence artificielle ouverte et souveraine en France. Autour de la table, on retrouve des chercheurs, des industriels e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Qualcomm dévoile ses Snapdragon 8 Elite Gen 6 : attention au piège de la version « Extreme »",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/3256869_qualcomm-devoile-ses-snapdragon-8-elite-gen-6-attention-au-piege-de-la-version-extreme",
+    "pubDate": "2026-09-23T06:02:46.000Z",
+    "summary": "Avec ses Snapdragon 8 Elite Extreme Gen 6 et Snapdragon 8 Elite Gen 6, Qualcomm double son offre de puces pour smartphones haut de gamme. Au menu&nbsp;: une gravure 2 nm, des fréquences CPU record (ju"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Apple veut déjà reprendre une technologie de l’iPhone Duo sur ses futurs iPhone Pro",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630829-apple-veut-deja-reprendre-une-technologie-de-l-iphone-duo-sur-ses-futurs-iphone-pro.html",
+    "pubDate": "2026-09-23T06:01:00.000Z",
+    "summary": "Apple préparerait déjà la suite après l'annonce de son premier iPhone pliant. Une technologie d’écran utilisée sur l’iPhone Duo pourrait ainsi arriver sur les modèles Pro à partir de 2029, avec à la c"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Thélyson Orélien accusé d&#8217;avoir utilisé l&#8217;IA : comment fonctionnent les détecteurs comme Pangram, Lucide ou GPTZero",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3256931_thelyson-orelien-accuse-davoir-utilise-lia-comment-fonctionnent-les-detecteurs-comme-pangram-lucide-ou-gptzero",
+    "pubDate": "2026-09-23T05:59:13.000Z",
+    "summary": "Un compte X anonyme, un détecteur américain, et voilà le roman phare de la rentrée accusé d'avoir été écrit par une IA. Bonne occasion de regarder ce que ces outils savent réellement prouver."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft et la police britannique démantèlent EvilToken, le service de phishing lié à 12 000 comptes piratés",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630865-microsoft-et-la-police-britannique-demantelent-eviltoken-le-service-de-phishing-lie-a-12-000-comptes-pirates.html",
+    "pubDate": "2026-09-23T05:46:00.000Z",
+    "summary": "La police londonienne a arrêté deux hommes de 32 et 38 ans, soupçonnés d'administrer EvilTokens, pendant que Microsoft saisissait 50 sites web liés à ce service d'hameçonnage par abonnement. Depuis fé"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Motorola Signature 27 : le téléphone qui veut tout faire mieux que tout le monde",
     "source": "Frandroid",
     "category": "smartphones",
@@ -271,24 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Reprise du running à l'automne : la Garmin Forerunner 265 descend à 267,65€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630814-reprise-du-running-a-l-automne-la-garmin-forerunner-265-descend-a-267-65.html",
-    "pubDate": "2026-09-22T16:19:00.000Z",
-    "summary": "Les jours raccourcissent et les sorties running se déplacent vers l’aube ou la nuit tombée. La Garmin Forerunner 265, montre d’entraînement à écran AMOLED, passe à 267,65 € sur AliExpress, et nous reg"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Orange se lance dans le e-commerce, avec une marketplace garnie de 40 000 produits tech d'ici quelques semaines",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630841-orange-se-lance-dans-le-e-commerce-avec-une-marketplace-garnie-de-40000-produits-tech-d-ici-quelques-semaines.html",
-    "pubDate": "2026-09-22T16:02:00.000Z",
-    "summary": "Après des années à vendre uniquement des forfaits et des téléphones, Orange se dote d'une marketplace intégrée à ses sites internet. Plus de 8 000 références y sont déjà disponibles, avec l'objectif d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le Rampart, la nouvelle arme anti-drones de la Marine nationale, repéré sur le Mistral avant son départ pour l&#8217;Afrique",
     "source": "Numerama",
     "category": "culture",
@@ -313,50 +358,5 @@
     "url": "https://www.numerama.com/tech/2337949-la-crise-de-la-ram-fait-grimper-les-prix-mais-la-kobo-libra-colour-baisse-de-40-e.html",
     "pubDate": "2026-09-22T15:53:18.000Z",
     "summary": "[Deal du jour] La Kobo Libra Colour, première liseuse couleur de la marque, tombe à 232,40 € au lieu de 269,99 € chez Joybuy. De quoi lire ses BD et ses mangas sur un écran E Ink, sans passer par une "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pokémon 30e anniversaire : les scalpers furieux, les cartes rares deviennent enfin plus accessibles",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630835-pokemon-30e-anniversaire-les-scalpers-furieux-les-cartes-rares-deviennent-enfin-plus-accessibles.html",
-    "pubDate": "2026-09-22T15:53:00.000Z",
-    "summary": "Les scalpeurs ont pris l'habitude de faire de beaux bénéfices avec la franchise Pokemon. Ce n'est pas le cas avec les 30 ans de la marque, ce qui a tendance à les contrarier."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Adieu l’austérité « You », Citroën donne du style avec ses séries Outdoor et Émeraude",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2338013-adieu-lausterite-you-citroen-donne-du-style-avec-ses-series-outdoor-et-emeraude.html",
-    "pubDate": "2026-09-22T15:50:33.000Z",
-    "summary": "Après avoir occupé le terrain avec ses versions d’entrée de gamme « You » aux tarifs planchers, la marque française lance deux déclinaisons&nbsp;: Outdoor et Émeraude, qui redonnent un peu de caractèr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Proton VPN Plus défie les réseaux Wi-Fi publics avec une offre à -70 % pendant deux ans",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-630178-proton-vpn-plus-defie-les-reseaux-wi-fi-publics-avec-une-offre-a--70-pendant-deux-ans.html",
-    "pubDate": "2026-09-22T15:30:00.000Z",
-    "summary": "Ordinateur, smartphone, tablette, TV : vos données circulent aujourd’hui sur de nombreux appareils qui peuvent être connectés à des réseaux que vous ne maîtrisez pas. Et si la solution était de tous l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Petit, connecté et facile à installer : le vidéoprojecteur Nebula Capsule 3 avec son trépied est bradé à -140 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3256417_petit-connecte-et-facile-a-installer-le-videoprojecteur-nebula-capsule-3-avec-son-trepied-est-brade-a-140-e",
-    "pubDate": "2026-09-22T15:25:00.000Z",
-    "summary": "L'Anker Nebula Capsule 3 est un vidéoprojecteur au format canette, capable de projeter une image de 120 pouces. Il passe en promotion, en pack avec un trépied, à 359,99 euros au lieu de 499,99 euros."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Xbox officialise une nouvelle vague de licenciements et une vaste réorganisation de ses studios",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2337255-xbox-preparerait-une-nouvelle-vague-de-licenciements-et-un-regroupement-de-ses-studios.html",
-    "pubDate": "2026-09-22T14:33:13.000Z",
-    "summary": "Selon un rapport du média The Information, Xbox serait à nouveau sur le point de supprimer plusieurs centaines de postes cette semaine, ainsi que de regrouper plusieurs de ses studios de jeux vidéo."
   }
 ]
