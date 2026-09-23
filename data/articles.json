@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Xbox confie Halo à Activision qui veut « créer le meilleur jeu Halo de tous les temps »",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2338223-xbox-confie-halo-a-activision-qui-veut-creer-le-meilleur-jeu-halo-de-tous-les-temps.html",
+    "pubDate": "2026-09-23T07:34:22.000Z",
+    "summary": "Après des années sous la direction de 343 Industries, devenu Halo Studios, la célèbre licence de Xbox change une nouvelle fois de maison. Activision prend désormais en charge le développement du proch"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Discord impose la vérification d’âge malgré la colère de sa communauté",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630873-discord-impose-la-verification-d-age-malgre-la-colere-de-sa-communaute.html",
+    "pubDate": "2026-09-23T07:16:00.000Z",
+    "summary": "Le jour tant redouté par les utilisateurs de Discord est arrivé : un système de vérification d’âge est déployé sur la plateforme dès aujourd’hui et dans le monde entier. Une nouvelle qui risque de ne "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Beats dévoile le 360, son premier casque avec des coussinets interchangeables",
     "source": "Frandroid",
     "category": "smartphones",
@@ -216,15 +234,6 @@
     "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Des escrocs se font passer pour l’AMF pour voler encore plus d’argent aux victimes",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630862-des-escrocs-se-font-passer-pour-l-amf-pour-voler-encore-plus-d-argent-aux-victimes.html",
-    "pubDate": "2026-09-23T04:52:00.000Z",
-    "summary": "Après une arnaque à l'investissement, de nombreuses victimes reçoivent l'appel ou le courriel d'un prétendu agent de l'Autorité des marchés financiers, prêt à récupérer les fonds perdus contre de nouv"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Discord&#8217;s age verification era is upon us, despite community backlash",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
     "pubDate": "2026-09-22T16:30:07.000Z",
     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Rampart, la nouvelle arme anti-drones de la Marine nationale, repéré sur le Mistral avant son départ pour l&#8217;Afrique",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2337847-le-rampart-la-nouvelle-arme-anti-drones-de-la-marine-nationale-repere-sur-le-mistral-avant-son-depart-pour-lafrique.html",
-    "pubDate": "2026-09-22T15:56:31.000Z",
-    "summary": "Un nouveau lanceur d'armes, baptisé Rampart, a été repéré sur le porte-hélicoptères amphibie Mistral, juste avant son départ pour le golfe de Guinée. Sa promesse : abattre des drones bon marché sans g"
   }
 ]
