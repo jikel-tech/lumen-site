@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+    "pubDate": "2026-09-23T17:28:38.000Z",
+    "summary": "The Amazon-owned company launched an investigation after a worker submitted an OSHA complaint."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "RAM : les géants chinois CXMT et YMTC sur le point de se déclarer la guerre",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631015-ram-les-geants-chinois-cxmt-et-ymtc-sur-le-point-se-declarer-la-guerre.html",
+    "pubDate": "2026-09-23T17:18:00.000Z",
+    "summary": "Les deux nouveaux acteurs chinois de la RAM, CXMT et YMTC, ont d'abord assurer leur croissance sur les insuffisances des géants traditionnels du secteur. Mais ils vont bientôt commencer à s'attaquer à"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avec 4 mois offerts, ce forfait 5G de 130 Go devient l&#8217;un des moins chers de l&#8217;année",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3258117_avec-4-mois-offerts-ce-forfait-5g-de-130-go-devient-lun-des-moins-chers-de-lannee",
+    "pubDate": "2026-09-23T17:17:00.000Z",
+    "summary": "La Poste Mobile propose l'un des rares forfaits de plus de 100 Go à coûter moins de 100 euros sur sa première année. Une exception en ce moment, grâce à quatre mois offerts sur son 130 Go en 5G."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai testé la JBL PartyBox 330 : elle fait trembler les murs, même dehors",
     "source": "Frandroid",
@@ -331,32 +358,5 @@
     "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
     "pubDate": "2026-09-23T14:30:00.000Z",
     "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "YouTube doubles down on video shopping with AI-powered &#8216;Ask YouTube&#8217; feature",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-    "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "YouTube's AI feature can now help you compare products as you shop."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft prépare des pubs qui interrompent vos jeux vidéos : ce que l’on sait",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630970-microsoft-prepare-des-pubs-qui-interrompent-vos-jeux-video-ce-que-l-on-sait.html",
-    "pubDate": "2026-09-23T14:29:00.000Z",
-    "summary": "La publicité est devenue omniprésente dans le streaming payant en ligne. Sera-ce aussi le cas avec le jeu vidéo à l'avenir ? On peut se demander vu la nouveauté que prépare Microsoft !"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Pas besoin de lui demander de réfléchir » : voici les astuces pour bien utiliser Claude Opus 5.5",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3257879_pas-besoin-de-lui-demander-de-reflechir-voici-les-astuces-pour-bien-utiliser-claude-opus-5-5",
-    "pubDate": "2026-09-23T14:28:36.000Z",
-    "summary": "Anthropic a publié un guide pour tirer le meilleur de Claude Opus 5.5, son nouveau modèle. L'idée : revoir quelques réflexes de prompt hérités d'Opus 5, dont certains ne servent tout simplement plus."
   }
 ]
