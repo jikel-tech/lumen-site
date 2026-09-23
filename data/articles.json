@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "pubDate": "2026-09-23T20:35:17.000Z",
+    "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Que signifient les scènes bonus d&#8217;Avengers: Endgame Extended ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2339067-que-signifient-les-scenes-bonus-davengers-endgame-extended.html",
+    "pubDate": "2026-09-23T20:26:41.000Z",
+    "summary": "Une nouvelle version d'Avengers: Endgame est sortie dans les salles obscures ce mercredi 23 septembre, pour deux semaines. Elle est pensée pour faire le lien avec Avengers: Doomsday, prochaine réunion"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
     "source": "TechCrunch",
     "category": "ia",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-630916-pourquoi-faut-il-craquer-pour-le-samsung-galaxy-book4-15-i7-16-512-go-brade-a--400.html",
     "pubDate": "2026-09-23T14:39:00.000Z",
     "summary": "Le Samsung Galaxy Book4 15 i7 est un ultrabook fin et léger équipé pour le multitâche exigeant et une intégration poussée avec l'écosystème Galaxy, disponible à 799,99 euros au lieu de 1 199,99 euros "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gros changement sur YouTube : une chaîne va pouvoir publier 3 versions différentes d&#8217;une même vidéo",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2338619-gros-changement-sur-youtube-une-chaine-va-pouvoir-publier-3-versions-differentes-dune-meme-video.html",
-    "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "YouTube a présenté ce mercredi 23 septembre une série de nouveautés pour les créateurs et les spectateurs. Parmi elles, un outil qui permettra de publier jusqu'à trois versions d'une même vidéo : tout"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour George Lucas, les fans qui critiquent ses modifications de Star Wars « ne savent pas comment on fait des films »",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2338681-pour-george-lucas-les-fans-qui-critiquent-ses-modifications-de-star-wars-ne-savent-pas-comment-on-fait-des-films.html",
-    "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "Le Lucas Museum of Narrative Art a ouvert ses portes ce mardi 22 septembre à Los Angeles, et George Lucas est ressorti de sa réserve. L'occasion de rappeler une constante : près de cinquante ans après"
   }
 ]
