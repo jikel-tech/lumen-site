@@ -1,6 +1,87 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "AMD prépare l&#8217;arrivée de la mémoire GDDR7 pour ses futures cartes graphiques RDNA 5",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/amd/3257353_amd-prepare-larrivee-de-la-memoire-gddr7-pour-ses-futures-cartes-graphiques-rdna-5",
+    "pubDate": "2026-09-23T09:39:30.000Z",
+    "summary": "Ce lundi 21 septembre 2026, AMD a glissé dans son pilote graphique open source pour Linux les premières briques de la mémoire GDDR7. Un indice de plus que sa prochaine génération de cartes Radeon, RDN"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L’émulation d&#8217;exclusivités PS5 s&#8217;accélère, et pourrait devenir un sérieux problème pour Sony",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2338247-lemulation-dexclusivites-ps5-saccelere-et-pourrait-devenir-un-serieux-probleme-pour-sony.html",
+    "pubDate": "2026-09-23T09:38:22.000Z",
+    "summary": "Des développeurs parviennent à faire tourner Astro Bot et Demon’s Souls sur PC avec des émulateurs PS5. Les progrès se multiplient depuis quelques semaines et pourraient compliquer la lutte de Sony co"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Prix de l&#8217;électricité : ce que dit vraiment le rapport polémique de la CRE sur les renouvelables",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/energie/3255439_prix-de-lelectricite-ce-que-dit-vraiment-le-rapport-polemique-de-la-cre-sur-les-renouvelables",
+    "pubDate": "2026-09-23T09:37:14.000Z",
+    "summary": "Le dernier rapport de la CRE sur le coût du système électrique, qui n'en finit plus de faire parler, a-t-il été modifié à la demande du gouvernement ? Des échanges avec le ministère de l'Énergie sèmen"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vous jonglez entre ChatGPT, Claude et Gemini ? 1min.AI Pro à vie revient à 34,89€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630823-vous-jonglez-entre-chatgpt-claude-et-gemini-1min-ai-pro-a-vie-revient-a-34-89.html",
+    "pubDate": "2026-09-23T09:30:00.000Z",
+    "summary": "StackSocial affiche la licence à vie du plan Pro de 1min.AI à 39,99 $, soit environ 34,89 € au taux du 22 septembre 2026. Elle donne 1 000 000 de crédits par mois, soit exactement l’enveloppe de l’abo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon n’avait pas réussi à tuer cette appli IPTV pirate : une descente de police a finalement eu raison d'elle",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630901-amazon-n-avait-pas-reussi-a-tuer-cette-appli-iptv-pirate-une-descente-de-police-a-finalement-eu-raison-d-elle.html",
+    "pubDate": "2026-09-23T09:29:00.000Z",
+    "summary": "LiveNetTV avait résisté aux contre-mesures d'Amazon et continuait de fonctionner malgré les blocages. Après près de dix ans d'existence, l'application IPTV pirate a cessé d'émettre à la suite d'une pe"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Windows 11 : la grosse mise à jour d&#8217;octobre est déjà là, voici les nouveautés",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/os/windows/3257339_windows-11-la-grosse-mise-a-jour-doctobre-est-deja-la-voici-les-nouveautes",
+    "pubDate": "2026-09-23T09:21:17.000Z",
+    "summary": "Microsoft déploie depuis ce mardi 22 septembre 2026 la mise à jour KB5124010 pour Windows 11. Cette version optionnelle permet enfin de reprogrammer la touche Copilot, révise le Bluetooth et l'explora"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai testé le Mac mini M6 : toujours une réussite malgré son prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3255721_test-de-lapple-mac-mini-m6-la-machine-parfaite-pour-tout-le-monde",
+    "pubDate": "2026-09-23T09:15:00.000Z",
+    "summary": "Après un Mac mini M4 qui avait été pour nous l'une de nos recommandations de l'année 2024, Apple revient avec un modèle M6 encore plus puissant, que ce soit pour la création ou l'IA."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pris la main dans le sac, l&#8217;assistant de code de Z.ai envoyait les projets de ses utilisateurs sur le cloud sans les prévenir",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2338255-pris-la-main-dans-le-sac-lassistant-de-code-de-z-ai-envoyait-les-projets-de-ses-utilisateurs-sur-le-cloud-sans-les-prevenir.html",
+    "pubDate": "2026-09-23T09:15:00.000Z",
+    "summary": "Un développeur a découvert que ZCode, l'assistant de programmation de Z.ai, empaquetait et expédiait en silence des dépôts de code entiers vers Alibaba Cloud. L'entreprise chinoise s'excuse et publie "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Garmin s&#8217;intéresse à l&#8217;oxygène musculaire pour la musculation ou les sports d&#8217;endurance : à quoi ça sert et comment ça marche",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3257251_garmin-sinteresse-a-loxygene-musculaire-pour-la-musculation-ou-les-sports-dendurance-a-quoi-ca-sert-et-comment-ca-marche",
+    "pubDate": "2026-09-23T09:13:31.000Z",
+    "summary": "Selon le site spécialisé the5krunner, Garmin aurait racheté Moxy Monitor, un fabricant de capteurs d'oxygène musculaire, une information dévoilée ce mardi 22 septembre 2026 que ni l'un ni l'autre n'a "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Nothing ouvre temporairement la bêta d’Android 17 à trois nouveaux smartphones",
     "source": "Frandroid",
     "category": "smartphones",
@@ -172,24 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Lunettes connectées et consentement : la justice française s’empare du phénomène des « lunettes de pervers »",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3257089_lunettes-connectees-et-consentement-la-justice-francaise-sempare-du-phenomene-des-lunettes-de-pervers",
-    "pubDate": "2026-09-23T08:10:12.000Z",
-    "summary": "En cette rentrée de septembre, plusieurs plaintes ont été déposées devant le parquet de Paris pour dénoncer l’usage des lunettes connectées qui permettent de capter et diffuser des images sans le cons"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Discord va deviner votre âge grâce à votre utilisation de l’application",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3256961_discord-va-deviner-votre-age-grace-a-votre-utilisation-de-lapplication",
-    "pubDate": "2026-09-23T08:06:54.000Z",
-    "summary": "Discord a trouvé une nouvelle méthode pour vérifier l’âge de ses utilisateurs sans avoir à leur demander de fournir une pièce d’identité. La plateforme affirme pouvoir estimer si un utilisateur est mi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "One Piece : où trouver l&#8217;édition collector Coffre au trésor du tome 113 du manga ?",
     "source": "Numerama",
     "category": "culture",
@@ -199,39 +262,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Une pub obligatoire pour continuer à jouer : Xbox dépose un brevet au pire moment",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/3257095_une-pub-obligatoire-pour-continuer-a-jouer-xbox-depose-un-brevet-au-pire-moment",
-    "pubDate": "2026-09-23T08:02:43.000Z",
-    "summary": "Microsoft a déposé un brevet décrivant un système qui met un jeu en pause pour afficher une publicité, publié par l'office américain des brevets le 3 septembre 2026. Regarder la pub jusqu'au bout perm"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vos cours transformés en fiches par l&#8217;IA : Google déploie l&#8217;une des fonctions les plus poussées de Gemini aux étudiants de tous âges",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3256921_vos-cours-transformes-en-fiches-par-lia-google-deploie-lune-des-fonctions-les-plus-poussees-de-gemini-a-tous-les-etudiants",
-    "pubDate": "2026-09-23T08:00:44.000Z",
-    "summary": "Les carnets d'études de Gemini Notebook s’ouvrent désormais aux utilisateurs de tous âges avec un compte Google scolaire ou professionnel. De quoi permettre à davantage d'élèves de profiter d'un progr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Airbus va sécuriser les données de l'armée française pendant les 25 prochaines années, un contrat XXL",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-630886-airbus-va-securiser-les-donnees-de-l-armee-francaise-pendant-les-25-ans-prochaines-annees-un-contrat-xxl.html",
     "pubDate": "2026-09-23T07:57:00.000Z",
     "summary": "Airbus remporte un contrat de cybersécurité de 25 ans auprès du ministère des Armées. Baptisé PARACOM, il porte sur des passerelles chargées de sécuriser les échanges de données entre réseaux militair"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Xgimi Horizon 20 : le vidéoprojecteur ultime pour le cinéma et le gaming perd 260 € de son prix",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/2908353_xgimi-horizon-20-le-videoprojecteur-ultime-pour-le-cinema-et-le-gaming-perd-260-de-son-prix",
-    "pubDate": "2026-09-23T07:53:00.000Z",
-    "summary": "Le Xgimi Horizon 20 est un vidéoprojecteur haut de gamme parfait pour les amateurs de cinéma et de gaming. En ce moment, il voit son prix chuter à 1 439 euros au lieu de 1 699 euros à sa sortie."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -280,24 +316,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Piratage : les États-Unis prennent à leur tour le chemin des blocages par VPN",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630820-piratage-les-etats-unis-prennent-a-leur-tour-le-chemin-des-blocages-par-vpn.html",
-    "pubDate": "2026-09-23T06:45:00.000Z",
-    "summary": "Après avoir longtemps laissé le sujet du blocage de sites pirates dans l’ombre du traumatisme SOPA (Stop Online Piracy Act), les États-Unis remettent sérieusement le dossier sur la table. Et cette foi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le meilleur PC portable étudiant à moins de 1 000 € en 2026",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-624940-le-meilleur-pc-portable-etudiant-a-moins-de-1-000-en-2026.html",
-    "pubDate": "2026-09-23T06:30:00.000Z",
-    "summary": "Les étudiants ont besoin de matériel informatique fiable et durable, tout en respectant un budget serré. Dell répond à cette demande avec une nouvelle version de son PC portable XPS 13 DX13260, un out"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le prochain jeu StarCraft sortira-t-il sur PlayStation ?",
     "source": "Numerama",
     "category": "culture",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "pubDate": "2026-09-22T21:56:43.000Z",
     "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Claude Opus 5.5 et GPT-6 Sol sortent le même jour : Anthropic et OpenAI ont du mal à « ralentir » l&#8217;IA",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
-    "pubDate": "2026-09-22T20:11:00.000Z",
-    "summary": "Quelques jours après avoir appelé à ralentir la course à l'IA, Anthropic lance Claude Opus 5.5 et OpenAI complète sa gamme GPT-6 avec GPT-6-Sol et GPT-6-Luna. La bonne surprise vient des prix : les de"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "pubDate": "2026-09-22T20:00:00.000Z",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
   }
 ]
