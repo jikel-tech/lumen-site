@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Adobe s’offre Topaz Labs pour muscler Photoshop et Firefly à l’ère de l’IA",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630964-adobe-s-offre-topaz-labs-pour-muscler-photoshop-et-firefly-a-l-ere-de-l-ia.html",
+    "pubDate": "2026-09-23T15:00:00.000Z",
+    "summary": "Avec l’acquisition du spécialiste de l’amélioration photo et vidéo par IA, Adobe renforce son arsenal créatif. Les technologies de Topaz Labs vont progressivement enrichir Creative Cloud tandis que se"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Sheets améliore grandement la gestion des tableaux complexes importés d&#8217;Excel",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/google/3257857_google-sheets-ameliore-grandement-la-gestion-des-tableaux-complexes-importes-dexcel",
+    "pubDate": "2026-09-23T14:56:18.000Z",
+    "summary": "Travailler sur un tableau croisé dynamique importé dans Google Sheets depuis Excel n'est plus aussi pénible qu'avant. Le tableur gagne quelques options basiques, mais très utiles."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Eight Sleep&#8217;s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+    "pubDate": "2026-09-23T14:45:00.000Z",
+    "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Deux semaines avec l&#8217;Apple Watch Ultra 4 : rapide comme l&#8217;éclair, mais le coaching sportif reste trop léger",
     "source": "Numerama",
     "category": "culture",
@@ -19,21 +46,21 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour George Lucas, les fans qui critiquent ses modifications de Star Wars « ne savent pas comment on fait des films »",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2338681-pour-george-lucas-les-fans-qui-critiquent-ses-modifications-de-star-wars-ne-savent-pas-comment-on-fait-des-films.html",
-    "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "Le Lucas Museum of Narrative Art a ouvert ses portes ce mardi 22 septembre à Los Angeles, et George Lucas est ressorti de sa réserve. L'occasion de rappeler une constante : près de cinquante ans après"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Gros changement sur YouTube : une chaîne va pouvoir publier 3 versions différentes d&#8217;une même vidéo",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2338619-gros-changement-sur-youtube-une-chaine-va-pouvoir-publier-3-versions-differentes-dune-meme-video.html",
     "pubDate": "2026-09-23T14:30:00.000Z",
     "summary": "YouTube a présenté ce mercredi 23 septembre une série de nouveautés pour les créateurs et les spectateurs. Parmi elles, un outil qui permettra de publier jusqu'à trois versions d'une même vidéo : tout"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pour George Lucas, les fans qui critiquent ses modifications de Star Wars « ne savent pas comment on fait des films »",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2338681-pour-george-lucas-les-fans-qui-critiquent-ses-modifications-de-star-wars-ne-savent-pas-comment-on-fait-des-films.html",
+    "pubDate": "2026-09-23T14:30:00.000Z",
+    "summary": "Le Lucas Museum of Narrative Art a ouvert ses portes ce mardi 22 septembre à Los Angeles, et George Lucas est ressorti de sa réserve. L'occasion de rappeler une constante : près de cinquante ans après"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -78,7 +105,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
     "pubDate": "2026-09-23T14:30:00.000Z",
-    "summary": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+    "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -132,7 +159,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
     "pubDate": "2026-09-23T14:21:41.000Z",
-    "summary": "In this cursed timeline, we have been gifted with something so unfathomable that we could never have imagined it."
+    "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -262,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Batteries connectées : la cyberattaque qui pourrait plonger un pays dans le noir",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3257649_batteries-connectees-la-cyberattaque-qui-pourrait-plonger-un-pays-dans-le-noir",
-    "pubDate": "2026-09-23T13:17:37.000Z",
-    "summary": "Les batteries pourraient-elles provoquer un blackout à grande échelle si elles étaient piratées ? Techniquement, oui, selon cette nouvelle étude. En effet, ces équipements censés renforcer la stabilit"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La nouvelle Nissan Pixo fait mieux que sa cousine Twingo sur un point critique",
     "source": "Numerama",
     "category": "culture",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-630934-un-vaisseau-spatial-pilote-par-une-ia-sans-aucune-commande-depuis-la-terre-le-pari-fou-d-astroforge-pour-2027.html",
     "pubDate": "2026-09-23T12:27:00.000Z",
     "summary": "Faire traverser l’espace à un vaisseau sans jamais lui envoyer le moindre ordre depuis la Terre : c’est le défi que s’est lancé AstroForge. La start-up américaine, qui rêve d’exploiter les ressources "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "80 millions de dollars et un énorme changement, Eggers (Northman) va adapter Romeo et Juliette",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2338523-80-millions-de-dollars-et-un-enorme-changement-eggers-northman-va-adapter-romeo-et-juliette.html",
-    "pubDate": "2026-09-23T12:14:50.000Z",
-    "summary": "Oubliez la guimauve hollywoodienne et les chemises hawaïennes de Leonardo DiCaprio. Robert Eggers, le réalisateur le plus jusqu'au-boutiste du cinéma d'épouvante, prépare sa prochaine victime : le che"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Comma&#8217;s hands-off driving tech under investigation after 2 fatal crashes",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-    "pubDate": "2026-09-23T12:12:39.000Z",
-    "summary": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software."
   }
 ]
