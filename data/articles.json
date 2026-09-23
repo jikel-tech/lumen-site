@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "La nouvelle Nissan Pixo fait mieux que sa cousine Twingo sur un point critique",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2338513-la-nouvelle-nissan-pixo-fait-mieux-que-sa-cousine-twingo-sur-un-point-critique.html",
+    "pubDate": "2026-09-23T13:10:00.000Z",
+    "summary": "Nissan a dévoilé ce mercredi 23 septembre 2026 la Pixo, sa petite citadine 100 % électrique. Sous la carrosserie, une base très française : celle de la Renault Twingo."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voici la Nissan PIXO : elle corrige le principal défaut des Dacia Spring et Renault Twingo électriques",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/nissan/3257623_voici-la-nissan-pixo-elle-corrige-le-principal-defaut-des-dacia-spring-et-renault-twingo-electriques",
+    "pubDate": "2026-09-23T13:01:30.000Z",
+    "summary": "Nissan a présenté ce mercredi 23 septembre la PIXO, sa petite citadine 100 % électrique et abordable de segment A pensée pour l'Europe. Les premières livraisons sont attendues début 2027. La cousine d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Satellite Orange : tout ce qu&#8217;il faut savoir sur le concurrent français de Starlink",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/orange/1876537_satellite-orange-tout-ce-quil-faut-savoir-sur-le-concurrent-francais-de-starlink",
+    "pubDate": "2026-09-23T13:01:08.000Z",
+    "summary": "Depuis 2023, Orange est plus qu'un fournisseur d'accès à internet et un opérateur mobile. C'est aussi un opérateur satellite par le truchement de Nordnet, spécialiste en la matière depuis presque 20 a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon laisse désormais une IA gérer une partie de la boutique de ses vendeurs, même la nuit, et ça marche !",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630874-amazon-laisse-desormais-une-ia-gerer-une-partie-de-la-boutique-de-ses-vendeurs-meme-la-nuit-et-ca-marche.html",
+    "pubDate": "2026-09-23T13:01:00.000Z",
+    "summary": "Amazon a dévoilé mercredi une nouvelle version de Seller Assistant, son assistant IA pour les vendeurs de sa marketplace. Désormais, il peut automatiser la surveillance des prix, des stocks ou du comp"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pour alléger la facture d’électricité après le coucher du soleil, Zendure baisse le prix de sa batterie domestique",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2338263-pour-alleger-la-facture-delectricite-apres-le-coucher-du-soleil-zendure-baisse-le-prix-de-sa-batterie-domestique.html",
+    "pubDate": "2026-09-23T13:00:00.000Z",
+    "summary": "[Deal du jour] Produire son électricité solaire permet de réduire sa facture, à condition de pouvoir l’utiliser quand on en a besoin. Zendure propose son SolarFlow 2400 AC avec deux batteries à 1 199 "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Spotify&#8217;s is giving you the keys to its recommendation algorithm with US launch of &#8216;Taste Profile&#8217;",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "pubDate": "2026-09-23T13:00:00.000Z",
+    "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+    "pubDate": "2026-09-23T13:00:00.000Z",
+    "summary": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "PitPro&#8217;s first tire-changing robot goes live in Canada",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+    "pubDate": "2026-09-23T13:00:00.000Z",
+    "summary": "The startup says its automated system can change four tires in under 15 minutes."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Google Meet : la prise de notes par IA va vous faire gagner encore plus de temps après vos réunions",
     "source": "Frandroid",
     "category": "smartphones",
@@ -244,24 +316,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple a discrètement mis fin au SSD modulaire et remplaçable de son Mac mini",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3256983_apple-a-discretement-mis-fin-au-ssd-modulaire-et-remplacable-de-son-mac-mini",
-    "pubDate": "2026-09-23T10:14:37.000Z",
-    "summary": "Contrairement au Mac mini M4, les nouveaux Mac mini M5 Pro et M6 ne permettent plus le remplacement de leur module de stockage SSD. Sur cette nouvelle génération, Apple opte en effet pour des modules "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "8 et 12 Go de VRAM bientôt de l&#8217;histoire ancienne ? La GDDR7 vise beaucoup plus haut pour nos GPU",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/3257439_8-et-12-go-de-vram-bientot-de-lhistoire-ancienne-la-gddr7-vise-beaucoup-plus-haut-pour-nos-gpu",
-    "pubDate": "2026-09-23T10:07:15.000Z",
-    "summary": "Des puces mémoire GDDR7 de 4 et 6 gigaoctets sont attendues pour 2027 ou 2028, selon une fuite. De quoi faire grimper la VRAM des cartes graphiques jusqu'à 48 gigaoctets sans toucher à leur architectu"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Cette nouvelle faille zero-day peut condamner Microsoft Defender à travailler avec des signatures périmées",
     "source": "Clubic",
     "category": "logiciels",
@@ -298,65 +352,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon n’avait pas réussi à tuer cette appli IPTV pirate : une descente de police a finalement eu raison d'elle",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630901-amazon-n-avait-pas-reussi-a-tuer-cette-appli-iptv-pirate-une-descente-de-police-a-finalement-eu-raison-d-elle.html",
-    "pubDate": "2026-09-23T09:29:00.000Z",
-    "summary": "LiveNetTV avait résisté aux contre-mesures d'Amazon et continuait de fonctionner malgré les blocages. Après près de dix ans d'existence, l'application IPTV pirate a cessé d'émettre à la suite d'une pe"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Pris la main dans le sac, l&#8217;assistant de code de Z.ai envoyait les projets de ses utilisateurs sur le cloud sans les prévenir",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/cyberguerre/2338255-pris-la-main-dans-le-sac-lassistant-de-code-de-z-ai-envoyait-les-projets-de-ses-utilisateurs-sur-le-cloud-sans-les-prevenir.html",
     "pubDate": "2026-09-23T09:15:00.000Z",
     "summary": "Un développeur a découvert que ZCode, l'assistant de programmation de Z.ai, empaquetait et expédiait en silence des dépôts de code entiers vers Alibaba Cloud. L'entreprise chinoise s'excuse et publie "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Course à la Lune : la Nasa exige des « good deals » et l&#8217;Europe risque de le payer cher",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2338319-course-a-la-lune-la-nasa-exige-des-good-deals-et-leurope-risque-de-le-payer-cher.html",
-    "pubDate": "2026-09-23T09:05:44.000Z",
-    "summary": "L'administrateur de la Nasa a confirmé la direction prise par l'agence spatiale américaine dans la course à la Lune. Ce projet sera dirigé par les États-Unis qui cherchent avant tout des « good deals "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La voiture électrique n’a jamais été aussi proche de rattraper l’essence en Europe",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2338315-la-voiture-electrique-na-jamais-ete-aussi-proche-de-rattraper-lessence-en-europe.html",
-    "pubDate": "2026-09-23T09:02:00.000Z",
-    "summary": "La voiture électrique atteint une part de marché de 29 % en Europe au mois d’août 2026 : c’est presque une voiture sur trois, un résultat difficile à ignorer. Rien qu'au mois d’août, les immatriculati"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Qualcomm dévoile les Snapdragon 8 Elite Gen 6, la puce des futurs smartphones Android haut de gamme",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2338277-qualcomm-devoile-les-snapdragon-8-elite-gen-6-la-puce-des-futurs-smartphones-android-haut-de-gamme.html",
-    "pubDate": "2026-09-23T08:54:56.000Z",
-    "summary": "Deux semaines après Apple, Qualcomm dévoile ses nouvelles puces mobiles haut de gamme. Le Snapdragon 8 Elite Gen 6 et le Snapdragon 8 Elite Extreme Gen 6, gravés en 2 nm, équiperont la majorité des sm"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "pubDate": "2026-09-23T04:59:08.000Z",
-    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Discord&#8217;s age verification era is upon us, despite community backlash",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-    "pubDate": "2026-09-23T03:31:12.000Z",
-    "summary": "According to Discord, 90% of users will not have to verify their age."
   }
 ]
