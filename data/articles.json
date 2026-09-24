@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Rachat de Warner Bros : Paramount voudrait d'Elon Musk comme investisseur",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631153-rachat-de-warner-bros-paramount-voudrait-d-elon-musk-comme-investisseur.html",
+    "pubDate": "2026-09-24T12:16:00.000Z",
+    "summary": "Le rachat de Warner Bros par Paramount pourrait être le théâtre d'un nouveau rebondissement. L'homme le plus riche du monde, Elon Musk, pourrait en effet faire partie du deal."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À partir de 599 €, ces nouveaux robots aspirateurs ECOVACS lavent le sol avec un rouleau toujours propre [Sponso]",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/3257211_a-partir-de-599-e-ces-nouveaux-robots-aspirateurs-ecovacs-lavent-le-sol-avec-un-rouleau-toujours-propre",
+    "pubDate": "2026-09-24T12:06:15.000Z",
+    "summary": "Laver son sol et laver la serpillière ensuite, c'est multiplier les ennuis par deux. Avec sa nouvelle technologie OZMO Roller, ECOVACS pourrait bien vous permettre de dire adieu à la double corvée, le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Notre essai en vidéo des lunettes Meta VR : l&#8217;alternative qui veut bousculer l&#8217;Apple Vision Pro",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/video/3258973_notre-essai-en-video-des-lunettes-meta-vr-lalternative-qui-veut-bousculer-lapple-vision-pro",
+    "pubDate": "2026-09-24T12:03:00.000Z",
+    "summary": "Nos journalistes se sont rendus à Londres pour essayer les toutes nouvelles lunettes de réalité virtuelle de Meta, un produit étonnamment léger qui bouscule la vision d'Apple."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Nouveau raté pour Windows 11 après le Patch Tuesday de septembre, les VPN d’entreprise trinquent",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631120-nouveau-rate-pour-windows-11-apres-le-patch-tuesday-de-septembre-les-vpn-d-entreprise-trinquent.html",
+    "pubDate": "2026-09-24T12:01:00.000Z",
+    "summary": "Le Patch Tuesday de septembre continue de donner du fil à retordre à Microsoft. Après le Bureau à distance, Hyper-V et l’audio USB, Windows 11 rencontre désormais des problèmes avec Always On VPN."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "IA : Claude (Anthropic) aurait aidé à découvrir un nouveau système enzymatique inédit",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631141-ia-claude-anthropic-aurait-aide-a-decouvrir-un-nouveau-systeme-enzymatique-inedit.html",
+    "pubDate": "2026-09-24T11:42:00.000Z",
+    "summary": "Observe-t-on les premiers effets dans la recherche biologique de l'émergence de l'IA ? Anthropic vient en effet d'annoncer avoir découvert un système enzymatique jusque-là inconnu."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Elon Musk au capital de Paramount ? Le projet financier qui fait trembler Hollywood",
     "source": "Numerama",
     "category": "culture",
@@ -150,7 +195,7 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/qualcomm/3258929_ubuntu-mint-pop_os-pourquoi-le-support-debian-des-snapdragon-x2-profite-a-tous",
     "pubDate": "2026-09-24T09:55:00.000Z",
-    "summary": "Qualcomm promet enfin un vrai support de Linux sur ses puces Snapdragon X2. Derrière le calendrier, un choix technique discret, le passage par Debian et le noyau officiel, pèse bien plus lourd que l'a"
+    "summary": "Qualcomm va enfin faire de Linux un citoyen de première classe sur ses puces ARM. Et en choisissant de prendre en charge Debian et Ubuntu, l’entreprise ouvre grand la porte à beaucoup d’autres OS."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -190,30 +235,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Anthropic et OpenAI veulent acheter leur RAM en direct : une menace de plus pour le prix de nos PC",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3259367_anthropic-et-openai-veulent-acheter-leur-ram-en-direct-une-menace-de-plus-pour-le-prix-de-nos-pc",
-    "pubDate": "2026-09-24T09:44:35.000Z",
-    "summary": "Anthropic et OpenAI commenceraient à acheter leur mémoire vive directement aux fabricants en 2027, d'après une note du cabinet américain Edgewater Research publiée le 15 septembre. Selon la même note,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Questionnaire sur l&#8217;Australie, site gouvernemental infiltré, mail générique : ce que l&#8217;on sait de la nouvelle dérive agentique d&#8217;OpenAI",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/cyberguerre/2339277-questionnaire-sur-laustralie-site-gouvernemental-infiltre-mail-generique-ce-que-lon-sait-de-la-nouvelle-derive-agentique-dopenai.html",
     "pubDate": "2026-09-24T09:35:32.000Z",
     "summary": "Un agent d'IA d'OpenAI a accédé sans autorisation à un portail de statistiques lié à Medicare, l'assurance maladie australienne. Le Premier ministre Anthony Albanese vient de rendre l'affaire publique"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Revolut lance Pay with Smile, le paiement par reconnaissance faciale sans carte bancaire ni téléphone",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/banque-en-ligne/3259017_revolut-lance-pay-with-smile-le-paiement-par-reconnaissance-faciale-sans-carte-bancaire-ni-telephone",
-    "pubDate": "2026-09-24T09:34:18.000Z",
-    "summary": "Revolut teste depuis ce jeudi 24 septembre, dans trois cafés londoniens, Pay with Smile, un mode de paiement par reconnaissance faciale qui se passe de carte bancaire et de téléphone. La caméra de la "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -250,33 +277,6 @@
     "url": "https://www.clubic.com/actualite-630937-ecovacs-deebot-t90s.html",
     "pubDate": "2026-09-24T09:00:00.000Z",
     "summary": "Ecovacs lance le Deebot T90S et sa version Pro Omni, avec un rouleau de lavage repensé et une aspiration portée à 40 000 Pa. La marque promet aussi un fonctionnement nettement plus silencieux, l’un de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pendant qu'OpenAI débattait sur la sécurité, ses agents pirataient en silence des sites gouvernementaux",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631099-pendant-qu-openai-debattait-sur-la-securite-ses-agents-pirataient-en-silence-des-sites-gouvernementaux.html",
-    "pubDate": "2026-09-24T08:55:00.000Z",
-    "summary": "Chargés de collecter de simples données, des agents d’OpenAI ont tenté de forcer l’accès à des sites gouvernementaux et universitaires. L’entreprise a confirmé trois incidents, mais attendu près de tr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Explorateur, touche Copilot, Bluetooth… la dernière mise à jour de Windows 11 fait le plein de nouveautés et de correctifs",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631108-explorateur-touche-copilot-bluetooth-la-derniere-mise-a-jour-de-windows-11-fait-le-plein-de-nouveautes-et-de-correctifs.html",
-    "pubDate": "2026-09-24T08:52:00.000Z",
-    "summary": "Windows 11 reçoit une nouvelle mise à jour facultative bien chargée. Microsoft y déploie plusieurs fonctions testées ces dernières semaines et corrige une série de bugs apparus en septembre."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Piratage sportif : Canal+ voulait faire payer Cloudflare 1,55 million d’euros par jour, la justice refuse",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631102-piratage-sportif-canal-voulait-faire-payer-cloudflare-1-55-million-d-euros-par-jour-la-justice-refuse.html",
-    "pubDate": "2026-09-24T08:50:00.000Z",
-    "summary": "Canal+ voulait sanctionner très lourdement Cloudflare pour des blocages de sites pirates jugés insuffisants. Le tribunal judiciaire de Paris vient pourtant de rejeter sa demande. Une décision qui ne r"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
