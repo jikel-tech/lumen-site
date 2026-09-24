@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Gemini 4 arrive bien plus tôt que prévu, le nouveau patron de DeepMind le confirme",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631150-gemini-4-arrive-bien-plus-tot-que-prevu-le-nouveau-patron-de-deepmind-le-confirme.html",
+    "pubDate": "2026-09-24T12:45:00.000Z",
+    "summary": "Gemini 4 pourrait arriver bien avant décembre 2026. Koray Kavukcuoglu, nouveau patron de Google DeepMind, confirme que le modèle est déjà en post-entraînement, mais Google ne dévoile encore ni date pr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude Opus 5.5 vs GPT-6 Sol : une bataille entre la puissance et le prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3258013_claude-opus-5-5-vs-gpt-6-sol-une-bataille-entre-la-puissance-et-le-prix",
+    "pubDate": "2026-09-24T12:43:27.000Z",
+    "summary": "Anthropic et OpenAI ont lancé leurs nouveaux modèles d'intelligence artificielle le même jour, ce mardi 22 septembre 2026. Claude Opus 5.5 domine presque tous les tests indépendants, mais GPT-6 Sol co"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Bentley dévoile le Torcal, son premier SUV électrique de 888 ch dérivé du Porsche Cayenne",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2339415-bentley-devoile-le-torcal-son-premier-suv-electrique-de-888-ch-derive-du-porsche-cayenne.html",
+    "pubDate": "2026-09-24T12:31:43.000Z",
+    "summary": "Bentley a présenté le Torcal, son premier modèle 100 % électrique. Un SUV de 888 ch, construit sur la même base que le Porsche Cayenne Electric et avec un prix affiché autour des 173 000 livres au Roy"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La NASA tient déjà son prochain grand télescope spatial, il s’appelle PRIMA et va observer l’Univers invisible",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631147-la-nasa-tient-deja-son-prochain-grand-telescope-spatial-il-s-appelle-prima-et-va-observer-l-univers-invisible.html",
+    "pubDate": "2026-09-24T12:30:00.000Z",
+    "summary": "La NASA prépare déjà son prochain télescope spatial. PRIMA, c’est son nom, observera le cosmos dans l’infrarouge lointain, au cœur des nuages de poussière où naissent étoiles et planètes."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon fait sa French Week : voici le TOP 10 des meilleures offres Tech",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3255861_amazon-fait-sa-french-week-voici-le-top-10-des-meilleures-offres-tech",
+    "pubDate": "2026-09-24T12:19:53.000Z",
+    "summary": "Amazon a attendu la fin des French Days pour lancer sa « French Week ». Le géant américain enchaîne les ventes flash et ajoute des codes promo exclusifs pour les membres Prime. C'est le moment parfait"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Rachat de Warner Bros : Paramount voudrait d'Elon Musk comme investisseur",
     "source": "Clubic",
     "category": "logiciels",
@@ -217,24 +262,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai pris en main le Xiaomi 18 Pro Max : 500 mégapixels combinés, écran de confidentialité et écran arrière dopé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/smartphone/3259193_jai-pris-en-main-le-xiaomi-18-pro-max-500-megapixels-combines-ecran-de-confidentialite-et-ecran-arriere-revu",
-    "pubDate": "2026-09-24T09:46:57.000Z",
-    "summary": "Avec ses trois modules caméra arrière, dont deux équipés de capteurs de 200 mégapixels, le Xiaomi 18 Pro Max fait la part belle à la photo. Pourtant, c’est surtout pour son écran de contrôle englobant"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Garmin se moque d&#8217;Apple : « Nos montres n&#8217;ont pas besoin de souffler toutes les cinq secondes »",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/garmin/3259331_garmin-se-moque-dapple-nos-montres-nont-pas-besoin-de-souffler-toutes-les-cinq-secondes",
-    "pubDate": "2026-09-24T09:46:33.000Z",
-    "summary": "Garmin s'est moqué sur Instagram de la mesure cardiaque des Apple Watch Series 12 et Ultra 4, qui relèvent le pouls toutes les cinq secondes. La marque de montres de sport rappelle que ses propres cap"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Questionnaire sur l&#8217;Australie, site gouvernemental infiltré, mail générique : ce que l&#8217;on sait de la nouvelle dérive agentique d&#8217;OpenAI",
     "source": "Numerama",
     "category": "culture",
@@ -253,30 +280,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Chrome : Google corrige encore plus d'une centaine de vulnérabilités",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631018-chrome-google-corrige-encore-plus-d-une-centaine-de-vulnerabilites.html",
-    "pubDate": "2026-09-24T09:24:00.000Z",
-    "summary": "Google fait passer Chrome à la version 154 sur Windows, Mac et Linux. Cette mise à jour comble 108 failles de sécurité, dont 11 critiques. Aucune n'était exploitée au moment de la publication du corre"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Bientôt une catastrophe en orbite ? L&#8217;Europe est très pessimiste car l&#8217;atmosphère se remplit trop vite de satellites",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2339253-bientot-une-catastrophe-en-orbite-leurope-est-tres-pessimiste-car-latmosphere-se-remplit-trop-vite-de-satellites.html",
     "pubDate": "2026-09-24T09:07:33.000Z",
     "summary": "Alors que les projets de constellations de satellites se multiplient et se concrétisent, le rapport annuel de l'Agence spatiale européenne, publié le 14 septembre, s'inquiète de l'explosion du nombre "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ecovacs lance le Deebot T90S Pro Omni, son aspirateur robot le plus silencieux à ce jour",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630937-ecovacs-deebot-t90s.html",
-    "pubDate": "2026-09-24T09:00:00.000Z",
-    "summary": "Ecovacs lance le Deebot T90S et sa version Pro Omni, avec un rouleau de lavage repensé et une aspiration portée à 40 000 Pa. La marque promet aussi un fonctionnement nettement plus silencieux, l’un de"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -313,15 +322,6 @@
     "url": "https://www.numerama.com/vroom/2339259-gac-arrive-en-france-et-veut-eviter-les-erreurs-des-autres-marques-chinoises-vraiment.html",
     "pubDate": "2026-09-24T08:35:00.000Z",
     "summary": "Le géant chinois GAC vient à son tour de se lancer en France. La marque a dévoilé une stratégie claire pour les prochaines années, en débutant par deux véhicules électriques. Est-ce suffisant pour fai"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Steven Spielberg et Chris Columbus vont bien faire Gremlins 3&#8230; mais il y a un problème",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2339229-steven-spielberg-et-chris-columbus-vont-bien-faire-gremlins-3-mais-il-y-a-un-probleme.html",
-    "pubDate": "2026-09-24T08:28:51.000Z",
-    "summary": "Le retour de la franchise culte, réalisé par Chris Columbus avec Steven Spielberg à la production, reste au programme, mais Warner Bros. repousse Gremlins 3 de près d'un an, au 6 octobre 2028 aux État"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
