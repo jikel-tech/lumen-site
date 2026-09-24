@@ -1,12 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avec Muse, Meta est en train de réussir sa remontada face à OpenAI et Anthropic",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2339225-avec-muse-meta-est-en-train-de-reussir-sa-remontada-face-a-openai-et-anthropic.html",
+    "pubDate": "2026-09-24T10:35:00.000Z",
+    "summary": "Lancé le 8 septembre 2026 aux États-Unis, Muse est un agent IA façon OpenClaw, mais en beaucoup plus simple à configurer. Muse n'est pas qu'un chatbot, il peut remplir des formulaires, surveiller des "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce robot-aspirateur 3-en-1 d'Ecovacs aspire 30% de son prix sur Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631093-ce-robot-aspirateur-3-en-1-d-ecovacs-aspire-30-de-son-prix-sur-amazon.html",
+    "pubDate": "2026-09-24T10:34:00.000Z",
+    "summary": "Les qualités de l’Ecovacs T80 Omni sont nombreuses puisqu’il possède une brosse anti-enchevêtrement et une serpillière redoutable d’efficacité. Toutes ces qualités sont à découvrir pour moins de 350 e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Une station au sol de Starlink servant de relais à l&#8217;Ukraine incendiée en Pologne, la piste d&#8217;un sabotage russe évoquée",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2339413-une-station-au-sol-de-starlink-servant-de-relais-a-lukraine-incendiee-en-pologne-la-piste-dun-sabotage-russe-evoquee.html",
+    "pubDate": "2026-09-24T10:20:06.000Z",
+    "summary": "Un incendie a endommagé ce mercredi 23 septembre au soir la station au sol de Starlink à Wola Krobowska. Cette installation relaie Internet par satellite vers l'Europe centrale et l'Ukraine. La piste "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce vidéoprojecteur en promo à moins de 400 € est une pépite : Google TV, Dolby Audio et image Full HD jusqu&#8217;à 300 pouces",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3259235_ce-videoprojecteur-en-promo-a-moins-de-400-e-est-une-pepite-google-tv-dolby-audio-et-image-full-hd-jusqua-300-pouces",
+    "pubDate": "2026-09-24T10:16:18.000Z",
+    "summary": "Le Wanbo X7 Pro Max est un vidéoprojecteur Full HD complet avec une luminosité élevée et l'interface Google TV que vous retrouvez en promo à 389,99 euros au lieu de 479,99 euros sur Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Après l&#8217;annonce des AirPods 5 par Apple, Cdiscount déstocke les AirPods 4 avec ANC",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2339417-apres-lannonce-des-airpods-5-par-apple-cdiscount-destocke-les-airpods-4-avec-anc.html",
     "pubDate": "2026-09-24T10:05:47.000Z",
     "summary": "[Deal du jour] À peine les AirPods 5 annoncés, les AirPods 4 avec réduction active du bruit voient leur prix fondre chez Cdiscount. Avec un code promo, les écouteurs sans fil d’Apple passent sous les "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment recalibrer la batterie de son téléphone ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/smartphone/372172_recalibrer-batterie-de-telephone-tutoriel",
+    "pubDate": "2026-09-24T10:05:07.000Z",
+    "summary": "À mesure que l'on charge et décharge son appareil, la batterie s'use et l'estimation du niveau restant affichée par le système peut finir par se décaler. Recalibrer (ou étalonner) la batterie peut alo"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -172,15 +217,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple Intelligence occupe jusqu&#8217;à 30 Go sur Mac avec macOS 27, et impossible de récupérer cet espace",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3259141_apple-intelligence-occupe-jusqua-30-go-sur-mac-avec-macos-27-et-impossible-de-recuperer-cet-espace",
-    "pubDate": "2026-09-24T09:04:55.000Z",
-    "summary": "Apple Intelligence prend de la place, beaucoup de place, sur certains Mac. Depuis macOS 27, les modèles d'IA locaux d'Apple occupent plus de 30 Go sur certaines machines, sans possibilité de récupérer"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ecovacs lance le Deebot T90S Pro Omni, son aspirateur robot le plus silencieux à ce jour",
     "source": "Clubic",
     "category": "logiciels",
@@ -205,15 +241,6 @@
     "url": "https://www.clubic.com/actualite-631108-explorateur-touche-copilot-bluetooth-la-derniere-mise-a-jour-de-windows-11-fait-le-plein-de-nouveautes-et-de-correctifs.html",
     "pubDate": "2026-09-24T08:52:00.000Z",
     "summary": "Windows 11 reçoit une nouvelle mise à jour facultative bien chargée. Microsoft y déploie plusieurs fonctions testées ces dernières semaines et corrige une série de bugs apparus en septembre."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Xbox va lancer un équivalent du trophée Platine pour récompenser les jeux finis à 100 %",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3259163_xbox-va-lancer-un-equivalent-du-trophee-platine-pour-recompenser-les-jeux-finis-a-100",
-    "pubDate": "2026-09-24T08:51:54.000Z",
-    "summary": "Xbox prépare un «&nbsp;succès Mythique&nbsp;». Cette récompense sera attribuée quand on aura débloqué tous les succès de base d'un jeu, comme le trophée Platine de PlayStation. Le site TrueAchievement"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -295,33 +322,6 @@
     "url": "https://www.numerama.com/vroom/2339179-renault-ressuscite-la-r8-gordini-en-electrique-mais-ce-magnifique-concept-ne-sera-pas-commercialise.html",
     "pubDate": "2026-09-24T08:25:52.000Z",
     "summary": "Renault a dévoilé la Renault 8 Gordini Concept, un coupé électrique de 270 ch qui garde la propulsion et la double bande blanche de la sportive de 1964. Le public pourra le voir au Mondial de l'Auto d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "À son tour Qobuz va identifier les morceaux générés par IA dans son app",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631012-a-son-tour-qobuz-va-identifier-les-morceau-generes-par-ia-dans-son-app.html",
-    "pubDate": "2026-09-24T08:22:00.000Z",
-    "summary": "Qobuz ajoute un tag dans son application pour signaler les morceaux et albums identifiés comme générés par IA. La plateforme française publie au passage plusieurs chiffres sur l'ampleur du phénomène e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai essayé les lunettes Meta VR et c&#8217;est exactement ce qu&#8217;Apple aurait dû faire du Vision Pro",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2339069-jai-essaye-les-lunettes-meta-vr-et-cest-exactement-ce-quapple-aurait-du-faire-du-vision-pro.html",
-    "pubDate": "2026-09-24T08:00:54.000Z",
-    "summary": "Une semaine avant la conférence Meta Connect, j'ai essayé les premières lunettes de réalité virtuelle du groupe de Mark Zuckerberg : les Meta VR Glasses. Le concept ridiculise les gros casques qui pès"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "The Witcher 3 Remastered est peut-être plus beau, mais perd une partie de son charme",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2339165-the-witcher-3-remastered-est-peut-etre-plus-beau-mais-perd-une-partie-de-son-charme.html",
-    "pubDate": "2026-09-24T07:54:41.000Z",
-    "summary": "CD Projekt Red a dévoilé de nouvelles images de The Witcher 3 Remastered pour montrer son travail sur les textures et les graphismes. Mais cette comparaison avec le jeu original suscite déjà de nombre"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
