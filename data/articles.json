@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cyberattaque de l’ASP : les données de 143 000 bénéficiaires d’aides exposées",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631219-cyberattaque-de-l-asp-les-donnees-de-143-000-beneficiaires-d-aides-exposees.html",
+    "pubDate": "2026-09-24T19:46:00.000Z",
+    "summary": "Un pirate affirme détenir 143 518 lignes de données dérobées à l’Agence de services et de paiement (ASP). Noms, adresses postales, IBAN et montants d'aides versées aux bénéficiaires franciliens du « C"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Thales, Bull et le CEA vont écrire le logiciel des ordinateurs quantiques de l'armée française",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631216-thales-bull-et-le-cea-vont-ecrire-le-logiciel-des-ordinateurs-quantiques-de-l-armee-francaise.html",
+    "pubDate": "2026-09-24T19:40:00.000Z",
+    "summary": "Le ministère des Armées a annoncé jeudi le lancement d'Aliquante, un projet de cinq ans consacré au logiciel de l'ordinateur quantique. Les Français Thales, Bull et le CEA devront concevoir une platef"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
     "source": "TechCrunch",
@@ -325,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette carte mère Asus pour le gaming passe sous les 200€ grâce à Amazon",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631123-cette-carte-mere-asus-pour-le-gaming-passe-sous-les-200-euros-grace-a-amazon.html",
-    "pubDate": "2026-09-24T14:20:00.000Z",
-    "summary": "L’Asus ROG Strix B860-I est une carte mère complète avec un Socket Intel LGA 1851 pour les processeurs Intel Ultra et une compatibilité avec la DDR5. Le tout est proposé à 199,99 euros sur Amazon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "The Witcher 3 Remastered : à quelle heure pourra-t-on jouer à la nouvelle version du jeu de CD Projekt Red ?",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/cyberguerre/2339633-premier-couac-cyber-pour-muse-meta-a-corrige-en-urgence-une-faille-de-son-agent-ia.html",
     "pubDate": "2026-09-24T14:08:20.000Z",
     "summary": "Le chercheur Patrick Wardle a révélé ce lundi 21 septembre une faille dans Muse, l'assistant IA de Meta pour Mac. Elle permettait de prendre le contrôle de l'agent et de tous les accès que l'utilisate"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Qualcomm veut connecter directement nos écouteurs aux agents IA… sans forcément passer par le smartphone",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631183-qualcomm-veut-connecter-directement-nos-ecouteurs-aux-agents-ia-sans-forcement-passer-par-le-smartphone.html",
-    "pubDate": "2026-09-24T14:06:00.000Z",
-    "summary": "Qualcomm veut transformer les écouteurs sans fil en bien plus que de simples accessoires audio. Avec Snapdragon Sound Elite Gen 2, le fabricant pousse plus loin le Wi-Fi basse consommation et permet s"
   }
 ]
