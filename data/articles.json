@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "pubDate": "2026-09-24T16:35:13.000Z",
+    "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon brade la caméra officielle de la Nintendo Switch 2 en la faisant passer sous les 35 euros",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3259975_amazon-brade-la-camera-officielle-de-la-nintendo-switch-2-en-la-faisant-passer-sous-les-35-euros",
+    "pubDate": "2026-09-24T16:26:00.000Z",
+    "summary": "La caméra officielle de la Nintendo Switch 2 ajoute la vidéo au GameChat et affiche votre visage dans les jeux compatibles. Elle est en ce moment disponible à 34,98 euros au lieu de 59,99 euros sur Am"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "GTA 6 : Rockstar lance une version collector à 400 euros&#8230; sans le jeu",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/console/3260055_gta-6-rockstar-lance-une-version-collector-a-400-euros-sans-le-jeu",
+    "pubDate": "2026-09-24T16:22:54.000Z",
+    "summary": "Rockstar Games a dévoilé Grand Theft Auto VI: The Goodtime State – Vice City Collection, un pack de produits dérivé pour GTA 6 à un tarif de 400 euros. Une version collector qui ne dit pas son nom et "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Apple Plans : les horaires des commerces enfin à jour, sans effort",
     "source": "Frandroid",
@@ -325,38 +352,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avis aux sportifs, cette ceinture cardio Garmin de référence est bradée à moins de 60 € sur Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-de-60-euros-sur-amazon",
-    "pubDate": "2026-09-24T13:21:59.000Z",
-    "summary": "La Garmin HRM 200 est une ceinture cardio intéressante grâce à son module amovible pour facilement changer la sangle si besoin. En ce moment, elle est affichée à 59,99 euros au lieu de 89,99 euros sur"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon brade l’un des tout premiers Lego Pokémon",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2264025-amazon-brade-lun-des-tout-premiers-lego-pokemon.html",
     "pubDate": "2026-09-24T13:12:35.000Z",
     "summary": "[Deal du jour] En février 2026, Lego lançait ses premiers sets Pokémon, dont un Évoli à construire. Sept mois plus tard, Amazon ramène son prix à 35,99 €, soit 24 € de moins qu’à sa sortie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Comment changer ses DNS sur Windows, Android, iPhone pour accéder à un web plus rapide ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/comment-faire/499707_dns-comment-avoir-acces-a-un-web-sans-censure-et-plus-rapide-sur-android",
-    "pubDate": "2026-09-24T13:00:41.000Z",
-    "summary": "Le serveur DNS est le premier intermédiaire entre nos appareils et le site web. Selon son fournisseur, cela peut poser des problèmes. Avec ce dossier, vous en saurez plus sur cet élément clé du web, q"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "pubDate": "2026-09-24T12:54:19.000Z",
-    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
   }
 ]
