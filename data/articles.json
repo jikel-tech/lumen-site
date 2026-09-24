@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone 18 Pro : des utilisateurs signalent déjà des problèmes d'écran",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631204-iphone-18-pro-des-utilisateurs-signalent-deja-des-problemes-d-ecran.html",
+    "pubDate": "2026-09-24T15:35:00.000Z",
+    "summary": "Qui dit nouvel iPhone dit forcément son petit lot de bugs. Si la majorité se corrige via une mise à jour, les problèmes matériels imposent parfois un remplacement. Ce problème en question, les utilisa"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce performant moniteur OLED Samsung de 27 pouces perd plus de 40 % de son prix de base",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3239163_ce-performant-moniteur-oled-samsung-de-27-pouces-perd-plus-de-40-pourcents-de-son-prix-de-base",
+    "pubDate": "2026-09-24T15:34:49.000Z",
+    "summary": "Le Samsung Odyssey OLED G5 se présente avec une dalle QD-OLED de 27 pouces en QHD, compatible AMD FreeSync et NVIDIA G-Sync. Il possède aussi un taux de rafraîchissement de 180 Hz. Sur le site de Cdis"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment LELO transforme le sextoy connecté en objet tech avec l’IA, les capteurs et le contrôle à distance [Sponso]",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/3255883_comment-lelo-transforme-le-sextoy-connecte-en-objet-tech-avec-lia-les-capteurs-et-le-controle-a-distance",
+    "pubDate": "2026-09-24T15:30:00.000Z",
+    "summary": "Et si le sextoy connecté était devenu un objet tech comme les autres ? Avec des marques comme LELO, les jouets pour adultes sont entrés dans une nouvelle ère qui fait la part belle à l’innovation, l’e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voir, toucher, agir... A l’IFA 2026, MOVA dévoile la nouvelle génération de robots domestiques",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-629560-voir-toucher-et-agir-a-l-ifa-2026-mova-devoile-la-nouvelle-generation-de-robots-domestiques.html",
+    "pubDate": "2026-09-24T15:30:00.000Z",
+    "summary": "À l’IFA 2026, la robotique domestique a franchi un nouveau cap, avec des machines qui ne se contentent plus d’exécuter des tâches. Elles cherchent désormais à mieux comprendre leur environnement, et M"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic a trouvé un système inconnu dans l’ADN de bactériophages, mais ne sait pas trop ce qu&#8217;il fait vraiment",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html",
+    "pubDate": "2026-09-24T15:27:16.000Z",
+    "summary": "Anthropic a annoncé le 23 septembre 2026 que Claude a découvert un « système enzymatique inconnu ». Une structure que l'entreprise compare à CRISPR, le ciseau génétique. Les scientifiques se divisent "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Samsung Galaxy Book 4 Edge SE est presque à moitié prix et une pochette de transport est offerte",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631144-le-samsung-galaxy-book-4-edge-se-est-presque-a-moitie-prix-et-une-pochette-de-transport-est-offerte.html",
+    "pubDate": "2026-09-24T15:19:00.000Z",
+    "summary": "Le Samsung Galaxy Book 4 Edge SE se présente avec une fiche technique complète puisqu’on retrouve un Snapdragon X et 16 Go de RAM. Cet ensemble s’avère parfait pour de la bureautique avec un prix attr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "NVIDIA : GeForce NOW débarque nativement sur les PC Googlebook",
     "source": "Clubic",
     "category": "logiciels",
@@ -42,7 +96,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
     "pubDate": "2026-09-24T14:43:25.000Z",
-    "summary": "Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
+    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -235,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon a démarré avec des livres à un centime, vingt ans plus tard son service logistique a livré 80 milliards d'articles",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631081-amazon-a-demarre-avec-des-livres-a-un-centime-vingt-ans-plus-tard-son-service-logistique-a-livre-80-milliards-d-articles.html",
-    "pubDate": "2026-09-24T13:01:00.000Z",
-    "summary": "Le service logistique d'Amazon, Expédié par Amazon (FBA), souffle ses 20 bougies. À Seattle, son vice-président monde Sunny Jain a expliqué à Clubic comment l'IA et de nouveaux entrepôts doivent aider"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment changer ses DNS sur Windows, Android, iPhone pour accéder à un web plus rapide ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -268,15 +313,6 @@
     "url": "https://www.numerama.com/sciences/2339581-la-fusee-geante-starship-est-assemblee-et-prete-pour-son-premier-vol-orbital-et-attend-le-go-final.html",
     "pubDate": "2026-09-24T12:48:38.000Z",
     "summary": "SpaceX a posé son vaisseau Starship sur le propulseur Super Heavy dans la nuit de mardi à mercredi au Texas. La fusée de 124 mètres de haut est désormais pratiquement prête pour son premier vol orbita"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gemini 4 arrive bien plus tôt que prévu, le nouveau patron de DeepMind le confirme",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631150-gemini-4-arrive-bien-plus-tot-que-prevu-le-nouveau-patron-de-deepmind-le-confirme.html",
-    "pubDate": "2026-09-24T12:45:00.000Z",
-    "summary": "Gemini 4 pourrait arriver bien avant décembre 2026. Koray Kavukcuoglu, nouveau patron de Google DeepMind, confirme que le modèle est déjà en post-entraînement, mais Google ne dévoile encore ni date pr"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -307,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La NASA tient déjà son prochain grand télescope spatial, il s’appelle PRIMA et va observer l’Univers invisible",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631147-la-nasa-tient-deja-son-prochain-grand-telescope-spatial-il-s-appelle-prima-et-va-observer-l-univers-invisible.html",
-    "pubDate": "2026-09-24T12:30:00.000Z",
-    "summary": "La NASA prépare déjà son prochain télescope spatial. PRIMA, c’est son nom, observera le cosmos dans l’infrarouge lointain, au cœur des nuages de poussière où naissent étoiles et planètes."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon fait sa French Week : voici le TOP 10 des meilleures offres Tech",
     "source": "Frandroid",
     "category": "smartphones",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/produits-android/maison-connectee/3257211_a-partir-de-599-e-ces-nouveaux-robots-aspirateurs-ecovacs-lavent-le-sol-avec-un-rouleau-toujours-propre",
     "pubDate": "2026-09-24T12:06:15.000Z",
     "summary": "Laver son sol et laver la serpillière ensuite, c'est multiplier les ennuis par deux. Avec sa nouvelle technologie OZMO Roller, ECOVACS pourrait bien vous permettre de dire adieu à la double corvée, le"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Notre essai en vidéo des lunettes Meta VR : l&#8217;alternative qui veut bousculer l&#8217;Apple Vision Pro",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/video/3258973_notre-essai-en-video-des-lunettes-meta-vr-lalternative-qui-veut-bousculer-lapple-vision-pro",
-    "pubDate": "2026-09-24T12:03:00.000Z",
-    "summary": "Nos journalistes se sont rendus à Londres pour essayer les toutes nouvelles lunettes de réalité virtuelle de Meta, un produit étonnamment léger qui bouscule la vision d'Apple."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Technics tease un nouveau casque à fluide magnétique pour le 29 septembre 2026",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/technics/3259517_technics-tease-un-nouveau-casque-a-fluide-magnetique-pour-le-29-septembre-2026",
-    "pubDate": "2026-09-24T11:10:21.000Z",
-    "summary": "Technics annonce un rendez-vous le mardi 29 septembre autour d'un nouveau casque circum-aural. Un teaser publié sur Instagram laisse entrevoir l'arrivée de la technologie à fluide magnétique sur ce fo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avec Muse, Meta est en train de réussir sa remontada face à OpenAI et Anthropic",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2339225-avec-muse-meta-est-en-train-de-reussir-sa-remontada-face-a-openai-et-anthropic.html",
-    "pubDate": "2026-09-24T10:35:00.000Z",
-    "summary": "Lancé le 8 septembre 2026 aux États-Unis, Muse est un agent IA façon OpenClaw, mais en beaucoup plus simple à configurer. Muse n'est pas qu'un chatbot, il peut remplir des formulaires, surveiller des "
   }
 ]
