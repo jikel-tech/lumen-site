@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Premier couac cyber pour Muse : Meta a corrigé en urgence une faille de son agent IA",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2339633-premier-couac-cyber-pour-muse-meta-a-corrige-en-urgence-une-faille-de-son-agent-ia.html",
+    "pubDate": "2026-09-24T14:08:20.000Z",
+    "summary": "Le chercheur Patrick Wardle a révélé ce lundi 21 septembre une faille dans Muse, l'assistant IA de Meta pour Mac. Elle permettait de prendre le contrôle de l'agent et de tous les accès que l'utilisate"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Qualcomm veut connecter directement nos écouteurs aux agents IA… sans forcément passer par le smartphone",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631183-qualcomm-veut-connecter-directement-nos-ecouteurs-aux-agents-ia-sans-forcement-passer-par-le-smartphone.html",
+    "pubDate": "2026-09-24T14:06:00.000Z",
+    "summary": "Qualcomm veut transformer les écouteurs sans fil en bien plus que de simples accessoires audio. Avec Snapdragon Sound Elite Gen 2, le fabricant pousse plus loin le Wi-Fi basse consommation et permet s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ryan Murphy relance Glee : le créateur a écrit la suite avec l&#8217;équipe d&#8217;origine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2339609-ryan-murphy-relance-glee-le-createur-a-ecrit-la-suite-avec-lequipe-dorigine.html",
+    "pubDate": "2026-09-24T14:04:55.000Z",
+    "summary": "Ryan Murphy, cocréateur de Glee, a annoncé ce mercredi 23 septembre 2026 avoir terminé le scénario d'un possible reboot de la&nbsp;série. Il dit avoir déjà parlé à une dizaine d'acteurs de la distribu"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+    "pubDate": "2026-09-24T14:00:00.000Z",
+    "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Vault Boy de Fallout est né pour résoudre un problème lié aux jeux de rôle sur table",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2339589-le-vault-boy-de-fallout-est-ne-pour-resoudre-un-probleme-lie-aux-jeux-de-role-sur-table.html",
+    "pubDate": "2026-09-24T13:51:40.000Z",
+    "summary": "Depuis le premier jeu, sorti en 1997, Fallout est devenu une franchise qui compte plusieurs jeux et une série télé. Certains de ses éléments sont même devenus cultes, comme sa mascotte, le Vault Boy."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Opera muscle son VPN gratuit pour mieux protéger votre vie privée sur les Wi-Fi publics",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631168-opera-muscle-son-vpn-gratuit-pour-mieux-proteger-votre-vie-privee-sur-les-wi-fi-publics.html",
+    "pubDate": "2026-09-24T13:44:00.000Z",
+    "summary": "Le VPN gratuit intégré à Opera gagne une nouvelle option sur ordinateur. Une fois activée, elle déclenche automatiquement la connexion au VPN lorsque le navigateur détecte un réseau Wi-Fi public."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "N&#8217;allez pas voir Avengers: Endgame Extended",
     "source": "Numerama",
     "category": "culture",
@@ -280,57 +334,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Il y a 30 ans, Apple avait conçu un OS qui n'est jamais sorti, et vous pouvez maintenant le tester",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631087-il-y-a-30-ans-apple-avait-concu-un-os-qui-n-est-jamais-sorti-et-vous-pouvez-maintenant-le-tester.html",
-    "pubDate": "2026-09-24T10:04:00.000Z",
-    "summary": "Le développeur Michael Steil a réussi à faire tourner Copland, le système d'exploitation qu'Apple avait abandonné en 1996, directement dans un navigateur web."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone 18 Pro : Apple va corriger le bug qui fait planter et redémarrer certains appareils",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631111-iphone-18-pro-apple-va-corriger-le-bug-qui-fait-planter-et-redemarrer-certains-appareils.html",
-    "pubDate": "2026-09-24T09:56:00.000Z",
-    "summary": "Un bug logiciel force le redémarrage de certains iPhone 18 Pro après un échec de reconnaissance faciale. Bonne nouvelle : Apple a confirmé qu'un correctif sera disponible dès la semaine prochaine."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Questionnaire sur l&#8217;Australie, site gouvernemental infiltré, mail générique : ce que l&#8217;on sait de la nouvelle dérive agentique d&#8217;OpenAI",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/cyberguerre/2339277-questionnaire-sur-laustralie-site-gouvernemental-infiltre-mail-generique-ce-que-lon-sait-de-la-nouvelle-derive-agentique-dopenai.html",
     "pubDate": "2026-09-24T09:35:32.000Z",
     "summary": "Un agent d'IA d'OpenAI a accédé sans autorisation à un portail de statistiques lié à Medicare, l'assurance maladie australienne. Le Premier ministre Anthony Albanese vient de rendre l'affaire publique"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On a trouvé un vélo électrique bradé à moins de 930 € chez Lidl grâce à deux promos cumulées",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/1984369-on-a-trouve-un-velo-electrique-brade-a-moins-de-930-e-chez-lidl-grace-a-deux-promos-cumulees.html",
-    "pubDate": "2026-09-24T09:30:34.000Z",
-    "summary": "[Deal du jour] Un vélo électrique pour aller travailler ou faire ses courses sans dépenser quatre chiffres, c’est encore possible chez Lidl en ce moment."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Bientôt une catastrophe en orbite ? L&#8217;Europe est très pessimiste car l&#8217;atmosphère se remplit trop vite de satellites",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2339253-bientot-une-catastrophe-en-orbite-leurope-est-tres-pessimiste-car-latmosphere-se-remplit-trop-vite-de-satellites.html",
-    "pubDate": "2026-09-24T09:07:33.000Z",
-    "summary": "Alors que les projets de constellations de satellites se multiplient et se concrétisent, le rapport annuel de l'Agence spatiale européenne, publié le 14 septembre, s'inquiète de l'explosion du nombre "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Meta dévoile un « Tamagotchi » pour emporter Muse (son IA) partout avec vous",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2339199-meta-devoile-un-tamagotchi-pour-emporter-muse-son-ia-partout-avec-vous.html",
-    "pubDate": "2026-09-24T08:47:35.000Z",
-    "summary": "Le 23 septembre 2026, Meta a présenté le Muse Charm, un petit appareil pour discuter avec son assistant IA. Derrière son allure de Tamagotchi, une bataille se dessine : celle des objets qui pourraient"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "pubDate": "2026-09-24T00:46:17.000Z",
     "summary": "The tiny hardware device creates another mobile home for its AI agent Muse."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meta is trying VR glasses (again), this time with more IMAX",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-    "pubDate": "2026-09-23T23:47:35.000Z",
-    "summary": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options."
   }
 ]
