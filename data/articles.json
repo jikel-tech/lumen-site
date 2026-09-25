@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tesla repousse encore l’arrivée de son FSD dans l’Union européenne",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631384-tesla-repousse-encore-l-arrivee-de-son-fsd-dans-l-union-europeenne.html",
+    "pubDate": "2026-09-25T19:35:00.000Z",
+    "summary": "Les États membres de l’Union européenne ne voteront pas le 6 octobre sur le Full Self-Driving (Supervised) de Tesla. Leur comité technique consacrera seulement 25 minutes à une « poursuite des discuss"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "pubDate": "2026-09-25T19:13:38.000Z",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
     "source": "TechCrunch",
@@ -261,15 +279,6 @@
     "summary": "L'éditeur Plaion et SNK ont révélé cette année l'arrivée prochaine de la Neo Geo AES Plus, une reproduction très fidèle de la console de salon Neo Geo de 1990. Malheureusement, sa sortie a été repouss"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "pubDate": "2026-09-25T15:00:00.000Z",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "On a mis notre premier 10/10 de l&#8217;année à ce jeu et vous pouvez déjà le trouver moins cher",
     "source": "Numerama",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/culture-tech/3261129_on-a-suivi-le-debat-ia-de-la-presidentielle-sur-beaucoup-de-position-de-principe-peu-de-concret",
     "pubDate": "2026-09-25T14:05:20.000Z",
     "summary": "La rédaction de Frandroid a regardé le débat autour de l'IA avec les candidats à la présidentielle ou leurs représentants sur BFMTV et Brut. Pendant deux heures, ils ont détaillé leurs projets sur l'I"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google Password Manager libère enfin vos passkeys : vous pouvez les transférer ailleurs",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631345-google-password-manager-libere-enfin-vos-passkeys-vous-pouvez-les-transferer-ailleurs.html",
-    "pubDate": "2026-09-25T14:03:00.000Z",
-    "summary": "Les passkeys stockées dans Google Password Manager peuvent désormais rejoindre un autre gestionnaire sans être recréées une par une."
   }
 ]
