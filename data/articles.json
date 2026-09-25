@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "pubDate": "2026-09-25T22:20:47.000Z",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Meta opens early access program for new Muse features",
     "source": "TechCrunch",
     "category": "ia",
@@ -205,15 +214,6 @@
     "url": "https://www.frandroid.com/marques/microsoft/3261639_les-pays-bas-construisent-leur-propre-linux-pour-quitter-windows-dans-ladministration",
     "pubDate": "2026-09-25T15:49:59.000Z",
     "summary": "Le gouvernement néerlandais teste un bureau Linux maison, baptisé DAWO et bâti sur la distribution NixOS, pour équiper ses administrations à la place de Windows. Le projet en est encore au stade des p"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "pubDate": "2026-09-25T15:48:14.000Z",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
