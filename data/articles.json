@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPad mini 8 : Apple se trahit dans son propre code",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3261805_ipad-mini-8-apple-se-trahit-dans-son-propre-code",
+    "pubDate": "2026-09-25T16:40:09.000Z",
+    "summary": "Le code d'Apple lui-même a livré les grandes lignes de l'iPad mini 8, repéré le 25 septembre 2026 : une puce A20 Pro, une caméra frontale en mode paysage et une petite encoche en haut de l'écran."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "pubDate": "2026-09-25T16:16:52.000Z",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Bitget piraté : 351 millions de dollars dérobés par des hackers, la Corée du Nord accusée",
     "source": "Clubic",
     "category": "logiciels",
@@ -340,23 +358,5 @@
     "url": "https://www.numerama.com/tech/2338857-ryzen-7-9800x3d-et-rx-9070-xt-pourquoi-le-pc-gungnir-de-cybertek-mise-sur-le-100-amd.html",
     "pubDate": "2026-09-25T13:15:00.000Z",
     "summary": "Cet article a été réalisé en collaboration avec Cybertek Avec la configuration Gungnir, Cybertek fait le choix d’une fiche technique unifiée autour de composants AMD. Une décision pragmatique qui vise"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d&#8217;autonomie, mais attention à la vitesse moyenne",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
-    "pubDate": "2026-09-25T13:15:00.000Z",
-    "summary": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le vrai test dans l&#8217;espace arrive : Google envoie ses premières puces IA en orbite à bord d&#8217;une fusée SpaceX",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2340107-le-vrai-test-dans-lespace-arrive-google-envoie-ses-premieres-puces-ia-en-orbite-a-bord-dune-fusee-spacex.html",
-    "pubDate": "2026-09-25T13:10:24.000Z",
-    "summary": "Google enverra quatre de ses puces d'intelligence artificielle en orbite le jeudi 1er octobre, à bord d'une fusée Falcon 9 de SpaceX. Il s'agit du premier test en conditions réelles de Project Suncatc"
   }
 ]
