@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai testé une IA géante chinoise sur Mac mini, PC gamer et mini PC : voici le grand gagnant",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3254821_jai-teste-une-ia-geante-chinoise-sur-mac-mini-pc-gamer-et-mini-pc-voici-le-grand-gagnant",
+    "pubDate": "2026-09-25T18:01:00.000Z",
+    "summary": "Prism ML, une startup américaine, a fait tenir Qwen3.8-27B, un modèle d'IA chinois d'Alibaba de 27 milliards de paramètres, dans un fichier de 5,95 Go que nous avons lancé sur un Mac mini M6, un PC ga"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Arrivé en bout de course, inadapté face aux drones : l&#8217;Australie dit adieu à l’hélicoptère Tigre",
     "source": "Numerama",
     "category": "culture",
@@ -78,7 +87,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
     "pubDate": "2026-09-25T16:16:52.000Z",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
     "pubDate": "2026-09-25T14:00:00.000Z",
     "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "30 km déminés en deux nuits : comment les drones terrestres se sont imposés dans la contre-offensive ukrainienne",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2340485-30-km-demines-en-deux-nuits-comment-les-drones-terrestres-se-sont-imposes-dans-la-contre-offensive-ukrainienne.html",
-    "pubDate": "2026-09-25T13:50:00.000Z",
-    "summary": "Déminage, largage derrière les lignes russes, logistique… les robots terrestres sont au cœur de la contre-offensive menée dans le nord de la région de Donetsk."
   }
 ]
