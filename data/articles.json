@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Face au Galaxy S26 Ultra, Xiaomi préparerait une autre approche de l’écran privé",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631258-face-au-galaxy-s26-ultra-xiaomi-preparerait-une-autre-approche-de-l-ecran-prive.html",
+    "pubDate": "2026-09-25T13:41:00.000Z",
+    "summary": "Face au Galaxy S26 Ultra, Xiaomi miserait à son tour sur une dalle capable de masquer son contenu aux regards latéraux. Son 18 Pro promettrait une activation plus souple, sans dégrader l’affichage vu "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "JMGO N1S 4K : ce vidéoprojecteur triple laser ultra lumineux est 100 € moins cher sur Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3252385_jmgo-n1s-4k-ce-videoprojecteur-triple-laser-ultra-lumineux-est-100-euros-moins-cher-sur-amazon",
+    "pubDate": "2026-09-25T13:27:56.000Z",
+    "summary": "Le JMGO N1S 4K est une version améliorée du vidéoprojecteur portable de la marque, avec une luminosité revue à la hausse. Pour se le procurer, il faut débourser 798 euros sur Amazon au lieu de 899 eur"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pixel : cette nouvelle fonction IA bluffante pas près d'arriver en France",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631336-pixel-cette-nouvelle-fonction-ia-bluffante-pas-pres-d-arriver-en-france.html",
+    "pubDate": "2026-09-25T13:25:00.000Z",
+    "summary": "Réserver une table, vérifier la disponibilité d’un produit ou déplacer un rendez-vous sans décrocher son téléphone… Google commence à confier ces petites corvées à son IA. Une nouveauté prometteuse, m"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+    "pubDate": "2026-09-25T13:24:34.000Z",
+    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high profile hacks targeting the crypto sector."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cartes Pokémon 30ᵉ anniversaire : de nouveaux coffrets sont disponibles, voici où tenter votre chance",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2340671-cartes-pokemon-30%e1%b5%89-anniversaire-de-nouveaux-coffrets-sont-disponibles-voici-ou-tenter-votre-chance.html",
+    "pubDate": "2026-09-25T13:20:45.000Z",
+    "summary": "Les premiers coffrets Pokémon des 30 ans vous ont échappé ? D’autres produits arrivent et les prochaines ventes se préparent. Voici les liens à surveiller pour tenter d’acheter les coffrets de la coll"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amende de 120 M€ contre X : Elon Musk va bénéficier du soutien de Washington contre l'UE",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631321-amende-de-120-m-contre-x-elon-musk-va-beneficier-du-soutien-de-washington-contre-l-ue.html",
+    "pubDate": "2026-09-25T13:18:00.000Z",
+    "summary": "Le réseau social d'Elon Musk X conteste une amende de 120 millions d'euros imposée par l'Union européenne. Et il pourra compter sur rien moins que le soutien du gouvernement américain !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d&#8217;autonomie, mais attention à la vitesse moyenne",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
+    "pubDate": "2026-09-25T13:15:00.000Z",
+    "summary": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ryzen 7 9800X3D et RX 9070 XT : pourquoi le PC Gungnir de Cybertek mise sur le 100 % AMD [Sponso]",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2338857-ryzen-7-9800x3d-et-rx-9070-xt-pourquoi-le-pc-gungnir-de-cybertek-mise-sur-le-100-amd.html",
+    "pubDate": "2026-09-25T13:15:00.000Z",
+    "summary": "Cet article a été réalisé en collaboration avec Cybertek Avec la configuration Gungnir, Cybertek fait le choix d’une fiche technique unifiée autour de composants AMD. Une décision pragmatique qui vise"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le vrai test dans l&#8217;espace arrive : Google envoie ses premières puces IA en orbite à bord d&#8217;une fusée SpaceX",
     "source": "Numerama",
     "category": "culture",
@@ -261,69 +333,6 @@
     "summary": "À peine dix jours après une première fuite de données, Revolut alerte de nouveau une partie de sa clientèle. Un nouvel incident de sécurité pourrait avoir exposé plusieurs de leurs informations person"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft prend ses distances avec Copilot+ PC, entre promesses déçues et flambée de la RAM",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631285-microsoft-prend-ses-distances-avec-copilot-pc-entre-promesses-decues-et-flambee-de-la-ram.html",
-    "pubDate": "2026-09-25T09:47:00.000Z",
-    "summary": "Deux ans après avoir présenté les Copilot+ PC comme l’avenir de Windows, Microsoft commence à effacer cette appellation de ses propres machines. Une évolution discrète pour un label qui n’a jamais vra"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette Audi électrique parcourt 1 338 km sans recharger : les dessous de ce record du monde impressionnant",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/audi/3260625_cette-audi-electrique-parcourt-1-338-km-sans-recharger-les-dessous-de-ce-record-du-monde-impressionnant",
-    "pubDate": "2026-09-25T09:45:10.000Z",
-    "summary": "Audi vient de signer un nouveau record d’autonomie avec son A6 Sportback e-tron Performance. La voiture électrique a parcouru 1 338 kilomètres en une seule charge, avec une consommation particulièreme"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sony confirme le correctif du bug audio de ses TV BRAVIA : voici quand il arrivera en France",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631291-sony-confirme-le-correctif-du-bug-audio-de-ses-tv-bravia-voici-quand-il-arrivera-en-france.html",
-    "pubDate": "2026-09-25T09:45:00.000Z",
-    "summary": "Sony France nous confirme que le problème de délai et de synchronisation audio HDMI rencontré sur plusieurs téléviseurs BRAVIA a bien été corrigé. Le déploiement de la mise à jour a commencé en France"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Moins chères que Tesla : Lucid dévoile les tarifs français de la berline Air et du SUV Gravity",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2340137-moins-cheres-que-tesla-lucid-devoile-les-tarifs-francais-de-la-berline-air-et-du-suv-gravity.html",
-    "pubDate": "2026-09-25T09:34:00.000Z",
-    "summary": "Lucid a publié ses prix français&nbsp;: la berline Air démarre à 86&nbsp;900 €, le SUV Gravity à 95&nbsp;900 €. La marque américaine arrive quelques mois après l'arrêt de production des Tesla Model S "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jusqu'à 6 000 nits : Hisense muscle encore son offre RGB MiniLED",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631273-zones-6-000-nits-hisense-muscle-encore-son-offre-rgb-miniled.html",
-    "pubDate": "2026-09-25T09:25:00.000Z",
-    "summary": "Hisense poursuit son offensive sur le RGB MiniLED avec deux nouvelles gammes destinées au marché chinois. Les U7T Pro et E7S Pro+ misent tous deux sur cette nouvelle génération de rétroéclairage, mais"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gazole à 2,41 € le litre : comment trouver la station la moins chère près de chez vous",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/1057336-gazole-a-241-le-litre-comment-trouver-la-station-la-moins-chere-pres-de-chez-vous.html",
-    "pubDate": "2026-09-25T09:21:14.000Z",
-    "summary": "Un site officiel donne le prix du carburant station par station. Pratique pour repérer la pompe la moins chère, alors que le gazole a atteint un record de 2,41 euros le litre en moyenne le 20 septembr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On a vu la Nissan Pixo : l&#8217;alternative moderne à la Twingo pour ceux qui n&#8217;aiment pas le néo-rétro",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2340237-on-a-vu-la-nissan-pixo-lalternative-moderne-a-la-twingo-pour-ceux-qui-naiment-pas-le-neo-retro.html",
-    "pubDate": "2026-09-25T09:14:04.000Z",
-    "summary": "La Nissan Pixo partage sa base technique et une partie de sa carrosserie avec la Renault Twingo. Mais plutôt que de céder à la vague nostalgique qui déferle, la citadine japonaise opte pour une autre "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
     "pubDate": "2026-09-24T20:45:00.000Z",
     "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "pubDate": "2026-09-24T19:15:00.000Z",
-    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
   }
 ]
