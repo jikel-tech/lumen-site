@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Gratuit et open source, ce logiciel pourrait vous éviter le pire avec vos données",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-630196-gratuit-et-open-source-ce-logiciel-pourrait-vous-eviter-le-pire-avec-vos-donnees.html",
+    "pubDate": "2026-09-25T14:10:00.000Z",
+    "summary": "Le cloud a révolutionné la sauvegarde des données. Mais cela implique souvent de s’en remettre à un service et à son espace de stockage. Duplicati adopte une approche différente : le logiciel permet d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le nouveau Microsoft Copilot s&#8217;attaque à Claude et ChatGPT (en utilisant Claude et ChatGPT)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
+    "pubDate": "2026-09-25T14:06:24.000Z",
+    "summary": "Microsoft annonce une refonte de son application Copilot autour de trois onglets : Home, Code et Autopilot (ex-Scout). L'entreprise rêve d'inventer le Microsoft Office de l'intelligence artificielle e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "On a suivi le débat IA de la présidentielle : beaucoup de positions de principe, peu de concret",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/3261129_on-a-suivi-le-debat-ia-de-la-presidentielle-sur-beaucoup-de-position-de-principe-peu-de-concret",
+    "pubDate": "2026-09-25T14:05:20.000Z",
+    "summary": "La rédaction de Frandroid a regardé le débat autour de l'IA avec les candidats à la présidentielle ou leurs représentants sur BFMTV et Brut. Pendant deux heures, ils ont détaillé leurs projets sur l'I"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+    "pubDate": "2026-09-25T14:05:04.000Z",
+    "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Password Manager libère enfin vos passkeys : vous pouvez les transférer ailleurs",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631345-google-password-manager-libere-enfin-vos-passkeys-vous-pouvez-les-transferer-ailleurs.html",
+    "pubDate": "2026-09-25T14:03:00.000Z",
+    "summary": "Les passkeys stockées dans Google Password Manager peuvent désormais rejoindre un autre gestionnaire sans être recréées une par une."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+    "pubDate": "2026-09-25T14:00:00.000Z",
+    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "30 km déminés en deux nuits : comment les drones terrestres se sont imposés dans la contre-offensive ukrainienne",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2340485-30-km-demines-en-deux-nuits-comment-les-drones-terrestres-se-sont-imposes-dans-la-contre-offensive-ukrainienne.html",
+    "pubDate": "2026-09-25T13:50:00.000Z",
+    "summary": "Déminage, largage derrière les lignes russes, logistique… les robots terrestres sont au cœur de la contre-offensive menée dans le nord de la région de Donetsk."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Disney+ augmente (encore) ses prix aux États-Unis. Combien les Français vont-ils payer à l'avenir ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631327-disney-augmente-encore-ses-prix-aux-etats-unis-combien-les-francais-vont-ils-payer-a-l-avenir.html",
+    "pubDate": "2026-09-25T13:46:00.000Z",
+    "summary": "Ça devient dorénavant presque une tradition annuelle. Le géant américain du streaming Disney+ vient de décider d'une augmentation de ses tarifs aux États-Unis."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Face au Galaxy S26 Ultra, Xiaomi préparerait une autre approche de l’écran privé",
     "source": "Clubic",
     "category": "logiciels",
@@ -33,7 +105,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
     "pubDate": "2026-09-25T13:24:34.000Z",
-    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high profile hacks targeting the crypto sector."
+    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -55,21 +127,21 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d&#8217;autonomie, mais attention à la vitesse moyenne",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
-    "pubDate": "2026-09-25T13:15:00.000Z",
-    "summary": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ryzen 7 9800X3D et RX 9070 XT : pourquoi le PC Gungnir de Cybertek mise sur le 100 % AMD [Sponso]",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2338857-ryzen-7-9800x3d-et-rx-9070-xt-pourquoi-le-pc-gungnir-de-cybertek-mise-sur-le-100-amd.html",
     "pubDate": "2026-09-25T13:15:00.000Z",
     "summary": "Cet article a été réalisé en collaboration avec Cybertek Avec la configuration Gungnir, Cybertek fait le choix d’une fiche technique unifiée autour de composants AMD. Une décision pragmatique qui vise"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d&#8217;autonomie, mais attention à la vitesse moyenne",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
+    "pubDate": "2026-09-25T13:15:00.000Z",
+    "summary": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -253,15 +325,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Il voit la poussière que vous ne voyez pas : le Dyson V15 Detect Absolute passe à 549€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631252-il-voit-la-poussiere-que-vous-ne-voyez-pas-le-dyson-v15-detect-absolute-passe-a-549.html",
-    "pubDate": "2026-09-25T10:40:00.000Z",
-    "summary": "Boulanger retire 250 € au Dyson V15 Detect Absolute, affiché à 549 € au lieu de 799 €. Laser, capteur de particules et filtration fine sont toujours au programme : reste à savoir ce que ce modèle vaut"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon fait sa French Week : voici les 12 meilleures offres Tech à saisir",
     "source": "Frandroid",
     "category": "smartphones",
@@ -280,57 +343,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "C'est un Lefant qui ne trompe pas énormément : cet aspirateur robot laveur passe à -70%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631243-c-est-un-lefant-qui-ne-trompe-pas-enormement-cet-aspirateur-robot-laveur-passe-a--70.html",
-    "pubDate": "2026-09-25T10:31:00.000Z",
-    "summary": "Le Lefant M3 est un aspirateur-robot laveur qui bouscule les milieux de gamme avec son positionnement complet, à retrouver pour 299,98 euros au lieu de 999,99 euros sur Amazon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Age of Empires renaissait, pourtant Microsoft sabre son studio",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/microsoft/3261087_age-of-empires-renaissait-pourtant-microsoft-sabre-son-studio",
     "pubDate": "2026-09-25T10:19:46.000Z",
     "summary": "Microsoft ampute de moitié World's Edge, le studio maison d'Age of Empires, et annule un projet majeur lié à la franchise. Le reste de l'équipe passe sous la coupe d'Activision."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Où payer son carburant moins cher ? Voici 5 applications gratuites pour économiser sur son plein",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/1898780-carburant-moins-cher-les-meilleures-applications-gratuites-en-2026.html",
-    "pubDate": "2026-09-25T10:12:05.000Z",
-    "summary": "D’une station-service à l’autre, l’écart de prix peut représenter plusieurs euros sur un plein pendant cette période difficile. Ces cinq applications gratuites vous aident à comparer les tarifs autour"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "OVHcloud va lancer sa suite bureautique face à Microsoft 365",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3261063_ovhcloud-va-lancer-sa-suite-bureautique-face-a-microsoft-365",
-    "pubDate": "2026-09-25T10:10:28.000Z",
-    "summary": "Octave Klaba a annoncé le 24 septembre 2026, sur BFM Business, qu'OVHcloud lancera OVHai Workspace, une suite bureautique concurrente de Microsoft 365. Le service sera détaillé le 19 novembre, lors de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le tout nouveau Xiaomi Redmi 17 5G avec son grand écran passe déjà sous les 220 euros",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2340425-le-tout-nouveau-xiaomi-redmi-17-5g-avec-son-grand-ecran-passe-deja-sous-les-220-euros.html",
-    "pubDate": "2026-09-25T10:07:48.000Z",
-    "summary": "[Deal du jour] E.Leclerc fait passer le tout récent Xiaomi Redmi 17 5G de 249,90 € à 219,90 €. Avec son écran de 6,9 pouces et sa batterie de 7 500 mAh, ce smartphone vise ceux qui veulent s'équiper s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nouvelle fuite de données pour Revolut après le piratage d'un prestataire",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631297-nouvelle-fuite-de-donnees-pour-revolut-apres-le-piratage-d-un-ancien-prestataire.html",
-    "pubDate": "2026-09-25T10:05:00.000Z",
-    "summary": "À peine dix jours après une première fuite de données, Revolut alerte de nouveau une partie de sa clientèle. Un nouvel incident de sécurité pourrait avoir exposé plusieurs de leurs informations person"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "pubDate": "2026-09-25T05:00:00.000Z",
     "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-    "pubDate": "2026-09-24T23:24:33.000Z",
-    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-    "pubDate": "2026-09-24T20:45:00.000Z",
-    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case."
   }
 ]
