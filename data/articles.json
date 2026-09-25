@@ -1,7 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "pubDate": "2026-09-25T18:33:59.000Z",
+    "summary": "The funding, which comes from Third Point, Nvidia and others, will fuel the company's massive AI data center buildout."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai testé une IA géante chinoise sur Mac mini, PC gamer et mini PC : voici le grand gagnant",
+    "title": "J&#8217;ai testé une IA géante chinoise sur Mac mini, PC gamer et mini PC : voici le grand gagnant sur Bonsai 2",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3254821_jai-teste-une-ia-geante-chinoise-sur-mac-mini-pc-gamer-et-mini-pc-voici-le-grand-gagnant",
@@ -19,7 +28,7 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+    "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
@@ -115,6 +124,15 @@
     "url": "https://www.frandroid.com/services/svod/3261141_la-fusion-entre-paramount-et-warner-bros-retardee-les-opposants-remportent-une-victoire-juridique-in-extremis",
     "pubDate": "2026-09-25T16:00:25.000Z",
     "summary": "Alors que le rachat de Warner Bros. par Paramount devait être finalisé auprès des tribunaux ce 25 septembre 2026, le collectif Block The Merger, opposé au projet, retarde le processus suite à une dema"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "pubDate": "2026-09-25T16:00:00.000Z",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -333,15 +351,6 @@
     "summary": "La rédaction de Frandroid a regardé le débat autour de l'IA avec les candidats à la présidentielle ou leurs représentants sur BFMTV et Brut. Pendant deux heures, ils ont détaillé leurs projets sur l'I"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-    "pubDate": "2026-09-25T14:05:04.000Z",
-    "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Google Password Manager libère enfin vos passkeys : vous pouvez les transférer ailleurs",
     "source": "Clubic",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/actualite-631345-google-password-manager-libere-enfin-vos-passkeys-vous-pouvez-les-transferer-ailleurs.html",
     "pubDate": "2026-09-25T14:03:00.000Z",
     "summary": "Les passkeys stockées dans Google Password Manager peuvent désormais rejoindre un autre gestionnaire sans être recréées une par une."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-    "pubDate": "2026-09-25T14:00:00.000Z",
-    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
   }
 ]
