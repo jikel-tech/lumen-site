@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "pubDate": "2026-09-26T21:02:06.000Z",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "TikTok agrees to pay at least $100M in Alabama settlement",
     "source": "TechCrunch",
     "category": "ia",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2340897-meta-vr-succes-de-muse-et-googlebook-le-recap-tech-de-la-semaine.html",
     "pubDate": "2026-09-26T06:25:00.000Z",
     "summary": "Cette semaine, Meta a organisé sa grande conférence Meta Connect. L'entreprise de Mark Zuckerberg a dévoilé des lunettes de réalité virtuelles, des nouvelles lunettes Ray-Ban et des nouveautés pour so"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Signaux radio sur une exoplanète, retour de Sophie Adenot, 5 000 jours de Curiosity sur Mars – le récap’ sciences de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2340447-signaux-radio-sur-une-exoplanete-retour-de-sophie-adenot-5-000-jours-de-curiosity-sur-mars-le-recap-sciences-de-la-semaine.html",
-    "pubDate": "2026-09-26T05:50:00.000Z",
-    "summary": "Dans l'actualité scientifique de la semaine sur Numerama : la première détection plausible de signaux radio sur une exoplanète, le retour de Sophie Adenot sur Terre se précise, Curiosity fête ses 5 00"
   }
 ]
