@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un nouveau pays autorise le FSD, changement discret sur le Model Y L et fin du bonus sur certaines électriques : le récap’ Vroom de la semaine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2340805-un-nouveau-pays-autorise-le-fsd-changement-discret-sur-le-model-y-l-et-fin-du-bonus-sur-certaines-electriques-le-recap-vroom-de-la-semaine.html",
+    "pubDate": "2026-09-26T15:41:00.000Z",
+    "summary": "À la une sur Vroom cette semaine : la République Tchèque autorise le Tesla FSD, un changement discret pour camoufler un défaut sur le Model Y L et le changement de l'éco-score pourrait supprimer le bo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPad mini : Apple dévoile par erreur les principales nouveautés de sa prochaine tablette",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631417-ipad-mini-apple-devoile-par-erreur-les-principales-nouveautes-de-sa-prochaine-tablette.html",
+    "pubDate": "2026-09-26T15:36:00.000Z",
+    "summary": "La prochaine génération de la petite tablette d’Apple commence à se dévoiler à travers plusieurs éléments retrouvés dans les fichiers de la marque. Une fuite confirme notamment le passage à une puce A"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;Ugreen Uno Qi2 atterit sur la planète Amazon, un chargeur 2-en-1 bradé à- 20 %",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3258051_lugreen-uno-qi2-un-chargeur-2-en-1-atterit-sur-la-planete-amazon-et-coute-20-de-moins",
+    "pubDate": "2026-09-26T15:12:00.000Z",
+    "summary": "L'Ugreen Uno Qi2 se démarque par son design, mais aussi par sa puissance de charge de 25 W qui permet de recharger un iPhone 17 à 50 % en 30 minutes. Sur Amazon, il est actuellement disponible avec un"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Après l'Odyssey de Nolan, l'Odyssey de Samsung avec cet écran gamer G5 incurvé 32\" 165 Hz en promo à -31%",
     "source": "Clubic",
     "category": "logiciels",
@@ -190,15 +217,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Marre de vous ruiner en cartouches d’encre ? Cette imprimante HP à réservoir passe à -30%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631294-marre-de-vous-ruiner-en-cartouches-d-encre-cette-imprimante-hp-a-reservoir-passe-a--30.html",
-    "pubDate": "2026-09-26T10:37:00.000Z",
-    "summary": "La HP Smart Tank 6005 est une imprimante qui utilise un réservoir d’encre plutôt que des cartouches, avec un résultat tout aussi efficace, à retrouver sur Amazon pour 174,96 euros contre 249,90 euros."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Snapdragon 8 Elite Gen 6 et 8 Elite Gen 6 Extreme : on vous explique toutes les différences",
     "source": "Frandroid",
     "category": "smartphones",
@@ -280,15 +298,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test de l&#8217;iPhone 18 Pro : le meilleur iPhone est aussi le plus prudent",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/test/3254233_test-iphone-18-pro",
-    "pubDate": "2026-09-26T07:48:54.000Z",
-    "summary": "Apple a présenté l'iPhone 18 Pro comme une parenthèse avant le Duo. Même châssis que l'an dernier, même écran, mêmes trois capteurs, une puce de plus et un diaphragme dans l'objectif. Après quelques j"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ce purificateur change de couleur selon la qualité de l’air que vous respirez, et son prix baisse déjà",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
     "pubDate": "2026-09-25T22:20:47.000Z",
     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meta opens early access program for new Muse features",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "pubDate": "2026-09-25T20:34:53.000Z",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list."
   }
 ]
