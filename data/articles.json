@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "TSMC lance déjà la production pilote de ses puces en 1,4 nm",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631390-tsmc-lance-deja-la-production-pilote-de-ses-puces-en-1-4-nm.html",
+    "pubDate": "2026-09-26T05:06:00.000Z",
+    "summary": "Le géant taïwanais avance vite sur sa prochaine génération de puces. Le 1,4 nm serait ainsi déjà entré dans sa première phase de production."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
     "pubDate": "2026-09-25T14:06:24.000Z",
     "summary": "Microsoft annonce une refonte de son application Copilot autour de trois onglets : Home, Code et Autopilot (ex-Scout). L'entreprise rêve d'inventer le Microsoft Office de l'intelligence artificielle e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On a suivi le débat IA de la présidentielle : beaucoup de positions de principe, peu de concret",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3261129_on-a-suivi-le-debat-ia-de-la-presidentielle-sur-beaucoup-de-position-de-principe-peu-de-concret",
-    "pubDate": "2026-09-25T14:05:20.000Z",
-    "summary": "La rédaction de Frandroid a regardé le débat autour de l'IA avec les candidats à la présidentielle ou leurs représentants sur BFMTV et Brut. Pendant deux heures, ils ont détaillé leurs projets sur l'I"
   }
 ]
