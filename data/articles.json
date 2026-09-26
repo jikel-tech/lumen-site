@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pour aider son fils dyslexique, ce père a créé un jeu gratuit qui apprend à taper au clavier",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html",
+    "pubDate": "2026-09-26T16:28:00.000Z",
+    "summary": "Des lettres à détruire, des boss à affronter et un clavier à apprivoiser : avec Fort-Dactylo, Nicolas Drolo veut rendre l’apprentissage de la frappe plus ludique. Un jeu gratuit conçu avec son fils, à"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Bénéficiaire du chèque énergie ? Engie va vous donner un nouveau coup de pouce",
     "source": "Clubic",
     "category": "logiciels",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
     "pubDate": "2026-09-25T23:04:34.000Z",
     "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "pubDate": "2026-09-25T22:20:47.000Z",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
   }
 ]
