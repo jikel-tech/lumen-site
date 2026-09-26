@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ubisoft dévoile les configurations pour Rayman Legends Retold : l'upscaling omniprésent",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631396-ubisoft-devoile-les-configurations-pour-rayman-legends-retold-l-upscaling-omnipresent.html",
+    "pubDate": "2026-09-26T11:01:00.000Z",
+    "summary": "Raisonnable côté CPU, Rayman Legends Retold apparaît comme bien plus exigeant du côté de la carte graphique."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon déstocke sa liseuse Kindle Scribe de 2024 avec l&#8217;arrivée de la nouvelle génération",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2340857-amazon-brade-le-kindle-scribe-de-2024-avec-larrivee-de-la-nouvelle-generation.html",
+    "pubDate": "2026-09-26T10:45:00.000Z",
+    "summary": "[Deal du jour] Depuis le mois de juin, Amazon vend en France une toute nouvelle gamme de Kindle Scribe. Le modèle de 2024 en profite pour descendre à 259,99 € au lieu de 479,99 €, stylet Premium compr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Marre de vous ruiner en cartouches d’encre ? Cette imprimante HP à réservoir passe à -30%",
     "source": "Clubic",
     "category": "logiciels",
@@ -199,15 +217,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les VPN à l’épreuve du futur : cap sur la cryptographie post-quantique",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/dossier-540725-les-vpn-a-l-epreuve-du-futur-cap-sur-la-cryptographie-post-quantique.html",
-    "pubDate": "2026-09-26T07:31:00.000Z",
-    "summary": "Les VPN protègent aujourd’hui nos connexions avec des algorithmes solides, mais l’informatique quantique menace une partie de la cryptographie qui sécurise leurs échanges. Le danger n’est pas immédiat"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Cet excellent TV Philips OLED et Ambilight de 65&#8243; qui s&#8217;installe sans meuble voit son prix chuter",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
     "pubDate": "2026-09-25T18:33:59.000Z",
     "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Arrivé en bout de course, inadapté face aux drones : l&#8217;Australie dit adieu à l’hélicoptère Tigre",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2340965-arrive-en-bout-de-course-inadapte-face-aux-drones-laustralie-dit-adieu-a-lhelicoptere-tigre.html",
-    "pubDate": "2026-09-25T17:30:00.000Z",
-    "summary": "L'armée australienne a annoncé la fin des vols de ses 22 hélicoptères de combat Tigre, conçus par Airbus, qui seront remplacés par l'Apache de Boeing."
   }
 ]
