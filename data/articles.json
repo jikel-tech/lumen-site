@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+    "pubDate": "2026-09-26T17:00:00.000Z",
+    "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un MacBook et un iPhone dans le sac à dos ? Intego ONE Complete protège les deux à moitié prix",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631354-un-macbook-et-un-iphone-dans-le-sac-a-dos-intego-one-complete-protege-les-deux-a-moitie-prix.html",
+    "pubDate": "2026-09-26T16:45:00.000Z",
+    "summary": "La formule Complete d’Intego ONE couvre désormais un iPhone en plus du Mac, sans abonnement supplémentaire. Sur le téléphone, l’application n’est pas un antivirus, iOS ne le permet pas, et c’est ce qu"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Pour aider son fils dyslexique, ce père a créé un jeu gratuit qui apprend à taper au clavier",
     "source": "Numerama",
@@ -217,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple renouvelle son accord avec Qualcomm malgré l’abandon de ses modems",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631213-apple-renouvelle-son-accord-avec-qualcomm-malgre-l-abandon-de-ses-modems.html",
-    "pubDate": "2026-09-26T11:33:00.000Z",
-    "summary": "Apple et Qualcomm vont poursuivre leur collaboration sur les brevets, alors que la marque à la pomme cherche progressivement à se passer des modems de son partenaire. Le nouvel accord entrera en vigue"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon déstocke sa liseuse Kindle Scribe de 2024 avec l&#8217;arrivée de la nouvelle génération",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "pubDate": "2026-09-25T23:11:10.000Z",
     "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "pubDate": "2026-09-25T23:04:34.000Z",
-    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
   }
 ]
