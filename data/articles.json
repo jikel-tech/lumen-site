@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon fait sa French Week et enlève déjà 65 € au nouveau Xiaomi Redmi Note 17 doté d&#8217;un écran de 7 pouces et d&#8217;une énorme batterie",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3260799_amazon-fait-sa-french-week-et-enleve-deja-65-e-au-nouveau-xiaomi-redmi-note-17-dote-dun-ecran-de-7-pouces-et-dune-enorme-batterie",
+    "pubDate": "2026-09-26T05:32:00.000Z",
+    "summary": "Officialisé en août, le Xiaomi Redmi Note 17 est équipé d'un grand écran OLED de 6,99 pouces et d'une batterie de 7 700 mAh. Pourtant, il descend déjà à 238 euros au lieu de 303 euros sur Amazon, avec"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Deezer défie Spotify avec 3 mois offerts : un essai qui vous laisse vraiment le temps de trancher",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-630895-deezer-defie-spotify-avec-3-mois-offerts-un-essai-qui-vous-laisse-vraiment-le-temps-de-trancher.html",
+    "pubDate": "2026-09-26T05:30:00.000Z",
+    "summary": "Choisir la plateforme musicale idéale peut représenter un véritable casse-tête, tant les offres des services les plus populaires semblent similaires. Cependant, en plus d’être français, Deezer a quelq"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "TSMC lance déjà la production pilote de ses puces en 1,4 nm",
     "source": "Clubic",
     "category": "logiciels",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-631282-pour-un-cloud-maison-a-moins-de-250-cette-offre-avec-un-nas-2-baies-et-un-onduleur-ugreen-est-interessante.html",
     "pubDate": "2026-09-25T14:33:00.000Z",
     "summary": "Le Bundle Ugreen DH2300 + UPS US2000 est une formule cohérente pour débuter un cloud personnel à la maison. Un NAS simple couplé à une protection électrique pour 243,58 euros au lieu de 289,98 euros, "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gratuit et open source, ce logiciel pourrait vous éviter le pire avec vos données",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630196-gratuit-et-open-source-ce-logiciel-pourrait-vous-eviter-le-pire-avec-vos-donnees.html",
-    "pubDate": "2026-09-25T14:10:00.000Z",
-    "summary": "Le cloud a révolutionné la sauvegarde des données. Mais cela implique souvent de s’en remettre à un service et à son espace de stockage. Duplicati adopte une approche différente : le logiciel permet d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le nouveau Microsoft Copilot s&#8217;attaque à Claude et ChatGPT (en utilisant Claude et ChatGPT)",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
-    "pubDate": "2026-09-25T14:06:24.000Z",
-    "summary": "Microsoft annonce une refonte de son application Copilot autour de trois onglets : Home, Code et Autopilot (ex-Scout). L'entreprise rêve d'inventer le Microsoft Office de l'intelligence artificielle e"
   }
 ]
