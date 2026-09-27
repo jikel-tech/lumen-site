@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai essayé le Volvo EX60, le SUV électrique premium qui fait trembler les Allemands",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2334281-jai-essaye-le-volvo-ex60-le-suv-electrique-premium-qui-fait-trembler-les-allemands.html",
+    "pubDate": "2026-09-27T11:28:00.000Z",
+    "summary": "Le nouvel EX60 est bien la nouveauté phare chez Volvo. Le SUV électrique suédois promet confort, technologie et surtout la meilleure autonomie de son segment avec 810 km WLTP dans sa version de pointe"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un seul chargeur pour le MacBook, le smartphone et la tablette ? Le Ugreen Nexode Pro 160 W est en promo",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3261621_un-seul-chargeur-pour-le-macbook-le-smartphone-et-la-tablette-le-ugreen-nexode-pro-160-w-est-en-promo",
+    "pubDate": "2026-09-27T11:22:00.000Z",
+    "summary": "Le Ugreen Nexode Pro est un chargeur GaN à cinq ports, avec un petit écran couleur qui affiche ce qui passe dans chaque câble. Il est proposé à 68,42 euros au lieu de 89,99 euros sur Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les magistrats français réclament l'outil européen qui doit accélérer leurs enquêtes numériques",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631444-les-magistrats-francais-reclament-l-outil-europeen-qui-doit-accelerer-leurs-enquetes-numeriques.html",
+    "pubDate": "2026-09-27T11:14:00.000Z",
+    "summary": "Depuis le 18 août, un juge allemand ou italien peut obtenir en dix jours, voire en huit heures, les données d’un compte hébergé par une plateforme installée ailleurs dans l’Union européenne. Faute de "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Prise en main du Xiaomi 18 Pro Max, découverte des Meta VR Glasses et test de l&#8217;iPhone 18 Pro : notre récap de la semaine",
     "source": "Frandroid",
     "category": "smartphones",
@@ -226,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "French Week Amazon : 30 offres tech jusqu'à -50%, de la Kindle Scribe au PC portable gamer",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/critique-631348-french-week-amazon-30-offres-tech-jusqu-a--50-de-la-kindle-scribe-au-pc-portable-gamer.html",
-    "pubDate": "2026-09-27T06:00:00.000Z",
-    "summary": "Amazon organise sa French Week jusqu’au lundi 28 septembre, et les membres Prime peuvent y ajouter un code de 5 ou 15 € de réduction. Parmi les 30 offres de notre sélection, nous en avons isolé cinq q"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Xiaomi sort sa trottinette électrique la plus abordable, et son prix chute déjà",
     "source": "Frandroid",
     "category": "smartphones",
@@ -325,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai testé la Coros Pace 4 Pro : un écran géant, des matériaux premium et une autonomie monstrueuse",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/coros/3250293_jai-teste-la-coros-pace-4-pro-un-ecran-geant-des-materiaux-premium-et-une-autonomie-monstrueuse",
-    "pubDate": "2026-09-26T16:00:00.000Z",
-    "summary": "Après le succès de la Pace Pro, Coros décline sa formule avec une Pace 4 Pro qui mise massivement sur le matériel. Entre sa dalle Amoled ultra-lumineuse et sa lunette en titane, la montre s'arme pour "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Un nouveau pays autorise le FSD, changement discret sur le Model Y L et fin du bonus sur certaines électriques : le récap’ Vroom de la semaine",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2338039-helas-ace-combat-8-ne-vole-pas-bien-haut.html",
     "pubDate": "2026-09-26T15:00:00.000Z",
     "summary": "Sept ans après son prédécesseur qui, lui-même, avait attendu douze ans avant de prendre la relève du sixième épisode, Ace Combat 8 pointe enfin le bout de son fuselage et confirme le rythme bien paisi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "pubDate": "2026-09-26T14:00:00.000Z",
-    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
   }
 ]
