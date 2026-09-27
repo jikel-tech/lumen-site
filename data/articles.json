@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Meilleurs mangas fantastiques : voilà nos 10 incontournables à lire",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2336975-meilleurs-mangas-fantastiques-voila-les-incontournables-a-lire.html",
+    "pubDate": "2026-09-27T08:30:00.000Z",
+    "summary": "Le fantastique est un genre parfois difficile à définir, tant ses frontières peuvent être floues avec la fantasy, l’horreur ou encore le surnaturel. Mais pas question de se perdre dans les classificat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À cause d'un bug, Google Maps envoie de nombreux automobilistes sur une route à voie unique",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631435-un-bug-de-google-maps-provoque-de-gros-embouteillages-sur-une-route-a-voie-unique.html",
+    "pubDate": "2026-09-27T08:30:00.000Z",
+    "summary": "Google a orienté par erreur les automobilistes de l’A9, en Écosse, vers une route de campagne à voie unique. Ces conducteurs voyaient l’axe principal fermé sur Google Maps, alors qu’il était ouvert. D"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Star Wars : le réalisateur des films Spider-Man serait aux commandes d&#8217;une nouvelle trilogie Skywalker",
     "source": "Numerama",
     "category": "culture",
@@ -298,15 +316,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "TikTok va limiter le temps d’écran des ados après un accord à 100 millions de dollars",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631429-tiktok-va-limiter-le-temps-d-ecran-des-ados-apres-un-accord-a-100-millions-de-dollars.html",
-    "pubDate": "2026-09-26T14:55:00.000Z",
-    "summary": "Les adolescents de l’Alabama seront bientôt limités à deux heures par jour sur TikTok, sauf accord d’un parent. La plateforme a accepté cette règle vendredi 25 septembre, dans un accord amiable avec l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai testé le Xgimi Mira : la vidéoprojection ultra courte focale triple laser passe enfin sous la barre des 1700 euros",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2337001-test-de-maestro-le-jeu-qui-transforme-vos-joy-con-en-baguette-de-chef-dorchestre-sur-switch-2.html",
     "pubDate": "2026-09-26T12:11:00.000Z",
     "summary": "La promesse de Maestro est de transformer vos Joy-Con en baguettes de chef d’orchestre afin de prendre les commandes de grands classiques de la musique, de Tchaïkovski à John Williams. Une idée aussi "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Copilot devient une « super app » : chat, code et agents réunis",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/microsoft-copilot/3261999_copilot-devient-une-super-app-chat-code-et-agents-reunis",
-    "pubDate": "2026-09-26T12:04:00.000Z",
-    "summary": "Microsoft a dévoilé le 25 septembre 2026 la plus grosse mise à jour de Copilot depuis son lancement, présentée par Satya Nadella comme «&nbsp;l'OS du travail&nbsp;». L'assistant réunit désormais le ch"
   }
 ]
