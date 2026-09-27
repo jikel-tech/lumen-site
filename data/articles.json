@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Prise en main du Xiaomi 18 Pro Max, découverte des Meta VR Glasses et test de l&#8217;iPhone 18 Pro : notre récap de la semaine",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/actualites-generales/3261637_prise-en-main-du-xiaomi-18-pro-max-decouverte-des-meta-vr-glasses-et-test-de-liphone-18-pro-notre-recap-de-la-semaine",
+    "pubDate": "2026-09-27T10:00:00.000Z",
+    "summary": "Cette semaine, en plus des annonces de la Meta Connect 2026, les puces gravées en 2 nm sont arrivées dans nos smartphones, chez Xiaomi comme chez Apple, et nous avons eu les deux appareils entre les m"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Votre abonnement Amazon Prime peut aussi faire baisser votre facture d’électricité de 120 €",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2339709-votre-abonnement-amazon-prime-peut-aussi-faire-baisser-votre-facture-delectricite-de-120-e.html",
+    "pubDate": "2026-09-27T10:00:00.000Z",
+    "summary": "EDF rembourse 120 euros aux membres Amazon Prime qui souscrivent chez elle un contrat d'électricité en offre de marché, depuis ce mardi 22 septembre et jusqu'au lundi 28 septembre 2026. L'opération es"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Home : la mise à jour de septembre corrige enfin ces bugs et ajoute de nouvelles fonctions",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631438-google-home-la-mise-a-jour-de-septembre-corrige-enfin-ces-bugs-et-ajoute-de-nouvelles-fonctions.html",
+    "pubDate": "2026-09-27T09:42:00.000Z",
+    "summary": "Google a corrigé, avec sa mise à jour du 16 septembre dernier, une quinzaine de défauts de son écosystème Google Home, dont des widgets trop gourmands en batterie. Les utilisateurs de Gemini sur les e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Cette serrure connectée verrouille 20 % de son prix sur Amazon",
     "source": "Frandroid",
     "category": "smartphones",
@@ -225,15 +252,6 @@
     "summary": "Vous comptez prendre le train pour voyager à la période de Noël ? Les ventes de la SNCF pour la fin d'année 2026 s'apprêtent à ouvrir. Voici quand exactement, pour réserver au plus tôt vos billets de "
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple pourrait avoir à payer une somme gigantesque pour une histoire de vibrations de l'iPhone",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631453-apple-pourrait-avoir-a-payer-une-somme-gigantesque-pour-une-histoire-de-vibrations-de-l-iphone.html",
-    "pubDate": "2026-09-27T05:41:00.000Z",
-    "summary": "Un jury fédéral américain estime qu'Apple doit plus de 5,7 milliards de dollars à la société Taction Technology, pour avoir enfreint deux brevets sur les vibrations de l'iPhone et de l'Apple Watch. Ap"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
     "source": "TechCrunch",
@@ -325,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "L&#8217;Ugreen Uno Qi2 atterit sur la planète Amazon, un chargeur 2-en-1 bradé à- 20 %",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3258051_lugreen-uno-qi2-un-chargeur-2-en-1-atterit-sur-la-planete-amazon-et-coute-20-de-moins",
-    "pubDate": "2026-09-26T15:12:00.000Z",
-    "summary": "L'Ugreen Uno Qi2 se démarque par son design, mais aussi par sa puissance de charge de 25 W qui permet de recharger un iPhone 17 à 50 % en 30 minutes. Sur Amazon, il est actuellement disponible avec un"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test d&#8217;Ace Combat 8, qui ne vole pas bien haut",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "pubDate": "2026-09-26T14:00:00.000Z",
     "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Canal+ : le top des meilleurs films de la plateforme en septembre 2026",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2339685-canal-le-top-des-meilleurs-films-de-la-plateforme-en-septembre-2026.html",
-    "pubDate": "2026-09-26T13:30:00.000Z",
-    "summary": "Entre les algorithmes bancals, les interfaces parfois complexes et le balayage infini du catalogue, perdre trois quarts d'heure à chercher quoi regarder est devenu le sport national le plus exaspérant"
   }
 ]
