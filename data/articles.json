@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft suspend une mise à jour Microsoft 365 après des désactivations de licences Office",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631450-microsoft-suspend-une-mise-a-jour-microsoft-365-apres-des-desactivations-de-licences-office.html",
+    "pubDate": "2026-09-27T07:05:00.000Z",
+    "summary": "Des propriétaires de licences perpétuelles d’Office 2016 et d'Office 2019 ont découvert la mention « produit sans licence » dans Word ou Excel, et parfois la disparition complète de leur suite bureaut"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "The Witcher 3 perd son charme, les Avengers perdent leur intérêt, et George Lucas perd patience, c&#8217;est le récap pop culture de la semaine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2340925-the-witcher-3-perd-son-charme-les-avengers-perdent-leur-interet-et-george-lucas-perd-patience-cest-le-recap-pop-culture-de-la-semaine.html",
+    "pubDate": "2026-09-27T07:00:00.000Z",
+    "summary": "Cette semaine, l'heure n'est pas aux festivités. Les nouvelles images du remaster de The Witcher 3 n'ont pas convaincu les fans de la première heure. Côté cinéma, le retour d'Avengers: Endgame dans le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Dans l’enfer des bips constants, pourquoi les voitures neuves nous cassent les oreilles",
     "source": "Numerama",
     "category": "culture",
@@ -262,15 +280,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone 17 Pro à 1039€ ou 18 Pro à 1479€ : les 442€ d’écart valent-ils le coup ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631357-iphone-17-pro-a-1-038-99-ou-18-pro-a-1-288-99-les-250-d-ecart-valent-ils-le-coup.html",
-    "pubDate": "2026-09-26T14:01:00.000Z",
-    "summary": "Une semaine après la sortie de l’iPhone 18 Pro, son prédécesseur coûte 250 € de moins chez RED by SFR à conditions égales, et descend à 1 038,99 € avec le forfait 60 Go et la reprise d’un ancie"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai testé le Xgimi Mira : la vidéoprojection ultra courte focale triple laser passe enfin sous la barre des 1700 euros",
     "source": "Frandroid",
     "category": "smartphones",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2340857-amazon-brade-le-kindle-scribe-de-2024-avec-larrivee-de-la-nouvelle-generation.html",
     "pubDate": "2026-09-26T10:45:00.000Z",
     "summary": "[Deal du jour] Depuis le mois de juin, Amazon vend en France une toute nouvelle gamme de Kindle Scribe. Le modèle de 2024 en profite pour descendre à 259,99 € au lieu de 479,99 €, stylet Premium compr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avengers Doomsday : ils n&#8217;ont pas tout dit, Anthony Russo parle du casting caché du film",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2341139-avengers-doomsday-ils-nont-pas-tout-dit-anthony-russo-parle-du-casting-cache-du-film.html",
-    "pubDate": "2026-09-26T09:55:00.000Z",
-    "summary": "On croyait la distribution d'Avengers Doomsday scellée après la parade de chaises de réalisateur dévoilant Robert Downey Jr.en Docteur Doom et le retour des X-Men de l'écurie Fox. Mais visiblement, de"
   }
 ]
