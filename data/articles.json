@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Grande première du Starship : suivez en direct le vol orbital que va tenter la fusée géante",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2327839-grande-premiere-du-starship-suivez-en-direct-le-vol-orbital-que-va-tenter-la-fusee-geante.html",
+    "pubDate": "2026-09-27T14:26:29.000Z",
+    "summary": "Le 14e vol d'essai du Starship, la fusée géante de SpaceX, est attendu à partir du 28 septembre 2026 depuis le Texas. Cette fois, l'entreprise vise pour de bon l'orbite, avec de vrais satellites Starl"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon fait sa French Week : voici les 12 meilleures offres Tech à saisir",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3255861_amazon-fait-sa-french-week-voici-le-top-10-des-meilleures-offres-tech",
+    "pubDate": "2026-09-27T14:25:52.000Z",
+    "summary": "Amazon a attendu la fin des French Days pour lancer sa « French Week ». Le géant américain enchaîne les ventes flash et ajoute des codes promo exclusifs pour les membres Prime. C'est le moment parfait"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un token, qu’est-ce que c’est et pourquoi les IA en ont-elles besoin ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/dossier-630997-un-token-qu-est-ce-que-c-est-et-pourquoi-les-ia-en-ont-elles-besoin.html",
+    "pubDate": "2026-09-27T14:19:00.000Z",
+    "summary": "Omniprésent dès qu’on parle d’IA générative, le token sert à découper ce que les modèles traitent, mais aussi à mesurer leur capacité et leur consommation. Une petite unité sur laquelle repose une bon"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai conduit la Peugeot e-208 GTi sous la pluie : enfin une voiture électrique Stellantis qui impressionne",
     "source": "Frandroid",
     "category": "smartphones",
@@ -244,15 +271,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Tetris, Uno, Pac-Man… Volkswagen fait le plein de jeux vidéo dans ses voitures",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631300-tetris-uno-pac-man-volkswagen-fait-le-plein-de-jeux-video-dans-ses-voitures.html",
-    "pubDate": "2026-09-27T07:49:00.000Z",
-    "summary": "Et si nos Volkswagen devenaient nos nouvelles consoles de jeux ? Le constructeur va intégrer AirConsole à certains de ses modèles 2027, avec notamment Tetris, Pac-Man et Uno au programme."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ce TV Mini LED Dreame de 75&#8243; 144 Hz avec barre de son 4.1.2 intégrée en promo vient bousculer les codes",
     "source": "Frandroid",
     "category": "smartphones",
@@ -277,15 +295,6 @@
     "url": "https://www.numerama.com/vroom/2341021-dans-lenfer-des-bips-constants-pourquoi-les-voitures-neuves-nous-cassent-les-oreilles.html",
     "pubDate": "2026-09-27T06:42:00.000Z",
     "summary": "Bip. Bip. Bip. La réglementation GSR2 voulait rendre nos voitures plus sûres. L'Europe a surtout réussi à les rendre franchement pénibles. L'édito Watt Else du 24 septembre 2026 s'est attaqué à un suj"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fin de la 2G : 1,7 million d&#8217;appareils vont s&#8217;arrêter sans prévenir",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/telecom/3262153_fin-de-la-2g-17-million-dappareils-vont-sarreter-sans-prevenir",
-    "pubDate": "2026-09-27T06:28:00.000Z",
-    "summary": "À fin juin 2026, environ 1,7 million d'appareils uniquement compatibles 2G restaient connectés en France, alors que le réseau doit fermer d'ici la fin de l'année. Parmi eux, des centaines de milliers "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
     "pubDate": "2026-09-26T17:00:00.000Z",
     "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour aider son fils dyslexique, ce père a créé un jeu gratuit qui apprend à taper au clavier",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html",
-    "pubDate": "2026-09-26T16:28:00.000Z",
-    "summary": "Des lettres à détruire, des boss à affronter et un clavier à apprivoiser : avec Fort-Dactylo, Nicolas Drolo veut rendre l’apprentissage de la frappe plus ludique. Un jeu gratuit conçu avec son fils, à"
   }
 ]
