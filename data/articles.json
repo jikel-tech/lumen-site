@@ -1,6 +1,105 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Alerte Carrefour : un prestataire victime d'une intrusion",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631531-alerte-carrefour-un-prestataire-victime-d-une-intrusion.html",
+    "pubDate": "2026-09-28T10:13:00.000Z",
+    "summary": "Carrefour prévient une partie de ses clients que leur identité et leurs coordonnées personnelles ont fuité après le piratage d'un prestataire. Celui-ci n'est pas nommé, mais deux sites spécialisés poi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Kobo casse ses liseuses avec sa dernière mise à jour",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/kobo/3262711_kobo-casse-ses-liseuses-avec-sa-derniere-mise-a-jour",
+    "pubDate": "2026-09-28T10:12:14.000Z",
+    "summary": "La bêta 6.0 du logiciel des liseuses Kobo fait disparaître des livres, des annotations et des statistiques de lecture sur trois modèles. Kobo assure que rien n’est effacé et demande aux utilisateurs t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À ce prix sur Amazon, l&#8217;iPhone 17 Pro est le pire ennemi de l&#8217;iPhone 18 Pro",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2341693-a-ce-prix-sur-amazon-liphone-17-pro-est-le-pire-ennemi-de-liphone-18-pro.html",
+    "pubDate": "2026-09-28T10:09:22.000Z",
+    "summary": "[Deal du jour] L'iPhone 18 Pro est sorti avec un prix d'entrée en hausse, et son prédécesseur en profite. Sur Amazon, l'iPhone 17 Pro tombe à 1 189 € au lieu de 1 329 €."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Face au MacBook Neo à 799 euros, Microsoft refuse de lancer une Surface à bas prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3262825_face-au-macbook-neo-a-799-euros-microsoft-refuse-de-lancer-une-surface-a-bas-prix",
+    "pubDate": "2026-09-28T10:04:39.000Z",
+    "summary": "Microsoft ne lancera pas de Surface à bas prix pour concurrencer le MacBook Neo d'Apple, vendu 799 euros en France. Le responsable de la gamme préfère laisser ce marché aux autres fabricants de PC Win"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le budget de Physint d&#8217;Hideo Kojima serait bien inférieur chez Xbox à celui de Sony",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2341473-le-budget-de-physint-dhideo-kojima-serait-bien-inferieur-chez-xbox-a-celui-de-sony.html",
+    "pubDate": "2026-09-28T10:00:00.000Z",
+    "summary": "Le feuilleton continue du côté de Kojima Productions et de la folle histoire de Physint, rejeté par les uns, accueilli à bras ouverts par les autres. Le budget de 400 millions de dollars avancé pour l"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Brick : comment ce tag NFC vendu 60 € veut vous faire lâcher votre smartphone",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/applications/3262501_brick-comment-tag-nfc-vendu-60-e-veut-vous-faire-lacher-votre-smartphone",
+    "pubDate": "2026-09-28T09:59:27.000Z",
+    "summary": "La mode est à la désintox numérique et Brick veut devenir votre meilleur allié dans ce projet. Derrière ce nom branché se cache en fait un accessoire vendu une soixantaine d’euros qui promet de rendre"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "YouTube corrige le bug qui rendait son application illisible sur smartphones",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/applications/google-apps/3262531_youtube-corrige-le-bug-qui-rendait-son-application-illisible-sur-smartphones",
+    "pubDate": "2026-09-28T09:55:56.000Z",
+    "summary": "L’application mobile de YouTube a récemment été touchée par un bug qui empêche l’affichage des miniatures des vidéos dans plusieurs espaces clés comme la page d’accueil. À leur place, de simples cases"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Dernier jour de la French Week Amazon : 30 offres tech jusqu'à -50 %, du robot aspirateur au PC RTX 5070",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/critique-631348-french-week-amazon-30-offres-tech-jusqu-a--50-de-la-kindle-scribe-au-pc-portable-gamer.html",
+    "pubDate": "2026-09-28T09:51:00.000Z",
+    "summary": "La French Week d'Amazon se termine ce lundi 28 septembre, et les codes Prime FRPRIME5 et FRPRIME15 expirent à 23h59. Parmi les 30 offres, nous en avons retenu 30 qui répondent chacune à un besoin préc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vol 14 du Starship : voilà à quoi devrait ressembler sa toute première trajectoire en orbite",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2341487-vol-14-du-starship-voila-a-quoi-devrait-ressembler-sa-toute-premiere-trajectoire-en-orbite.html",
+    "pubDate": "2026-09-28T09:50:20.000Z",
+    "summary": "Le prochain vol du Starship approche. SpaceX prévoit de faire voler la fusée géante ce lundi 28 septembre 2026. Pour la première fois, ce sera un vol orbital. Voici à quoi pourrait ressembler sa traje"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Étonnant, une marque chinoise lance une alimentation « anti-cafards » pour nos PC",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631522-etonnant-une-marque-chinoise-lance-une-alimentation-anti-cafards-pour-nos-pc.html",
+    "pubDate": "2026-09-28T09:49:00.000Z",
+    "summary": "L'objectif affiché est, bien sûr, de protéger le bloc d'alimentation contre les « bestioles », mais aussi contre l'humidité et la poussière."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cette IA écoute votre journée en continu pour donner une mémoire à Claude et Codex",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631510-cette-ia-ecoute-votre-journee-en-continu-pour-donner-une-memoire-a-claude-et-codex.html",
+    "pubDate": "2026-09-28T09:45:00.000Z",
+    "summary": "Et si votre assistant IA pouvait se souvenir d’une conversation que vous avez vous-même oubliée ? Hemory pousse très loin le concept de mémoire artificielle : l’application écoute ce qui se passe auto"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Stellantis brevète un système qui éjecte la batterie haute tension en cas de risque d&#8217;incendie",
     "source": "Numerama",
     "category": "culture",
@@ -181,48 +280,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Quels sont les meilleurs smartphones reconditionnés en 2026 ? Voici nos favoris",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/smartphones/1233493_selection-des-meilleurs-smartphones-reconditionnes",
-    "pubDate": "2026-09-28T08:16:01.000Z",
-    "summary": "Faire des économies tout en préservant un peu la planète, c'est la promesse du smartphone reconditionné. Choisir un téléphone remis à neuf permet de profiter de technologies récentes à prix cassé, san"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le nouvel Outlook va enfin vous empêcher d’envoyer un mail si vous avez laissé passer une faute",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-631498-le-nouvel-outlook-va-enfin-vous-empecher-d-envoyer-un-mail-si-vous-avez-laisse-passer-une-faute.html",
     "pubDate": "2026-09-28T08:14:00.000Z",
     "summary": "Le nouvel Outlook continue de rattraper son prédécesseur. Microsoft prépare le retour d’une option pourtant élémentaire, capable de lancer automatiquement le correcteur orthographique juste avant l’en"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Decathlon lance son premier pied d’atelier vélo conçu avec les professionnels de l’équipe Van Rysel, s’il vous plaît",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/decathlon/3262431_decathlon-lance-son-premier-pied-datelier-velo-concu-avec-les-professionnels-de-lequipe-van-rysel-sil-vous-plait",
-    "pubDate": "2026-09-28T08:07:12.000Z",
-    "summary": "Decathlon a lancé à la mi-septembre 2026 le « Pied d'atelier vélo Pro 360° », vendu 174,99 euros et développé avec les mécaniciens de l'équipe Van Rysel. C'est le premier pied d'atelier de la marque p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fabriquée en Chine et limitée à 90 km/h : la Dacia électrique à 11 000 € arriverait très bientôt sur les routes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/dacia/3262329_fabriquee-en-chine-et-limitee-a-90-km-h-la-dacia-electrique-a-11-000-e-arriverait-tres-bientot-sur-les-routes",
-    "pubDate": "2026-09-28T07:59:25.000Z",
-    "summary": "Dacia n’a toujours pas officiellement confirmé la commercialisation de sa future Hipster. Mais selon le média britannique Autocar, qui cite une source proche du projet, cette petite voiture électrique"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "PlayStation Plus : jusqu&#8217;à 25 % de remise sur les abonnements annuels",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3253787_playstation-plus-jusqua-25-pourcents-de-remise-sur-les-abonnements-annuels",
-    "pubDate": "2026-09-28T07:59:00.000Z",
-    "summary": "Après la hausse de tarif encaissée l'été dernier, le PlayStation Plus Essential redescend à 61,19 euros l'année au lieu de 71,99 euros sur PlayStation 4 et 5. Les paliers Extra et Premium profitent au"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -259,69 +322,6 @@
     "url": "https://www.numerama.com/vroom/2341405-geely-rejoint-nio-pour-faire-changer-dechelle-le-battery-swap.html",
     "pubDate": "2026-09-28T07:33:49.000Z",
     "summary": "Geely a officialisé l'acquisition de 30 % de Nio Power, la filiale de Nio dédiée aux stations d'échange de batteries et aux bornes de recharge. Une alliance financière et industrielle qui montre les e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sorti cette année, ce TV LG OLED C6 de 65\" perd 600€ à la Fnac",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631255-sorti-cette-annee-ce-tv-lg-oled-c6-de-65-perd-500-a-la-fnac.html",
-    "pubDate": "2026-09-28T07:33:00.000Z",
-    "summary": "Le LG OLED C6 de 65 pouces passe de 2 499 € à 1 899 € chez Fnac. Il ne reprend pas la dalle Tandem du 77 pouces que nous avons testé, mais progresse nettement face au C5 et garde tout l’équipement de "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Bouygues Telecom va vous prévenir quand un appel frauduleux s'affiche sur votre mobile, avec Anti-Spam",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631483-bouygues-telecom-va-vous-prevenir-quand-un-appel-frauduleux-s-affiche-sur-votre-mobile-avec-anti-spam.html",
-    "pubDate": "2026-09-28T07:32:00.000Z",
-    "summary": "Contre le démarchage abusif et les tentatives d'arnaque, Bouygues Telecom lance Anti-Spam, une option qui signale les appels suspects. Intégré au réseau mobile, le service ne nécessite ni application "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "C&#8217;est à cause des fans si Final Fantasy VII Revelation aura deux DLC",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2341403-cest-a-cause-des-fans-si-final-fantasy-vii-revelation-aura-deux-dlc.html",
-    "pubDate": "2026-09-28T07:25:12.000Z",
-    "summary": "Réalisateur de Final Fantasy VII Revelation, Naoki Hamaguchi a expliqué pourquoi Square Enix a d'ores et déjà prévu de lancer deux extensions alors que le RPG n'est même pas encore sorti."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Oui, oui, les gens utilisent bien Copilot, insiste Microsoft",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631477-oui-oui-les-gens-utilisent-bien-copilot-insiste-microsoft.html",
-    "pubDate": "2026-09-28T07:22:00.000Z",
-    "summary": "En marge de l'annonce de la nouvelle version de Copilot par Satya Nadella, un salarié de Microsoft a répondu à ceux qui doutent de son utilité. Selon Nicolas Bustamante, l'assistant est bel et bien la"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Dernier jour : 30 offres tech Amazon jusqu'à -50%, de la Kindle Scribe au PC portable gamer",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/critique-631348-french-week-amazon-30-offres-tech-jusqu-a--50-de-la-kindle-scribe-au-pc-portable-gamer.html",
-    "pubDate": "2026-09-28T07:14:00.000Z",
-    "summary": "Amazon organise sa French Week jusqu’au lundi 28 septembre, et les membres Prime peuvent y ajouter un code de 5 ou 15 € de réduction. Parmi les 30 offres de notre sélection, nous en avons isolé cinq q"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Grande première du Starship : suivez en direct le vol orbital de la fusée géante de SpaceX aujourd&#8217;hui",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2327839-grande-premiere-du-starship-suivez-en-direct-le-vol-orbital-de-la-fusee-geante-de-spacex.html",
-    "pubDate": "2026-09-28T07:08:20.000Z",
-    "summary": "Le 14e vol d'essai du Starship, la fusée géante de SpaceX, est attendu à partir du 28 septembre 2026 depuis le Texas. Cette fois, l'entreprise vise pour de bon l'orbite, avec de vrais satellites Starl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La billetterie pour Avengers Doomsday est ouverte : comment réserver vos places ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2341389-comment-acceder-aux-preventes-davengers-doomsday-aujourdhui.html",
-    "pubDate": "2026-09-28T06:35:00.000Z",
-    "summary": "Immense événement de la fin d'année oblige, les grosses enseignes de cinéma se plient en quatre pour permettre d'acheter sa place pour Avengers: Doomsday bien avant l'heure. Les préventes ouvrent ce l"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
