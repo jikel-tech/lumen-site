@@ -1,5 +1,41 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "pubDate": "2026-09-28T19:33:57.000Z",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "pubDate": "2026-09-28T19:27:27.000Z",
+    "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "pubDate": "2026-09-28T19:21:59.000Z",
+    "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le nouveau Claude Sonnet 5.5 d'Anthropic bat Opus 5.5 sur un test de code, pour deux fois moins cher",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631645-le-nouveau-claude-sonnet-5-5-d-anthropic-bat-opus-5-5-sur-un-test-de-code-pour-deux-fois-moins-cher.html",
+    "pubDate": "2026-09-28T19:16:00.000Z",
+    "summary": "Anthropic a dévoilé ce lundi Claude Sonnet 5.5, son nouveau modèle d'IA intermédiaire. Plus rapide et moins gourmand que Sonnet 5 pour un tarif inchangé, il se rapproche d'Opus 5.5 sur plusieurs tests"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Claude Sonnet 5.5 : Anthropic lance un modèle plus rapide et moins cher, presque au niveau d&#8217;Opus 5.5",
     "source": "Frandroid",
@@ -289,15 +325,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Fnac brade ce pack de trois caméras connectées avec une réduction XXL de 585€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631582-la-fnac-brade-ce-pack-de-trois-cameras-connectees-avec-une-reduction-xxl-de-585-euros.html",
-    "pubDate": "2026-09-28T15:20:00.000Z",
-    "summary": "L’Arlo Ultra 2 Spotlight est une caméra connectée complète avec son champ de vision à 180° et sa détection de mouvement. Pour une couverture complète, direction la Fnac où vous pourrez en acheter troi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Il fait tourner le plus grand modèle d’IA d’OpenAI en reliant six appareils, dont un Galaxy S24+",
     "source": "Frandroid",
     "category": "smartphones",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3263229_cette-barre-de-son-samsung-2-1-de-300-w-en-promo-a-120-e-vient-corriger-les-faiblesses-de-votre-tv",
     "pubDate": "2026-09-28T15:01:00.000Z",
     "summary": "La Samsung HW-B450F/EN est une barre de son d'entrée de gamme qui vient renforcer les graves et les dialogues de votre TV, à retrouver pour 119,99 euros au lieu de 139,99 euros sur Joybuy."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "pubDate": "2026-09-28T15:00:00.000Z",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-09-28T15:00:00.000Z",
-    "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Starship : et s&#8217;il y a un problème autour de la Terre et que le vol orbital tourne mal ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2341985-starship-et-sil-y-a-un-probleme-autour-de-la-terre-et-que-le-vol-orbital-tourne-mal.html",
-    "pubDate": "2026-09-28T14:56:01.000Z",
-    "summary": "Sur le papier, tout est censé bien se dérouler. La fusée géante Starship doit réussir son tout premier vol orbital ce lundi 28 septembre. Mais il y a aussi la possibilité d'un loupé. Voilà ce que Spac"
   }
 ]
