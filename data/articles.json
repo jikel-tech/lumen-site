@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "SpaceX franchit la dernière étape avant de lancer la relève de Sophie Adenot vers l&#8217;ISS",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2341625-spacex-franchit-la-derniere-etape-avant-denvoyer-la-releve-de-sophie-adenot-vers-liss.html",
+    "pubDate": "2026-09-28T11:31:00.000Z",
+    "summary": "SpaceX a allumé au sol les neuf moteurs du Falcon 9 de la mission Crew-13 fin septembre, sans le faire décoller. C'est le dernier gros test de la fusée avant un départ vers l'ISS prévu ce jeudi 1er oc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "SwitchBot K11+ Pro : le robot aspirateur de la taille d'une feuille A4 double sa puissance",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631516-switchbot-k11-pro-le-robot-aspirateur-de-la-taille-d-une-feuille-a4-double-sa-puissance.html",
+    "pubDate": "2026-09-28T11:30:00.000Z",
+    "summary": "SwitchBot lance le K11+ Pro, une version plus musclée de son mini robot aspirateur, avec une aspiration annoncée à 12 000 Pa. Le format ne change pas, ni la station de vidage compacte, pour 399,99 eur"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Darty retire 200 € sur ce pack Xiaomi complet avec smartphone 17T Pro, écouteurs Redmi Buds 8 et bracelet Smart Band 11 Active",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3262767_darty-retire-200-e-sur-ce-pack-xiaomi-complet-avec-smartphone-17t-pro-ecouteurs-redmi-buds-8-et-bracelet-smart-band-11-active",
+    "pubDate": "2026-09-28T11:17:00.000Z",
+    "summary": "Pour fêter l'automne, Darty propose un pack Xiaomi complet où on retrouve trois produits de la marque : le smartphone 17T Pro, les écouteurs Redmi Buds 8 et le Smart Band 11 Active pour 803 euros au l"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sony brevète une manette PlayStation capable d’accepter les paiements par carte bancaire",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631519-sony-brevete-une-manette-playstation-capable-d-accepter-les-paiements-par-carte-bancaire.html",
+    "pubDate": "2026-09-28T11:16:00.000Z",
+    "summary": "Et si la prochaine manette PlayStation permettait aussi de faire ses achats ? Sony imagine en tout cas une solution capable de récupérer les informations d’une carte bancaire ou d’un smartphone direct"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "MSI lance une nouvelle console portable Claw à base d'Intel G3 « non extreme »",
     "source": "Clubic",
     "category": "logiciels",
@@ -226,15 +262,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "GTA V tourne à 66 images par seconde sur l&#8217;iPhone 18 Pro Max, au niveau d&#8217;une GTX 1650",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/os/ios/3262781_gta-v-tourne-a-66-images-par-seconde-sur-liphone-18-pro-max-au-niveau-dune-gtx-1650",
-    "pubDate": "2026-09-28T09:20:18.000Z",
-    "summary": "Sur un iPhone 18 Pro Max, la version PC de GTA V tourne à 66 images par seconde en moyenne en 1080p grâce à Vapor, un projet amateur. C'est le niveau d'une carte graphique GeForce GTX 1650 de Nvidia."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Muse, l&#8217;agent IA de Meta, est accusé d&#8217;avoir invité un inconnu chez son utilisateur",
     "source": "Numerama",
     "category": "culture",
@@ -280,15 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vision Pro : Apple étudie quatre pistes pour un casque plus léger, dont une inspirée de Meta",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631492-vision-pro-apple-etudie-quatre-pistes-pour-un-casque-plus-leger-dont-une-inspiree-de-meta.html",
-    "pubDate": "2026-09-28T08:42:00.000Z",
-    "summary": "Apple travaillerait finalement sur un successeur à l’actuel Vision Pro, encore très en amont et dont la forme n’est pas arrêtée. Un lancement n'est envisagé que fin 2028 ou début 2029, et rien ne gara"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Trois ans après son départ, pourquoi la sonde JUICE revient frôler la Terre avant de filer vers Jupiter",
     "source": "Numerama",
     "category": "culture",
@@ -298,30 +316,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J’ai essayé le Beats 360 : un casque sportif imparfait, mais qu’il est difficile de ne pas aimer",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-631210-j-ai-essaye-le-beats-360-un-casque-sportif-imparfait-mais-qu-il-est-dur-de-ne-pas-aimer.html",
-    "pubDate": "2026-09-28T08:30:00.000Z",
-    "summary": "Tout juste annoncé, le casque Beats 360 est probablement le plus intrigant de la marque depuis le début de l’ère Apple. La promesse d’un produit design et sportif qui ne lésine pas sur la technologie,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Des lasers anti-drones seront bientôt installés à Cap Canaveral, après une intrusion à 2,5 km du pas de tir lunaire",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2341417-des-lasers-anti-drones-seront-bientot-installes-a-cap-canaveral-apres-une-intrusion-a-25-km-du-pas-de-tir-lunaire.html",
     "pubDate": "2026-09-28T08:22:01.000Z",
     "summary": "L'US Space Force va installer un laser anti-drones à Cap Canaveral, la base de Floride d'où décollent les fusées de SpaceX, United Launch Alliance ou Blue Origin. Le modèle et la date de mise en servi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Minecraft va accueillir sa première nouvelle dimension depuis plus de 14 ans",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2341393-minecraft-va-accueillir-sa-premiere-nouvelle-dimension-depuis-plus-de-14-ans.html",
-    "pubDate": "2026-09-28T07:45:31.000Z",
-    "summary": "Après près de quinze ans sans nouvelle dimension, Minecraft s’apprête enfin à franchir une nouvelle frontière. Baptisée le Sift, cette étrange contrée toute rose accueillera de nouveaux biomes, créatu"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
