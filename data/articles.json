@@ -1,12 +1,39 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "pubDate": "2026-09-28T17:29:50.000Z",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone 18 Pro : Apple sort la mise à jour iOS 27.0.1 pour corriger les bugs",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3263873_iphone-18-pro-apple-sort-la-mise-a-jour-ios-27-0-1-pour-corriger-les-bugs",
+    "pubDate": "2026-09-28T17:21:18.000Z",
+    "summary": "L'iPhone 18 Pro présentait quelques instabilités depuis son lancement, en particulier avec Face ID. Apple déploie une mise à jour iOS 27.0.1 pour corriger ça."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone Duo : Apple n’a pas encore tout dévoilé de son nouveau mode StandBy",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631630-iphone-duo-apple-n-a-pas-encore-tout-devoile-de-son-nouveau-mode-standby.html",
+    "pubDate": "2026-09-28T17:18:00.000Z",
+    "summary": "Le premier iPhone pliant d’Apple n’a pas encore livré tous ses secrets. Une fuite repérée dans les fichiers d’iOS révèle plusieurs affichages supplémentaires prévus pour son mode StandBy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
     "pubDate": "2026-09-28T17:09:02.000Z",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breath of the incidents s alarming."
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-28T14:30:00.000Z",
     "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test iPhone 18 Pro : l'iPhone le moins excitant de la décennie",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-630286-test-iphone-18-pro-l-iphone-le-moins-excitant-de-la-decennie.html",
-    "pubDate": "2026-09-28T14:29:00.000Z",
-    "summary": "Les nouveaux iPhone 18 Pro et 18 Pro Max ont un goût de réchauffé. Même design, mêmes capteurs photo, même écran… Mais un ticket d’entrée plus onéreux que jamais. La nouvelle puce gravée en 2 nm et, s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Dead Cells est le premier jeu PS5 natif sur Windows : Dead Cells n&#8217;utilise pas l&#8217;émulation",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/sony/3263337_dead-cells-est-le-premier-jeu-ps5-natif-sur-windows-dead-cells-nutilise-pas-lemulation",
-    "pubDate": "2026-09-28T14:13:29.000Z",
-    "summary": "Un développeur a fait tourner la version PS5 de Dead Cells comme un programme Windows classique, sans émulateur, grâce à l'outil open source AnyPS5. Il présente ce résultat comme une première, pour un"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Lanterns : James Gunn recadre sèchement les fans qui critiquent la série phare de DC",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2341869-lanterns-james-gunn-recadre-sechement-les-fans-qui-critiquent-la-serie-phare-de-dc.html",
-    "pubDate": "2026-09-28T14:13:03.000Z",
-    "summary": "James Gunn, co-CEO de DC Studios, a répondu le 21 septembre sur Threads aux fans de comics furieux du sort réservé à Hal Jordan dans Lanterns, la série DC de HBO Max. Pour lui, le héros reste la vedet"
   }
 ]
