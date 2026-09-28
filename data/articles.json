@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Claude Sonnet 5.5 : Anthropic lance un modèle plus rapide et moins cher, presque au niveau d&#8217;Opus 5.5",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/3263937_claude-sonnet-5-5-anthropic-lance-un-modele-plus-rapide-et-moins-cher-presque-au-niveau-dopus-5-5",
+    "pubDate": "2026-09-28T19:07:54.000Z",
+    "summary": "Anthropic a lancé ce lundi 28 septembre Claude Sonnet 5.5, plus de 30&nbsp;% plus rapide que Sonnet 5 et jusqu'à 30&nbsp;% moins cher par tâche, au même prix par token. Sur le test de codage Terminal-"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/sciences/2341985-starship-et-sil-y-a-un-probleme-autour-de-la-terre-et-que-le-vol-orbital-tourne-mal.html",
     "pubDate": "2026-09-28T14:56:01.000Z",
     "summary": "Sur le papier, tout est censé bien se dérouler. La fusée géante Starship doit réussir son tout premier vol orbital ce lundi 28 septembre. Mais il y a aussi la possibilité d'un loupé. Voilà ce que Spac"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "FBI reportedly declares &#8216;cyber security incident&#8217; after hackers steal agents&#8217; personal data",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-    "pubDate": "2026-09-28T14:50:30.000Z",
-    "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed."
   }
 ]
