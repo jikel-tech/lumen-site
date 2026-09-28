@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Votre Windows plante cinq minutes après son démarrage ? Voilà ce que vous pouvez faire",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3262357_votre-windows-plante-cinq-minutes-apres-son-demarrage-voila-ce-que-vous-pouvez-faire",
+    "pubDate": "2026-09-28T06:48:46.000Z",
+    "summary": "Un méchant bug traîne depuis quelques mois dans les dernières versions de Windows. Ce dernier bloque complètement le PC dans les cinq minutes suivant son démarrage. Il existe cependant une solution."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google s'inspire de Microsoft et ses mises à jour de Pixel font autant peur que celles de Windows",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.comPixel : ces mises à jour toujours plus instables qui nous feraient presque pense à celles de Windows",
+    "pubDate": "2026-09-28T06:42:00.000Z",
+    "summary": "Depuis le déploiement de la mise à jour Android de septembre, des propriétaires de Pixel se retrouvent bloqués devant leur écran de verrouillage. Le schéma de sécurité se réinitialise, le code PIN ne "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment accéder aux préventes d&#8217;Avengers: Doomsday aujourd&#8217;hui",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2341389-comment-acceder-aux-preventes-davengers-doomsday-aujourdhui.html",
+    "pubDate": "2026-09-28T06:34:25.000Z",
+    "summary": "Immense événement de la fin d'année oblige, les grosses enseignes de cinéma se plient en quatre pour permettre d'acheter sa place pour Avengers: Doomsday bien avant l'heure. Les préventes ouvrent ce l"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "WhatsApp : gros changement de design à venir sur Android",
     "source": "Frandroid",
     "category": "smartphones",
@@ -160,15 +187,6 @@
     "url": "https://www.frandroid.com/marques/3261559_ce-laptop-gamer-hp-16-aux-couleurs-de-valorant-sous-rtx-5070-sallege-de-900-e",
     "pubDate": "2026-09-27T17:38:00.000Z",
     "summary": "Le HP HyperX Omen 16 édition Valorant, qui adopte l'identité visuelle du célèbre FPS, bénéficie d'une grosse promotion. HP l'affiche en effet à 1 699 euros au lieu de 2 599 euros sur sa boutique en li"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Guide : les meilleurs PC portables à moins de 1000 € en 2026",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/638396_quels-sont-les-meilleurs-pc-portables-a-moins-de-1000-euros-en-2019",
-    "pubDate": "2026-09-27T17:00:14.000Z",
-    "summary": "On trouve aujourd'hui d'excellents ordinateurs portables avec un rapport qualité-prix remarquable pour un budget inférieur à 1000 €. Comment choisir le meilleur ordinateur portable adapté à vos besoin"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-631438-google-home-la-mise-a-jour-de-septembre-corrige-enfin-ces-bugs-et-ajoute-de-nouvelles-fonctions.html",
     "pubDate": "2026-09-27T09:42:00.000Z",
     "summary": "Google a corrigé, avec sa mise à jour du 16 septembre dernier, une quinzaine de défauts de son écosystème Google Home, dont des widgets trop gourmands en batterie. Les utilisateurs de Gemini sur les e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette startup française transforme les 70% de stockage inutilisé de votre entreprise en cloud privé chiffré - Interview",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/dossier-630817-cette-startup-francaise-transforme-le-stockage-inutilise-de-votre-entreprise-en-cloud-prive-chiffre---interview.html",
-    "pubDate": "2026-09-27T09:09:00.000Z",
-    "summary": "Et si l'espace de stockage qui dort sur les postes de vos salariés devenait la brique d'un cloud privé, chiffré de bout en bout et hébergé en France ? C'est la promesse de Memento Cloud, une solution "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon fait tomber cet air fryer Ninja FlexDrawer finition Pierre/Or sous les 210€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631267-amazon-fait-tomber-cet-air-fryer-ninja-flexdrawer-finition-pierre-or-sous-les-210.html",
-    "pubDate": "2026-09-27T09:06:00.000Z",
-    "summary": "Le Ninja Foodi FlexDrawer mise sur un tiroir unique de 10,4 L qu’un séparateur amovible divise en deux zones indépendantes. Dans sa finition Pierre/Or, il s’affiche à 204,99 € sur Amazon, un tarif qu’"
   }
 ]
