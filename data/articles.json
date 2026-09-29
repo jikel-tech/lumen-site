@@ -1,5 +1,59 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "pubDate": "2026-09-29T16:55:56.000Z",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Budget de l’UE : la France veut utiliser les amendes infligées à Google pour alléger la contribution des États",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631849-budget-de-l-ue-la-france-veut-utiliser-les-amendes-infligees-a-google-pour-alleger-la-contribution-des-etats.html",
+    "pubDate": "2026-09-29T16:54:00.000Z",
+    "summary": "En Europe, de nombreux pays veulent moins contribuer. La France, qui cherche une position d'équilibre, lance une idée intéressante sur la table."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Xiaomi 18 Pro est-il surpuissant ? On a testé ses performances",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/xiaomi/3263329_le-xiaomi-18-pro-est-il-surpuissant-on-a-teste-ses-performances",
+    "pubDate": "2026-09-29T16:50:00.000Z",
+    "summary": "Nous avons acheté un Xiaomi 18 Pro avant sa sortie en France. L'occasion de tester les performances de sa puce Snapdragon 8 Elite Gen 6."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Jours Flash Prime en avance : la station Anker SOLIX S2000 descend sous les 700€ chez Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631828-jours-flash-prime-en-avance-la-station-anker-solix-s2000-descend-sous-les-700.html",
+    "pubDate": "2026-09-29T16:50:00.000Z",
+    "summary": "Avec 2 000 Wh de batterie LFP et une bascule en 10 ms au plus, l’Anker SOLIX S2000 vise autant le secours électrique à la maison que les week-ends loin d’une prise. Reste à savoir ce que ses 1 500 W p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Suivez la conférence OpenAI en direct : le créateur de ChatGPT dévoile dots et le futur des IA",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2342271-openai-dev-day-2026-toutes-les-annonces.html",
+    "pubDate": "2026-09-29T16:46:43.000Z",
+    "summary": "OpenAI organise ce mardi 29 septembre 2026 son Dev Day et promet « plus de 20 lancements ». Parmi les annonces attendues : les rumeurs parlent d'un agent IA baptisé « Dots » et, peut-être, d'un premie"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ce réveil Amazon affiche l'heure, la météo et la musique : il perd 70 € avant les Jours Flash Prime",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631852-ce-reveil-amazon-affiche-l-heure-la-meteo-et-la-musique-il-perd-70-avant-les-jours-flash-prime.html",
+    "pubDate": "2026-09-29T16:46:00.000Z",
+    "summary": "À quelques jours des Jours Flash Prime, Amazon lance déjà une remise sur son réveil connecté. L'Echo Spot descend à 49,99 € au lieu de 119,99 €. Il remplace le radio-réveil de la table de nuit par un "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Piratage de la DGFiP : l'ANSSI raconte comment des mots de passe volés ont conduit à la catastrophe",
     "source": "Clubic",
@@ -163,15 +217,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Il sert aussi l'hiver : ce ventilateur de plafond connecté Create passe sous les 90€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631819-il-sert-aussi-l-hiver-ce-ventilateur-de-plafond-connecte-create-passe-sous-les-90.html",
-    "pubDate": "2026-09-29T15:01:00.000Z",
-    "summary": "Le Create Windcalm S réunit un moteur DC, un éclairage LED à trois températures et un pilotage en Wi-Fi sur 112 cm d’envergure. Sa fonction hiver lui trouve un rôle dès l’allumage du chauffage, ce qui"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test de The Merlies, le petit jeu zen et adorable produit par ARTE",
     "source": "Numerama",
     "category": "culture",
@@ -199,30 +244,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Spotify en panne : que faire si votre musique refuse de se lancer ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631825-spotify-en-panne-que-faire-si-votre-musique-refuse-de-se-lancer.html",
-    "pubDate": "2026-09-29T14:46:00.000Z",
-    "summary": "Les signalements s’accumulent autour du service de streaming musical ce mardi après-midi. Pour les utilisateurs touchés, les contenus déjà téléchargés peuvent offrir une solution de secours."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Vol orbital du Starship vécu à 8 km du pas de tir : le bruit et les vibrations font trembler les murs (vidéo)",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2342739-vol-orbital-du-starship-vecu-a-8-km-du-pas-de-tir-le-bruit-et-les-vibrations-font-trembler-les-murs-video.html",
     "pubDate": "2026-09-29T14:45:00.000Z",
     "summary": "SpaceX a diffusé en direct, ce lundi 28 septembre, le 14e vol d'essai du Starship, qui était aussi le premier vol orbital de la fusée. Mais à quoi ressemble le décollage du lanceur, quand on se trouve"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Claude est en panne : Anthropic confirme un incident qui touche une large partie de ses services",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631822-claude-est-en-panne-anthropic-confirme-un-incident-qui-touche-une-large-partie-de-ses-services.html",
-    "pubDate": "2026-09-29T14:45:00.000Z",
-    "summary": "Claude connaît une panne importante ce mardi après-midi. Le problème touche le chatbot d’Anthropic, mais aussi Claude Code, Claude Cowork, sa plateforme et certaines requêtes envoyées à son API."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/actualites-generales/3264689_google-a-fait-planter-des-milliers-dapplications-ios-sans-le-vouloir",
     "pubDate": "2026-09-29T13:56:48.000Z",
     "summary": "Dire que des applications iOS ont cessé de fonctionner à cause de Google, ça ressemble à une mauvaise théorie du complot. L'explication est beaucoup plus terre à terre."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-    "pubDate": "2026-09-29T13:53:01.000Z",
-    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-    "pubDate": "2026-09-29T13:47:30.000Z",
-    "summary": "The tech giant says the agent can help owners run their business and find new customers."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gemini abandonne ses « Gems » et suit le grand mouvement des LLM épurés",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2342763-gemini-abandonne-ses-gems-et-suit-le-grand-mouvement-des-llm-epures.html",
-    "pubDate": "2026-09-29T13:32:03.000Z",
-    "summary": "À partir du 17 novembre 2026, Google transformera les Gems, les assistants personnalisés de Gemini, en « Skills » utilisables directement dans la conversation."
   }
 ]
