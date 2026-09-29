@@ -1,5 +1,122 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Spaces : OpenAI s&#8217;attaque à Notion et Google Docs depuis ChatGPT",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/openai/3266335_spaces-openai-sattaque-a-notion-et-google-docs-depuis-chatgpt",
+    "pubDate": "2026-09-29T17:38:44.000Z",
+    "summary": "OpenAI a profité du DevDay pour glisser Spaces derrière dots : un espace de travail collaboratif dans ChatGPT où pages, fichiers, collègues et agents cohabitent."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "GPT-6.1 Sol vs Astra : presque le même niveau pour un cinquième du prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266265_gpt-6-1-sol-vs-astra-presque-le-meme-niveau-pour-un-cinquieme-du-prix",
+    "pubDate": "2026-09-29T17:34:04.000Z",
+    "summary": "OpenAI présente GPT-6.1 Sol au DevDay, sept jours après GPT-6 Sol, au même prix et avec des scores qui frôlent ceux d'Astra, son modèle haut de gamme. Derrière la course aux benchmarks et le mode Ultr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Drôle de pub ! Anthropic alerte contre les \"risques existentiels pour l'humanité\" de l'IA dans son prospectus d'introduction en Bourse",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631867-drole-de-pub-anthropic-alerte-contre-les-risques-existentiels-pour-l-humanite-de-l-ia-dans-son-prospectus-d-introduction-en-bourse.html",
+    "pubDate": "2026-09-29T17:28:00.000Z",
+    "summary": "Anthropic prépare son entrée en Bourse de la plus originale des manières. Le géant de l'IA consacre une bonne partie de son marketing à indiquer que sa technologie pourrait mener à la fin du monde !"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+    "pubDate": "2026-09-29T17:27:09.000Z",
+    "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "pubDate": "2026-09-29T17:20:00.000Z",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "OpenAI lance déjà GPT-6.1 Sol, une semaine seulement après GPT-6 Sol",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2343303-openai-lance-deja-gpt-6-1-sol-une-semaine-seulement-apres-gpt-6-sol.html",
+    "pubDate": "2026-09-29T17:17:58.000Z",
+    "summary": "Sept jours seulement après GPT-6 Sol, OpenAI annonce déjà son successeur : GPT-6.1 Sol, toujours cinq fois moins cher que son modèle phare GPT-6 Astra. La course au meilleur modèle n'en finit plus."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "pubDate": "2026-09-29T17:17:15.000Z",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "dots d&#8217;OpenAI expliqué : un ordinateur dans le cloud, 4 000 apps et un agent qui ne dort jamais",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266235_agents-ia-toujours-actifs-cest-quoi-dots-le-nouveau-pari-dopenai",
+    "pubDate": "2026-09-29T17:16:38.000Z",
+    "summary": "OpenAI lance dots, des agents IA qui tournent en permanence sur leur propre machine dans le cloud et prennent des initiatives sans qu'on leur demande. Sur scène, Sam Altman a appelé le sien Alfred. In"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "OpenAI dévoile « dots », ses assistants mignons pour démocratiser l&#8217;IA agentique (sauf en Europe)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2343069-openai-devoile-dots-ses-assistants-mignons-pour-democratiser-lia-agentique-sauf-en-europe.html",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "summary": "OpenAI répond à Meta et à son agent Muse avec «&nbsp;dots&nbsp;», le nom donné à son service d'agents « toujours actifs » qui travaillent pour leurs utilisateurs en permanence. Les dots se différencie"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI expands ChatGPT&#8217;s plugins with app-like interfaces and automations",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Moins de 40€ pour la barbe et le corps : le Philips OneBlade 360 connecté perd 35€ sur Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631858-moins-de-40-pour-la-barbe-et-le-corps-le-philips-oneblade-360-connecte-perd-35-sur-amazon.html",
+    "pubDate": "2026-09-29T17:14:00.000Z",
+    "summary": "Pour ses offres anticipées des Jours Flash Prime, Amazon baisse de 47 % le Philips OneBlade 360 connecté Visage + Corps. Lame pivotante, kit corps et application : voici ce que ce rasoir hybride fait "
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Can a chatbot fix the government maze? The White House is about to find out",
     "source": "TechCrunch",
@@ -172,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google retire l’option pour revenir à Assistant après le passage à Gemini",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631693-google-retire-l-option-pour-revenir-a-assistant-apres-le-passage-a-gemini.html",
-    "pubDate": "2026-09-29T15:21:00.000Z",
-    "summary": "Sur Android, Gemini prend la place de Google Assistant et l’option permettant de revenir en arrière disparaît. Le basculement, engagé début septembre, touche aussi les appareils liés au téléphone."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Précommande Lego Dragon Ball : prix, date de sortie et où acheter le set Shenron et Goku",
     "source": "Numerama",
     "category": "culture",
@@ -205,15 +313,6 @@
     "url": "https://www.frandroid.com/produits-android/ordinateurs/3265495_firefox-157-active-nova-sa-plus-grosse-refonte-depuis-2021-et-ressort-le-mode-compact",
     "pubDate": "2026-09-29T15:07:05.000Z",
     "summary": "Mozilla déploie depuis ce mardi 29 septembre Firefox 157, qui active par défaut Nova, sa nouvelle interface aux onglets arrondis, sur ordinateur et sur mobile. La mise à jour fait aussi revenir le mod"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Face à Cosmos de NVIDIA, AMD mise 8,2 milliards sur la recherche en IA spatiale",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631666-face-a-cosmos-de-nvidia-amd-mise-8-2-milliards-sur-la-recherche-en-ia-spatiale.html",
-    "pubDate": "2026-09-29T15:01:00.000Z",
-    "summary": "AMD a signé un accord pour racheter World Labs, spécialiste des modèles d’IA capables de créer des environnements 3D, pour environ 8,2 milliards de dollars en actions. L’objectif : mieux anticiper les"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -259,104 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3265071_ce-pc-portable-asus-complet-avec-ecran-144-hz-et-core-7-perd-plus-de-20-de-son-prix-grace-a-ce-code-promo",
     "pubDate": "2026-09-29T14:38:00.000Z",
     "summary": "L'Asus Vivobook S16 est un PC portable qui pourra se glisser facilement dans votre sac à dos grâce à son format compact et son poids léger. Pour le découvrir à prix réduit, direction Darty où il perd "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Spotify est en panne chez vous ce mardi ? Vous n&#8217;êtes pas les seuls",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2343033-spotify-est-en-panne-chez-vous-ce-mardi-apres-midi-vous-netes-pas-les-seuls.html",
-    "pubDate": "2026-09-29T14:33:15.000Z",
-    "summary": "L'application Spotify est en panne pour de très nombreux internautes ce mardi 29 septembre 2026. Les problèmes ont commencé en milieu d'après-midi. Interpellée sur les réseaux sociaux, la plateforme d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ces comparaisons avant/après de The Witcher 3 vont vous donner envie",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2342727-ces-comparaisons-avant-apres-de-the-witcher-3-vont-vous-donner-envie.html",
-    "pubDate": "2026-09-29T14:30:00.000Z",
-    "summary": "Ce mardi 29 septembre, jour de lancement de The Witcher 3: Wild Hunt Remastered, CD Projekt Red publie six comparaisons officielles entre l'ancienne et la nouvelle version du jeu. Modélisation de Gera"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Spotify subit une panne, qui n&#8217;est toujours pas résolue après plusieurs heures",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/android/applications/3265499_spotify-subit-une-panne-que-se-passe-t-il",
-    "pubDate": "2026-09-29T14:29:14.000Z",
-    "summary": "Spotify est touché par une panne ce mardi 29 septembre, avec près de 400 signalements relevés en quelques minutes sur DownDetector. Rien n'a semble-t-il été corrigé plusieurs heures après le début de "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Claude est en panne, les signalements explosent : voici ce que l&#8217;on sait",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2343019-claude-est-en-panne-les-signalements-explosent-voici-ce-que-lon-sait-2.html",
-    "pubDate": "2026-09-29T14:28:13.000Z",
-    "summary": "Interface inaccessible, erreurs en cascade : Claude traverse ce mardi 29 septembre une panne majeure, massivement signalée par les utilisateurs."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Temporarily unable to authenticate » : Claude est en panne dans le monde entier",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3265481_temporarily-unable-to-authenticate-claude-est-en-panne",
-    "pubDate": "2026-09-29T14:27:00.000Z",
-    "summary": "Le service Claude d'Anthropic accuse une panne générale. En cause, le système d'authentification du service qui entraine un problème d'accès à l'IA."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le 14e vol du Starship était historique, mais le record absolu lui échappe",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2342717-le-14e-vol-du-starship-etait-historique-mais-le-record-absolu-lui-echappe.html",
-    "pubDate": "2026-09-29T14:13:11.000Z",
-    "summary": "SpaceX a placé 26 satellites Starlink V3 en orbite ce lundi 28 septembre 2026, lors du 14e vol de son Starship. Ils pèsent environ 52 tonnes au total. Une infographie publiée sur X classe ce chargemen"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Reacher : pas encore de saison 5 mais déjà une grosse surprise",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2342645-le-phenomene-reacher-continue-avec-une-nouvelle-suite-avant-meme-la-saison-5.html",
-    "pubDate": "2026-09-29T14:05:00.000Z",
-    "summary": "66 millions de spectateurs en 28 jours pour sa quatrième saison, plus de 200 millions depuis ses débuts en 2022 :&nbsp;Reacher&nbsp;est devenu l'un des plus gros succès de Prime Video. Sans même atten"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Batterie infinie », UWB et 8K : SteelSeries dévoile des souris avec des promesses fortes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/steelseries/3264189_batterie-infinie-uwb-et-8k-steelseries-devoile-des-souris-avec-des-promesses-fortes",
-    "pubDate": "2026-09-29T14:00:00.000Z",
-    "summary": "Plus de quatre ans après les Aerox 5 et 9, SteelSeries revient sur le devant de la scène des souris premium avec les gammes Sensei Pro et Rival Pro."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Technics dévoile le EAH-A1000, son premier casque à fluide magnétique",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/technics/3259509_technics-devoile-le-eah-a1000-son-premier-casque-a-fluide-magnetique",
-    "pubDate": "2026-09-29T14:00:00.000Z",
-    "summary": "La marque japonaise vient d’annoncer la commercialisation d’un casque circum-aural doté d'un nouveau driver à fluide magnétique de 40 mm. Ce successeur du EAH-A800 vise une reproduction sonore plus fi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "J&#8217;ai testé le casque Nothing Headphones (1) Pro : trois transducteurs, et ça s’entend",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/nothing/3262757_jai-teste-le-casque-nothing-headphones-1-pro-trois-transducteurs-et-ca-sentend",
-    "pubDate": "2026-09-29T13:58:10.000Z",
-    "summary": "Après son premier casque hi-fi Bluetooth développé avec KEF, Nothing remet le couvert avec le Headphone (1) Pro. Au programme : trois transducteurs par oreillette, une réduction de bruit active annonc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google a fait planter des milliers d&#8217;applications iOS sans le vouloir",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/actualites-generales/3264689_google-a-fait-planter-des-milliers-dapplications-ios-sans-le-vouloir",
-    "pubDate": "2026-09-29T13:56:48.000Z",
-    "summary": "Dire que des applications iOS ont cessé de fonctionner à cause de Google, ça ressemble à une mauvaise théorie du complot. L'explication est beaucoup plus terre à terre."
   }
 ]
