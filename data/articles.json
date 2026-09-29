@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "pubDate": "2026-09-29T22:20:59.000Z",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+    "pubDate": "2026-09-29T22:18:35.000Z",
+    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Je suis monté à bord de la BMW i3 : 912 km d’autonomie et une débauche de technologies pour faire taire les sceptiques",
     "source": "Frandroid",
@@ -180,15 +198,6 @@
     "summary": "Sept jours seulement après GPT-6 Sol, OpenAI annonce déjà son successeur : GPT-6.1 Sol, toujours cinq fois moins cher que son modèle phare GPT-6 Astra. La course au meilleur modèle n'en finit plus."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "pubDate": "2026-09-29T17:17:15.000Z",
-    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "dots d&#8217;OpenAI expliqué : un ordinateur dans le cloud, 4 000 apps et un agent qui ne dort jamais",
     "source": "Frandroid",
@@ -205,15 +214,6 @@
     "url": "https://www.numerama.com/tech/2343069-openai-devoile-dots-ses-assistants-mignons-pour-democratiser-lia-agentique-sauf-en-europe.html",
     "pubDate": "2026-09-29T17:15:00.000Z",
     "summary": "OpenAI répond à Meta et à son agent Muse avec «&nbsp;dots&nbsp;», le nom donné à son service d'agents « toujours actifs » qui travaillent pour leurs utilisateurs en permanence. Les dots se différencie"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
