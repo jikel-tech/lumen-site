@@ -1,6 +1,87 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le 14e vol du Starship était historique, mais le record absolu lui échappe",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2342717-le-14e-vol-du-starship-etait-historique-mais-le-record-absolu-lui-echappe.html",
+    "pubDate": "2026-09-29T14:13:11.000Z",
+    "summary": "SpaceX a placé 26 satellites Starlink V3 en orbite ce lundi 28 septembre 2026, lors du 14e vol de son Starship. Ils pèsent environ 52 tonnes au total. Une infographie publiée sur X classe ce chargemen"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Batterie infinie », UWB et 8K : SteelSeries dévoile des souris avec des promesses fortes",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/steelseries/3264189_batterie-infinie-uwb-et-8k-steelseries-devoile-des-souris-avec-des-promesses-fortes",
+    "pubDate": "2026-09-29T14:00:00.000Z",
+    "summary": "Plus de quatre ans après les Aerox 5 et 9, SteelSeries revient sur le devant de la scène des souris premium avec les gammes Sensei Pro et Rival Pro."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Technics dévoile le EAH-A1000, son premier casque à fluide magnétique",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/technics/3259509_technics-devoile-le-eah-a1000-son-premier-casque-a-fluide-magnetique",
+    "pubDate": "2026-09-29T14:00:00.000Z",
+    "summary": "La marque japonaise vient d’annoncer la commercialisation d’un casque circum-aural doté d'un nouveau driver à fluide magnétique de 40 mm. Ce successeur du EAH-A800 vise une reproduction sonore plus fi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un nouveau robot domestique débarque, il est Français et apprend vos corvées comme un chef",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631786-un-nouveau-robot-domestique-debarque-il-est-francais-et-apprend-vos-corvees-comme-un-chef.html",
+    "pubDate": "2026-09-29T14:00:00.000Z",
+    "summary": "La start-up Flourish ouvre dès ce mardi les précommandes de Flourish 1, un robot domestique conçu et assemblé à Paris, vendu autour de 3 000 euros. Capable d'apprendre des tâches ménagères, il ne sera"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Technics mise sur un fluide magnétique pour bousculer Sony et Bose",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631588-technics-mise-sur-un-fluide-magnetique-pour-bousculer-sony-et-bose.html",
+    "pubDate": "2026-09-29T14:00:00.000Z",
+    "summary": "À 449 euros, le nouvel EAH-A1000 vient jouer dans la cour des casques Bluetooth les plus ambitieux. Sa particularité se cache dans ses haut-parleurs, où un fluide magnétique doit mieux contrôler les v"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai testé le casque Nothing Headphones (1) Pro : trois transducteurs, et ça s’entend",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/nothing/3262757_jai-teste-le-casque-nothing-headphones-1-pro-trois-transducteurs-et-ca-sentend",
+    "pubDate": "2026-09-29T13:58:10.000Z",
+    "summary": "Après son premier casque hi-fi Bluetooth développé avec KEF, Nothing remet le couvert avec le Headphone (1) Pro. Au programme : trois transducteurs par oreillette, une réduction de bruit active annonc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google a fait planter des milliers d&#8217;applications iOS sans le vouloir",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/actualites-generales/3264689_google-a-fait-planter-des-milliers-dapplications-ios-sans-le-vouloir",
+    "pubDate": "2026-09-29T13:56:48.000Z",
+    "summary": "Dire que des applications iOS ont cessé de fonctionner à cause de Google, ça ressemble à une mauvaise théorie du complot. L'explication est beaucoup plus terre à terre."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "pubDate": "2026-09-29T13:53:01.000Z",
+    "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "pubDate": "2026-09-29T13:47:30.000Z",
+    "summary": "The tech giant says the agent can help owners run their business and find new customers."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Gemini abandonne ses « Gems » et suit le grand mouvement des LLM épurés",
     "source": "Numerama",
     "category": "culture",
@@ -208,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Marshall Bromley 150 : l&#8217;enceinte de fête se fait plus compacte sans sacrifier l&#8217;autonomie",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/marshall/3259281_marshall-bromley-150-lenceinte-de-fete-se-fait-plus-compacte-sans-sacrifier-lautonomie",
-    "pubDate": "2026-09-29T12:00:00.000Z",
-    "summary": "Marshall complète sa gamme d'enceintes festives avec la Bromley 150, un modèle plus petit que les Bromley 450 et 750 déjà disponibles, avec plus de 40 heures d'autonomie, un son à 360 degrés et des en"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test Nothing Headphone (1) Pro : un casque parfait, avec un gros défaut",
     "source": "Clubic",
     "category": "logiciels",
@@ -235,39 +307,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sacoche, sac à dos, sling&#8230; quel sac acheter pour votre appareil photo ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/2027876_meilleur-sac-pour-appareil-photo-sacoche-sac-a-dos-sac-sling-lequel-choisir",
-    "pubDate": "2026-09-29T11:45:37.000Z",
-    "summary": "Un boîtier photo et ses accessoires nécessitent un sac adapté pour être transportés en toute sécurité. On fait le point ici sur les différents types de contenants et les meilleurs sacs à choisir pour "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce chauffage d&#8217;appoint connecté Dreo parfait pour l&#8217;hiver chute sous les 50 € sur Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3264447_ce-chauffage-dappoint-connecte-dreo-parfait-pour-lhiver-chute-sous-les-50-e-sur-amazon",
-    "pubDate": "2026-09-29T11:44:00.000Z",
-    "summary": "Petit chauffage d'appoint connecté, le Dreo Atom 316S souffle de l'air chaud quelques secondes après l'allumage, de quoi réchauffer une chambre ou un bureau. Il est en ce moment proposé à 49 euros au "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le phénomène Reacher continue avec une nouvelle suite, avant même la saison 5",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2342645-le-phenomene-reacher-continue-avec-une-nouvelle-suite-avant-meme-la-saison-5.html",
     "pubDate": "2026-09-29T11:32:00.000Z",
     "summary": "66 millions de spectateurs en 28 jours pour sa quatrième saison, plus de 200 millions depuis ses débuts en 2022 :&nbsp;Reacher&nbsp;est devenu l'un des plus gros succès de Prime Video. Sans même atten"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "One UI 9 est disponible en France sur les Samsung Galaxy S26 : voici toutes les nouveautés",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/samsung/3264629_one-ui-9-est-disponible-en-france-sur-les-samsung-galaxy-s26-voici-toutes-les-nouveautes",
-    "pubDate": "2026-09-29T11:13:31.000Z",
-    "summary": "Samsung déploie officiellement la version stable de One UI 9 en France. Basée sur Android 17, la mise à jour arrive sur les Galaxy S26, Galaxy S26+ et Galaxy S26 Ultra."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -286,24 +331,6 @@
     "url": "https://www.numerama.com/pop-culture/2342307-diablo-v-ne-signifie-pas-la-mort-de-diablo-iv.html",
     "pubDate": "2026-09-29T11:02:00.000Z",
     "summary": "Blizzard Entertainment a tenu à rassurer les fans de Diablo IV, qui pourraient craindre l'abandon du jeu après la sortie de Diablo V, en 2029. Tant qu'il y aura du monde sur les serveurs, un suivi ser"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La nouvelle liseuse couleur Kindle pour lire des BD et des comics est temporairement bradée à -39%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631714-la-nouvelle-liseuse-couleur-kindle-pour-lire-des-bd-et-des-comics-est-temporairement-bradee-a--39.html",
-    "pubDate": "2026-09-29T11:00:00.000Z",
-    "summary": "La Kindle Colorsoft Signature Edition est une liseuse électronique avec affichage couleur et 32 Go de stockage qui évite d’avoir à emporter une valise de livres en vacances, en promo à 199,99 euros au"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Orange et Free cités parmi les meilleurs réseaux 5G du monde dans une prestigieuse étude",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631735-orange-et-free-cites-parmi-les-meilleurs-reseaux-5g-du-monde-dans-une-prestigieuse-etude.html",
-    "pubDate": "2026-09-29T10:44:00.000Z",
-    "summary": "Le classement mondial 5G d'Opensignal pour 2026, publié mardi, place deux opérateurs français aux avant-postes. Orange s'illustre sur le débit, Free sur la fiabilité, tandis que SFR et Bouygues Teleco"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://www.numerama.com/vroom/2337147-billets-de-train-pour-noel-2026-les-ventes-ouvrent-demain-sur-sncf-connect.html",
     "pubDate": "2026-09-29T10:10:05.000Z",
     "summary": "Vous comptez prendre le train pour voyager à la période de Noël ? Tenez-vous prêts, les ventes de la SNCF pour la fin d'année 2026 vont ouvrir. Voici quand réserver au plus tôt vos billets de TGV, Int"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avant son entrée en Bourse, Anthropic alerte sur les « risques catastrophiques ou existentiels » de l’IA pour l’humanité",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2342509-avant-son-entree-en-bourse-anthropic-alerte-sur-les-risques-catastrophiques-ou-existentiels-de-lia-pour-lhumanite.html",
-    "pubDate": "2026-09-29T10:04:46.000Z",
-    "summary": "Dans son dossier d’introduction en Bourse, Anthropic met en garde ses futurs investisseurs contre les risques que l’IA avancée pourrait faire peser sur l’humanité, révèle Reuters le 29 septembre 2026."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-    "pubDate": "2026-09-29T10:00:00.000Z",
-    "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Croatie autorise le Tesla FSD alors que la controverse sur le dépassement de vitesse prend de l&#8217;ampleur",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2342435-la-croatie-autorise-le-tesla-fsd-alors-que-la-controverse-sur-le-depassement-de-vitesse-prend-de-lampleur.html",
-    "pubDate": "2026-09-29T09:44:39.000Z",
-    "summary": "La liste des pays ayant autorisé le FSD de Tesla s'agrandit de semaine en semaine. Après la Slovénie puis la République tchèque, c'est au tour de la Croatie de dire oui à ce système d'aide à la condui"
   }
 ]
