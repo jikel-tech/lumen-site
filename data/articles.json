@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "SpaceX : revivez le tout premier vol orbital de Starship à travers des images spectaculaires",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631663-spacex-revivez-le-tout-premier-vol-orbital-de-starship-a-travers-des-images-spectaculaires.html",
+    "pubDate": "2026-09-29T07:38:00.000Z",
+    "summary": "Après treize vols suborbitaux, Starship a enfin atteint l’orbite. Une première historique pour SpaceX, qui a pourtant bien failli y renoncer en plein vol."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Deux nouveaux jeux The Last Of Us viennent d&#8217;être officiellement annoncés",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2342253-deux-nouveaux-jeux-the-last-of-us-viennent-detre-officiellement-annonces.html",
+    "pubDate": "2026-09-29T07:30:00.000Z",
+    "summary": "Naughty Dog n'en a pas fini avec l'univers de The Last of Us. Le studio vient de confirmer deux nouveaux projets situés dans cet univers, mais il faudra s'armer de patience pour y jouer."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pourquoi New York cherche à bannir définitivement certains modèles de vélos électriques",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/velo-electrique/3264107_pourquoi-new-york-cherche-a-bannir-definitivement-certains-modeles-de-velos-electriques",
+    "pubDate": "2026-09-29T07:25:54.000Z",
+    "summary": "Le Conseil municipal de New York examine ce mercredi 30 septembre plus de 20 projets de loi sur les vélos électriques, les trottinettes, les cyclomoteurs et les applications de livraison. Trois d'entr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« C&#8217;est ce qui est arrivé de plus fort au MCU », les frères Russo expliquent l&#8217;importance de cette scène bonus d&#8217;Avengers: Endgame",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2342251-cest-ce-qui-est-arrive-de-plus-fort-au-mcu-les-freres-russo-expliquent-limportance-de-cette-scene-bonus-davengers-endgame.html",
+    "pubDate": "2026-09-29T07:15:46.000Z",
+    "summary": "Dans une interview accordée à Empire Online, les frères Joe et Anthony Russo ont partagé quelques précisions sur les différentes scènes bonus d'Avengers: Endgame Extended. Pour Joe Russo, l'une d'elle"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "C&#8217;est quoi l&#8217;Auracast, la fonction que Bose vient d&#8217;ajouter à son casque ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -133,6 +169,15 @@
     "url": "https://www.frandroid.com/bons-plans/3263101_le-google-pixel-11-associe-a-une-enceinte-jbl-grip-cest-le-duo-gagnant-de-la-rentree-en-promo-a-200-e",
     "pubDate": "2026-09-29T05:25:00.000Z",
     "summary": "Darty met les Pixel 11 à toutes les sauces avec différents packs, dont celui-ci avec une enceinte JBL Grip à 899 euros au lieu de 1 098,99 euros."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Smartphones incassables : notre sélection des meilleurs téléphones antichoc en 2026",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/smartphones/616704_quels-sont-les-meilleurs-smartphones-antichocs-en-2019",
+    "pubDate": "2026-09-29T05:19:48.000Z",
+    "summary": "Vous êtes sportif, ou bien travaillez sur des chantiers ? Votre smartphone a donc des risques de connaître un tragique accident… Voici notre comparatif des meilleurs téléphones solides et/ou durcis."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -279,15 +324,6 @@
     "summary": "Anthropic a dévoilé ce lundi Claude Sonnet 5.5, son nouveau modèle d'IA intermédiaire. Plus rapide et moins gourmand que Sonnet 5 pour un tarif inchangé, il se rapproche d'Opus 5.5 sur plusieurs tests"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Claude Sonnet 5.5 : Anthropic lance un modèle plus rapide et moins cher, presque au niveau d&#8217;Opus 5.5",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3263937_claude-sonnet-5-5-anthropic-lance-un-modele-plus-rapide-et-moins-cher-presque-au-niveau-dopus-5-5",
-    "pubDate": "2026-09-28T19:07:54.000Z",
-    "summary": "Anthropic a lancé ce lundi 28 septembre Claude Sonnet 5.5, plus de 30&nbsp;% plus rapide que Sonnet 5 et jusqu'à 30&nbsp;% moins cher par tâche, au même prix par token. Sur le test de codage Terminal-"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "source": "TechCrunch",
@@ -322,41 +358,5 @@
     "url": "https://www.clubic.com/actualite-631639-votre-prochain-trajet-sur-waze-pourrait-vous-proposer-un-petit-detour-sponsorise.html",
     "pubDate": "2026-09-28T17:53:00.000Z",
     "summary": "Waze accueille désormais la publicité des commerces en France sur sa carte. Avec les campagnes dites Performance Max de Google, les magasins et restaurants peuvent apparaître sous forme de repère spon"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "100 Go, la 5G incluse et réseau Bouygues : le forfait discret à moins de 10 € qui mérite le détour",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3263433_100-go-la-5g-incluse-et-reseau-bouygues-le-forfait-discret-a-moins-de-10-e-qui-merite-le-detour",
-    "pubDate": "2026-09-28T17:46:00.000Z",
-    "summary": "Cdiscount Mobile propose 100 Go en 5G à 9,99 euros par mois, sans engagement. Le forfait utilise le réseau de Bouygues Telecom et inclut 25 Go pour les déplacements en Europe."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "pubDate": "2026-09-28T17:29:50.000Z",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone Duo : Apple n’a pas encore tout dévoilé de son nouveau mode StandBy",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631630-iphone-duo-apple-n-a-pas-encore-tout-devoile-de-son-nouveau-mode-standby.html",
-    "pubDate": "2026-09-28T17:18:00.000Z",
-    "summary": "Le premier iPhone pliant d’Apple n’a pas encore livré tous ses secrets. Une fuite repérée dans les fichiers d’iOS révèle plusieurs affichages supplémentaires prévus pour son mode StandBy."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Voici les premières images du décollage du Starship, pour son vol orbital écourté",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2341883-voici-les-premieres-images-du-decollage-du-starship-pour-son-vol-orbital-ecourte.html",
-    "pubDate": "2026-09-28T16:45:00.000Z",
-    "summary": "SpaceX faisait voler pour la 14e fois sa fusée Starship ce lundi 28 septembre 2026. Le vol orbital a été écourté (3 heures, au lieu de 10). De superbes clichés du décollage ont néanmoins été partagés."
   }
 ]
