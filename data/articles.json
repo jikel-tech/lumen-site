@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Apple et Microsoft ont-ils vraiment jeté l'éponge sur les interfaces de Windows et macOS ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631876-wip-scott-jenson-critique-liquid-glass-et-les-pubs-de-windows-deux-symptomes-d-un-bureau-delaisse.html",
+    "pubDate": "2026-09-30T09:10:00.000Z",
+    "summary": "Scott Jenson a créé le groupe Interface chez Apple dans les années 1980 avant de diriger l'expérience mobile de Google pendant cinq ans. Dans une conférence publiée par la communauté KDE, il estime qu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "On s&#8217;est penchés sur le SUV électrique à 16 000 € qui bat tous les records en Chine : Lynk & Co 20",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/lynk-co/3266507_on-sest-penches-sur-le-suv-electrique-a-16-000-e-qui-bat-tous-les-records-en-chine-lynk-co-20",
+    "pubDate": "2026-09-30T09:09:22.000Z",
+    "summary": "Tout juste lancé en Chine, le nouveau Lynk &amp; Co 20 a récolté plus de 14 600 commandes fermes en une heure. Il faut dire que ce SUV électrique est vendu à un prix très bas sur son marché, et qu’il "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Fuite de données chez Carrefour : pourquoi vous devez vous méfier de vos prochains SMS et mails",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3266909_fuite-de-donnees-chez-carrefour-pourquoi-vous-devez-vous-mefier-de-vos-prochains-sms-et-mails",
+    "pubDate": "2026-09-30T08:54:16.000Z",
+    "summary": "Carrefour a prévenu une partie de ses clients qu’un « incident de sécurité » chez l’un de ses prestataires avait exposé leurs noms, prénoms, adresses e-mail et numéros de téléphone. L’enseigne n’a pas"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avant même sa sortie, l'iPhone Duo s'apprête à chambouler le marché des pliables : les chiffres",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631900-avant-meme-sa-sortie-l-iphone-duo-s-apprete-a-chambouler-le-marche-des-pliables-les-chiffres.html",
+    "pubDate": "2026-09-30T08:52:00.000Z",
+    "summary": "Apple débarque tard sur le marché des smartphones pliables, mais les analystes lui promettent déjà une place de choix. Seule ombre au tableau : des usines qui peinent à suivre…"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« On attend désespérément les batteries Long Range » : pourquoi le made in France pénalise Citroën et Peugeot",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2343809-on-attend-desesperement-les-batteries-long-range-pourquoi-le-made-in-france-penalise-citroen-et-peugeot.html",
+    "pubDate": "2026-09-30T08:50:04.000Z",
+    "summary": "Même si l'usine de batteries ACC à Douvrin a augmenté sa cadence de production, l'approvisionnement reste insuffisant pour suivre la demande chez Stellantis. Une situation paradoxale qui contraint le "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Une nouvelle série Spider-Man va s&#8217;attaquer à la saga la plus folle des comics",
     "source": "Numerama",
     "category": "culture",
@@ -163,24 +208,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Votre box Wi-Fi peut détecter vos mouvements sans caméra : il suffit d&#8217;un ESP32 à 10 euros",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/maison-connectee/3266659_votre-box-wi-fi-peut-detecter-vos-mouvements-sans-camera-il-suffit-dun-esp32-a-10-euros",
-    "pubDate": "2026-09-30T08:01:35.000Z",
-    "summary": "Un rédacteur de XDA Developers a transformé une carte ESP32 à 10 euros en détecteur de mouvement grâce au logiciel libre ESPectre. Il n'a eu besoin ni de capteur ni de caméra. Le projet dépasse désorm"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iOS 27 bloque les arnaques bancaires, mais Apple l&#8217;a désactivé par défaut sur iPhone et iPad",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3266609_ios-27-bloque-les-arnaques-bancaires-mais-apple-la-desactive-par-defaut-sur-iphone-et-ipad",
-    "pubDate": "2026-09-30T07:55:55.000Z",
-    "summary": "Avec iOS 27, l’iPhone peut signaler aux applications compatibles que son utilisateur est peut-être en train de se faire arnaquer. Cette protection est désactivée par défaut."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Pour rendre GTA 6 plus réaliste, les développeurs ont passé des années à « tout essayer » en Floride",
     "source": "Numerama",
     "category": "culture",
@@ -271,24 +298,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jours Flash Prime : Amazon ouvre le bal avec 15 offres sur ses Kindle, Echo et Blink, jusqu’à -83%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631747-avant-le-prime-day-amazon-casse-les-prix-de-ses-kindle-echo-et-blink-15-offres-jusqu-a--83.html",
-    "pubDate": "2026-09-30T07:06:00.000Z",
-    "summary": "Une semaine avant les Jours Flash Prime des 6 et 7 octobre, Amazon baisse déjà le prix de ses propres appareils, des liseuses Kindle aux caméras Blink. Pour les modèles vendus seuls, nous avons vérifi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Stellantis met trois usines françaises au chômage partiel : ce que l’on sait￼",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631897-stellantis-met-trois-usines-francaises-au-chomage-partiel-ce-que-l-on-sait.html",
-    "pubDate": "2026-09-30T06:55:00.000Z",
-    "summary": "Fin octobre, Stellantis suspendra pendant plusieurs jours la production de ses usines de Sochaux et de Rennes. Les clients professionnels commandent en nombre les SUV électriques à grande autonomie de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Il existe une astuce pour avoir The Witcher 3 gratuitement sur Switch 2",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/vroom/2342045-on-est-monte-a-bord-de-la-bmw-i3-la-berline-electrique-aux-912-km-dautonomie-qui-peut-inquieter-tesla.html",
     "pubDate": "2026-09-29T22:01:00.000Z",
     "summary": "La nouvelle BMW i3 est la première Série 3 100 % électrique. Elle sera vendue en France à partir de 59 900 €, avec jusqu'à 710 km d'autonomie WLTP. Au sommet de la gamme, une version revendique jusqu'"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-    "pubDate": "2026-09-29T21:51:36.000Z",
-    "summary": "EliseAI raises $350M, doubles valuation in a year."
   }
 ]
