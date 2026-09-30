@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "The One About Matthew Perry : Le docu Netflix qui va changer votre regard sur Friends",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2343025-the-one-about-matthew-perry-le-docu-netflix-qui-va-changer-votre-regard-sur-friends.html",
+    "pubDate": "2026-09-30T05:00:00.000Z",
+    "summary": "Trois ans après la disparition de Matthew Perry, Netflix mettra en ligne le 27 octobre The One About Matthew Perry, dont la bande-annonce a été dévoilée ce mardi 29 septembre. À travers des archives f"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Votre Big Mac n’aura bientôt plus le même prix partout grâce à l’IA",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631894-votre-big-mac-n-aura-bientot-plus-le-meme-prix-partout-grace-a-l-ia.html",
+    "pubDate": "2026-09-30T04:57:00.000Z",
+    "summary": "McDonald’s estime, grâce à l’intelligence artificielle, ce que les clients de chaque restaurant sont prêts à payer, et recommande à ses franchisés un prix pour chaque article du menu. Deux restaurants"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Orange augmente encore ses forfaits mobiles : ce qui va changer pour les abonnés",
     "source": "Clubic",
     "category": "logiciels",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-631816-une-panne-chez-google-a-fait-crasher-des-milliers-d-applications-sur-iphone-ce-qui-s-est-passe.html",
     "pubDate": "2026-09-29T15:57:00.000Z",
     "summary": "Un problème dans Google Analytics for Firebase a provoqué des plantages en série sur iPhone et iPad. Google a corrigé l’incident en un peu plus de deux heures, sans intervention des développeurs ni mi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "The Witcher 3 Remastered ajoute le loot à cheval, et c&#8217;est cette nouveauté qui compte vraiment",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2342405-ok-the-witcher-3-remastered-est-sublime-mais-cest-cette-nouveaute-qui-compte-vraiment.html",
-    "pubDate": "2026-09-29T15:56:43.000Z",
-    "summary": "The Witcher 3 Remastered est sorti ce mardi 29 septembre, gratuit pour les possesseurs du jeu de 2015, avec du path tracing sur PC et des textures refaites. Mais l'essentiel est sans doute ailleurs : "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cet ultraportable Acer Aspire 14 AI orienté bureautique moderne est bradé à -400 €",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631753-cet-ultraportable-acer-oriente-bureautique-moderne-avec-ryzen-ai-5-et-ecran-120-hz-est-brade-a--400.html",
-    "pubDate": "2026-09-29T15:45:00.000Z",
-    "summary": "L’Acer Aspire 14 AI A14-61M-R7DH est un ultraportable de 14 pouces fait pour les usages quotidiens avec une configuration équilibrée qui se retrouve en promo à 799 euros au lieu de 1 199 euros."
   }
 ]
