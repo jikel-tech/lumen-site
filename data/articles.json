@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "pubDate": "2026-09-30T18:23:57.000Z",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "« Il y en aura beaucoup » : Cillian Murphy sera la star absolue de 28 ans plus tard Part 3",
     "source": "Numerama",
@@ -313,15 +322,6 @@
     "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-09-30T14:30:00.000Z",
     "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "pubDate": "2026-09-30T14:27:11.000Z",
-    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be excep"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
