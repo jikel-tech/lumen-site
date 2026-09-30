@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "BYD nous a invités à Shenzhen : on vous raconte les coulisses d&#8217;une démonstration de force",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3147691_byd-nous-a-invites-a-shenzhen-on-vous-raconte-les-coulisses-dune-demonstration-de-force",
+    "pubDate": "2026-09-30T16:30:52.000Z",
+    "summary": "Musée consacré à l'histoire du groupe, siège historique, usine, démonstrations de conduite assistée, conférence géante sur les nouvelles technologies et présentation de ses marques premium : pendant p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "pubDate": "2026-09-30T16:24:23.000Z",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment connecter une chaîne hi-fi ou une platine vinyle ? Nos astuces et conseils",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/guide-audio/563148_le-chromecast-audio-est-mort-voici-ses-alternatives",
+    "pubDate": "2026-09-30T16:22:10.000Z",
+    "summary": "Envie de donner un coup de jeune à votre chaîne hi-fi ou votre platine vinyle ? Nous avons rassemblé pour vous les solutions alternatives pour mettre au goût du jour vos enceintes traditionnelles et p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Wi-Fi 7 à peine installé, TP-Link lance déjà son premier routeur Wi-Fi 8 à 700€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-627886-tp-link-devoile-ses-premiers-routeurs-wi-fi-8-grand-public-precommandes-des-le-30-septembre.html",
+    "pubDate": "2026-09-30T16:18:00.000Z",
+    "summary": "Un empressement certain de la part d'un des leaders chinois du réseau : le Wi-Fi 7 est encore loin d'être démocratisé que la norme 8 arriverait avant la fin de l'année."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "À peine lancé, le nouveau Fire TV Stick 4K (2026) d&#8217;Amazon est déjà à moitié prix",
     "source": "Frandroid",
     "category": "smartphones",
@@ -199,10 +235,10 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Instagram rolls out an AI video editor for creators",
+    "title": "Instagram rolls out an AI video assistant for creators",
     "source": "TechCrunch",
     "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/",
+    "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
     "pubDate": "2026-09-30T14:30:00.000Z",
     "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice."
   },
@@ -231,7 +267,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
     "pubDate": "2026-09-30T14:27:11.000Z",
-    "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be excep"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -298,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour préparer son Prime Day, Amazon s'échauffe en bradant la Logitech G G502 X Plus Lightspeed",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631957-pour-preparer-son-prime-day-amazon-s-echauffe-en-bradant-la-logitech-g-g502-x-plus-lightspeed.html",
-    "pubDate": "2026-09-30T13:55:00.000Z",
-    "summary": "Avec ses neuf boutons personnalisables, la Logitech G G502 X Plus Lightspeed s’adaptera à tous les styles de jeu pour un prix contenu puisqu’elle passe sous les 90 euros chez Amazon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Nouveau Fire TV Stick 4K : Amazon promet plus de vitesse et tourne le dos à Android",
     "source": "Frandroid",
     "category": "smartphones",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/android/3267411_le-poco-x8-est-meilleur-et-moins-cher-que-le-redmi-note-17-pro-si-vous-vous-fichez-de-lultra-grand-angle",
     "pubDate": "2026-09-30T13:46:32.000Z",
     "summary": "Xiaomi lance aujourd'hui son Poco X8 en France et il est presque aussi bien équipé que le Redmi Note 17 Pro pour moins cher."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Amazon&#8217;s new Fire TV Stick 4K comes with an actually good remote",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-    "pubDate": "2026-09-30T13:43:54.000Z",
-    "summary": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Épisode cévenol ou méditerranéen : que se passe-t-il vraiment au-dessus du Gard et de l&#8217;Hérault ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2344073-vigilance-rouge-dans-le-gard-et-lherault-un-episode-mediterraneen-remarquable-voire-exceptionnel-frappe-le-sud-est.html",
-    "pubDate": "2026-09-30T13:39:25.000Z",
-    "summary": "Le Gard et l'Hérault-sont placés en vigilance rouge pluie-inondation ce mercredi 30 septembre 2026. Météo-France parle d'un « épisode méditerranéen remarquable, voire exceptionnel ». Dans le Gard, la "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Votre compte bancaire Revolut va être transféré en France : qu&#8217;est-ce que ça change ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/services/3267459_votre-compte-bancaire-revolut-va-etre-transfere-en-france-quest-ce-que-ca-change",
-    "pubDate": "2026-09-30T13:32:50.000Z",
-    "summary": "Les clients de la néobanque Revolut reçoivent en ce moment un mail leur annonçant le transfert de leur compte bancaire vers la France. Une opération prévue par l'établissement, mais pour quelles consé"
   }
 ]
