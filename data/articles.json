@@ -1,5 +1,77 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon anticipe ses Jours Flash Prime : des offres tech en avant-première sont déjà en ligne",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3266859_amazon-anticipe-ses-jours-flash-prime-des-offres-tech-en-avant-premiere-sont-deja-en-ligne",
+    "pubDate": "2026-09-30T14:46:51.000Z",
+    "summary": "Amazon prépare ses Jours Flash Prime pour ses abonnés les 6 et 7 octobre 2026, mais les premières bonnes affaires sont déjà en ligne ! Prix cassés sur une sélection de produits Tech : nous avons réuni"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La carte de Back Market révèle le poids caché de nos téléphones, tellement plus lourds que ce qu'on imagine",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631993-la-carte-de-back-market-revele-le-poids-cache-de-nos-telephones-tellement-plus-lourds-que-ce-qu-on-imagine.html",
+    "pubDate": "2026-09-30T14:38:00.000Z",
+    "summary": "Back Market lance Mine My Phone, une plateforme interactive consacrée aux matières premières de nos smartphones. On s'aperçoit qu'un téléphone de 200 grammes réclame par exemple plus de 266 kg de mati"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+    "pubDate": "2026-09-30T14:32:03.000Z",
+    "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Instagram rolls out an AI video editor for creators",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/",
+    "pubDate": "2026-09-30T14:30:00.000Z",
+    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-09-30T14:30:00.000Z",
+    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les temps sont durs ! RED by SFR fait évoluer plusieurs forfaits, et ce n'est pas une bonne nouvelle",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631981-red-by-sfr-revoit-ses-forfaits-mobiles-ce-qui-change-vraiment-pour-les-abonnes.html",
+    "pubDate": "2026-09-30T14:28:00.000Z",
+    "summary": "La marque RED by SFR promet en général des forfaits mobiles à petit prix. Mais même de ce côté, il va falloir faire avec des tarifs à la hausse."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "pubDate": "2026-09-30T14:27:11.000Z",
+    "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Payer à l’étranger avec Wero : un énorme réseau européen se prépare, sans date de lancement",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/3267643_payer-a-letranger-avec-wero-un-enorme-reseau-europeen-se-prepare-sans-date-de-lancement",
+    "pubDate": "2026-09-30T14:20:38.000Z",
+    "summary": "Bancomat, Bizum, Wero, MB WAY et Vipps MobilePay ont annoncé ce mercredi 30 septembre la création de l’European Network for Payments, une société commune installée à Madrid pour relier leurs applicati"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
     "source": "TechCrunch",
@@ -271,24 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Impôts : attention à ces erreurs si vous devez corriger votre déclaration de revenus",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3266967_impots-attention-a-ces-erreurs-si-vous-devez-corriger-votre-declaration-de-revenus",
-    "pubDate": "2026-09-30T12:27:14.000Z",
-    "summary": "Le service de correction en ligne des déclarations de revenus ferme le 30 novembre 2026. Pour rappel, en 2025, le fisc a réclamé 17,1 milliards d'euros après contrôle, un record. L'occasion de rappele"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Samsung dévoile le Galaxy SmartTag 3 : plus petit, compatible iPhone et 60 mètres de portée",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3267473_samsung-devoile-le-galaxy-smarttag-3-plus-petit-compatible-iphone-et-60-metres-de-portee",
-    "pubDate": "2026-09-30T12:25:47.000Z",
-    "summary": "Samsung a présenté ce mercredi 30 septembre le Galaxy SmartTag 3, un traceur Bluetooth 35 % plus petit que le précédent et, pour la première fois, compatible avec les iPhone."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Avec 30 millions de dollars, le Pentagone parie sur l'IA pour détecter les mensonges",
     "source": "Clubic",
     "category": "logiciels",
@@ -304,59 +358,5 @@
     "url": "https://www.clubic.com/actualite-631186-galaxy-tab-s12-samsung-veut-jouer-dans-la-cour-des-pc-portables-et-en-adopte-les-prix.html",
     "pubDate": "2026-09-30T12:00:00.000Z",
     "summary": "Samsung dévoile ses Galaxy Tab S12+ et Tab S12 Ultra, deux tablettes haut de gamme plus fines, plus puissantes et plus que jamais tournées vers l’intelligence artificielle. Cette rationalisation de la"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "pubDate": "2026-09-30T12:00:00.000Z",
-    "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Airbnb adds AI search, more social features",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "pubDate": "2026-09-30T12:00:00.000Z",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "OpenAI a été pris de court, l&#8217;adresse dot.com ne mène pas chez eux",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2343965-openai-a-ete-pris-de-court-ladresse-dot-com-ne-mene-pas-chez-eux.html",
-    "pubDate": "2026-09-30T11:27:00.000Z",
-    "summary": "Le lancement des agents « dots » d'OpenAI a droit à un couac inattendu : l'adresse dot.com, partagée sur X, ne redirige pas vers OpenAI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Loewe Neo : une enceinte nomade haut de gamme rétro-éclairée et design",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631963-loewe-neo-une-enceinte-nomade-haut-de-gamme-retro-eclairee-et-design.html",
-    "pubDate": "2026-09-30T11:15:00.000Z",
-    "summary": "Une enceinte Bluetooth, oui, mais une enceinte haut de gamme, s'il vous plait. Loewe, habitué des enceintes de salon sobres et design, se lance dans une enceinte personnalisable et portable, toujours "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ces lasers vont tenter leur premier vrai test en orbite : pourquoi c’est crucial pour les data centers",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631939-des-lasers-vont-bientot-tenter-leur-premier-vrai-test-en-orbite-pourquoi-c-est-crucial-pour-les-data-centers.html",
-    "pubDate": "2026-09-30T11:07:00.000Z",
-    "summary": "Faire tourner des data centers dans l’espace va requérir énormément d’énergie. Et justement, une start-up américaine baptisée Sun Catcher va très prochainement tenter de l’acheminer d’un satellite à u"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "SpaceX dévoile des vidéos inédites du Starship lors du vol 14",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2343785-starship-de-sublimes-videos-au-ralenti-pour-un-premier-vol-orbital-ecourte.html",
-    "pubDate": "2026-09-30T11:02:00.000Z",
-    "summary": "SpaceX a publié ce mardi 29 septembre de nouvelles vidéos au ralenti du décollage du Starship, filmées depuis le pas de tir et la tour de Starbase, au Texas. Elles montrent le 14e vol de la fusée géan"
   }
 ]
