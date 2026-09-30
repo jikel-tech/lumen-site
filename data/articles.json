@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "À peine lancé, le nouveau Fire TV Stick 4K (2026) d&#8217;Amazon est déjà à moitié prix",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3267801_a-peine-lance-le-nouveau-fire-tv-stick-4k-2026-damazon-est-deja-a-moitie-prix",
+    "pubDate": "2026-09-30T16:14:00.000Z",
+    "summary": "Amazon vient de sortir une nouvelle génération de son Fire TV Stick 4K. Une clé HDMI qui promet plus de réactivité et arrive avec une télécommande entièrement revue. En ce moment, on le trouve déjà en"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "C'est le Prime Day avant l'heure et ce pack de deux caméras connectés est vendu pour moins de 60 euros",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632020-c-est-le-prime-day-avant-l-heure-avec.html",
+    "pubDate": "2026-09-30T16:04:00.000Z",
+    "summary": "La Ring Stick Up Cam Battery est une caméra polyvalente pouvant se placer en intérieur comme en extérieur. Alors que le Prime Day débutera officiellement dans quelques jours, Amazon réunit deux caméra"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Xiaomi 18 Pro : j&#8217;ai créé ma propre application pour l&#8217;écran arrière, ça m&#8217;a pris 5 minutes",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/xiaomi/3266725_xiaomi-18-pro-jai-cree-ma-propre-application-pour-lecran-arriere-ca-ma-pris-5-minutes",
+    "pubDate": "2026-09-30T16:03:00.000Z",
+    "summary": "J'ai généré une application pour l'écran arrière du Xiaomi 18 Pro avec l'IA. Voici comment ça marche, ça ne prend que cinq minutes."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "pubDate": "2026-09-30T16:00:24.000Z",
+    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "pubDate": "2026-09-30T16:00:00.000Z",
+    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Instinct&#8217;s new product recommendations are giving some users the ick",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "pubDate": "2026-09-30T15:56:28.000Z",
+    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pour déjà préparer vos prochaines nuits de camping, ce générateur électrique perd 130€ avant le Prime Day",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631996-pour-deja-preparer-vos-prochaines-nuits-de-camping-ce-generateur-electrique-perd-130-euros-avant-le-prime-day.html",
+    "pubDate": "2026-09-30T15:47:00.000Z",
+    "summary": "L'Ecoflow Delta 3 Classic brille par son format compact, mais surtout sa polyvalence puisqu'il peut recharger en même temps une voiture électrique et un smartphone, le tout pour un prix amoindri de 15"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Piles eneloop : Panasonic passe enfin à l&#8217;USB-C pour ses piles rechargeables",
     "source": "Frandroid",
     "category": "smartphones",
@@ -10,7 +73,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avec la Bromley 150, Marshall synchronise un jeu de lumières de scène avec la musique",
+    "title": "Marshall réduit le format de son enceinte de soirée, mais garde les lumières et le karaoké",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-632035-avec-la-bromley-150-marshall-synchronise-un-jeu-de-lumieres-de-scene-avec-la-musique.html",
@@ -244,15 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les agents IA chinois adoptent déjà les mauvaises habitudes des agents américains",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632005-les-agents-ia-chinois-adoptent-deja-les-mauvaises-habitudes-des-agents-americains.html",
-    "pubDate": "2026-09-30T13:52:00.000Z",
-    "summary": "Des études récentes montrent que certains agents IA, qu'ils reposent sur des modèles développés en Chine ou aux États-Unis, ont tendance à mentir, à falsifier des résultats. Les agents chinois ayant u"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Nouveau Fire TV Stick 4K : Amazon promet plus de vitesse et tourne le dos à Android",
     "source": "Frandroid",
     "category": "smartphones",
@@ -304,59 +358,5 @@
     "url": "https://www.frandroid.com/services/3267459_votre-compte-bancaire-revolut-va-etre-transfere-en-france-quest-ce-que-ca-change",
     "pubDate": "2026-09-30T13:32:50.000Z",
     "summary": "Les clients de la néobanque Revolut reçoivent en ce moment un mail leur annonçant le transfert de leur compte bancaire vers la France. Une opération prévue par l'établissement, mais pour quelles consé"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone 18 Pro : quel est ce mystérieux bruit de haut-parleur qui agace les premiers acheteurs ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/3267515_iphone-18-pro-quel-est-ce-mysterieux-bruit-de-haut-parleur-qui-agace-les-premiers-acheteurs",
-    "pubDate": "2026-09-30T13:29:47.000Z",
-    "summary": "Un bug (si s'en est un) qui a de quoi laisser perplexe. Des détenteurs d'un iPhone 18 Pro ou 18 Pro Max disent entendre des bruits émanant des haut-parleurs de leur smartphone. Craquement, grésillemen"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Trump rebaptise l&#8217;IA « Super Intelligence », les noms de domaine slovènes s&#8217;arrachent et les soupçons de délit d&#8217;initié fleurissent",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2344141-trump-rebaptise-lia-super-intelligence-les-noms-de-domaine-slovenes-sarrachent-et-les-soupcons-de-delit-dinitie-fleurissent.html",
-    "pubDate": "2026-09-30T13:29:08.000Z",
-    "summary": "Dans la nuit du 29 au 30 septembre, le président américain a signé un décret imposant le terme « Super Intelligence » à son administration. Une décision qui fait déjà exploser les enregistrements en ."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après des années de retard, l'écran connecté d'Apple serait dévoilé dans les tout prochains jours",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631990-apres-des-annees-de-retard-l-ecran-connecte-d-apple-serait-devoile-dans-les-prochains-jours.html",
-    "pubDate": "2026-09-30T13:26:00.000Z",
-    "summary": "Apple prévoirait de lancer le 13 octobre sa première vraie offensive dans la maison connectée, avec un hub à écran, un HomePod mini remis à jour et une nouvelle Apple TV. Ces produits serviront de vit"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nintendo Switch 2 : les 5 réglages indispensables avant de jouer",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/nintendo/2638139_nintendo-switch-2-les-5-reglages-indispensables-avant-de-jouer",
-    "pubDate": "2026-09-30T13:20:07.000Z",
-    "summary": "Si vous venez de vous procurer une Nintendo Switch 2, on vous explique les 5 premiers réglages à configurer avant de vous lancer en pleine partie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Sony Bravia 6, un récent TV OLED accessible de la marque, profite déjà d&#8217;une remise de 100 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3267405_le-sony-bravia-6-un-recent-tv-oled-accessible-de-la-marque-profite-deja-dune-remise-de-100-e",
-    "pubDate": "2026-09-30T13:11:05.000Z",
-    "summary": "Officialisée en août dernier, la série Sony Bravia 6 comporte les TV OLED les plus abordables de la gamme Bravia créée par la marque japonaise. Actuellement, le modèle de 55 pouces est proposé à 1 199"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "SpaceX lance pour la première fois une Falcon Heavy pour une mission secrète du renseignement américain",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2344135-spacex-lance-pour-la-premiere-fois-une-falcon-heavy-pour-une-mission-secrete-du-renseignement-americain.html",
-    "pubDate": "2026-09-30T13:00:13.000Z",
-    "summary": "Une fusée Falcon Heavy de SpaceX doit décoller de Floride dans la nuit du 1er au 2 octobre 2026 pour le NRO, l'agence américaine des satellites espions. C'est la première mission de cette agence confi"
   }
 ]
