@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "On est montés à bord de la Nissan Pixo : bien plus qu&#8217;une Twingo rebadgée",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/nissan/3260043_on-est-montes-a-bord-de-la-nissan-pixo-bien-plus-quune-twingo-rebadgee",
+    "pubDate": "2026-09-30T10:11:24.000Z",
+    "summary": "Après la Dacia Spring, la Renault Twingo E-Tech accueille une nouvelle venue dans sa famille. Il s’agit de la Nissan Pixo, une adorable petite voiture électrique qui est loin d’être une simple copie."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "4 annonces à retenir chez OpenAI : dots, GPT-6.1 Sol, Spaces et « Se connecter avec ChatGPT »",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/openai/3267339_dots-gpt-6-1-sol-spaces-et-se-connecter-avec-chatgpt-le-recap-des-grandes-annonces-dopenai-au-devday-2026",
+    "pubDate": "2026-09-30T10:11:14.000Z",
+    "summary": "OpenAI a fait plusieurs annonces pendant sa conférence du DevDay 2026 ce mardi 29 septembre. Voici les grandes annonces à retenir entre dots, GPT-6.1 Sol, Spaces et le bouton « Se connecter avec ChatG"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon anticipe ses Jours Flash Prime : des offres tech en avant-première sont déjà en ligne",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3266859_amazon-anticipe-ses-jours-flash-prime-des-offres-tech-en-avant-premiere-sont-deja-en-ligne",
+    "pubDate": "2026-09-30T10:02:00.000Z",
+    "summary": "Amazon prépare ses Jours Flash Prime pour ses abonnés les 6 et 7 octobre 2026, mais les premières bonnes affaires sont déjà en ligne ! Prix cassés sur une sélection de produits Tech : nous avons réuni"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un joueur de Metal Gear Solid 2 a fait une découverte historique",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2343777-un-joueur-de-metal-gear-solid-2-a-fait-une-decouverte-historique.html",
+    "pubDate": "2026-09-30T10:00:00.000Z",
+    "summary": "Grosse découverte pour les speedrunners de Metal Gear Solid 2: Sons of Liberty, qui tentent de finir le jeu le plus vite possible. Le speedrunner apel a trouvé une faille qui permet d'éviter Olga, le "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Prime Day : Amazon prend une semaine d'avance et baisse déjà 20 produits tech jusqu'à -58%",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631804-jours-flash-prime-amazon-n-attend-pas-le-6-octobre-et-baisse-deja-20-produits-tech-jusqu-a--58.html",
+    "pubDate": "2026-09-30T10:00:00.000Z",
+    "summary": "Les Jours Flash Prime ne démarrent officiellement que le 6 octobre, mais Amazon a déjà baissé le prix d’une partie de son catalogue tech. Nous avons relevé 20 de ces offres anticipées, des aspirateurs"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "e-3008, e-5008, ë-C5 Aircross : les délais vont encore s&#8217;allonger à cause des batteries",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/voitures-electriques/3266679_e-3008-e-5008-e-c5-aircross-les-delais-vont-encore-sallonger-a-cause-des-batteries",
+    "pubDate": "2026-09-30T09:57:45.000Z",
+    "summary": "Malgré une demande très forte pour ses SUV électriques Long Range à plus de 700 km d'autonomie, le groupe Stellantis va stopper trois de ses usines en France pendant plusieurs jours en octobre. À Soch"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sony a un problème : certaines PS5 peuvent désormais être jailbreakées en quelques secondes",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2343721-sony-a-un-probleme-certaines-ps5-peuvent-desormais-etre-jailbreakees-en-quelques-secondes.html",
+    "pubDate": "2026-09-30T09:52:18.000Z",
+    "summary": "Un nouveau jailbreak permet de contourner certaines protections des PS5, y compris Slim et Pro, sous des versions récentes du système. Cette fois, la manipulation devient beaucoup plus simple et rapid"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Une nouvelle espèce de manchot inconnue a été découverte, une première en plus d&#8217;un siècle",
     "source": "Numerama",
     "category": "culture",
@@ -145,15 +208,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fuite de données chez Carrefour : pourquoi vous devez vous méfier de vos prochains SMS et mails",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3266909_fuite-de-donnees-chez-carrefour-pourquoi-vous-devez-vous-mefier-de-vos-prochains-sms-et-mails",
-    "pubDate": "2026-09-30T08:54:16.000Z",
-    "summary": "Carrefour a prévenu une partie de ses clients qu’un « incident de sécurité » chez l’un de ses prestataires avait exposé leurs noms, prénoms, adresses e-mail et numéros de téléphone. L’enseigne n’a pas"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Avant même sa sortie, l'iPhone Duo s'apprête à chambouler le marché des pliables : les chiffres",
     "source": "Clubic",
     "category": "logiciels",
@@ -172,15 +226,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone Duo : l&#8217;astuce d&#8217;Apple pour ne pas rater les précommandes du 12 octobre",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3266589_iphone-duo-lastuce-dapple-pour-ne-pas-rater-les-precommandes-du-12-octobre",
-    "pubDate": "2026-09-30T08:41:56.000Z",
-    "summary": "Si vous voulez absolument un iPhone Duo et que vous avez peur que les stocks fondent à vue d’œil lors de la commercialisation, Apple a une bonne nouvelle, il sera possible de se « préparer » sa précom"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "ChatGPT lance un abonnement à 510 euros par mois et rend sa formule à 229 euros moins généreuse",
     "source": "Numerama",
     "category": "culture",
@@ -190,30 +235,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "1 500 € d&#8217;écart par voiture : l&#8217;astuce de Volkswagen pour casser le prix des électriques grâce aux batteries LFP",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/volkswagen/3266565_1-500-e-decart-par-voiture-lastuce-de-volkswagen-pour-casser-le-prix-des-electriques-grace-aux-batteries-lfp",
-    "pubDate": "2026-09-30T08:40:20.000Z",
-    "summary": "Le groupe Volkswagen accélère sur la production de batteries LFP, en renforçant son partenariat avec l’entreprise chinoise Gotion. Le but&nbsp;? Rendre ses voitures électriques encore plus abordables "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Disney+ privé de HDR : Que Choisir exige une baisse de prix ou une compensation",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-631933-disney-prive-de-hdr-que-choisir-exige-une-baisse-de-prix-ou-une-compensation.html",
     "pubDate": "2026-09-30T08:40:00.000Z",
     "summary": "Disney+ continue de facturer son offre Premium 15,99 euros par mois malgré la disparition de plusieurs fonctions liées à la qualité d’image. Que Choisir Ensemble a donc mis Disney en demeure de rétabl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fini la galère : les Google Pixel facilitent le partage de vos mémos vocaux",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3266599_fini-la-galere-les-google-pixel-facilitent-le-partage-de-vos-memos-vocaux",
-    "pubDate": "2026-09-30T08:39:38.000Z",
-    "summary": "Google va simplifier l’accès aux enregistrements audio de ses Google Pixel. La firme de Mountain View introduit une nouvelle option permettant d’accéder aux fichiers sans avoir à passer par le menu de"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -295,33 +322,6 @@
     "url": "https://www.clubic.com/bons-plans-631855-une-semaine-avant-les-jours-flash-prime-le-roborock-qrevo-s-pro-set-descend-sous-les-380.html",
     "pubDate": "2026-09-30T07:40:00.000Z",
     "summary": "Lancé en juin, le Qrevo S Pro de Roborock associe 18 500 Pa d’aspiration à une station qui lave ses serpillières à 75 °C et vide le bac seule. Sa version Set passe sous la barre des 380 € chez Ama"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le film d’horreur Kraken est-il le digne héritier de Vermines ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2342459-le-film-dhorreur-kraken-est-il-le-digne-heritier-de-vermines.html",
-    "pubDate": "2026-09-30T07:38:44.000Z",
-    "summary": "Attendu le 30 septembre dans les salles obscures françaises, le film d’horreur Kraken piège cinq jeunes dans une cité abandonnée, où se terre un mal terrifiant. Forcément, il n’échappera pas à la comp"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Web design : fini les sites rectangulaires, comment CSS Shape va transformer le web",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631840-web-design-fini-les-sites-rectangulaires-comment-css-shape-va-transformer-le-web.html",
-    "pubDate": "2026-09-30T07:31:00.000Z",
-    "summary": "L'aspect des sites internet pourrait bientôt évoluer et se moderniser en abandonnant les éternelles grilles rectangulaires. De nouvelles propriétés de programmation visuelle offrent aux développeurs d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sur Steam, The Witcher 3 bat toutes les grosses nouveautés de septembre",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2343691-sur-steam-the-witcher-3-bat-toutes-les-grosses-nouveautes-de-septembre.html",
-    "pubDate": "2026-09-30T07:14:11.000Z",
-    "summary": "La sortie de la version Remastered, ce mardi 29 septembre, rime avec nouveau record sur Steam pour The Witcher 3: Wild Hunt. Sur Steam, il attire aussi plus de joueurs simultanés que toutes les grosse"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
