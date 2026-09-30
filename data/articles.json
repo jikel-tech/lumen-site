@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Samsung dévoile les Galaxy Tab S12 Ultra et S12+, jusqu&#8217;à 2 289 euros : on les a essayées",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3266689_samsung-devoile-les-galaxy-tab-s12-ultra-et-s12-jusqua-2-289-euros-on-les-a-essayees",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "summary": "Samsung a présenté ce mercredi 30 septembre les Galaxy Tab S12 Ultra et Galaxy Tab S12+, disponibles dès le 7 octobre à partir de 1319&nbsp;euros. Les deux tablettes passent à la puce MediaTek Dimensi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Galaxy Tab S12 : Samsung veut jouer dans la cour des PC portables, et en adopte les prix",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631186-galaxy-tab-s12-samsung-veut-jouer-dans-la-cour-des-pc-portables-et-en-adopte-les-prix.html",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "summary": "Samsung dévoile ses Galaxy Tab S12+ et Tab S12 Ultra, deux tablettes haut de gamme plus fines, plus puissantes et plus que jamais tournées vers l’intelligence artificielle. Cette rationalisation de la"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Airbnb adds AI search, more social features",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "OpenAI a été pris de court, l&#8217;adresse dot.com ne mène pas chez eux",
     "source": "Numerama",
     "category": "culture",
@@ -55,7 +91,7 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce mini PC de NiPoGi profite de l'arrivée du Prime Day pour perdre 60€0",
+    "title": "Ce mini PC de NiPoGi profite de l'arrivée du Prime Day pour perdre 60€",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-631945-ce-mini-pc-de-nipogi-profite-de-l-arrivee-du-prime-day-pour-perdre-60-euros.html",
@@ -235,15 +271,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pixel 11a : même design, mais Google prépare un bond de géant sous le capot",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3267073_pixel-11a-meme-design-mais-google-prepare-un-bond-de-geant-sous-le-capot",
-    "pubDate": "2026-09-30T09:20:04.000Z",
-    "summary": "Le leaker OnLeaks et le site Android Headlines ont publié ce mardi 29 septembre les premiers rendus du Pixel 11a, attendu au printemps 2027. Le design ne bouge presque pas, mais la puce passerait dire"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Code d&#8217;urgence, alerte au détournement : le mystère du vol flydubai FZ1073 qui a affolé Flightradar24",
     "source": "Numerama",
     "category": "culture",
@@ -307,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Disney+ a retiré le HDR sans baisser son prix : Que Choisir demande réparation",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631933-disney-prive-de-hdr-que-choisir-exige-une-baisse-de-prix-ou-une-compensation.html",
-    "pubDate": "2026-09-30T08:40:00.000Z",
-    "summary": "Disney+ continue de facturer son offre Premium 15,99 euros par mois malgré la disparition de plusieurs fonctions liées à la qualité d’image. Que Choisir Ensemble a donc mis Disney en demeure de rétabl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les hackers russes reviennent aux basiques du piratage et Microsoft rebaptise leur méthode",
     "source": "Numerama",
     "category": "culture",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
     "pubDate": "2026-09-29T23:30:55.000Z",
     "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "pubDate": "2026-09-29T22:20:59.000Z",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-    "pubDate": "2026-09-29T22:18:35.000Z",
-    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies."
   }
 ]
