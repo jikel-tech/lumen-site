@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "This startup wants to turn idle user car inventory into rental revenue",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+    "pubDate": "2026-10-01T17:09:00.000Z",
+    "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft prévient et alerte : d'ici un an, les menaces cyber liées à l'IA seront bien pires...",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632197-microsoft-previent-et-alerte-d-ici-un-an-les-menaces-cyber-liees-a-l-ia-seront-bien-pires.html",
+    "pubDate": "2026-10-01T17:02:00.000Z",
+    "summary": "Publié ce jeudi octobre, le Microsoft Digital Defense Report 2026 confirme que l'intelligence artificielle accélère les cyberattaques. La cible, elle, ne change pas : près des trois quarts des tentati"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test du Samsung Galaxy S26 FE : un Galaxy S25 FE plus cher pour un poil plus de puissance",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3247257_test-samsung-galaxy-s26-fe-un-galaxy-s26-light-qui-en-donne-beaucoup-pour-son-prix",
+    "pubDate": "2026-10-01T17:00:00.000Z",
+    "summary": "Avec son processeur Exynos 2500, son écran OLED de 6,7 pouces et un téléobjectif 3x, le Galaxy S26 FE n'a pas grand-chose à envier à son grand frère, le Galaxy S26+. D'autant que son prix est nettemen"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "WikiMasters : 5 astuces pour progresser dans ce jeu de cartes basé sur Wikipédia",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/politique/2344945-wikimasters-5-astuces-pour-progresser-dans-ce-jeu-de-cartes-base-sur-wikipedia.html",
+    "pubDate": "2026-10-01T17:00:00.000Z",
+    "summary": "Lancé en mars 2026, WikiMasters transforme les articles de Wikipédia en cartes à collectionner. Le jeu a explosé en septembre. On a relevé cinq astuces pour défausser plus vite, gagner des wikibidous "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "pubDate": "2026-10-01T16:49:22.000Z",
+    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "QSSR : Sony apporte l&#8217;upscaling par IA sur la PS5 standard, 2 ans après la Pro",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/sony/3269785_qssr-sony-apporte-lupscaling-par-ia-sur-la-ps5-standard-2-ans-apres-la-pro",
+    "pubDate": "2026-10-01T16:45:37.000Z",
+    "summary": "Sony déploie QSSR, une version allégée de son upscaling par IA, sur la PS5 de base. Marvel's Wolverine et Ghost of Yōtei l'intègrent dès aujourd'hui, et l'argument numéro un de la PS5 Pro vient de per"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "pubDate": "2026-10-01T16:44:35.000Z",
+    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
     "source": "TechCrunch",
     "category": "ia",
@@ -91,21 +154,21 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "120 Nm, 850 W de puissance et plus performant que Bosch : le dernier moteur pour vélo électrique de Giant envoie du lourd",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/giant/3267543_120-nm-850-w-de-puissance-et-plus-performant-que-bosch-le-dernier-moteur-pour-velo-electrique-de-giant-envoie-du-lourd",
-    "pubDate": "2026-10-01T16:00:00.000Z",
-    "summary": "Avec un couple de 120 Nm pour un poids de 2,4 kg, le Giant SyncDrive Pro 4 affiche l'un des meilleurs rapports poids-performance pour son nouveau duo de VTTAE, tout en lui confiant une grosse batterie"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Moins de 22 kg pour 120 Nm : Giant dévoile un VTT électrique qui vient défier les meilleurs modèles du marché",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/survoltes/velo-electrique/3267933_moins-de-22-kg-pour-120-nm-giant-devoile-un-vtt-electrique-qui-vient-defier-les-meilleurs-modeles-du-marche",
     "pubDate": "2026-10-01T16:00:00.000Z",
     "summary": "Suspension avec un meilleur débattement, nouvelle assistance SyncDrive Pro 4 dotée d'un contrôle de traction et batterie de 840 Wh : le VTT électrique Giant Trance Advanced E+ joue les hautes performa"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "120 Nm, 850 W de puissance et plus performant que Bosch : le dernier moteur pour vélo électrique de Giant envoie du lourd",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/giant/3267543_120-nm-850-w-de-puissance-et-plus-performant-que-bosch-le-dernier-moteur-pour-velo-electrique-de-giant-envoie-du-lourd",
+    "pubDate": "2026-10-01T16:00:00.000Z",
+    "summary": "Avec un couple de 120 Nm pour un poids de 2,4 kg, le Giant SyncDrive Pro 4 affiche l'un des meilleurs rapports poids-performance pour son nouveau duo de VTTAE, tout en lui confiant une grosse batterie"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -124,15 +187,6 @@
     "url": "https://www.frandroid.com/marques/bmw/3256487_jai-lache-le-volant-dun-bmw-ix3-sur-autoroute-grace-au-highway-assistant-une-technologie-bluffante-a-quelques-details-pres",
     "pubDate": "2026-10-01T15:51:27.000Z",
     "summary": "En parallèle de l'essai du BMW iX3 40, nous avons pu découvrir le système Highway Assistant de la marque, permettant de lâcher les mains du volant sur autoroute. Un système bluffant sur longs trajets,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Comment une promo Wero avec 15 euros de prime a failli couler une association",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3269637_comment-une-promo-wero-avec-15-euros-de-prime-a-failli-couler-une-association",
-    "pubDate": "2026-10-01T15:50:39.000Z",
-    "summary": "Une promotion de Wero offrant 15 euros aux nouveaux utilisateurs allemands a provoqué près de 8 000 virements d'un centime sur le compte d'une petite association près de Kiel, qui a failli être ruinée"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -160,15 +214,6 @@
     "url": "https://www.numerama.com/sciences/2345261-spacex-lance-crew-13-suivez-en-temps-reel-le-voyage-le-plus-rapide-de-lhistoire-vers-liss.html",
     "pubDate": "2026-10-01T15:46:49.000Z",
     "summary": "Comme pour la mission de Sophie Adenot en février, SpaceX permet de suivre en temps réel la capsule de Crew-13, partie ce jeudi 1er octobre à 17h10 vers la Station spatiale internationale avec quatre "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nouveaux Kindle : Amazon réduit le rebord de l&#8217;écran, mais la liseuse de base prend 45 euros",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/amazon/3269559_nouveaux-kindle-amazon-reduit-le-rebord-de-lecran-mais-la-liseuse-de-base-prend-45-euros",
-    "pubDate": "2026-10-01T15:37:44.000Z",
-    "summary": "Amazon a présenté ce jeudi 1er octobre 2026 de nouveaux Kindle, Kindle Paperwhite et Kindle Colorsoft, tous débarrassés du rebord qui entourait l'écran. En France, le Kindle de base démarre à 154,99 e"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -313,50 +358,5 @@
     "url": "https://www.clubic.com/actualite-632137-xbox-vend-moins-de-consoles-mais-un-fauteuil-gaming-a-moins-de-100-avec-ikea.html",
     "pubDate": "2026-10-01T14:01:00.000Z",
     "summary": "IKEA et Xbox lancent YXSTABY, neuf pièces dont un fauteuil gaming à poches, affiché 99,95 € en France. La collection arrive alors que Xbox fête ses 25 ans en pleine baisse de ses ventes de consoles."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "pubDate": "2026-10-01T14:00:00.000Z",
-    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un mois après la réforme, VosFactures subit déjà une fuite de données, l'État prend une décision forte",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632179-un-mois-apres-la-reforme-vosfactures-subit-deja-une-fuite-de-donnees-l-etat-prend-une-decision-radicale.html",
-    "pubDate": "2026-10-01T13:48:00.000Z",
-    "summary": "À peine un mois à peine après le lancement de la facturation électronique obligatoire, VosFactures confirme une fuite de données chez l'un de ses prestataires. Par précaution, l'AIFE a suspendu ses éc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "The Witcher 3 Remastered reçoit déjà un premier patch qui corrige l&#8217;un de ses plus gros problèmes",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344973-the-witcher-3-recoit-deja-un-premier-patch.html",
-    "pubDate": "2026-10-01T13:40:00.000Z",
-    "summary": "À peine sorti, The Witcher 3: Wild Hunt Remastered reçoit déjà une première mise à jour."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Kpop Demon Hunter 2 va voir très grand avec une sortie prévue au cinéma",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344961-kpop-demon-hunter-2-va-voir-tres-grand-avec-une-sortie-prevue-au-cinema.html",
-    "pubDate": "2026-10-01T13:36:33.000Z",
-    "summary": "Pendant plus d’une décennie, Netflix a martelé la même doctrine : ses films se regardent sur la plateforme, depuis son canapé. Le succès record de KPop Demon Hunters l'oblige à revoir sa copie."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test de Gears of War: E-Day, un pur plaisir en coopération",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344127-test-de-gears-of-war-e-day-un-pur-plaisir-en-cooperation.html",
-    "pubDate": "2026-10-01T13:00:00.000Z",
-    "summary": "La saga Gears of War signe enfin son grand retour. Vitrine visuelle de la marque Xbox, elle opère un retour aux sources avec Gears of War: E-Day, épisode qui a bien failli ne pas être exclusif. Notre "
   }
 ]
