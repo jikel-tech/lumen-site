@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "pubDate": "2026-10-01T18:14:42.000Z",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "pubDate": "2026-10-01T17:50:19.000Z",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Anthropic obtient de Broadcom jusqu’à 42 milliards de dollars... pour louer ses puces d’IA",
     "source": "Clubic",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-632149-ecran-120-hz-ip68-et-7-ans-de-mises-a-jour-ce-galaxy-s25-fe-256-go-passe-a-416-59.html",
     "pubDate": "2026-10-01T14:09:00.000Z",
     "summary": "Un an après sa sortie, le Galaxy S25 FE partage toujours sa batterie et ses capteurs photo avec le Galaxy S26 FE, facturé 899 € en 256 Go. À 416,59 € sur AliExpress, sa puce Exynos 2400, critiquée dan"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Uncharted 5 : Naughty Dog préparerait un nouveau jeu avec le retour de Nathan Drake",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2345037-uncharted-5-naughty-dog-preparerait-un-nouveau-jeu-avec-le-retour-de-nathan-drake.html",
-    "pubDate": "2026-10-01T14:05:02.000Z",
-    "summary": "Dix ans après Uncharted 4, Naughty Dog travaillerait sur un nouvel épisode de sa saga d’aventure. Selon le site MP1st, Nathan Drake serait bien présent dans le jeu, sans que l'on sache encore s'il en "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Diablo 5 ne sera pas prêt pour 2029, selon le créateur de Path of Exile",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344941-diablo-5-ne-sera-pas-pret-pour-2029-selon-le-createur-de-path-of-exile.html",
-    "pubDate": "2026-10-01T14:03:58.000Z",
-    "summary": "Co-créateur de Path of Exile, Chris Wilson s'est exprimé sur l'officialisation de Diablo V. Selon lui, Blizzard a peut-être été trop optimiste en planifiant une sortie au printemps 2029. Il parle d'ex"
   }
 ]
