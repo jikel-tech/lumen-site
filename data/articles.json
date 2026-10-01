@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic obtient de Broadcom jusqu’à 42 milliards de dollars... pour louer ses puces d’IA",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632200-anthropic-obtient-de-broadcom-jusqu-a-42-milliards-de-dollars-pour-louer-ses-puces-d-ia.html",
+    "pubDate": "2026-10-01T17:39:00.000Z",
+    "summary": "On parle beaucoup de financement circulaire dans le secteur de l'IA. Et celui que préparent Anthropic et Broadcom illustre à merveille ce phénomène !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment Meta et le RGPD ont permis à Mediapart d&#8217;enquêter sur Jordan Bardella",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/politique/3269777_comment-meta-et-le-rgpd-ont-permis-a-mediapart-denqueter-sur-jordan-bardella",
+    "pubDate": "2026-10-01T17:27:07.000Z",
+    "summary": "Quelques jours après la publication d'une enquête mettant en cause le passé de Jordan Bardella, le site Mediapart révèle les dessous de son enquête. Le média en ligne révèle notamment comment le RGPD "
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "This startup wants to turn idle user car inventory into rental revenue",
     "source": "TechCrunch",
@@ -181,15 +199,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "J’ai lâché le volant d’un BMW iX3 sur autoroute grâce au Highway Assistant : une technologie bluffante, à quelques détails près",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/bmw/3256487_jai-lache-le-volant-dun-bmw-ix3-sur-autoroute-grace-au-highway-assistant-une-technologie-bluffante-a-quelques-details-pres",
-    "pubDate": "2026-10-01T15:51:27.000Z",
-    "summary": "En parallèle de l'essai du BMW iX3 40, nous avons pu découvrir le système Highway Assistant de la marque, permettant de lâcher les mains du volant sur autoroute. Un système bluffant sur longs trajets,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon renouvelle ses Kindle avec plein de couleurs : voici les nouveautés",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2344941-diablo-5-ne-sera-pas-pret-pour-2029-selon-le-createur-de-path-of-exile.html",
     "pubDate": "2026-10-01T14:03:58.000Z",
     "summary": "Co-créateur de Path of Exile, Chris Wilson s'est exprimé sur l'officialisation de Diablo V. Selon lui, Blizzard a peut-être été trop optimiste en planifiant une sortie au printemps 2029. Il parle d'ex"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Xbox vend moins de consoles, mais un fauteuil gaming à moins de 100 € avec IKEA",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632137-xbox-vend-moins-de-consoles-mais-un-fauteuil-gaming-a-moins-de-100-avec-ikea.html",
-    "pubDate": "2026-10-01T14:01:00.000Z",
-    "summary": "IKEA et Xbox lancent YXSTABY, neuf pièces dont un fauteuil gaming à poches, affiché 99,95 € en France. La collection arrive alors que Xbox fête ses 25 ans en pleine baisse de ses ventes de consoles."
   }
 ]
