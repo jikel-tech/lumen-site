@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "SpaceX Crew-13 décolle jeudi après trois semaines de retard, Sophie Adenot peut préparer son retour",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2344325-spacex-crew-13-decolle-jeudi-apres-trois-semaines-de-retard-sophie-adenot-peut-preparer-son-retour.html",
+    "pubDate": "2026-10-01T05:02:00.000Z",
+    "summary": "SpaceX doit lancer la mission Crew-13 vers la Station spatiale internationale ce jeudi 1er octobre à 17h10, heure de Paris. Le décollage arrive avec près de trois semaines de retard, à cause d'une fui"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google lance Gemini 4 Argon, une IA qui bat GPT-6 Astra sur le papier mais que presque personne ne peut utiliser",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632059-google-lance-gemini-4-argon-une-ia-qui-bat-gpt-6-astra-sur-le-papier-mais-que-presque-personne-ne-peut-utiliser.html",
+    "pubDate": "2026-10-01T05:01:00.000Z",
+    "summary": "Google a dévoilé Gemini 4 Argon, son nouveau modèle d'IA de pointe, qui surpasse GPT-6 Astra et Claude Opus 5.5 sur plusieurs tests, selon ses propres mesures. Proposé à bas prix, il reste pour l'inst"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon va équiper ses livreurs de lunettes capables de prendre des milliers de photos",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632068-amazon-va-equiper-ses-livreurs-de-lunettes-capables-de-prendre-des-milliers-de-photos.html",
+    "pubDate": "2026-10-01T04:52:00.000Z",
+    "summary": "Un livreur Amazon équipé de lunettes connectées pourra rapporter de sa tournée plusieurs milliers de photos de jardins et de façades. L’entreprise compte verser ces images dans sa plateforme d’intelli"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Zimbra : Microsoft révèle comment des pirates ont exploité une faille avant sa divulgation publique",
     "source": "Clubic",
     "category": "logiciels",
@@ -280,30 +307,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour déjà préparer vos prochaines nuits de camping, ce générateur électrique perd 130€ avant le Prime Day",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-631996-pour-deja-preparer-vos-prochaines-nuits-de-camping-ce-generateur-electrique-perd-130-euros-avant-le-prime-day.html",
-    "pubDate": "2026-09-30T15:47:00.000Z",
-    "summary": "L'Ecoflow Delta 3 Classic brille par son format compact, mais surtout sa polyvalence puisqu'il peut recharger en même temps une voiture électrique et un smartphone, le tout pour un prix amoindri de 15"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Piles eneloop : Panasonic passe enfin à l&#8217;USB-C pour ses piles rechargeables",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/panasonic/3268073_piles-eneloop-panasonic-passe-enfin-a-lusb-c-pour-ses-piles-rechargeables",
     "pubDate": "2026-09-30T15:44:46.000Z",
     "summary": "Panasonic Energy lancera fin octobre 2026 au Japon le BQ-CCE5, un chargeur rapide pour piles eneloop qui s'alimente en USB-C, vendu 2 980 yens (environ 17 euros). Aucun prix ni aucune date n'ont été a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Marshall réduit le format de son enceinte de soirée, mais garde les lumières et le karaoké",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632035-avec-la-bromley-150-marshall-synchronise-un-jeu-de-lumieres-de-scene-avec-la-musique.html",
-    "pubDate": "2026-09-30T15:40:00.000Z",
-    "summary": "Avec la Bromley 150, Marshall intègre à son enceinte de soirée des lumières qui suivent la musique. Plus compacte que les autres modèles de la gamme, elle conserve deux entrées pour micros ou instrume"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/culture-tech/3267643_payer-a-letranger-avec-wero-un-enorme-reseau-europeen-se-prepare-sans-date-de-lancement",
     "pubDate": "2026-09-30T14:20:38.000Z",
     "summary": "Bancomat, Bizum, Wero, MB WAY et Vipps MobilePay ont annoncé ce mercredi 30 septembre la création de l’European Network for Payments, une société commune installée à Madrid pour relier leurs applicati"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Presque toutes les PS5 peuvent désormais être jailbreakées via leur navigateur",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/sony/3267743_presque-toutes-les-ps5-peuvent-desormais-etre-jailbreakees-via-leur-navigateur",
-    "pubDate": "2026-09-30T14:06:46.000Z",
-    "summary": "Relapse, une suite d'outils publiée sur GitHub, permet de jailbreaker les PS5 qui tournent sous les versions 7.00 à 13.60 du logiciel interne de Sony. Elle se lance simplement depuis le navigateur web"
   }
 ]
