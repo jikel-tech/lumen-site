@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "pubDate": "2026-09-30T23:43:07.000Z",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
     "source": "TechCrunch",
     "category": "ia",
@@ -24,7 +33,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
     "pubDate": "2026-09-30T20:39:09.000Z",
-    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition."
+    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -196,15 +205,6 @@
     "url": "https://www.frandroid.com/marques/byd/3147691_byd-nous-a-invites-a-shenzhen-on-vous-raconte-les-coulisses-dune-demonstration-de-force",
     "pubDate": "2026-09-30T16:30:52.000Z",
     "summary": "Musée consacré à l'histoire du groupe, siège historique, usine, démonstrations de conduite assistée, conférence géante sur les nouvelles technologies et présentation de ses marques premium : pendant p"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "pubDate": "2026-09-30T16:24:23.000Z",
-    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
