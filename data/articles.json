@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voici comment il a transformé un smartphone d&#8217;occasion en mini PC",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3268281_voici-comment-il-a-transforme-un-smartphone-doccasion-en-mini-pc",
+    "pubDate": "2026-10-01T06:13:21.000Z",
+    "summary": "Le youtubeur GameRig a démonté un Galaxy A90 5G à l’écran mort pour en faire un mini PC de 0,7 litre, facturé une cinquantaine de dollars (environ 43 euros). Samsung DeX reste l’un des outils les plus"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un moteur de recherche pirate permet de retrouver les données volées de Français, dont celles de personnalités politiques",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632065-un-moteur-de-recherche-pirate-permet-de-retrouver-les-donnees-volees-de-francais-dont-celles-de-personnalites-politiques.html",
+    "pubDate": "2026-10-01T06:12:00.000Z",
+    "summary": "Un internaute peut obtenir en quelques secondes, à partir d’un simple nom, le numéro de téléphone de Marine Le Pen ou de Jean-Luc Mélenchon sur un moteur de recherche pirate, a révélé RTL. Ses exploit"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "PlayStation Plus : les 3 jeux offerts en octobre 2026",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2344527-playstation-plus-les-3-jeux-offerts-en-octobre-2026.html",
+    "pubDate": "2026-10-01T06:10:08.000Z",
+    "summary": "Les abonnés PlayStation Plus pourront ajouter F1 25, Hunt: Showdown 1896 et Earth Defense Force: World Brothers 2 à leur collection à partir du mardi 6 octobre. Aucun jeu d'horreur pour Halloween, don"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Qui financera l’IA française, qui en récoltera les gains ? Le débat vers l'Élysée est lancé",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/dossier-631801-presidentielle-2027-derriere-les-promesses-sur-l-ia-des-choix-qui-n-ont-rien-d-automatique.html",
+    "pubDate": "2026-10-01T06:05:00.000Z",
+    "summary": "Un débat riche d'enseignements a eu lieu sur l'intelligence artificielle, il y a quelques jours au stade Vélodrome de Marseille, entre plusieurs représentants et candidats à l'élection présidentielle."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "99 fuites de données en deux mois, l'ANSSI dévoile la terrible ampleur du piratage des ministères français",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632047-fuites-de-donnees-en-deux-mois-l-anssi-devoile-la-terrible-ampleur-du-piratage-des-ministeres-francais.html",
+    "pubDate": "2026-10-01T05:46:00.000Z",
+    "summary": "Avec près d'une centaine de fuite de données portées à la connaissance de l'ANSSI, les brèches de l'État sont nombreuses. L'agence a publié mercredi son point de situation de l'opération REACTIV, lanc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Votre jeu mobile favori envoie sans doute vos informations personnelles en Chine et en Russie",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/applications/3268267_votre-jeu-mobile-favori-envoie-sans-doute-vos-informations-personnelles-en-chine-et-en-russie",
+    "pubDate": "2026-10-01T05:45:31.000Z",
+    "summary": "Une récente étude de l’entreprise Proton s’est intéressée aux trackers contenus dans les jeux mobiles. La plupart envoient des données aux quatre coins du globe sans vous demander votre avis."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Peut-on vraiment se protéger des arnaques par e-mail ? Votre vigilance ne suffit plus",
     "source": "Clubic",
     "category": "logiciels",
@@ -225,15 +279,6 @@
     "summary": "Le fabricant français de fusées Sirius Space et la start-up autrichienne Tumbleweed ont signé cette semaine un protocole d'accord pour envoyer des expériences en microgravité. Un premier vol suborbita"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fuites chez Frontières : les données de dizaines de milliers d'abonnés potentiellement touchées",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632041-piratage-chez-frontieres-les-donnees-de-dizaines-de-milliers-d-abonnes-potentiellement-touchees.html",
-    "pubDate": "2026-09-30T17:26:00.000Z",
-    "summary": "Des failles dans le média d'extrême-droite Frontières ont été exposées. Et les données de dizaines de milliers d'abonnés sont en danger."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "The ugly economics of consumer AI",
     "source": "TechCrunch",
@@ -241,15 +286,6 @@
     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "pubDate": "2026-09-30T17:24:45.000Z",
     "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Toute ressemblance est fortuite : Geekom dégaine un ultraportable au faux air de MacBook",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632032-toute-ressemblance-est-fortuite-geekom-degaine-un-ultraportable-au-faux-air-de-macbook.html",
-    "pubDate": "2026-09-30T17:14:00.000Z",
-    "summary": "Dévoilé dans un premier temps au CES 2026, le Geekom M14 arrive sur le marché américain avec une fiche technique convenue, mais aussi des visuels promotionnels qui auront bien du mal à renier leur ins"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -268,15 +304,6 @@
     "url": "https://www.frandroid.com/marques/3268191_asha-sharma-promet-quxbox-nest-pas-a-vendre-apres-avoir-supprime-20-des-effectifs",
     "pubDate": "2026-09-30T17:06:53.000Z",
     "summary": "«&nbsp;Xbox n'est pas à vendre&nbsp;», affirme Asha Sharma, CEO de la division jeux vidéo de Microsoft, dans un portrait publié ce mercredi 30 septembre par le New York Times. Elle le dit après un été"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Airbnb vous laisse désormais voir où vos amis ont dormi en voyage",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632029-airbnb-vous-laisse-desormais-voir-ou-vos-amis-ont-dormi-en-voyage.html",
-    "pubDate": "2026-09-30T16:48:00.000Z",
-    "summary": "La plateforme Airbnb a présenté, mercredi, ses nouveautés d'automne avec une fonction sociale baptisée Connexions, une recherche par IA et de nouveaux services. Si la livraison de courses arrive en Eu"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3267321_boulanger-brade-a-27-le-samsung-galaxy-a37-avec-une-enceinte-jbl-offerte",
     "pubDate": "2026-09-30T15:36:00.000Z",
     "summary": "Le Samsung Galaxy A37, smartphone milieu de gamme de 2026 et noté 7/10 dans notre test, est vendu par Boulanger en pack avec l'enceinte Bluetooth JBL Grip. L'ensemble est en promotion à 399 euros au l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Mercredi saison 3 avance vite et la série Netflix franchit une grosse étape",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344373-mercredi-saison-3-avance-vite-et-la-serie-netflix-franchit-une-grosse-etape.html",
-    "pubDate": "2026-09-30T15:10:28.000Z",
-    "summary": "C’est dans la boîte.&nbsp;Netflix a officialisé ce mercredi 30 septembre la fin du tournage de la troisième saison de&nbsp;Mercredi, avec une photo inédite de Jenna Ortega dans son rôle.&nbsp;Place ma"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Firefox 157 arrive avec Nova, son plus grand redesign depuis 2021",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2343709-firefox-157-arrive-avec-nova-son-plus-grand-redesign-depuis-2021.html",
-    "pubDate": "2026-09-30T15:03:04.000Z",
-    "summary": "Mozilla a lancé ce mardi 29 septembre Firefox 157, qui active pour tous le nouveau design Nova sur ordinateur et sur mobile. C'est le plus gros changement d'interface du navigateur depuis Proton, en 2"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon anticipe ses Jours Flash Prime : des offres tech en avant-première sont déjà en ligne",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3266859_amazon-anticipe-ses-jours-flash-prime-des-offres-tech-en-avant-premiere-sont-deja-en-ligne",
-    "pubDate": "2026-09-30T14:46:51.000Z",
-    "summary": "Amazon prépare ses Jours Flash Prime pour ses abonnés les 6 et 7 octobre 2026, mais les premières bonnes affaires sont déjà en ligne ! Prix cassés sur une sélection de produits Tech : nous avons réuni"
   }
 ]
