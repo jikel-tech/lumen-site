@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "pubDate": "2026-10-01T19:21:53.000Z",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,600 times before space data centers get off the ground",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "pubDate": "2026-10-01T19:18:03.000Z",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment récupérer votre historique Messenger : voici l&#8217;outil de Meta qui a servi à Mediapart",
     "source": "Frandroid",
@@ -55,10 +73,10 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "This startup wants to turn idle user car inventory into rental revenue",
+    "title": "This startup wants to turn idle car inventory into rental revenue",
     "source": "TechCrunch",
     "category": "ia",
-    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
     "pubDate": "2026-10-01T17:09:00.000Z",
     "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at"
   },
@@ -340,23 +358,5 @@
     "url": "https://www.numerama.com/tech/2344971-il-dechiffre-une-lettre-de-217-ans-adressee-a-un-general-de-napoleon-grace-a-lia.html",
     "pubDate": "2026-10-01T14:40:00.000Z",
     "summary": "Un ingénieur a utilisé GPT-6 Astra pour déchiffrer une lettre de 1809 destinée à un général de Napoléon. Selon lui, environ six heures ont suffi à l’IA pour transcrire les signes manuscrits et reconst"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon vous passe la bague au doigt pour les French Days avec la Oura Ring 4 à -45%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632182-amazon-vous-passe-la-bague-au-doigt-pour-les-french-days-avec-la-oura-ring-4-a--45.html",
-    "pubDate": "2026-10-01T14:39:00.000Z",
-    "summary": "La Oura Ring 4 est une bague connectée avec des capteurs de santé et de sommeil que vous retrouvez en promo sur Amazon à 219 euros au lieu de 399 euros pendant les Jours Flash Prime."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple Home Hub : tout ce que l&#8217;on sait de l&#8217;écran pour la maison attendu en octobre",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2344991-apple-home-hub-tout-ce-que-lon-sait-de-lecran-pour-la-maison-attendu-en-octobre.html",
-    "pubDate": "2026-10-01T14:28:17.000Z",
-    "summary": "Après des années de rumeurs et de reports, Apple serait sur le point de lancer son premier écran connecté pour la maison. Selon Bloomberg, il pourrait être annoncé le 13 octobre avec un nouveau HomePo"
   }
 ]
