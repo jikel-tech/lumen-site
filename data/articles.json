@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "L'antivirus McAfee s'enrichit d'une IA qui se méfie des scams à votre place",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632008-l-antivirus-mcafee-s-enrichit-d-une-ia-qui-se-mefie-des-scams-a-votre-place.html",
+    "pubDate": "2026-10-01T07:02:00.000Z",
+    "summary": "Selon l'éditeur antivirus McAfee, l'ampleur du scam est telle qu'aux États-Unis, 74% des adultes interrogés vérifieraient la plupart des informations publiées sur Internet. L'entreprise a donc revu so"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Jeux vidéo : L’Europe veut rendre la valeur des monnaies virtuelles « claire et transparente »",
     "source": "Frandroid",
     "category": "smartphones",
@@ -178,15 +187,6 @@
     "url": "https://www.clubic.com/actualite-632053-zimbra-microsoft-revele-comment-des-pirates-ont-exploite-une-faille-avant-sa-divulgation-publique.html",
     "pubDate": "2026-10-01T04:38:00.000Z",
     "summary": "Il suffisait d’un e-mail piégé pour exécuter des commandes à distance sur certains serveurs Zimbra exposés à Internet. D’après Microsoft, des pirates ont exploité la faille CVE-2026-73570 avant sa div"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Personne n'est à l'abri ! L'ANSSI et la Dinum victimes d'une fuite de données",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632056-personne-n-est-a-l-abri-l-anssi-et-la-dinum-victime-d-une-fuite-de-donnees.html",
-    "pubDate": "2026-10-01T04:19:00.000Z",
-    "summary": "Même les services de l'État censés se battre contre la cybercriminalité sont vulnérables. La preuve avec l'ANSSI et la Dinum."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
