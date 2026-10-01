@@ -1,5 +1,77 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "pubDate": "2026-10-01T15:12:00.000Z",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Prime Day : nouvelle vague d’offres chez Amazon, l’Oura Ring 4 et le Xiaomi 17T Pro déjà en baisse",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-631804-jours-flash-prime-amazon-n-attend-pas-le-6-octobre-et-baisse-deja-20-produits-tech-jusqu-a--58.html",
+    "pubDate": "2026-10-01T15:11:00.000Z",
+    "summary": "Les Jours Flash Prime sont réservés aux membres Prime et ne démarrent que le 6 octobre, mais Amazon et plusieurs marques ont déjà ajusté leurs prix. Nous calculons chaque remise par rapport au prix le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "The JOJOLands tome 8 : où trouver l’édition collector de JoJo&#8217;s Bizarre Adventure",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2345101-the-jojolands-tome-8-ou-trouver-ledition-collector-de-jojos-bizarre-adventure.html",
+    "pubDate": "2026-10-01T15:10:48.000Z",
+    "summary": "[Deal du jour] Le tome 8 de The JOJOLands, neuvième partie de JoJo's Bizarre Adventure, aura droit à une édition collector en France. Voici où précommander cette version, qui contient un bonus à l’eff"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le Pentagone piraté : les dossiers personnels de 3 millions de militaires sont dans la nature",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3269119_le-pentagone-pirate-les-dossiers-personnels-de-3-millions-de-militaires-sont-dans-la-nature",
+    "pubDate": "2026-10-01T15:03:25.000Z",
+    "summary": "Pendant presque 10 mois, des pirates ont exfiltré des données de personnes liées à l'armée américaine. Ils ont ciblé l'organisme chargé de les gérer, le Defense Manpower Data Center."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voiture électrique : pour Jim Farley (Ford), l'Europe a déjà perdu face aux constructeurs chinois",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632188-voiture-electrique-pour-jim-farley-ford-l-europe-a-deja-perdu-face-aux-constructeurs-chinois.html",
+    "pubDate": "2026-10-01T15:03:00.000Z",
+    "summary": "On voit de plus en plus de véhicules électriques chinois en Europe. Ce qui serait le début d'une conquête irréversible du Vieux Continent, selon le patron de Ford Jim Farley."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Suivez en direct le décollage de SpaceX Crew-13, en attendant le retour de Sophie Adenot",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2344325-suivez-en-direct-le-decollage-de-spacex-crew-13-en-attendant-le-retour-de-sophie-adenot.html",
+    "pubDate": "2026-10-01T14:52:52.000Z",
+    "summary": "SpaceX doit lancer la mission Crew-13 vers la Station spatiale internationale ce jeudi 1er octobre à 17h10, heure de Paris. Le décollage arrive avec près de trois semaines de retard, à cause d'une fui"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les clés deviennent presque inutiles avec cette serrure connectée SwitchBot notée 9/10 et en promo à -28 % sur Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3208747_les-cles-deviennent-presque-inutiles-avec-cette-serrure-connectee-switchbot-notee-9-10-et-en-promo-a-moins-28-pourcents-sur-amazon",
+    "pubDate": "2026-10-01T14:49:58.000Z",
+    "summary": "A l'occasion de ses offres en avant-première pour les Jours Flash Prime, Amazon propose 70 euros de réduction sur la SwitchBot Lock Ultra Touch Combo, une serrure connectée avec écran tactile qui se f"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Après les échecs et le Go, l'IA fait tomber Stratego, l'un des derniers refuges de l'humain",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632185-apres-les-echecs-et-le-go-l-ia-fait-tomber-stratego-l-un-des-derniers-refuges-de-l-humain.html",
+    "pubDate": "2026-10-01T14:49:00.000Z",
+    "summary": "Après les échecs, le Go ou le poker, un nouveau bastion humain vient de céder. Ataraxos a largement dominé l’un des meilleurs joueurs de Stratego de l’histoire, un jeu particulièrement retors pour les"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Il déchiffre une lettre de 217 ans adressée à un général de Napoléon grâce à l’IA",
     "source": "Numerama",
@@ -226,33 +298,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple inaugure à Londres une salle de concert de 600 places pensée pour le son spatial",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632158-apple-inaugure-a-londres-une-salle-de-concert-de-600-places-pensee-pour-le-son-spatial.html",
-    "pubDate": "2026-10-01T12:40:00.000Z",
-    "summary": "Apple a inauguré le 28 septembre à Londres l'Apple Music Hall, une salle de concert de 600 places équipée pour le son spatial."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le HomePad partagerait cette fonctionnalité avec l'iPhone Duo",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632146-le-homepad-partagerait-cette-fonctionnalite-avec-l-iphone-duo.html",
-    "pubDate": "2026-10-01T12:34:00.000Z",
-    "summary": "John Ternus nous a bien teasé l'iPhone Duo, en indiquant proposer un assistant domestique comme \"one more thing\". Mais le HomePad semblerait ne pas être un projet mort-né, un concurrent des appareils "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Étudiants et lycéens : cette tablette Xiaomi à écran 3,2K et 144 Hz passe à 228,28€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632152-etudiants-et-lyceens-cette-tablette-xiaomi-a-ecran-3-2k-et-144-hz-passe-a-228-28.html",
-    "pubDate": "2026-10-01T12:32:00.000Z",
-    "summary": "Le Pad 8 lui a succédé, mais le Xiaomi Pad 7 garde ce qui a fait sa réputation : un grand écran 3,2K à 144 Hz et une batterie endurante. Sa version globale 8 Go + 256 Go profite du Local Day d’Al"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Données de Marine Le Pen exposées : pourquoi il ne faut jamais tester le moteur de recherche cité sur X",
     "source": "Numerama",
     "category": "culture",
@@ -313,50 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2344789-pourquoi-tout-le-monde-ne-parle-que-du-special-lego-one-piece-debarque-sur-netflix.html",
     "pubDate": "2026-10-01T11:31:00.000Z",
     "summary": "Pendant que la quatrième saison de l'anthologie&nbsp;Monster&nbsp;(The Lizzie Borden Story) trône au sommet des séries les plus vues de la plateforme, Netflix diffuse depuis ce mardi 29 septembre un O"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fire TV, Kindle, Echo : Amazon casse les prix de ses produits phares avant les Jours Flash Prime",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3268847_fire-tv-kindle-echo-amazon-casse-les-prix-de-ses-produits-phares-avant-les-jours-flash-prime",
-    "pubDate": "2026-10-01T11:10:00.000Z",
-    "summary": "Amazon n'attend pas l'ouverture officielle de ses Jours Flash Prime pour proposer des remises sur ses produits maison. Fire TV Stick, Kindle, caméras Blink, Echo Show et Echo Dot sont d'ores et déjà a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On dirait vraiment l&#8217;Étoile noire, mais ce sont d&#8217;incroyables aurores boréales (vidéo)",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2344653-non-ce-nest-pas-letoile-noire-mais-incroyables-aurores-boreales-video.html",
-    "pubDate": "2026-10-01T11:02:00.000Z",
-    "summary": "Le satellite Smile a commencé ses observations scientifiques et propose une vue de la Terre très inhabituelle, où des aurores boréales apparaissent. Une vision qui rappelle beaucoup un monstrueux vais"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Voitures électriques : les chiffres de septembre valident la grande bascule du marché français",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2344803-voitures-electriques-les-chiffres-de-septembre-valident-la-grande-bascule-du-marche-francais.html",
-    "pubDate": "2026-10-01T10:48:00.000Z",
-    "summary": "Alors que les chiffres officiels des immatriculations du mois de septembre 2026 viennent de tomber, le marché du 100 % électrique confirme sa dynamique impressionnante. Porté par un duel au sommet ent"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Mauvaise nouvelle pour les Galaxy S27 : toute la gamme coûterait plus cher, surtout si vous voulez du stockage",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3269013_mauvaise-nouvelle-pour-les-galaxy-s27-toute-la-gamme-couterait-plus-cher-surtout-si-vous-voulez-du-stockage",
-    "pubDate": "2026-10-01T10:38:49.000Z",
-    "summary": "Le leaker coréen yeux1122 affirme que toute la gamme Galaxy S27 coûtera plus cher que les S26. Les versions 512 Go et 1 To seraient les plus touchées."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Un mois après la réforme de la facturation électronique, la plateforme agréée VosFactures est piratée",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3268993_un-mois-apres-la-reforme-de-la-facturation-electronique-la-plateforme-agreee-vosfactures-est-piratee",
-    "pubDate": "2026-10-01T10:32:27.000Z",
-    "summary": "Le logiciel de facturation VosFactures a confirmé une fuite de données après le piratage de son prestataire polonais Fakturownia, détecté ce lundi 28 septembre. Comptes, fichiers clients et fournisseu"
   }
 ]
