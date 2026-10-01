@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "En plus de l'Arizona, TSMC préparerait un nouveau méga-site de production au Texas",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632107-en-plus-de-l-arizona-tsmc-preparerait-un-nouveau-mega-site-de-production-au-texas.html",
+    "pubDate": "2026-10-01T11:11:00.000Z",
+    "summary": "TSMC semble bien décidé à investir le Far West. Après son usine de 265 milliards de dollars construite en Arizona, le géant taïwanais du semi-conducteur chercherait désormais à faire sortir de terre u"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Fire TV, Kindle, Echo : Amazon casse les prix de ses produits phares avant les Jours Flash Prime",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3268847_fire-tv-kindle-echo-amazon-casse-les-prix-de-ses-produits-phares-avant-les-jours-flash-prime",
+    "pubDate": "2026-10-01T11:10:00.000Z",
+    "summary": "Amazon n'attend pas l'ouverture officielle de ses Jours Flash Prime pour proposer des remises sur ses produits maison. Fire TV Stick, Kindle, caméras Blink, Echo Show et Echo Dot sont d'ores et déjà a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "On dirait vraiment l&#8217;Étoile noire, mais ce sont d&#8217;incroyables aurores boréales (vidéo)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2344653-non-ce-nest-pas-letoile-noire-mais-incroyables-aurores-boreales-video.html",
+    "pubDate": "2026-10-01T11:02:00.000Z",
+    "summary": "Le satellite Smile a commencé ses observations scientifiques et propose une vue de la Terre très inhabituelle, où des aurores boréales apparaissent. Une vision qui rappelle beaucoup un monstrueux vais"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sans intrusion, des chercheurs ont cartographié des systèmes d’aéroport grâce aux traces laissées en ligne",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632104-sans-intrusion-des-chercheurs-ont-cartographie-des-systemes-d-aeroports-grace-aux-traces-laissees-en-ligne.html",
+    "pubDate": "2026-10-01T10:54:00.000Z",
+    "summary": "Une étude de Flare montre comment des données publiques permettent de cartographier une partie de l'infrastructure informatique de certains aéroports nord-américains. Elle a aussi repéré des centaines"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tesla : la manœuvre financière qui prouve à quel point le virage dans l'IA et les robots coûte cher",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632101-tesla-cette-man-uvre-financiere-prouve-a-quel-point-le-virage-dans-l-ia-et-les-robots-coute-cher.html",
+    "pubDate": "2026-10-01T10:49:00.000Z",
+    "summary": "Tesla vient d’ouvrir 30 milliards de dollars de lignes de crédit, alors qu’elle a déjà plus de 40 milliards en caisse. Comprenez : ses rentrées d’argent ne suffisent plus à financer ses ambitions."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voitures électriques : les chiffres de septembre valident la grande bascule du marché français",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2344803-voitures-electriques-les-chiffres-de-septembre-valident-la-grande-bascule-du-marche-francais.html",
+    "pubDate": "2026-10-01T10:48:00.000Z",
+    "summary": "Alors que les chiffres officiels des immatriculations du mois de septembre 2026 viennent de tomber, le marché du 100 % électrique confirme sa dynamique impressionnante. Porté par un duel au sommet ent"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Mauvaise nouvelle pour les Galaxy S27 : toute la gamme coûterait plus cher, surtout si vous voulez du stockage",
     "source": "Frandroid",
     "category": "smartphones",
@@ -208,30 +262,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "JBL Pulse 6 : l&#8217;enceinte Bluetooth à poignée lumineuse et IP68 arrive en France",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/jbl/3268683_jbl-pulse-6-lenceinte-bluetooth-a-poignee-lumineuse-et-ip68-arrive-en-france",
-    "pubDate": "2026-10-01T09:09:06.000Z",
-    "summary": "La nouvelle enceinte JBL Pulse 6 associe un jeu de lumières à 360°, une poignée métallique éclairée, la technologie AI Sound Boost, jusqu'à 12 heures d'autonomie et une certification IP68."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Tesla : refuser la collecte de données expose à des dommages, et la Model 3 contacte 34 traqueurs",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-632026-tesla-refuser-la-collecte-de-donnees-expose-a-des-dommages-et-la-model-3-contacte-34-traqueurs.html",
     "pubDate": "2026-10-01T09:04:00.000Z",
     "summary": "Des chercheurs de la Northeastern University ont analysé le trafic de 21 véhicules et de 30 applis de constructeurs, avec Consumer Reports. Tous les modèles sauf deux contactent une entreprise tierce,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "NordVPN, Proton VPN, ExpressVPN et Surfshark dans le viseur de LaLiga dans une liste anti-piratage européenne",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632092-nordvpn-proton-vpn-expressvpn-et-surfshark-dans-le-viseur-de-laliga-dans-une-liste-anti-piratage-europeenne.html",
-    "pubDate": "2026-10-01T09:01:00.000Z",
-    "summary": "LaLiga veut faire inscrire quatre grands services VPN dans la prochaine Counterfeit and Piracy Watch List de la Commission européenne. La ligue espagnole vise surtout la manière dont certains sites af"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -253,30 +289,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon lance un Fire TV Stick 4K plus rapide avec une télécommande Fire TV repensée",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632038-amazon-lance-un-fire-tv-stick-4k-plus-rapide-avec-une-telecommande-fire-tv-repensee.html",
-    "pubDate": "2026-10-01T08:35:00.000Z",
-    "summary": "Amazon renouvelle son Fire TV Stick 4K avec une navigation annoncée plus rapide et une télécommande redessinée. Le modèle arrive aussi en France, mais son passage à Vega OS ferme la porte aux applicat"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Comment acheter un ticket de métro ou passe Navigo sur son iPhone ou smartphone Android ?",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/vroom/1746356-comment-mettre-son-passe-navigo-sur-son-iphone.html",
     "pubDate": "2026-10-01T08:33:52.000Z",
     "summary": "Depuis 2024, les propriétaires d’iPhone et de smartphones Android peuvent enfin utiliser leur téléphone pour prendre le métro, le tramway ou le bus en région Île-de-France. On peut aussi acheter un ti"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Revolut installe ses comptes en France, mais refuser le transfert impose de clôturer son compte",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632086-revolut-installe-ses-comptes-en-france-mais-refuser-le-transfert-impose-de-cloturer-son-compte.html",
-    "pubDate": "2026-10-01T08:32:00.000Z",
-    "summary": "Revolut transférera les comptes de ses clients en France vers sa banque française du 2 au 5 décembre 2026. IBAN, cartes et paiements resteront inchangés, mais la garantie des dépôts passera sous régim"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -304,24 +322,6 @@
     "url": "https://www.numerama.com/sciences/2344563-du-jamais-vu-pour-le-starship-trois-semaines-apres-son-premier-vol-orbital-la-fusee-geante-devrait-revoler-et-peut-etre-deux-fois-en-octobre.html",
     "pubDate": "2026-10-01T07:53:43.000Z",
     "summary": "Un document de la FAA, l'autorité américaine de l'aviation civile, cale le 15e vol du Starship au plus tôt le 19 octobre 2026. Ce serait trois semaines seulement après le premier vol orbital de la fus"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Xbox n’est pas à vendre » : la division gaming va mal, mais Asha Sharma se veut rassurante",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2344551-xbox-nest-pas-a-vendre.html",
-    "pubDate": "2026-10-01T07:31:39.000Z",
-    "summary": "Les rumeurs d’une vente de Xbox circulent depuis des mois, et la patronne de la division vient de les démentir : non, Xbox n’est pas à vendre. Malgré les licenciements massifs et les importantes restr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "CD Projekt Red recommande de désactiver une option graphique dans The Witcher 3",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2344541-cd-projekt-red-recommande-de-desactiver-une-option-graphique-dans-the-witcher-3.html",
-    "pubDate": "2026-10-01T06:40:50.000Z",
-    "summary": "Le compte X du support technique de CD Projekt Red recommande de désactiver l'option graphique Nvidia HairWorks dans la version Remastered de The Witcher 3 sur PC, en attendant un correctif."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
