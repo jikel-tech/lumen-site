@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À 16 ans, il est soupçonné d’avoir dirigé un groupe de ransomware responsable de 1 000 attaques",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632245-a-16-ans-il-est-soupconne-d-avoir-dirige-un-groupe-de-ransomware-responsable-de-1-000-attaques.html",
+    "pubDate": "2026-10-02T05:00:00.000Z",
+    "summary": "Le principal opérateur présumé de KillSec n’a que 16 ans. Mercredi, la police espagnole l’a interpellé dans la province d’Alicante, au cours d’une opération coordonnée à l’échelle européenne. Ce group"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vous pouvez « détruire » n&#8217;importe quel site web grâce à ce petit bonhomme",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2345053-vous-pouvez-detruire-nimporte-quel-site-web-grace-a-ce-petit-bonhomme.html",
+    "pubDate": "2026-10-02T04:48:00.000Z",
+    "summary": "Il suffit de saisir l’adresse d’un site sur Destroy Any Website pour en obtenir une version destructible. Ce jeu gratuit permet ensuite de parcourir la page avec un petit personnage qui saute entre le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le déploiement de la fibre ralentit et certaines zones devront encore patienter 4 ans",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632248-le-deploiement-de-la-fibre-ralentit-et-certaines-zones-devront-encore-patienter-4-ans.html",
+    "pubDate": "2026-10-02T04:45:00.000Z",
+    "summary": "Au deuxième trimestre 2026, il y a eu moins de nouveaux locaux raccordables à la fibre qu’à aucun autre moment depuis 2014. Pour l’association de collectivités Avicca, une partie des habitants des gra"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Robotaxi operators will face fines for blocking first responders",
     "source": "TechCrunch",
@@ -331,32 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2345101-the-jojolands-tome-8-ou-trouver-ledition-collector-de-jojos-bizarre-adventure.html",
     "pubDate": "2026-10-01T15:10:48.000Z",
     "summary": "[Deal du jour] Le tome 8 de The JOJOLands, neuvième partie de JoJo's Bizarre Adventure, aura droit à une édition collector en France. Voici où précommander cette version, qui contient un bonus à l’eff"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Voiture électrique : pour Jim Farley (Ford), l'Europe a déjà perdu face aux constructeurs chinois",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632188-voiture-electrique-pour-jim-farley-ford-l-europe-a-deja-perdu-face-aux-constructeurs-chinois.html",
-    "pubDate": "2026-10-01T15:03:00.000Z",
-    "summary": "On voit de plus en plus de véhicules électriques chinois en Europe. Ce qui serait le début d'une conquête irréversible du Vieux Continent, selon le patron de Ford Jim Farley."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Suivez en direct le décollage de SpaceX Crew-13, en attendant le retour de Sophie Adenot",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2344325-suivez-en-direct-le-decollage-de-spacex-crew-13-en-attendant-le-retour-de-sophie-adenot.html",
-    "pubDate": "2026-10-01T14:52:52.000Z",
-    "summary": "SpaceX doit lancer la mission Crew-13 vers la Station spatiale internationale ce jeudi 1er octobre à 17h10, heure de Paris. Le décollage arrive avec près de trois semaines de retard, à cause d'une fui"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après les échecs et le Go, l'IA fait tomber Stratego, l'un des derniers refuges de l'humain",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632185-apres-les-echecs-et-le-go-l-ia-fait-tomber-stratego-l-un-des-derniers-refuges-de-l-humain.html",
-    "pubDate": "2026-10-01T14:49:00.000Z",
-    "summary": "Après les échecs, le Go ou le poker, un nouveau bastion humain vient de céder. Ataraxos a largement dominé l’un des meilleurs joueurs de Stratego de l’histoire, un jeu particulièrement retors pour les"
   }
 ]
