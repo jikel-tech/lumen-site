@@ -1,5 +1,59 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "pubDate": "2026-10-02T15:39:41.000Z",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+    "pubDate": "2026-10-02T15:31:20.000Z",
+    "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs and more for later, while keeping your archive private and synced across your Apple devices."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Voici 7 (bonnes) raisons de choisir le nouveau Roborock Saros 20 Neo",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632110-voici-7-bonnes-raisons-de-choisir-le-nouveau-roborock-saros-20-neo.html",
+    "pubDate": "2026-10-02T15:30:00.000Z",
+    "summary": "Avec son châssis capable de franchir des seuils, son profil ultra-fin et sa puissance de 36 000 Pa, le Roborock Saros 20 Neo entend s’attaquer à ces intérieurs où les robots aspirateurs classiques mon"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Notre vidéo à bord de la nouvelle BMW i3 : les secrets de la Série 3 électrique à 912 km d’autonomie",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/bmw/3271049_notre-video-a-bord-de-la-nouvelle-bmw-i3-les-secrets-de-la-serie-3-electrique-a-912-km-dautonomie",
+    "pubDate": "2026-10-02T15:22:52.000Z",
+    "summary": "Avec sa i3 de nouvelle génération, BMW s'adresse directement aux grands rouleurs en promettant jusqu'à 912 km d'autonomie. On a pu monter à bord de cette Série 3 électrique, voici notre premier avis e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Nvidia lance le DGX Spark en 64 Go : faut-il acheter deux petits plutôt qu&#8217;un gros ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/nvidia/3271055_nvidia-lance-le-dgx-spark-en-64-go-faut-il-acheter-deux-petits-plutot-quun-gros",
+    "pubDate": "2026-10-02T15:21:10.000Z",
+    "summary": "Nvidia sort une version 64 Go de son mini PC IA DGX Spark, vendue 4&nbsp;999 dollars à partir du 23 octobre. Le même jour, le modèle 128 Go grimpe à 6&nbsp;950 dollars. La pénurie de mémoire vient de "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Fibre optique : ces zones où il va falloir attendre 2028 pour être enfin raccordé",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/3270617_fibre-optique-ces-zones-ou-il-va-falloir-attendre-2028-pour-etre-enfin-raccorde",
+    "pubDate": "2026-10-02T15:17:53.000Z",
+    "summary": "Les derniers chiffres de l'Arcep montrent un fort ralentissement dans le déploiement de la fibre optique sur le territoire. L'Avicca craint que cela repousse encore une fois l'achèvement du 100 % fibr"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon fait déjà passer le nouveau Google Pixel 11, avec son téléobjectif x5, sous les 750 €",
     "source": "Frandroid",
@@ -7,6 +61,15 @@
     "url": "https://www.frandroid.com/bons-plans/3270879_amazon-fait-deja-passer-le-nouveau-google-pixel-11-avec-son-teleobjectif-x5-sous-les-750-e",
     "pubDate": "2026-10-02T15:09:00.000Z",
     "summary": "Le Google Pixel 11 en coloris Pistache avec 256 Go de stockage est affiché à 848,88 euros au lieu de 999 euros sur Amazon. À cela s'ajoute une offre de remboursement de 100 euros de Google qui fait to"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La liseuse couleur Kindle Colorsoft d’Amazon baisse son prix avec l&#8217;arrivée du nouveau modèle",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2345873-la-liseuse-couleur-kindle-colorsoft-damazon-baisse-son-prix-avec-larrivee-du-nouveau-modele.html",
+    "pubDate": "2026-10-02T15:08:04.000Z",
+    "summary": "[Deal du jour] La Kindle Colorsoft permet d’avoir plusieurs milliers de romans et BD avec soi, et de les lire en couleur. Son prix baisse après l'annonce de la nouvelle génération, attendue le 11 nove"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -235,24 +298,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Des temps de chargement quasi-instantanés : Microsoft libère enfin les GPU Nvidia",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/nvidia/3270735_des-temps-de-chargement-quasi-instantanes-microsoft-libere-enfin-les-gpu-nvidia",
-    "pubDate": "2026-10-02T13:28:19.000Z",
-    "summary": "Microsoft va étendre son Advanced Shader Delivery à toutes les cartes graphiques Nvidia RTX avant la fin du mois d'octobre 2026. Jusqu'ici, seuls les GPU AMD et les puces Snapdragon X2 de Qualcomm y a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fnac propose le SSD externe WD_Black 2 To pensé pour le gaming à moins de 200 €, un prix rare depuis le début de la crise",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3270503_fnac-propose-le-ssd-externe-wd_black-2-to-pense-pour-le-gaming-a-moins-de-200-e-un-prix-rare-depuis-le-debut-de-la-crise",
-    "pubDate": "2026-10-02T13:28:00.000Z",
-    "summary": "Le WD_Black D30 est un SSD externe avec sa petite base pour être posé, un look gaming assumé et des performances qui le rendent compatible avec les consoles modernes, qui se retrouve à 199 euros au li"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "LDLC a été piraté : gare aux faux messages dans les prochaines semaines",
     "source": "Numerama",
     "category": "culture",
@@ -268,15 +313,6 @@
     "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
     "pubDate": "2026-10-02T13:23:09.000Z",
     "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Comment éviter le hors-forfait à l&#8217;étranger ? Voici comment configurer son eSIM de voyage avant le départ",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/comment-faire/tutoriaux/3269121_comment-eviter-le-hors-forfait-a-letranger-voici-comment-configurer-son-esim-de-voyage-avant-le-depart",
-    "pubDate": "2026-10-02T13:18:25.000Z",
-    "summary": "Acheter une eSIM pour voyager n'évite pas automatiquement le hors-forfait à l'étranger. Avant le départ, il faut configurer l'eSIM de voyage, mais aussi sa SIM ou eSIM principale, pour ne pas trouver "
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -322,41 +358,5 @@
     "url": "https://www.clubic.com/actualite-632314-le-generateur-de-musique-par-ia-suno-ne-s-arrete-plus-au-son-il-peut-maintenant-chanter.html",
     "pubDate": "2026-10-02T12:04:00.000Z",
     "summary": "Créer de la musique par IA de A à Z, c'est ce que proposent certaines applications. Mais ces fonctionnalités sont-elles vraiment fiables et proposent-elles réellement un travail de qualité ? La répons"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "France-Italie : où voir le match de foot en direct et en streaming ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2345395-france-italie-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
-    "pubDate": "2026-10-02T12:03:00.000Z",
-    "summary": "Après deux victoires en autant de matchs de Ligue des nations, Zinédine Zidane dirige les Bleus pour la première fois au Stade de France, ce vendredi 2 octobre à 20h45, face à l'Italie. Le match est d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pourquoi la mission ratée de la NASA pour sauver le télescope Swift est célébrée",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632299-pourquoi-la-mission-ratee-de-la-nasa-pour-sauver-le-telescope-swift-est-celebree.html",
-    "pubDate": "2026-10-02T11:32:00.000Z",
-    "summary": "La mission de sauvetage du télescope Swift a échoué. Pourtant, la NASA salue une prouesse qui marque un précédent pour l’avenir de la conquête spatiale."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Écran 16 pouces, nouvelles jantes et V2L : la Tesla Model 3 progresse en Chine, la France est prochaine sur la liste",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2345537-ecran-16-pouces-nouvelles-jantes-et-v2l-la-tesla-model-3-progresse-en-chine-la-france-est-prochaine-sur-la-liste.html",
-    "pubDate": "2026-10-02T11:30:00.000Z",
-    "summary": "Tesla a équipé toutes les Model 3 vendues en Chine d'un écran de 16 pouces et de la possibilité d'alimenter des appareils électriques jusqu'à 2,2 kW. Les États-Unis ont reçu le nouvel écran 24 heures "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "HP OmniBook 5 14 : un PC portable OLED et Intel Wildcat Lake qui le MacBook Neo dans le collimateur, lui aussi",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632296-hp-omnibook-5-14-un-pc-portable-oled-et-intel-wildcat-lake-qui-le-macbook-neo-dans-le-collimateur-lui-aussi.html",
-    "pubDate": "2026-10-02T11:05:00.000Z",
-    "summary": "HP vient d’annoncer le lancement de son nouvel OmniBook 5. Attendu courant octobre à partir de 799 euros en France, l’appareil cible le MacBook Neo avec un châssis en alu coloré, des processeurs Intel"
   }
 ]
