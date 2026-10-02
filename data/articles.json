@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les voitures électriques dépassent 40 % des ventes en France, le marché automobile rebondit en septembre",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632251-les-voitures-electriques-depassent-40-des-ventes-en-france-le-marche-automobile-rebondit-en-septembre.html",
+    "pubDate": "2026-10-02T06:58:00.000Z",
+    "summary": "Plus de quatre voitures neuves sur dix vendues en France en septembre étaient électriques. Ce mois-là, les immatriculations ont progressé de 11,6 % sur un an, au moment où il fallait payer plus de 2,3"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avec une nouvelle augmentation des prix, le Raspberry Pi n&#8217;a plus grand-chose d’un PC bon marché",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/ordinateurs/3269925_avec-une-nouvelle-augmentation-des-prix-le-raspberry-pi-na-plus-grand-chose-dun-pc-bon-marche",
+    "pubDate": "2026-10-02T06:53:09.000Z",
+    "summary": "La crise de la RAM n’épargne personne. Même la fondation Raspberry Pi, connue pour ses « nano ordinateurs » peu onéreux, est encore obligée d’augmenter ses prix sur les versions 2&nbsp;Go de ses appar"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Premier plongeon dans la VR ? Ce Meta Quest 3S tombe à 253,71€ chez AliExpress",
     "source": "Clubic",
     "category": "logiciels",
@@ -334,29 +352,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous montez un PC gamer sur AM5 ? Ce Ryzen 5 9600X tombe à 142,36€ chez AliExpress",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632161-vous-montez-un-pc-gamer-sur-am5-ce-ryzen-5-9600x-tombe-a-142-36-chez-aliexpress.html",
-    "pubDate": "2026-10-01T16:19:00.000Z",
-    "summary": "Lors de notre test, le Ryzen 5 9600X nous avait moins marqués par ses performances pures que par sa sobriété et sa fraîcheur en charge. Proposé à moins de la moitié de son prix de lancement pendant le"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ce forfait SFR propose 500 Go en 5G+ et la télé pour moins de 20 euros, mais à une condition",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3269539_ce-forfait-sfr-propose-500-go-en-5g-et-la-tele-pour-moins-de-20-euros-mais-a-une-condition",
     "pubDate": "2026-10-01T16:17:00.000Z",
     "summary": "SFR propose un forfait 500 Go en 5G+ à 24,99 euros par mois, sans engagement. Les abonnés box le paient 19,99 euros par mois, avec SFR TV et Internet depuis 137 destinations."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Gemini 4 Argon peut générer un million de jetons en une seule réponse : voici ce que ça change",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3269669_gemini-4-argon-peut-generer-un-million-de-jetons-en-une-seule-reponse-voici-ce-que-ca-change",
-    "pubDate": "2026-10-01T16:13:19.000Z",
-    "summary": "Google a multiplié par quinze la longueur maximale d'une réponse de Gemini. Personne ne lira un million de jetons d'une traite, et c'est voulu : Gemini 4 Argon est conçu pour travailler pendant qu'on "
   }
 ]
