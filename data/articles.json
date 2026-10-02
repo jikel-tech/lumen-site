@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "pubDate": "2026-10-02T21:09:14.000Z",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
     "source": "TechCrunch",
     "category": "ia",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-632302-les-airpods-5-n-attendent-pas-le-prime-day-pour-perdre-20-de-leur-prix.html",
     "pubDate": "2026-10-02T14:20:00.000Z",
     "summary": "Par leur design soigné, les AirPods 5 sont d’excellents écouteurs à porter au quotidien, mais ils conviendront aussi aux sportifs. C’est le moment de foncer dessus puisqu’ils passent à 119 euros sur A"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "NVIDIA lance un DGX Spark 64 Go : moins de mémoire, mais une drôle d’astuce pour dépasser le modèle 128 Go",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632380-nvidia-lance-un-dgx-spark-64-go-moins-de-memoire-mais-une-drole-d-astuce-pour-depasser-le-modele-128-go.html",
-    "pubDate": "2026-10-02T14:15:00.000Z",
-    "summary": "NVIDIA décline son mini-supercalculateur DGX Spark dans une nouvelle version équipée de 64 Go de mémoire unifiée. Commercialisée à partir du 23 octobre chez plusieurs constructeurs, elle pourra surtou"
   }
 ]
