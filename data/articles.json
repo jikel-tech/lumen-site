@@ -1,6 +1,78 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Problèmes sur l&#8217;Internet français : une partie d&#8217;OVHCloud est en panne",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/3270829_problemes-sur-linternet-francais-une-partie-dovhcloud-est-en-panne",
+    "pubDate": "2026-10-02T13:41:25.000Z",
+    "summary": "De nombreux internautes signalent des pannes chez OVHcloud. Les serveurs hébergés chez OVH semblent inaccessibles. La firme confirme un problème en cours."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Tesla sustains its EV sales momentum despite US troubles",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+    "pubDate": "2026-10-02T13:39:23.000Z",
+    "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Des temps de chargement quasi-instantanés : Microsoft libère enfin les GPU Nvidia",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/nvidia/3270735_des-temps-de-chargement-quasi-instantanes-microsoft-libere-enfin-les-gpu-nvidia",
+    "pubDate": "2026-10-02T13:28:19.000Z",
+    "summary": "Microsoft va étendre son Advanced Shader Delivery à toutes les cartes graphiques Nvidia RTX avant la fin du mois d'octobre 2026. Jusqu'ici, seuls les GPU AMD et les puces Snapdragon X2 de Qualcomm y a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Fnac propose le SSD externe WD_Black 2 To pensé pour le gaming à moins de 200 €, un prix rare depuis le début de la crise",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3270503_fnac-propose-le-ssd-externe-wd_black-2-to-pense-pour-le-gaming-a-moins-de-200-e-un-prix-rare-depuis-le-debut-de-la-crise",
+    "pubDate": "2026-10-02T13:28:00.000Z",
+    "summary": "Le WD_Black D30 est un SSD externe avec sa petite base pour être posé, un look gaming assumé et des performances qui le rendent compatible avec les consoles modernes, qui se retrouve à 199 euros au li"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "LDLC a été piraté : gare aux faux messages dans les prochaines semaines",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2345779-ldlc-a-ete-pirate-gare-aux-faux-messages-dans-les-prochaines-semaines.html",
+    "pubDate": "2026-10-02T13:26:35.000Z",
+    "summary": "Le revendeur informatique lyonnais a prévenu ses clients qu'un acteur malveillant avait pu consulter une partie de leurs données personnelles. Les mots de passe et les informations bancaires ne sont p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+    "pubDate": "2026-10-02T13:23:09.000Z",
+    "summary": "The healthtech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment éviter le hors-forfait à l&#8217;étranger ? Voici comment configurer son eSIM de voyage avant le départ",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/comment-faire/tutoriaux/3269121_comment-eviter-le-hors-forfait-a-letranger-voici-comment-configurer-son-esim-de-voyage-avant-le-depart",
+    "pubDate": "2026-10-02T13:18:25.000Z",
+    "summary": "Acheter une eSIM pour voyager n'évite pas automatiquement le hors-forfait à l'étranger. Avant le départ, il faut configurer l'eSIM de voyage, mais aussi sa SIM ou eSIM principale, pour ne pas trouver "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Rivian&#8217;s R2 just helped it set a new sales record",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+    "pubDate": "2026-10-02T13:17:05.000Z",
+    "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Voitures électriques : oui, l&#8217;Europe aura bien assez de batteries d&#8217;ici 2030 (mais pas grâce aux Européens)",
     "source": "Frandroid",
     "category": "smartphones",
@@ -136,15 +208,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon anticipe ses Jours Flash avec -300 € sur le HP Omen HyperX 15, un laptop gaming aux arguments sérieux",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3270191_amazon-anticipe-ses-jours-flash-avec-300-e-sur-le-hp-omen-hyperx-15-un-laptop-gaming-aux-arguments-serieux",
-    "pubDate": "2026-10-02T11:19:00.000Z",
-    "summary": "Le HP HyperX Omen 15 est un PC portable gaming équipé d'un Ryzen 9 et d'une RTX 5070 8 Go pour jouer aux derniers gros titres, que vous retrouvez en promo à 1 599,99 euros au lieu de 1 899,99 euros su"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "HP OmniBook 5 14 : un PC portable OLED et Intel Wildcat Lake qui le MacBook Neo dans le collimateur, lui aussi",
     "source": "Clubic",
     "category": "logiciels",
@@ -172,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jour Flash Prime : Roborock fait chuter le prix de ses meilleurs robots aspirateurs jusqu’à 360 € [Sponso]",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/actualites-generales/3265827_jour-flash-prime-roborock-fait-chuter-le-prix-de-ses-meilleurs-robots-aspirateurs-jusqua-360-e",
-    "pubDate": "2026-10-02T10:47:59.000Z",
-    "summary": "Les Jours Flash Prime d’Amazon arrivent et avec eux, un lot conséquent de promotions sur le meilleur de la tech. Roborock en profite pour baisser le prix de ses produits stars, avec jusqu’à 360 euros "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Avant le début officiel du Prime Day, ce robot aspirateur 3-en-1 perd déjà 500 €",
     "source": "Clubic",
     "category": "logiciels",
@@ -199,30 +253,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pionnier de l&#8217;écosystème depuis 2008, Android Central se sépare de tous ses journalistes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/android/3270439_pionnier-de-lecosysteme-depuis-2008-android-central-se-separe-de-tous-ses-journalistes",
-    "pubDate": "2026-10-02T10:36:27.000Z",
-    "summary": "Triste jour pour la communauté Android. On apprend que l'ensemble de la rédaction du site spécialisé Android Central a été licencié. Lancé en 2008, c'est l'un des sites historiques de l'écosystème And"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Avant la capture de Maduro, Trump a demandé à Grok comment les Vénézuéliens réagiraient",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/politique/2345489-avant-la-capture-de-maduro-trump-a-demande-a-grok-comment-les-venezueliens-reagiraient.html",
     "pubDate": "2026-10-02T10:30:00.000Z",
     "summary": "En décembre 2025, un mois avant la capture de Nicolás Maduro, Donald Trump a demandé à Grok, le chatbot d'Elon Musk, comment les Vénézuéliens réagiraient, d'après le magazine Time. Le président en ser"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Samsung augmente les prix de ses Galaxy A, et c&#8217;est le modèle le moins cher qui prend le plus cher",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3270347_samsung-augmente-les-prix-de-ses-galaxy-a-et-cest-le-modele-le-moins-cher-qui-prend-le-plus-cher",
-    "pubDate": "2026-10-02T10:29:19.000Z",
-    "summary": "Samsung a augmenté le presque tous ses Galaxy A sur sa boutique française, de 10 à 70 euros par rapport à leur prix de lancement. Le Galaxy A17 5G, le moins cher de la liste, passe de 229 à 299 euros."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -322,41 +358,5 @@
     "url": "https://www.numerama.com/tech/2345381-cette-ia-a-discute-avec-eux-en-visio-pres-de-la-moitie-lont-prise-pour-un-humain.html",
     "pubDate": "2026-10-02T08:25:56.000Z",
     "summary": "Tavus a présenté ce jeudi 1er octobre une IA capable de dialoguer en visioconférence et de réagir aux gestes comme aux silences. Dans un test mené par l’entreprise, près de la moitié des participants "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Quatre tirs en quatre jours : SpaceX fait décoller toutes ses fusées, avec des misions inédites",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2345361-quatre-tirs-en-quatre-jours-spacex-fait-decoller-toutes-ses-fusees-avec-des-misions-inedites.html",
-    "pubDate": "2026-10-02T08:18:01.000Z",
-    "summary": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeu"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Robotaxi operators will face fines for blocking first responders",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-    "pubDate": "2026-10-02T00:57:57.000Z",
-    "summary": "A new California law places new rules on autonomous vehicles operators."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "pubDate": "2026-10-02T00:03:23.000Z",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-    "pubDate": "2026-10-01T21:57:08.000Z",
-    "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue."
   }
 ]
