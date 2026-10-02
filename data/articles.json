@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "NVIDIA lance un DGX Spark 64 Go : moins de mémoire, mais une drôle d’astuce pour dépasser le modèle 128 Go",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632380-nvidia-lance-un-dgx-spark-64-go-moins-de-memoire-mais-une-drole-d-astuce-pour-depasser-le-modele-128-go.html",
+    "pubDate": "2026-10-02T14:15:00.000Z",
+    "summary": "NVIDIA décline son mini-supercalculateur DGX Spark dans une nouvelle version équipée de 64 Go de mémoire unifiée. Commercialisée à partir du 23 octobre chez plusieurs constructeurs, elle pourra surtou"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Minecraft a droit à son premier artbook officiel en France, le voici en précommande",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2345771-minecraft-a-droit-a-son-premier-artbook-officiel-en-france-le-voici-en-precommande.html",
+    "pubDate": "2026-10-02T14:12:08.000Z",
+    "summary": "[Précommande] Le monde de Minecraft s’apprête à débarquer en France. Prévu pour le 5 novembre 2026, ce premier artbook officiel consacré au jeu de Mojang retrace ses quinze premières années, du petit "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ni Paramount ni Warner Bros. : le nouveau géant hollywoodien a désormais un nom",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632383-ni-paramount-ni-warner-bros-le-nouveau-geant-hollywoodien-a-desormais-un-nom.html",
+    "pubDate": "2026-10-02T14:08:00.000Z",
+    "summary": "David Ellison a révélé que le groupe né de la fusion de Paramount et Warner Bros. Discovery s’appellera Skydance, avec une clôture prévue le 6 octobre. Casey Bloys est désigné pour diriger HBO Max et "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "pubDate": "2026-10-02T14:00:00.000Z",
+    "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+    "pubDate": "2026-10-02T14:00:00.000Z",
+    "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Nouvelle fuite de données chez LDLC : c’est la troisième fois depuis 2024",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/3270665_nouvelle-fuite-de-donnees-chez-ldlc-cest-la-troisieme-fois-depuis-2024",
+    "pubDate": "2026-10-02T13:50:04.000Z",
+    "summary": "Depuis ce vendredi 2 octobre, LDLC prévient une partie de ses clients qu'un pirate a pu consulter leurs nom, adresse, e-mail, téléphone et date d'inscription. C'est la troisième fuite de données clien"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Elle vous dit quand forcer et quand récupérer : la Garmin Forerunner 265 passe à 231,41 €",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632386-elle-vous-dit-quand-forcer-et-quand-recuperer-la-garmin-forerunner-265-passe-a-231-41.html",
+    "pubDate": "2026-10-02T13:48:00.000Z",
+    "summary": "Sortie en 2023 et remplacée depuis par la Forerunner 570, la Forerunner 265 garde l’essentiel pour un coureur : un écran AMOLED, un GPS multibande et des outils d’entraînement complets. Sur AliExpress"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Problèmes sur l&#8217;Internet français : une partie d&#8217;OVHCloud est en panne",
     "source": "Frandroid",
     "category": "smartphones",
@@ -51,7 +114,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
     "pubDate": "2026-10-02T13:23:09.000Z",
-    "summary": "The healthtech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
+    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -199,15 +262,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Trop tard pour l&#8217;Europe » : le patron de Ford supplie les États-Unis de barrer la route à la Chine",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/ford/3270427_trop-tard-pour-leurope-le-patron-de-ford-supplie-les-etats-unis-de-barrer-la-route-a-la-chine",
-    "pubDate": "2026-10-02T11:25:38.000Z",
-    "summary": "Le patron de Ford, Jim Farley, met en garde les États-Unis contre l'arrivée des constructeurs chinois. Pour l'Europe, c'est selon lui déjà trop tard. Son entreprise travaille pourtant elle-même avec C"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "HP OmniBook 5 14 : un PC portable OLED et Intel Wildcat Lake qui le MacBook Neo dans le collimateur, lui aussi",
     "source": "Clubic",
     "category": "logiciels",
@@ -289,33 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Commission européenne veut se passer de Microsoft Teams, mais son alternative est très critiquée",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632287-la-commission-europeenne-veut-se-passer-de-microsoft-teams-mais-son-alternative-est-tres-critiquee.html",
-    "pubDate": "2026-10-02T10:01:00.000Z",
-    "summary": "La Commission européenne teste Element Pro pour réduire sa dépendance à Microsoft et disposer d’une solution de secours à Teams. Mais entre ambitions souveraines et usages quotidiens, les premiers ret"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone 18 Pro : la méthode ingénieuse d’Apple pour cacher Face ID sous l’écran",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631984-iphone-18-pro-la-methode-ingenieuse-d-apple-pour-cacher-face-id-sous-l-ecran.html",
-    "pubDate": "2026-10-02T09:42:00.000Z",
-    "summary": "Face ID disparaît presque complètement de la façade de l’iPhone 18 Pro. Pour y parvenir, Apple a dû revoir la disposition des pixels au-dessus du module TrueDepth et jouer sur leur luminosité."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "SpaceX bat un record avec ses astronautes en route vers l’ISS",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632275-spacex-bat-un-record-avec-ses-astronautes-en-route-vers-l-iss.html",
-    "pubDate": "2026-10-02T09:31:00.000Z",
-    "summary": "Jamais un vaisseau américain n’avait rejoint la Station Spatiale internationale (ISS) aussi vite. La capsule Crew Dragon de SpaceX tient désormais ce record grâce à des manœuvres millimétrées, et un p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Decathlon casse le prix de ses vélos de route électriques haut de gamme Van Rysel E-EDR AF",
     "source": "Numerama",
     "category": "culture",
@@ -331,32 +358,5 @@
     "url": "https://www.numerama.com/tech/2342485-les-nouveaux-airpods-5-avec-reduction-de-bruit-sont-deja-brades-sur-amazon.html",
     "pubDate": "2026-10-02T08:45:47.000Z",
     "summary": "[Deal du jour] Deux semaines après leur sortie, les AirPods 5 passent à 119 € sur Amazon, au lieu de 149 €. La version avec boîtier de charge sans fil descend à 139 € au lieu de 169 €. Dans les deux c"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Bridgerton : Eloise Bridgerton au cœur d’une fuite majeure pour la saison 6",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2345389-bridgerton-eloise-bridgerton-au-coeur-dune-fuite-majeure-pour-la-saison-6.html",
-    "pubDate": "2026-10-02T08:38:02.000Z",
-    "summary": "Alors que le tournage de la saison 5 de Bridgerton touche à sa fin, l'équipe de la série Netflix prépare déjà la suite. Une assistante des scénaristes a révélé par mégarde sur TikTok que l'écriture de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après une fusillade mortelle, Tesla permet de fuir les Superchargeurs en urgence sans se débrancher",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2345375-apres-une-fusillade-mortelle-tesla-permet-de-fuir-les-superchargeurs-en-urgence-sans-se-debrancher.html",
-    "pubDate": "2026-10-02T08:27:15.000Z",
-    "summary": "Depuis ce jeudi 1er octobre, Tesla permet aux conducteurs américains de démarrer leur voiture encore branchée à un Superchargeur, en cas d'urgence. La fonction arrive deux mois après une fusillade meu"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cette IA a discuté avec eux en visio : près de la moitié l’ont prise pour un humain",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2345381-cette-ia-a-discute-avec-eux-en-visio-pres-de-la-moitie-lont-prise-pour-un-humain.html",
-    "pubDate": "2026-10-02T08:25:56.000Z",
-    "summary": "Tavus a présenté ce jeudi 1er octobre une IA capable de dialoguer en visioconférence et de réagir aux gestes comme aux silences. Dans un test mené par l’entreprise, près de la moitié des participants "
   }
 ]
