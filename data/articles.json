@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Mais au fait, ça compte la taille de mon câble RJ45 pour avoir un meilleur débit ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632317-mais-au-fait-ca-compte-la-taille-de-mon-cable-rj45-pour-avoir-un-meilleur-debit.html",
+    "pubDate": "2026-10-02T12:32:00.000Z",
+    "summary": "On dit parfois que la taille ne compte pas, mais en termes de connexion à internet, l'impact peut se faire ressentir. Alors, avoir un long câble \"au cas où\" est-il vraiment utile ou contreproductif ?"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Quels sont les meilleurs iPhone de 2026 ? Notre sélection",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/smartphones/705312_meilleur-iphone",
+    "pubDate": "2026-10-02T12:30:14.000Z",
+    "summary": "Faut-il acheter le dernier iPhone ou bien opter pour un modèle plus ancien ? C'est à cette question que nous allons tenter de répondre dans ce guide d'achat. Quel iPhone acheter en 2026 pour avoir le "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Adieu la RTX 3060 : voici la nouvelle carte graphique préférée des joueurs PC sur Steam",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/valve/3270619_adieu-la-rtx-3060-voici-la-nouvelle-carte-graphique-preferee-des-joueurs-pc-sur-steam",
+    "pubDate": "2026-10-02T12:29:41.000Z",
+    "summary": "En septembre 2026, la GeForce RTX 5070 est devenue la carte graphique la plus répandue sur Steam. Elle équipe 5,86&nbsp;% des PC sondés par Valve. Elle avait déjà pris la tête en février, avant de ret"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Affaire Jordan Bardella : comment Mediapart a fait du RGPD et de Meta ses meilleurs alliés",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632308-affaire-jordan-bardella-comment-mediapart-a-fait-du-rgpd-et-de-meta-ses-meilleurs-allies.html",
+    "pubDate": "2026-10-02T12:19:00.000Z",
+    "summary": "Accusé par Jordan Bardella de publier des faux, Mediapart a dévoilé comment il a authentifié les messages au cœur de son enquête. Sa méthode repose sur le RGPD et sur une archive Messenger générée par"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le générateur de musique par IA Suno ne s'arrête plus au son, il peut maintenant chanter",
     "source": "Clubic",
     "category": "logiciels",
@@ -235,48 +271,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "1 000 km en Alpine A390 GTS : le test de recharge tourne au fiasco pour la batterie française",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/alpine/3269979_1-000-km-en-alpine-a390-gts-le-test-de-recharge-tourne-au-fiasco-pour-la-batterie-francaise",
-    "pubDate": "2026-10-02T09:28:43.000Z",
-    "summary": "L'Alpine A390 GTS, premier modèle équipé des batteries de la start-up française Verkor, a mis entre 41 et 55 minutes pour se recharger lors d'un essai de Challenges, alors qu'Alpine annonce 27 minutes"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Faille sur Proton Mail : une vulnérabilité découverte il y a 20 mois permet à de faux e-mails d&#8217;être indétectables",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/web/3270029_faille-sur-proton-mail-une-vulnerabilite-connue-depuis-20-mois-permet-a-de-faux-e-mails-detre-indetectables",
-    "pubDate": "2026-10-02T09:25:54.000Z",
-    "summary": "Février 2025, un chercheur en sécurité détecte une faille sur l'interface web de Proton Mail, permettant à des mails frauduleux de contourner les filtres d'alerte. Proton a reconnu le problème en avri"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Decathlon casse le prix de ses vélos de route électrique haut de gamme Van Rysel E-EDR AF",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2345493-decathlon-casse-le-prix-de-ses-velos-de-route-electrique-haut-de-gamme-van-rysel-e-edr-af.html",
     "pubDate": "2026-10-02T09:07:25.000Z",
     "summary": "[Deal du jour] Decathlon brade deux de ses vélos de route électriques Van Rysel E-EDR AF, qui perdent jusqu'à 1 200 €."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Corée craint de perdre son avance sur l’OLED : Samsung Display et LG Display appellent l’État à la rescousse",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632278-la-coree-craint-de-perdre-son-avance-sur-l-oled-samsung-display-et-lg-display-appellent-l-etat-a-la-rescousse.html",
-    "pubDate": "2026-10-02T09:01:00.000Z",
-    "summary": "Samsung Display et LG Display réclament un soutien public renforcé pour continuer à investir dans les nouvelles générations d’écrans. En toile de fond, une inquiétude devenue explicite : la Chine domi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Home Assistant prépare de nouveaux réglages pour vos capteurs de fuite et serrures Matter",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632263-home-assistant-prepare-de-nouveaux-reglages-pour-vos-capteurs-de-fuite-et-serrures-matter.html",
-    "pubDate": "2026-10-02T08:54:00.000Z",
-    "summary": "La bêta de Home Assistant 2026.10 ajoute de nouveaux réglages Matter pour les capteurs de fuite, les serrures et les mesures électriques. La version stable est attendue le 7 octobre."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -330,7 +330,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
     "pubDate": "2026-10-02T00:57:57.000Z",
-    "summary": "A new California law places new rules on autonomous vehicles operators"
+    "summary": "A new California law places new rules on autonomous vehicles operators."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
