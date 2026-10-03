@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tesla vend plus de voitures que prévu, mais BYD creuse l’écart sur l’électrique",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2346123-tesla-vend-plus-de-voitures-que-prevu-mais-byd-creuse-lecart-sur-lelectrique.html",
+    "pubDate": "2026-10-03T07:07:03.000Z",
+    "summary": "Avec 486 532 véhicules électriques livrés au troisième trimestre 2026, Tesla dépasse les prévisions des analystes de Wall Street et s'offre un bilan solide. Pour autant, la marque américaine a perdu s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Nvidia investit 30 milliards dans OpenAI, son meilleur client pour les GPU",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/openai/3271533_nvidia-investit-30-milliards-dans-openai-son-meilleur-client-pour-les-gpu",
+    "pubDate": "2026-10-03T07:04:24.000Z",
+    "summary": "Nvidia et SoftBank ont versé le 1er octobre 2026 leurs dernières tranches de 10 milliards de dollars (environ 9 milliards d'euros) chacun à OpenAI. Ces versements soldent la levée de 122 milliards de "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Quels sont les meilleurs PC portables gamer en 2026 ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/pc-portable/article-865772-1-comparatif-laptop-gaming-jouer-bord-piscine.html",
+    "pubDate": "2026-10-03T07:00:00.000Z",
+    "summary": "Choisir un PC portable gamer en 2026 n’a jamais été aussi complexe : entre les modèles équipés de GeForce RTX, les machines Intel Core Ultra ou AMD Ryzen, les écrans QHD ultra fluides et les configura"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Pas d’écran, mais Gemini sur le nez : que prépare vraiment Samsung pour novembre ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -270,15 +297,6 @@
     "summary": "The roughly $110 billion deal is expected to close October 6."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avant le coup d'envoi du Prime Day, Amazon retire presque 30% au prix de ce vidéoprojecteur portable",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632290-avant-le-coup-d-envoi-du-prime-day-amazon-retire-presque-30-au-prix-de-ce-videoprojecteur-portable.html",
-    "pubDate": "2026-10-02T15:48:00.000Z",
-    "summary": "Le Xgimi Halo+ est un vidéoprojecteur compact à emmener partout grâce à sa batterie intégrée. En ce moment, il peut se trouver pour moins de 600 euros sur Amazon."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Pope Leo XIV is not a fan of AI-generated art",
     "source": "TechCrunch",
@@ -316,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fibre optique : ces zones où il va falloir attendre 2028 pour être enfin raccordé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/telecom/3270617_fibre-optique-ces-zones-ou-il-va-falloir-attendre-2028-pour-etre-enfin-raccorde",
-    "pubDate": "2026-10-02T15:17:53.000Z",
-    "summary": "Les derniers chiffres de l'Arcep montrent un fort ralentissement dans le déploiement de la fibre optique sur le territoire. L'Avicca craint que cela repousse encore une fois l'achèvement du 100 % fibr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La liseuse couleur Kindle Colorsoft d’Amazon baisse son prix avec l&#8217;arrivée du nouveau modèle",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/vroom/2345885-changan-doit-faire-des-economies-chez-deepal-et-avatr-avant-meme-leur-offensive-en-europe.html",
     "pubDate": "2026-10-02T14:58:25.000Z",
     "summary": "En Chine, l'heure n'est plus à la multiplication effrénée des marques électriques, mais plutôt aux fusions. Cette fois, c’est dans le groupe Changan que Deepal et Avatr travaillent à regrouper leurs o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La semaine intense de SpaceX : toutes ses fusées utilisées, première orbite du Starship, record américain de vitesse vers l&#8217;ISS et mission top secrète",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html",
-    "pubDate": "2026-10-02T14:48:40.000Z",
-    "summary": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeu"
   }
 ]
