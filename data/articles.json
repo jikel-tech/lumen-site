@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "0,17 € le kWh : la guerre des centimes entre E.Leclerc et Lidl pour la recharge la moins chère de France",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2346141-017-e-le-kwh-la-guerre-des-centimes-entre-e-leclerc-et-lidl-pour-la-recharge-la-moins-chere-de-france.html",
+    "pubDate": "2026-10-03T10:10:58.000Z",
+    "summary": "Après le coup d'éclat de Lidl abaissant son tarif de recharge AC à 0,18 €/kWh, E.Leclerc riposte immédiatement en dégainant une offre à 0,17 €/kWh sur ses bornes 22 kW. Que cache cette bataille sur le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La vignette automobile pourrait faire son retour dès 2030 avec une taxe de 140 euros",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632455-la-vignette-automobile-pourrait-faire-son-retour-des-2030-avec-une-taxe-de-140-euros.html",
+    "pubDate": "2026-10-03T10:07:00.000Z",
+    "summary": "L'Institut des mobilités en transition propose de faire payer à chaque propriétaire de voiture une redevance annuelle d'environ 140 euros dès 2030. Ce think tank veut ainsi compenser les recettes perd"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "J&#8217;ai pris plein de photos avec le Xiaomi 18 Pro : est-il meilleur que l&#8217;iPhone 18 Pro ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/xiaomi/3270289_jai-pris-plein-de-photos-avec-le-xiaomi-18-pro-est-il-meilleur-que-liphone-18-pro",
+    "pubDate": "2026-10-03T10:00:00.000Z",
+    "summary": "J'ai pris plein de photos avec le Xiaomi 18 Pro et l'iPhone 18 Pro afin de les comparer. Voici le verdict."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test Ninja Luxe Café Mini : la semi-automatique qui apprend à faire un espresso",
     "source": "Frandroid",
     "category": "smartphones",
@@ -208,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Prime Day : Amazon prend de l'avance sur ses Jours Flash et baisse déjà 30 produits tech jusqu'à -60%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632362-prime-day-amazon-prend-de-l-avance-sur-ses-jours-flash-et-baisse-deja-30-produits-tech-jusqu-a--60.html",
-    "pubDate": "2026-10-03T06:00:00.000Z",
-    "summary": "Les Jours Flash Prime d'Amazon se tiendront les 6 et 7 octobre et seront réservés aux abonnés Prime. Une partie des remises est pourtant déjà en ligne : nous avons retenu 30 offres, des liseuses Kindl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Google Pixel 11 Pro à -100 € : le nouveau photophone premium de Google se rend déjà plus accessible",
     "source": "Frandroid",
     "category": "smartphones",
@@ -288,15 +306,6 @@
     "summary": "Le kit de démarrage Tado° X sans fil de 2e génération est une solution de chauffage connecté premium pour contrôler votre chauffage à distance, que vous retrouvez sur Darty à 149,99 euros au lieu de 1"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "L&#8217;anti-MacBook Neo de Acer à moins de 900 euros a un gros point fort… et un vrai défaut",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/acer/3239481_lanti-macbook-neo-de-acer-a-moins-de-900-euros-a-un-gros-point-fort-et-un-vrai-defaut",
-    "pubDate": "2026-10-02T17:37:57.000Z",
-    "summary": "Trouver le bon petit PC portable au bon prix est une mission à laquelle Acer s'attaque avec le Swift Air 14 de 2026, léger et bien fini, mais taillé pour la bureautique et rien d'autre."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
     "pubDate": "2026-10-02T15:31:20.000Z",
     "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La liseuse couleur Kindle Colorsoft d’Amazon baisse son prix avec l&#8217;arrivée du nouveau modèle",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2345873-la-liseuse-couleur-kindle-colorsoft-damazon-baisse-son-prix-avec-larrivee-du-nouveau-modele.html",
-    "pubDate": "2026-10-02T15:08:04.000Z",
-    "summary": "[Deal du jour] La Kindle Colorsoft permet d’avoir plusieurs milliers de romans et BD avec soi, et de les lire en couleur. Son prix baisse après l'annonce de la nouvelle génération, attendue le 11 nove"
   }
 ]
