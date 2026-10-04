@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "pubDate": "2026-10-04T20:31:07.000Z",
+    "summary": "AI slop seems to be overwhelming bug bounty programs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "pubDate": "2026-10-04T20:08:34.000Z",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Des associations françaises sont soupçonnées d’avoir financé le Hamas en cryptomonnaies",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632527-des-associations-francaises-sont-soupconnees-d-avoir-finance-le-hamas-en-cryptomonnaies.html",
+    "pubDate": "2026-10-04T19:30:00.000Z",
+    "summary": "Derrière des appels aux dons pour les civils de Gaza, les responsables de deux petites associations françaises auraient envoyé des centaines de milliers de dollars en cryptomonnaies à un commandant de"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai testé la Sony ULT Tower 7 : une enceinte de soirée ultra-puissante et très (très) musicale",
     "source": "Frandroid",
@@ -262,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Prime Day anticipée : l'aspirateur laveur Dreame G10 Pro passe à 132,05€",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632326-prime-day-anticipee-l-aspirateur-laveur-dreame-g10-pro-passe-a-132-05.html",
-    "pubDate": "2026-10-04T09:29:00.000Z",
-    "summary": "Amazon affiche l’aspirateur laveur Dreame G10 Pro à 132,05 € parmi ses offres Prime anticipées, contre 229 € en prix conseillé. Ce modèle d’entrée de gamme aspire et lave le sol en un seul geste, mais"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Notre avis sur Ubigi le fournisseur d&#8217;eSIM pour voyager, séduisant au départ mais moins à l&#8217;arrivée",
     "source": "Frandroid",
     "category": "smartphones",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "pubDate": "2026-10-03T16:30:01.000Z",
     "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Après l&#8217;affaire de Thélyson Orélien et l&#8217;IA, Voici les meilleurs romans de S-F qui parlent d&#8217;intelligence artificielle",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2342835-voici-les-meilleurs-romans-de-science-fiction-sur-lintelligence-artificielle-a-lire.html",
-    "pubDate": "2026-10-03T16:30:00.000Z",
-    "summary": "Vous n'êtes sans doute pas passé à côté de la polémique autour de C'était ça ou mourir. Le roman de Thélyson Orélien a été accusé d'avoir été écrit à l'aide de l'intelligence artificielle. À l'heure o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Lebara propose un forfait 200 Go à moins de 10 € par mois",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2345965-lebara-propose-un-forfait-200-go-a-moins-de-10-e-par-mois.html",
-    "pubDate": "2026-10-03T16:00:36.000Z",
-    "summary": "[Deal du jour] Lebara vient de remanier sa gamme de forfaits mobiles. Son forfait 5G 200 Go sur le réseau SFR est à 9,99 € par mois et sans engagement."
   }
 ]
