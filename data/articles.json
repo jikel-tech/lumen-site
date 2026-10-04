@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "pubDate": "2026-10-03T19:33:15.000Z",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "pubDate": "2026-10-03T18:43:57.000Z",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Boulanger retire 100 € à la Marshall Acton III, une enceinte Bluetooth au look rock&#8217;n&#8217;roll indémodable",
     "source": "Frandroid",
@@ -340,23 +358,5 @@
     "url": "https://www.frandroid.com/marques/volkswagen/3271531_deux-fois-moins-cher-quun-tesla-model-y-volkswagen-lance-un-suv-electrique-a-17-200-e-en-chine-lid-aura-t6",
     "pubDate": "2026-10-03T09:02:00.000Z",
     "summary": "En pleine reconquête de la Chine, Volkswagen vient d'y lancer une voiture électrique importante : l'ID. Aura T6. Ce SUV promet beaucoup d'espace et des technologies Xpeng, le tout à partir de 17&nbsp;"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Abandon de l’EQE aux États-Unis ? Mercedes prépare juste l’arrivée de son successeur",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2346131-abandon-de-leqe-aux-etats-unis-mercedes-prepare-juste-larrivee-de-son-successeur.html",
-    "pubDate": "2026-10-03T08:52:01.000Z",
-    "summary": "Le retrait de la berline EQE du marché américain était un bon indice pour se pencher sur l’avenir de ce modèle. Alors que les ventes du modèle s’effondrent à l’échelle mondiale, Mercedes prépare en fa"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "The Witcher 3 Remastered a un problème de cheveux, Mercredi a déjà sa saison 3, et le speedrun de Metal Gear Solid 2 évolue : c&#8217;est le récap pop culture de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2345851-the-witcher-3-remastered-a-un-probleme-de-cheveux-la-saison-3-de-mercredi-est-deja-tournee-et-le-speedrun-de-metal-gear-solid-2-evolue-ca-va-vite-dans-le-recap-pop-culture-de-la-semaine.html",
-    "pubDate": "2026-10-03T08:00:00.000Z",
-    "summary": "Cette semaine, il est question de poils et de vitesse dans le récap pop culture hebdomadaire de Numerama. Du côté de CD Projekt Red, on vous conseille de désactiver l'option Nvidia HairWorks dans la v"
   }
 ]
