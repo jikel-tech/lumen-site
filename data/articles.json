@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Elon Musk s'aligne sur Donald Trump : SpaceXAI va devenir SpaceXSI",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632542-elon-musk-s-aligne-sur-donald-trump-spacexai-va-devenir-spacexsi.html",
+    "pubDate": "2026-10-05T07:37:00.000Z",
+    "summary": "Donald Trump a banni le mot « IA » de l’administration américaine. Et Elon Musk va appliquer la consigne chez SpaceX avec un changement de nom majeur pour la division d’intelligence artificielle de l’"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Decathlon frappe fort avec ce nouveau VTT électrique au prix très attractif",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/decathlon/3271981_decathlon-frappe-fort-avec-ce-nouveau-vtt-electrique-au-prix-tres-attractif",
+    "pubDate": "2026-10-05T07:36:41.000Z",
+    "summary": "Decathlon ajoute à son catalogue le Rockrider E-EXPL 500, un VTT électrique semi-rigide vendu 1 998,99 euros et doté d'un moteur central Yamaha PW-C2 de 55 Nm. Son nom est très proche de celui de l'E-"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "On va enfin pouvoir rejouer à P.T., le Silent Hill annulé d’Hideo Kojima",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2346227-on-va-enfin-pouvoir-rejouer-a-p-t-le-silent-hill-annule-dhideo-kojima.html",
+    "pubDate": "2026-10-05T07:33:38.000Z",
+    "summary": "Plus de dix ans après avoir effrayé les joueuses et les joueurs sur PS4 et influencé une bonne partie des jeux d’horreur qui ont suivi, P.T. pourrait revenir sur PC grâce à un développeur amateur, qui"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Prime Day : avant le coup d'envoi mardi, Amazon casse les prix de 30 produits tech jusqu'à -60%",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632362-prime-day-amazon-prend-de-l-avance-sur-ses-jours-flash-et-baisse-deja-30-produits-tech-jusqu-a--60.html",
+    "pubDate": "2026-10-05T07:22:00.000Z",
+    "summary": "Les Jours Flash Prime d'Amazon se tiendront les 6 et 7 octobre et seront réservés aux abonnés Prime. Une partie des remises est pourtant déjà en ligne : nous avons retenu 30 offres, des liseuses Kindl"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Elon Musk reconnaît que les Robotaxis Tesla voient mal certains animaux la nuit",
     "source": "Clubic",
     "category": "logiciels",
@@ -154,15 +190,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Siri AI parle bien français mais ne risque pas de débarquer en France de si tôt",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3271873_siri-ai-parle-bien-francais-mais-ne-risque-pas-de-debarquer-en-france-de-si-tot",
-    "pubDate": "2026-10-05T05:32:16.000Z",
-    "summary": "Depuis son officialisation en juin 2026, Siri AI est annoncé comme indisponible en Europe. Et d’après Bloomberg, l’assistant personnel de nouvelle génération pourrait bien le rester un bout de temps e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Google risque de devoir payer 1,2 milliard de livres pour les commissions du Play Store",
     "source": "Clubic",
     "category": "logiciels",
@@ -253,24 +280,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Moins de 3,50 € par mois : que vaut Avast One Premium Security à 41,88€ la première année ? ·",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632401-moins-de-3-50-par-mois-que-vaut-avast-one-premium-security-a-41-88-la-premiere-annee.html",
-    "pubDate": "2026-10-04T14:45:00.000Z",
-    "summary": "Avast propose la formule Premium Security de son application Avast One à 41,88 € pour la première année, contre 72,99 € au renouvellement. Elle ajoute à l’antivirus gratuit une défense contre les arna"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Que deviennent vos données quand vous les confiez à une IA ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/dossier-632371-que-deviennent-vos-donnees-quand-vous-les-confiez-a-une-ia.html",
-    "pubDate": "2026-10-04T14:17:00.000Z",
-    "summary": "Prompts, documents, photos, conversations personnelles… Nous confions chaque jour davantage d’informations aux IA génératives. Mais une fois envoyées, comment circulent-elles, combien de temps peuvent"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "J’ai quitté ma chaise ergonomique pour voir ce que valait cette chaise gaming XL de DXRacer",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/vroom/2345791-le-secret-de-renault-face-aux-chinois-la-dacia-electrique-a-11-000-e-et-la-nouvelle-bmw-i3-impressionne-le-recap-vroom-de-la-semaine.html",
     "pubDate": "2026-10-03T17:02:00.000Z",
     "summary": "À la une sur Vroom cette semaine : Renault nous explique comment son patrimoine automobile l'aide face à la concurrence chinoise, Dacia va produire une petite voiture électrique à 11 000 € et nos impr"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "pubDate": "2026-10-03T16:30:01.000Z",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
   }
 ]
