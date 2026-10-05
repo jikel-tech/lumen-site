@@ -1,12 +1,21 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "At 19, founder raises $11 million for Ghost, maker of a $3,499 computer for personal AI",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "pubDate": "2026-10-05T18:29:00.000Z",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
     "pubDate": "2026-10-05T18:07:07.000Z",
-    "summary": "Ghost announced Monday its official emergence from stealth and an $11 billion seed round led by Andreessen Horowitz."
+    "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/marques/3272767_byou-lance-les-packs-des-forfaits-mobiles-avec-amazon-prime-ou-deezer-integres",
     "pubDate": "2026-10-05T14:14:08.000Z",
     "summary": "Bouygues Telecom ajoute une nouvelle gamme aux forfaits de sa filiale low cost B&amp;YOU. Des « Packs » qui proposent tous la même base, avec en plus un abonnement intégré à un service numérique parmi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Processeur d&#8217;occasion : pourquoi vous pourriez avoir une mauvaise surprise sur Valorant",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/3272045_processeur-doccasion-pourquoi-vous-pourriez-avoir-une-mauvaise-surprise-sur-valorant",
-    "pubDate": "2026-10-05T14:09:49.000Z",
-    "summary": "Sur Reddit, un utilisateur de processeur d'occasion rapporte subir les conséquences d'une exclusion matérielle imposée, sur Valorant, à l'ancien propriétaire de son CPU... un « ban » qui affecte malhe"
   }
 ]
