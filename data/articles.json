@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "pubDate": "2026-10-05T20:36:48.000Z",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "pubDate": "2026-10-05T20:24:09.000Z",
+    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "pubDate": "2026-10-05T19:38:07.000Z",
+    "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "pubDate": "2026-10-05T19:33:53.000Z",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "pubDate": "2026-10-05T18:54:30.000Z",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
     "source": "TechCrunch",
     "category": "ia",
@@ -213,7 +258,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "pubDate": "2026-10-05T15:14:24.000Z",
-    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -243,24 +288,6 @@
     "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-10-05T15:00:00.000Z",
-    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-    "pubDate": "2026-10-05T14:58:42.000Z",
-    "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Seestar S30 Pro : le prix de ce télescope connecté noté 9/10 est en baisse sur Amazon",
     "source": "Frandroid",
@@ -286,24 +313,6 @@
     "url": "https://www.numerama.com/tech/2346787-credit-agricole-en-panne-ce-lundi-le-site-et-lapplication-de-la-banque-francaise-rencontrent-des-bugs.html",
     "pubDate": "2026-10-05T14:38:33.000Z",
     "summary": "Des clients du Crédit Agricole ont signalé des problèmes ce lundi 5 octobre 2026 après-midi. Une brève panne empêchait les connexions aux services de la banque française, sur l'application ou sur le s"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "pubDate": "2026-10-05T14:35:09.000Z",
-    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-10-05T14:30:00.000Z",
-    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/guide-dachat/3272349_le-top-3-des-smartphones-testes-sur-frandroid-a-retenir-en-octobre-2026",
     "pubDate": "2026-10-05T14:16:52.000Z",
     "summary": "Rentrée oblige, le marché des smartphones s'est accéléré en septembre avec plusieurs sorties majeures, notamment Apple qui a marqué les esprits. Quels sont les téléphones que nous avons pu tester et q"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "B&YOU lance Les Packs : des forfaits mobiles avec Amazon Prime ou Deezer intégrés",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3272767_byou-lance-les-packs-des-forfaits-mobiles-avec-amazon-prime-ou-deezer-integres",
-    "pubDate": "2026-10-05T14:14:08.000Z",
-    "summary": "Bouygues Telecom ajoute une nouvelle gamme aux forfaits de sa filiale low cost B&amp;YOU. Des « Packs » qui proposent tous la même base, avec en plus un abonnement intégré à un service numérique parmi"
   }
 ]
