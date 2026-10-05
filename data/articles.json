@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sam Altman : avec l'IA, « de mauvaises choses vont arriver », et il faut l'accepter",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632605-sam-altman-avec-l-ia-de-mauvaises-choses-vont-arriver-et-il-faut-l-accepter.html",
+    "pubDate": "2026-10-05T11:11:00.000Z",
+    "summary": "Sam Altman ne croit pas à une IA puissante, largement accessible et parfaitement inoffensive. Pour le patron d’OpenAI, en démocratiser l’accès suppose aussi d’accepter les risques qui l’accompagnent."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Face à une TVA à 20 %, Canal+ alerte sur un danger pour le cinéma français",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2346501-face-a-une-tva-a-20-canal-alerte-sur-un-danger-pour-le-cinema-francais.html",
+    "pubDate": "2026-10-05T11:01:00.000Z",
+    "summary": "Invité ce lundi 5 octobre au micro de RTL, Maxime Saada, président du directoire de Canal+, a tiré à boulets rouges sur le projet de budget 2027 qui prévoit de doubler la TVA de la télévision payante."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "L’Echo Dot Max à moitié prix : Amazon baisse le prix de son enceinte connectée à 64,99€ pour les Jours Flash Prime",
     "source": "Clubic",
     "category": "logiciels",
@@ -304,24 +322,6 @@
     "url": "https://www.clubic.com/bons-plans-632560-amazon-anticipe-les-jours-flash-prime-avec-ce-pc-portable-dell-avec-ecran-120-hz-a-moins-de-400.html",
     "pubDate": "2026-10-05T08:27:00.000Z",
     "summary": "Le Dell 15 est un ordinateur portable de 15,6 pouces adapté aux usages bureautiques et quotidiens. Amazon le propose à 399 € pour les membres Prime, contre 749 € habituellement."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous utilisez Gemini sans payer ? Google va brider vos capacités",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2346247-vous-utilisez-gemini-sans-payer-google-va-brider-vos-capacites.html",
-    "pubDate": "2026-10-05T08:23:32.000Z",
-    "summary": "À partir de ce jeudi 9 octobre, les utilisateurs gratuits de Gemini seront obligés d'utiliser le modèle Gemini 3.5 Flash-Lite qui est beaucoup moins performant que Gemini 3.8 Flash ou Gemini 3.1 Pro. "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Encore un couac pour Windows 11, des jeux et logiciels digèrent mal sa dernière mise à jour",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632563-encore-un-couac-pour-windows-11-des-jeux-et-logiciels-digerent-mal-sa-derniere-mise-a-jour.html",
-    "pubDate": "2026-10-05T08:21:00.000Z",
-    "summary": "Microsoft reconnaît un nouveau bug dans la mise à jour KB5124010 de Windows 11. Certains jeux et logiciels peuvent se fermer brutalement lorsqu’ils utilisent le décodeur Dolby Digital intégré au systè"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
