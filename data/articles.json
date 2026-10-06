@@ -1,6 +1,114 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "SpaceX Crew Dragon, traversée à 1 600 °C et records : Sophie Adenot s&#8217;apprête à rentrer sur Terre",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2347631-spacex-crew-dragon-traversee-a-1-600-c-et-records-sophie-adenot-sapprete-a-rentrer-sur-terre.html",
+    "pubDate": "2026-10-06T14:09:27.000Z",
+    "summary": "Sophie Adenot quittera la Station spatiale internationale ce mercredi 7 octobre 2026 et doit amerrir au large de la Californie le lendemain à 17 h 34, heure de Paris."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Il verrouille plus de 3 000 PC de son entreprise, réclame 750 000 dollars de rançon... et termine en prison",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632839-il-verrouille-plus-de-3-000-pc-de-son-entreprise-reclame-750-000-dollars-de-rancon-et-termine-en-prison.html",
+    "pubDate": "2026-10-06T14:09:00.000Z",
+    "summary": "Ancien ingénieur infrastructure, Daniel Rhyne avait utilisé ses accès privilégiés pour verrouiller des milliers de machines et réclamer une rançon à son propre employeur. Près de trois ans plus tard, "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avec sa batterie dépassant les 9000 mAh, le REDMI Note 17 Pro Max chute de prix pour le Prime Day",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632881-avec-sa-batterie-depassant-les-9000-mah-le-redmi-note-17-pro-max-chute-de-prix-pour-le-prime-day.html",
+    "pubDate": "2026-10-06T14:07:00.000Z",
+    "summary": "Un smartphone que l’on choisit d’abord pour son endurance, plutôt que pour une course à la puissance : voilà le positionnement du REDMI Note 17 Pro Max. Avec sa batterie de 9210 mAh et ses 512 Go de s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Garmin, Apple, Withings, Google : les meilleures montres connectées sont en promo pour les Jours Flash Prime d&#8217;Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3274621_garmin-apple-withings-google-les-meilleures-montres-connectees-sont-en-promo-pour-les-jours-flash-prime-damazon",
+    "pubDate": "2026-10-06T14:01:56.000Z",
+    "summary": "Pour suivre ses progrès au sport ou juste pour un suivi santé, les montres connectées sont de véritables assistants du quotidien. Pendant les Jours Flash Prime, plusieurs modèles sont justement en pro"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Pinterest&#8217;s AI now turns beauty Pins into action plans",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "pubDate": "2026-10-06T14:00:49.000Z",
+    "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Uber is spending $2.3B to get into catering",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+    "pubDate": "2026-10-06T14:00:25.000Z",
+    "summary": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "pubDate": "2026-10-06T14:00:00.000Z",
+    "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+    "pubDate": "2026-10-06T13:57:32.000Z",
+    "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La SNCF brade 450 000 billets de TGV à −45 % pendant quelques jours",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2347667-la-sncf-brade-450-000-billets-de-tgv-a-%e2%88%9245-pendant-quelques-jours.html",
+    "pubDate": "2026-10-06T13:54:57.000Z",
+    "summary": "[Deal du jour] La SNCF propose 450 000 billets de TGV à −45 % pour les 45 ans du train à grande vitesse. La vente flash se termine jeudi 8 octobre, avec des voyages en France et en Europe, principalem"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La saga James Bond débarque en (presque) intégralité sur Prime Video avec deux surprises",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2347771-la-saga-james-bond-debarque-en-presque-integralite-sur-prime-video-avec-deux-surprises.html",
+    "pubDate": "2026-10-06T13:54:47.000Z",
+    "summary": "Alors qu'Hollywood s'arrache les cheveux dans l'attente interminable du nom du successeur de Daniel Craig, Amazon a trouvé de quoi faire patienter les fans. Le géant du e-commerce vient de balancer un"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Tir à blanc réussi pour le dernier missile nucléaire français, sous les yeux d'Emmanuel Macron (Vidéo)",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632851-tir-a-blanc-reussi-pour-le-dernier-missile-nucleaire-francais-sous-les-yeux-d-emmanuel-macron-video.html",
+    "pubDate": "2026-10-06T13:52:00.000Z",
+    "summary": "La France a tiré ce mardi un missile balistique M51.3 depuis le sous-marin nucléaire Le Vigilant, au large du Finistère. Un essai sans charge nucléaire, réussi, auquel Emmanuel Macron a assisté depuis"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon lâche un écran PC LG de 27\" et 144 Hz à moins de 100€ pour le Prime Day",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632791-amazon-lache-un-ecran-pc-lg-de-27-et-144-hz-a-moins-de-100-pour-le-prime-day.html",
+    "pubDate": "2026-10-06T13:50:00.000Z",
+    "summary": "Le LG UltraGear G4 de 27\" est un écran PC plutôt orienté gaming qui va plaire aux joueurs en quête de fluidité, surtout qu’il ne coûte que 99,95 € au lieu de 119,99 € sur Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon refait son Prime Day : on déniche les meilleures offres en DIRECT pour ces Jours Flash Prime",
     "source": "Frandroid",
     "category": "smartphones",
@@ -25,15 +133,6 @@
     "url": "https://www.frandroid.com/marques/fitbit/3274765_179-euros-pour-un-bracelet-connecte-google-prepare-un-fitbit-edge-ambitieux-mais-cher",
     "pubDate": "2026-10-06T13:27:01.000Z",
     "summary": "Le Fitbit Edge, prochain bracelet connecté de Google, serait vendu 179 euros en France d'après une fuite publiée ce mardi 6 octobre par Dealabs. Il remplacerait le Fitbit Charge 6, sorti en 2023, et c"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sophie Adenot rentre enfin sur Terre après 237 jours dans l&#8217;espace, trois sorties hors de l&#8217;ISS et un record européen",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2347631-sophie-adenot-rentre-enfin-sur-terre-apres-237-jours-dans-lespace-trois-sorties-hors-de-liss-et-un-record-europeen.html",
-    "pubDate": "2026-10-06T13:17:49.000Z",
-    "summary": "Sophie Adenot quittera la Station spatiale internationale ce mercredi 7 octobre 2026 et doit amerrir au large de la Californie le lendemain à 17 h 34, heure de Paris."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -79,6 +178,15 @@
     "url": "https://www.clubic.com/actualite-632836-mictosoft-la-laisse-fuiter-la-future-xbox-elite-controller-3-se-devoile-avant-l-heure.html",
     "pubDate": "2026-10-06T13:05:00.000Z",
     "summary": "Une nouvelle manette en préparation chez Microsoft ? Avec la future Xbox Elite Controller 3, les évolutions seraient nombreuses par rapport à la version 2. La manette pourrait bien être présentée dans"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À 3 000 km sous terre, une « bosse » de 20 mètres suffit à dérégler légèrement la durée des journées",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2347225-a-3-000-km-sous-terre-une-bosse-de-20-metres-suffit-a-deregler-legerement-la-duree-des-journees.html",
+    "pubDate": "2026-10-06T13:00:11.000Z",
+    "summary": "Dans les profondeurs de notre planète, les échanges entre le manteau et le noyau terrestre font varier la vitesse de rotation de la Terre, et donc la durée des journées, qui ne font pas toujours exact"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -207,15 +315,6 @@
     "summary": "Cela fait quelques années que les télescopes connectés ont permis de rendre l'astronomie amateur plus accessible au grand public. Les modèles commencent à se multiplier sur le marché, voici donc nos r"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Au cœur de la Terre, cette force est en train de dérégler la durée des journées",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2347225-au-coeur-de-la-terre-cette-force-est-en-train-de-deregler-la-duree-des-journees.html",
-    "pubDate": "2026-10-06T12:02:00.000Z",
-    "summary": "Dans les profondeurs de notre planète, les échanges entre le manteau et le noyau terrestre font varier la vitesse de rotation de la Terre, et donc la durée des journées, qui ne font pas toujours exact"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
     "source": "TechCrunch",
@@ -226,39 +325,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google proche d’un accord d’1 milliard de dollars pour l’énergie nucléaire",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632794-google-proche-d-un-accord-d-1-milliard-de-dollars-pour-l-energie-nucleaire.html",
-    "pubDate": "2026-10-06T11:59:00.000Z",
-    "summary": "Google est sur le point de signer un contrat nucléaire d’au moins 1 milliard de dollars avec Constellation Energy. Après Amazon, Microsoft et Meta, ce géant discret de l’atome devient le fournisseur d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jours Flash Prime : l’aspirateur-robot Roborock Qrevo Edge 2 Set passe à 549,99 € chez Amazon",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632806-jours-flash-prime-l-aspirateur-robot-roborock-qrevo-edge-2-set-passe-a-549-99-chez-amazon.html",
-    "pubDate": "2026-10-06T11:43:00.000Z",
-    "summary": "Le Roborock Qrevo Edge 2 aspire et lave les sols. Grâce à sa hauteur de moins de 8 cm, c’est le parfait candidat pour passer sous les meubles. Cet aspirateur-robot laveur passe de 899,99 € à 549,99 € "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Ce récent plafonnier de Philips Hue met de la couleur dans votre cocon et n&#8217;échappe pas aux promos des Jours Flash Prime d&#8217;Amazon",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3274239_ce-recent-plafonnier-de-philips-hue-met-de-la-couleur-dans-votre-cocon-et-nechappe-pas-aux-promos-des-jours-flash-prime-damazon",
     "pubDate": "2026-10-06T11:30:00.000Z",
     "summary": "Dévoilé l'an dernier, le Philips Hue Devote est un plafonnier connecté capable de diffuser une lumière blanche ou colorée. Pendant les Jours Flash Prime d'Amazon, on peut trouver la taille S affichée "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Quelle box TV choisir en 2026 ? Les meilleurs modèles testés par Clubic",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/guide-achat-17727-les-meilleures-box-tv-testees-par-nos-experts-en-2024.html",
-    "pubDate": "2026-10-06T11:15:00.000Z",
-    "summary": "Une box TV n'est plus vraiment indispensable pour accéder à Netflix, YouTube ou Disney+, mais elle reste l'un des moyens les plus simples de prolonger la vie d'un téléviseur, de remplacer une interfac"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -280,83 +352,11 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple One : la hausse de prix frappe la Belgique et la Suisse, et les abonnés français regardent leur facture",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632788-apple-one-la-hausse-de-prix-frappe-la-belgique-et-la-suisse-et-les-abonnes-francais-regardent-leur-facture.html",
-    "pubDate": "2026-10-06T10:48:00.000Z",
-    "summary": "Apple a augmenté les prix d’Apple One Famille et Premium dans plusieurs pays européens, dont la Belgique et la Suisse, et prévient ses abonnés par mail. La France ne figure pas dans la liste des pays "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Casques, enceintes et écouteurs bradés sur Amazon : voici les 6 pépites audio à ne pas rater lors des Jours Flash Prime",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3273991_casques-enceintes-et-ecouteurs-brades-sur-amazon-voici-les-6-pepites-audio-a-ne-pas-rater-lors-des-jours-flash-prime",
     "pubDate": "2026-10-06T10:30:00.000Z",
     "summary": "Les Jours Flash Prime sont lancés sur Amazon, et l'audio tire son épingle du jeu pendant son Prime Day qui ne dit pas son nom : casques Bluetooth, écouteurs à réduction de bruit et enceintes portables"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "The Batman 2 : coup d&#8217;arrêt pour le tournage, le film suspendu en urgence",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2347353-the-batman-2-coup-darret-pour-le-tournage-le-film-suspendu-en-urgence.html",
-    "pubDate": "2026-10-06T10:30:00.000Z",
-    "summary": "C'est le genre de tuile dont DC Studios se serait bien passé. Alors que la production du très attendu&nbsp;The Batman Part 2&nbsp;battait son plein dans les studios londoniens, Warner Bros. a dû stopp"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« ASOS HACKED » : l&#8217;application de shopping envoie une notification menaçante aux clients",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/web/3274393_asos-hacked-lapplication-de-shopping-envoie-une-notification-menacante-aux-clients",
-    "pubDate": "2026-10-06T10:22:32.000Z",
-    "summary": "Ce mardi 6 octobre, l'application ASOS a envoyé à ses utilisateurs une notification « ASOS HACKED » qui menace de faire fuiter des données, et l'action du distributeur a perdu plus de 11 % dans la fou"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Notification « ASOS HACKED » : ce que l&#8217;on sait du piratage revendiqué du géant de la mode en ligne",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2347451-asos-hacked-ce-que-lon-sait-du-piratage-revendique-du-geant-de-la-mode-en-ligne.html",
-    "pubDate": "2026-10-06T10:02:21.000Z",
-    "summary": "Les utilisateurs de l'application ASOS ont reçu une notification revendiquant le piratage du site britannique. Le message, adressé aux équipes de l'entreprise, affirme que sa base de données Snowflake"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour les Amazon Prime Day, le Pixel 10 Pro est à 599 €, soit moitié prix par rapport au Pixel 11 Pro",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2347367-pour-les-amazon-prime-day-le-pixel-10-pro-est-a-599-e-soit-moitie-prix-par-rapport-au-pixel-11-pro.html",
-    "pubDate": "2026-10-06T10:01:19.000Z",
-    "summary": "[Deal du jour] Quelques semaines après l'arrivée du Pixel 11 Pro, son prédécesseur devient bien plus abordable. Amazon vend le Google Pixel 10 Pro à 599 € au lieu de 749 €."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La réalité de la vague chinoise sur le marché automobile français",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2347239-la-realite-de-la-vague-chinoise-sur-le-marche-automobile-francais.html",
-    "pubDate": "2026-10-06T09:55:00.000Z",
-    "summary": "Les constructeurs chinois ont prévu une démonstration de force au Mondial de l’Auto de Paris 2026, qui se déroulera du 12 au 18 octobre. Mais qu’en est-il de cette « menace » si l'on regarde du côté d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Prime Day sur Amazon : voici les meilleurs deals des Jours Flash Prime à suivre en direct",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2346697-prime-day-sur-amazon-voici-les-meilleurs-deals-des-jours-flash-prime-a-suivre-en-direct.html",
-    "pubDate": "2026-10-06T09:35:51.000Z",
-    "summary": "Amazon lance ses Jours Flash Prime les 6 et 7 octobre, son grand rendez-vous promotionnel d’automne dans la continuité du Prime Day. Pendant 48 heures, Numerama sélectionne les meilleures offres à ret"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "GTA 6 ne poussera pas le réalisme à fond selon Rockstar",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2347171-un-gta-6-trop-realiste-au-risque-detre-penible-rockstar-promet-que-son-jeu-sera-equilibre.html",
-    "pubDate": "2026-10-06T09:18:21.000Z",
-    "summary": "Depuis ses débuts, Rockstar pousse toujours plus loin le réalisme de ses mondes ouverts. Avec GTA VI, le studio pose pourtant une limite : si le réalisme permet de renforcer l'immersion, il ne doit ja"
   }
 ]
