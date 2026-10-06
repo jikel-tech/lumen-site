@@ -1,6 +1,60 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Malgré des projets communautaires, Valve rappelle que Steam sur Linux Arm n'est pas pris en charge",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632821-malgre-des-projets-communautaires-valve-rappelle-que-steam-sur-linux-arm-n-est-pas-pris-en-charge.html",
+    "pubDate": "2026-10-06T12:49:00.000Z",
+    "summary": "Valve met les points sur les « i » alors que les projets autour de Linux Arm se multiplient dans le sillage de la sortie du Steam Frame."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;iPhone 17 Pro revient avec une baisse de prix qui creuse encore plus l&#8217;écart tarifaire avec le 18 Pro",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3262461_liphone-17-pro-revient-avec-une-baisse-de-prix-qui-creuse-encore-plus-lecart-tarifaire-avec-le-18-pro",
+    "pubDate": "2026-10-06T12:40:00.000Z",
+    "summary": "L'iPhone 17 Pro, l'avant-dernière génération d'Apple, reste une bonne alternative à l'iPhone 18 Pro. Il est surtout bien moins cher : 1 164 euros au lieu de 1 329 euros en version 256 Go sur Cdiscount"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Facebook tests going Reels-first in India",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "pubDate": "2026-10-06T12:38:53.000Z",
+    "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Pixel 12 : la taille et l'écran des futurs smartphones se profilent",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632827-google-pixel-12-la-taille-et-l-ecran-des-futurs-smartphones-se-profilent.html",
+    "pubDate": "2026-10-06T12:35:00.000Z",
+    "summary": "Google pourrait présenter une nouvelle gamme de Pixel 12 à la définition légèrement inférieure aux smartphones actuels. Un irréductible se démarquerait toutefois, pour aller dans le sens contraire du "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "À peine sorti, le nouveau smartphone pas cher de Nothing brade son prix pour les Jours Flash Prime d&#8217;Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3274343_a-peine-sorti-le-nouveau-smartphone-pas-cher-de-nothing-brade-son-prix-pour-les-jours-flash-prime-damazon",
+    "pubDate": "2026-10-06T12:27:45.000Z",
+    "summary": "Lancé cet été comme le smartphone le plus abordable de Nothing, le Phone (4b) profite des Jours Flash Prime pour être en promotion : il passe de 349 euros à 319 euros sur Amazon."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Googlebook : ça rame sur les modèles Intel, Google l'admet et assure travailler sur des optimisations",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632803-googlebook-ca-rame-sur-les-modeles-intel-google-l-admet-et-assure-travailler-sur-des-optimisations.html",
+    "pubDate": "2026-10-06T12:21:00.000Z",
+    "summary": "À peine lancés, déjà pointés du doigt. Google reconnaît au travers d’un communiqué que ses Googlebook sous processeurs x86 Intel souffrent en l’état de performances critiquables sur certaines applicat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Il vous a manqué ? Le monospace revient chez Renault avec cet étonnant E-Space Concept électrique",
     "source": "Clubic",
     "category": "logiciels",
@@ -16,6 +70,15 @@
     "url": "https://www.clubic.com/actualite-632815-thales-decuple-le-debit-de-ses-chiffreurs-souverains-pour-proteger-les-data-centers.html",
     "pubDate": "2026-10-06T12:06:00.000Z",
     "summary": "Nouveau venu dans la gamme Mistral, le chiffreur IP9100 de Thales multiplie par dix le débit des liaisons chiffrées souveraines du groupe. Destiné à la défense et aux infrastructures critiques, on app"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les meilleurs télescopes connectés pour observer le ciel avec son smartphone en 2026",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/3203937_les-meilleurs-telescopes-connectes-pour-regarder-les-etoiles-avec-son-smartphone-le-comparatif-2026",
+    "pubDate": "2026-10-06T12:05:21.000Z",
+    "summary": "Cela fait quelques années que les télescopes connectés ont permis de rendre l'astronomie amateur plus accessible au grand public. Les modèles commencent à se multiplier sur le marché, voici donc nos r"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -163,30 +226,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Auchan Télécom et Carrefour Mobile : la bataille des prix sur les forfaits mobiles avec la carte de fidélité fait rage !",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632773-auchan-telecom-et-carrefour-mobile-la-bataille-des-prix-sur-les-forfaits-mobiles-avec-la-carte-de-fidelite-fait-rage.html",
-    "pubDate": "2026-10-06T10:12:00.000Z",
-    "summary": "En l'espace de 24 heures, Carrefour Mobile et Auchan Télécom ont lancé des remises sur leurs forfaits mobiles, grâce aux cartes de fidélité des magasins. À distance, ce sont deux opérateurs qui s'oppo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon refait son Prime Day : voici les meilleures offres en DIRECT des Jours Flash Prime",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3273169_cest-le-top-depart-des-jours-flash-prime-sur-amazon-voici-les-meilleures-offres-tech-en-direct",
     "pubDate": "2026-10-06T10:09:42.000Z",
     "summary": "Les Jours Flash Prime sont tout simplement un Prime Day qui ne dit pas son nom. Toutes les offres sont réservées aux membres Amazon Prime, avec de très belles pépites Tech dans le lot. Dans cet articl"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "OpenAI teste un nouveau format de pub ChatGPT avec des outils de mesure avancés",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632764-openai-teste-un-nouveau-format-de-pub-chatgpt-avec-des-outils-de-mesure-avances.html",
-    "pubDate": "2026-10-06T10:08:00.000Z",
-    "summary": "Souhaitant faire « profiter davantage de personnes des avantages de l’IA », OpenAI va bientôt tester de nouvelles publicités illustrées au sein de ChatGPT."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -235,15 +280,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft dépouille encore Authenticator d'une de ses fonctions au profit de Google",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632797-microsoft-depouille-encore-authenticator-d-une-de-ses-fonctions-au-profit-de-google.html",
-    "pubDate": "2026-10-06T09:47:00.000Z",
-    "summary": "Microsoft va encore alléger les fonctions d’Authenticator. Dès janvier prochain, l’application ne sauvegardera plus ses données Android dans le cloud de Microsoft. La relève sera assurée par Google."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Sosh augmente ses frais de résiliation pour les anciens abonnés : comment partir sans rien payer",
     "source": "Frandroid",
     "category": "smartphones",
@@ -262,39 +298,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Jours Flash Prime : cet aspirateur balai Rowenta à -32% passe sous les meubles pour nettoyer partout sans peine",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3272229_jours-flash-prime-cet-aspirateur-balai-rowenta-a-32-passe-sous-les-meubles-pour-nettoyer-partout-sans-peine",
-    "pubDate": "2026-10-06T09:30:00.000Z",
-    "summary": "Le Rowenta X-Pert Flex 6.80 est un aspirateur balai (sans fonction lavage) qui peut se baisser entièrement pour passer sous les meubles et aspirer efficacement, en promo à 149,99 euros au lieu de 219,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Quelles sont les meilleures batteries externes (power bank) en 2026 ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/410310_guide-achat-batterie-externe",
-    "pubDate": "2026-10-06T09:21:41.000Z",
-    "summary": "À la recherche du meilleur power bank en 2026 pour les vacances ou tout simplement pour dépanner au quotidien ? Voici notre comparatif et test des meilleures batteries externes classiques, MagSafe ou "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "GTA 6 ne poussera pas le réalisme à fond selon Rockstar",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2347171-un-gta-6-trop-realiste-au-risque-detre-penible-rockstar-promet-que-son-jeu-sera-equilibre.html",
     "pubDate": "2026-10-06T09:18:21.000Z",
     "summary": "Depuis ses débuts, Rockstar pousse toujours plus loin le réalisme de ses mondes ouverts. Avec GTA VI, le studio pose pourtant une limite : si le réalisme permet de renforcer l'immersion, il ne doit ja"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Beam, l&#8217;IA ouverte américaine se frotte aux modèles chinois DeepSeek, Kimi, MiMo et GLM",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3274271_beam-lia-ouverte-americaine-se-frotte-aux-modeles-chinois-deepseek-kimi-mimo-et-glm",
-    "pubDate": "2026-10-06T09:17:49.000Z",
-    "summary": "Reflection AI a dévoilé ce lundi 5 octobre, Beam, un modèle d'IA open-weight (ouvert) qui égalerait le chinois GLM-5.2 avec trois à quatre fois moins de calcul. Sur son propre tableau de scores, les m"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "pubDate": "2026-10-05T20:36:48.000Z",
     "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Etched fields funding offers at $40B+ valuation, sources say",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-    "pubDate": "2026-10-05T20:24:09.000Z",
-    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
   }
 ]
