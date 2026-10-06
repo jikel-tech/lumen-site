@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "pubDate": "2026-10-06T18:22:45.000Z",
+    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "500 millisecondes pour sauver le réseau : la folle centrale virtuelle d&#8217;EDF qui cumule batterie et barrage",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/energie/3271503_500-millisecondes-pour-sauver-le-reseau-la-folle-centrale-virtuelle-dedf-qui-cumule-batterie-et-barrage",
+    "pubDate": "2026-10-06T18:19:33.000Z",
+    "summary": "EDF associe désormais des batteries lithium-ion à ses barrages hydroélectriques. À Baixas, dans les Pyrénées-Orientales, quatre conteneurs de batteries et dix centrales au fil de l’eau forment une cen"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "1 200 € de perte par an : la douche froide qui attend 235 000 propriétaires de panneaux solaires",
     "source": "Frandroid",
@@ -235,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce lampadaire connecté Nanoleaf offre un nouveau regard sur votre salon avec une jolie promotion de 30 % durant les Jours Flash Prime",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3274951_ce-lampadaire-connecte-offre-un-nouveau-regard-sur-votre-salon-avec-une-jolie-promotion-de-30-durant-les-jours-flash-prime",
-    "pubDate": "2026-10-06T15:49:35.000Z",
-    "summary": "Avec son application, le Nanoleaf RGBICW vous permet de modifier la teinte de votre salon selon vos envies. Si vous hésitez à sauter le pas, c'est le moment de le faire puisque les Jours Flash Prime b"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "C&#8217;est fait, la fusion Paramount et Warner vient d&#8217;avoir lieu, Hollywood sous choc",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
     "pubDate": "2026-10-06T14:41:52.000Z",
     "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-    "pubDate": "2026-10-06T14:37:31.000Z",
-    "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform."
   }
 ]
