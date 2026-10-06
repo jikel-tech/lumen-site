@@ -1,5 +1,77 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+    "pubDate": "2026-10-06T13:15:00.000Z",
+    "summary": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon brade ce pack de 4 caméras Blink à -75% pour son Prime Day",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632809-amazon-brade-ce-pack-de-4-cameras-blink-a--75-pour-son-prime-day.html",
+    "pubDate": "2026-10-06T13:09:00.000Z",
+    "summary": "Dans ce pack Blink Outdoor vous retrouvez quatre caméras 1080p, une sonnette vidéo 2K et un module de synchronisation pour 84,99 euros au lieu de 344,98 euros grâce aux jours Flash Prime."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Mictosoft la laisse fuiter : la future Xbox Elite Controller 3 se dévoile avant l'heure",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632836-mictosoft-la-laisse-fuiter-la-future-xbox-elite-controller-3-se-devoile-avant-l-heure.html",
+    "pubDate": "2026-10-06T13:05:00.000Z",
+    "summary": "Une nouvelle manette en préparation chez Microsoft ? Avec la future Xbox Elite Controller 3, les évolutions seraient nombreuses par rapport à la version 2. La manette pourrait bien être présentée dans"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« On a accompli des miracles » : Mistral annonce Large 4, sa nouvelle IA surpuissante qui défie les cadors chinois",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3274547_mistral-annonce-large-4-le-grand-retour-face-aux-cadors-chinois",
+    "pubDate": "2026-10-06T13:00:00.000Z",
+    "summary": "Mistral ouvre ce mardi la preview de son nouveau modèle de langage Large 4, alias «&nbsp;le Chonk&nbsp;», un modèle de 1&nbsp;000 milliards de paramètres entraîné en France. Il recolle aux meilleurs m"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Flai&#8217;s AI dealership software is booking 50,000 appointments per month",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+    "pubDate": "2026-10-06T13:00:00.000Z",
+    "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Plaud Note Pro : l&#8217;enregistreur IA premium au format carte bancaire est enfin en promotion sur Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3274711_plaud-note-pro-lenregistreur-ia-premium-au-format-carte-bancaire-est-enfin-en-promotion-sur-amazon",
+    "pubDate": "2026-10-06T12:58:50.000Z",
+    "summary": "Le Plaud Note Pro, enregistreur vocal à IA au format carte bancaire qui transcrit et résume vos réunions et vos appels, passe de 189 euros à 150,90 euros sur Amazon. Cette offre des Jours Flash Prime "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;édition prestige du tome 8 de Berserk est disponible : voici où la précommander",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2347571-ledition-prestige-du-tome-8-de-berserk-est-disponible-voici-ou-la-precommander.html",
+    "pubDate": "2026-10-06T12:56:01.000Z",
+    "summary": "[Précommande] Le manga culte de Kentaro Miura poursuit sa luxueuse réédition française avec un huitième volume de l’édition Prestige. Prévu pour le début de l’année 2027, ce nouveau tome peut d’ores e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Piratage d&#8217;ASOS : voici l&#8217;astuce pour supprimer sa carte bancaire de l&#8217;application",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2347557-piratage-dasos-voici-lastuce-pour-supprimer-sa-carte-bancaire-de-lapplication.html",
+    "pubDate": "2026-10-06T12:50:30.000Z",
+    "summary": "Alors qu'une notification a été envoyée par des pirates aux utilisateurs de l'application ASOS, de nombreux clients s'interrogent sur la sécurité de leur carte bancaire enregistrée. Il est possible de"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Malgré des projets communautaires, Valve rappelle que Steam sur Linux Arm n'est pas pris en charge",
     "source": "Clubic",
@@ -190,30 +262,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Prime Day : top départ des Jours Flash Prime chez Amazon, nos 50 offres tech préférées jusqu'à -69%",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632659-prime-day-c-est-parti-pour-les-jours-flash-prime-d-amazon-voici-50-offres-tech-jusqu-a--69.html",
-    "pubDate": "2026-10-06T10:26:00.000Z",
-    "summary": "Amazon ouvre ce mardi 6 octobre ses Jours Flash Prime, l’édition d’automne de ses promotions que beaucoup appellent le Prime Day d’octobre. Sur 200 offres présélectionnées, nous en avons gardé 50, en "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "« ASOS HACKED » : l&#8217;application de shopping envoie une notification menaçante aux clients",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/culture-tech/web/3274393_asos-hacked-lapplication-de-shopping-envoie-une-notification-menacante-aux-clients",
     "pubDate": "2026-10-06T10:22:32.000Z",
     "summary": "Ce mardi 6 octobre, l'application ASOS a envoyé à ses utilisateurs une notification « ASOS HACKED » qui menace de faire fuiter des données, et l'action du distributeur a perdu plus de 11 % dans la fou"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Vous avez un iPhone mais pas encore de montre ? L'Apple Watch SE 3 tombe à 227€ pour les membres Prime",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632782-vous-avez-un-iphone-mais-pas-encore-de-montre-l-apple-watch-se-3-tombe-a-227-pour-les-membres-prime.html",
-    "pubDate": "2026-10-06T10:21:00.000Z",
-    "summary": "Amazon réserve à ses abonnés Prime une remise de 42 € sur l’Apple Watch SE 3 en version GPS 40 mm, à l’occasion des Jours Flash Prime. Notée 8/10 dans notre test, c’est l’Apple Watch que notre guide d"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -262,30 +316,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Neo Geo AES Plus est encore de retour en promotion, mais il va falloir être très patient",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3261305_la-neo-geo-aes-plus-est-encore-de-retour-en-promotion-mais-il-va-falloir-etre-tres-patient",
-    "pubDate": "2026-10-06T09:58:22.000Z",
-    "summary": "L'éditeur Plaion et SNK ont révélé cette année l'arrivée prochaine de la Neo Geo AES Plus, une reproduction très fidèle de la console de salon Neo Geo de 1990. Malheureusement, sa sortie a été repouss"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La réalité de la vague chinoise sur le marché automobile français",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2347239-la-realite-de-la-vague-chinoise-sur-le-marche-automobile-francais.html",
     "pubDate": "2026-10-06T09:55:00.000Z",
     "summary": "Les constructeurs chinois ont prévu une démonstration de force au Mondial de l’Auto de Paris 2026, qui se déroulera du 12 au 18 octobre. Mais qu’en est-il de cette « menace » si l'on regarde du côté d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sosh augmente ses frais de résiliation pour les anciens abonnés : comment partir sans rien payer",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/orange/3274179_sosh-augmente-ses-frais-de-resiliation-pour-les-anciens-abonnes-comment-partir-sans-rien-payer",
-    "pubDate": "2026-10-06T09:39:49.000Z",
-    "summary": "Sosh a prévenu par mail ses abonnés box qu'à partir du 19 novembre 2026, résilier leur coûtera 69 € et qu'une Livebox récente rendue en retard pourra leur être facturée 300 €. Les nouveaux clients pai"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -322,41 +358,5 @@
     "url": "https://www.numerama.com/tech/2347079-free-supprime-les-machines-virtuelles-des-freebox-la-penurie-de-ram-serait-en-cause.html",
     "pubDate": "2026-10-06T08:45:44.000Z",
     "summary": "Les Freebox Ultra les plus récentes ne supportent plus les machines virtuelles, qui permettaient de faire tourner un serveur directement sur sa Freebox. L'opérateur évoque « l'évolution du marché des "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Huit ans d&#8217;attente plus tard, Sicario 3 va exister avec le retour d&#8217;Emily Blunt",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2347245-huit-ans-dattente-plus-tard-sicario-3-va-exister-avec-le-retour-demily-blunt.html",
-    "pubDate": "2026-10-06T08:42:58.000Z",
-    "summary": "On la croyait enterrée dans les sables mouvants d'Hollywood après un deuxième opus bancal et l'absence de sa tête d'affiche féminine. Huit ans après le deuxième film,&nbsp;Sicario 3&nbsp;est officiell"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La Renault Twingo électrique s’offre enfin un toit en verre, mais vous ne pourrez pas l’ouvrir",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2347121-la-renault-twingo-electrique-soffre-enfin-un-toit-en-verre-mais-vous-ne-pourrez-pas-louvrir.html",
-    "pubDate": "2026-10-06T08:29:57.000Z",
-    "summary": "Renault ouvre le 13 octobre les commandes d'un toit vitré panoramique pour la Twingo électrique, facturé 550 € ou 600 € selon les pays. Ce toit, exposé au Mondial de l'Auto, ne s'ouvre pas et n'a pas "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-    "pubDate": "2026-10-05T21:54:01.000Z",
-    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "pubDate": "2026-10-05T20:36:48.000Z",
-    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
   }
 ]
