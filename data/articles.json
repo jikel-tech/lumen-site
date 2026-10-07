@@ -1,6 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "pubDate": "2026-10-07T18:15:28.000Z",
+    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "X expands its &#8216;Gametime&#8217; sports hub beyond the NFL, starting with MLB",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+    "pubDate": "2026-10-07T18:10:00.000Z",
+    "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "pubDate": "2026-10-07T18:00:19.000Z",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft dévoile l&#8217;intelligence hybride sur Windows : des IA sur PC qui fonctionnent sans Internet",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/os/windows/3277149_microsoft-devoile-lintelligence-hybride-sur-windows-des-ia-sur-pc-qui-fonctionnent-sans-internet",
+    "pubDate": "2026-10-07T17:45:47.000Z",
+    "summary": "Microsoft prépare l'exécution en local, sur les PC Windows, de modèles d'IA de 70 à 284 milliards de paramètres : son MAI Code 1.1 Flash, un nouveau Nemotron de Nvidia et DeepSeek V4 Flash. Compressé "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Greenairy is building smart plant towers to clean the air in your office",
     "source": "TechCrunch",
     "category": "ia",
@@ -19,7 +55,7 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
-    "title": "CIA officer admits to creating fake top secret government program to steal over $190 million, including gold bars",
+    "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
     "source": "TechCrunch",
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
@@ -199,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Transfert d&#8217;eSIM chez Bouygues : pourquoi j&#8217;ai dû faire exactement ce que l&#8217;iPhone déconseille",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3276649_transfert-desim-chez-bouygues-pourquoi-jai-du-faire-exactement-ce-que-liphone-deconseille",
-    "pubDate": "2026-10-07T15:25:35.000Z",
-    "summary": "Chez Bouygues Telecom, transférer une eSIM entre deux iPhone sous iOS 27 m’a bloqué pendant 24 heures. Un technicien m’a donné la solution&nbsp;: supprimer l’eSIM de l’ancien iPhone, alors que tout ce"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La souris gaming sans fil de référence de Logitech perd 65 € chez Amazon",
     "source": "Clubic",
     "category": "logiciels",
@@ -331,32 +358,5 @@
     "url": "https://www.clubic.com/bons-plans-633022-prix-casse-pour-le-dyson-v8-origin-pendant-les-jours-flash-d-amazon.html",
     "pubDate": "2026-10-07T14:29:00.000Z",
     "summary": "Le Dyson V8 Origin est un aspirateur complet avec une puissance de 130 AirWatts et un système anti-emmêlant pour une aspiration encore plus efficace. Sur Amazon, il passe sous les 250 euros."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "pubDate": "2026-10-07T14:15:00.000Z",
-    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "SynthID Detector : Google lance un outil pour repérer les contenus générés par IA",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2348527-synthid-detector-google-lance-un-outil-pour-reperer-les-contenus-generes-par-ia.html",
-    "pubDate": "2026-10-07T14:00:00.000Z",
-    "summary": "Google DeepMind ouvre au grand public SynthID Detector, son outil capable de repérer le filigrane invisible caché dans les images, vidéos et fichiers audio générés par IA. SynthID était initialement u"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-    "pubDate": "2026-10-07T14:00:00.000Z",
-    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist"
   }
 ]
