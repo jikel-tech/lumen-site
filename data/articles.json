@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Greenairy is building smart plant towers to clean the air in your office",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+    "pubDate": "2026-10-07T17:30:00.000Z",
+    "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "L&#8217;excellent casque Sonos Ace presque à moitié prix, c&#8217;est jusqu&#8217;à ce soir minuit sur Amazon",
     "source": "Frandroid",
@@ -100,12 +109,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Attention, les arnaques Pokémon se multiplient depuis la sortie des coffrets des 30 ans",
+    "title": "Les arnaques aux cartes Pokémon se multiplient avec 58 fausses boutiques recensées en quelques semaines",
     "source": "Numerama",
     "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2348765-attention-les-arnaques-pokemon-se-multiplient-depuis-la-sortie-des-coffrets-des-30-ans.html",
-    "pubDate": "2026-10-07T16:03:45.000Z",
-    "summary": "Alors que les coffrets des 30 ans de Pokémon s’arrachent, de fausses boutiques profitent de la frustration des collectionneurs. Sites soignés, prix plausibles, stocks prétendument limités : tout est f"
+    "url": "https://www.numerama.com/cyberguerre/2348765-les-arnaques-aux-cartes-pokemon-se-multiplient-avec-58-fausses-boutiques-recensees-en-quelques-semaines.html",
+    "pubDate": "2026-10-07T16:05:00.000Z",
+    "summary": "Depuis début septembre, Pokéscam a recensé 58 fausses boutiques Pokémon. En pleine ruée sur les coffrets des 30 ans, certaines affichent des prix crédibles, de faux stocks limités et des vitrines part"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
     "pubDate": "2026-10-07T14:00:00.000Z",
     "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google&#8217;s new SynthID website can identify AI-generated media",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "pubDate": "2026-10-07T14:00:00.000Z",
-    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
   }
 ]
