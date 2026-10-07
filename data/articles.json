@@ -1,6 +1,87 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Identité, réservations, numéro de chambre… une faille dans ce logiciel hôtelier français expose les clients de 1 500 établissements",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2348265-identite-reservations-numero-de-chambre-une-faille-dans-ce-logiciel-hotelier-francais-expose-les-clients-de-1-500-etablissements.html",
+    "pubDate": "2026-10-07T09:13:44.000Z",
+    "summary": "L'éditeur parisien Medialog a confirmé une intrusion dans son logiciel de gestion hôtelière Medialog Hôtel. Des données d'identité et de réservation de clients d'environ 1 500 établissements ont été e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Mise à jour Pixel d’octobre : 25 failles corrigées et un dernier tour de piste pour les Pixel 6",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632989-mise-a-jour-pixel-d-octobre-25-failles-corrigees-et-un-dernier-tour-de-piste-pour-les-pixel-6.html",
+    "pubDate": "2026-10-07T09:08:00.000Z",
+    "summary": "Google a lancé son update Pixel d'octobre : trois correctifs et 25 failles de sécurité colmatées, contre plus de 90 en septembre. Les Pixel 6 et 6 Pro devraient y recevoir leur dernier patch."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Le numéro du Premier ministre Sébastien Lecornu fuite, à cause d'un hack... contre le Slip Français",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632977-le-numero-du-premier-ministre-sebastien-lecornu-fuite-a-cause-d-une-fuite-chez-le-slip-francais.html",
+    "pubDate": "2026-10-07T09:08:00.000Z",
+    "summary": "Personne n'est à l'abri des fuites de données personnelles aujourd'hui en France. Et pas même le Premier ministre, Sébastien Lecornu !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google Chrome veut en finir avec les mails de vérification d’adresse",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/google/3275741_google-chrome-veut-en-finir-avec-les-mails-de-verification-dadresse",
+    "pubDate": "2026-10-07T09:06:36.000Z",
+    "summary": "Sur Android, Google Chrome peut vérifier automatiquement qu’une adresse e-mail appartient bien à son propriétaire, sans qu'il ait à ouvrir sa boîte de réception pour récupérer un code de confirmation."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Windows 11 ressuscite une fonction héritée de Windows XP pour améliorer sa barre des tâches",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632998-windows-11-ressuscite-une-fonction-heritee-de-windows-xp-pour-ameliorer-sa-barre-des-taches.html",
+    "pubDate": "2026-10-07T09:04:00.000Z",
+    "summary": "Microsoft expérimente une nouvelle option pour la barre des tâches de Windows 11. Plutôt que d’afficher les traditionnelles miniatures des fenêtres ouvertes, le système pourrait bientôt vous laisser r"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Si un humain avait fait ça, ce serait la médaille Fields » : l&#8217;IA d&#8217;OpenAI fait une percée sur l&#8217;hypothèse de Riemann",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2348207-si-un-humain-avait-fait-ca-ce-serait-la-medaille-fields-lia-dopenai-fait-une-percee-sur-lhypothese-de-riemann.html",
+    "pubDate": "2026-10-07T08:55:34.000Z",
+    "summary": "OpenAI a publié 722 manuscrits de mathématiques produits par un modèle interne inaccessible au public, dont une avancée revendiquée vers l'hypothèse de Riemann. L'entreprise sort à peine de la polémiq"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Moins de 3,50 € l&#8217;ampoule connectée Wi-Fi chez Action, mais attention aux concessions",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/3275579_moins-de-350-e-lampoule-connectee-wi-fi-chez-action-mais-attention-aux-concessions",
+    "pubDate": "2026-10-07T08:53:04.000Z",
+    "summary": "Action vend des packs de trois ampoules connectées LSC Smart Connect à 9,95 euros jusqu'au 13 octobre, soit 3,32 euros l'ampoule, contre 12,95 euros d'habitude."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Recharge bidirectionnelle (V2H) : Tesla rattrape son retard, ou presque",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2348273-recharge-bidirectionnelle-v2h-tesla-rattrape-son-retard-ou-presque.html",
+    "pubDate": "2026-10-07T08:50:00.000Z",
+    "summary": "Tesla débloque enfin la recharge bidirectionnelle sur les Model 3 et Model Y pour alimenter votre domicile en cas de coupure de courant. Mais pour profiter de cette fonction de secours, les conditions"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Moins cher qu'un iPhone 16 chez Apple : l'iPhone 16 Plus de 6,7 pouces tombe à 849€ chez Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632995-moins-cher-qu-un-iphone-16-chez-apple-l-iphone-16-plus-de-6-7-pouces-tombe-a-849-chez-amazon.html",
+    "pubDate": "2026-10-07T08:48:00.000Z",
+    "summary": "Apple ne vend plus l’iPhone 16 Plus, dernier iPhone au format Plus, mais Amazon le propose à 849 € pendant ses Jours Flash Prime. Écran de 6,7 pouces, deux jours d’autonomie dans notre test, dalle lim"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Jours Flash Prime Amazon : les ultimes offres smartphones à saisir avant ce soir !",
     "source": "Frandroid",
     "category": "smartphones",
@@ -127,15 +208,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "80 km réels à 25 km/h : Segway s&#8217;attaque vraiment aux longs trajets avec sa nouvelle trottinette",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3274703_80-km-reels-a-25-km-h-segway-sattaque-vraiment-aux-longs-trajets-avec-sa-nouvelle-trottinette",
-    "pubDate": "2026-10-07T08:00:00.000Z",
-    "summary": "Segway a présenté ce mercredi 7 octobre la Max G3 Pro, une trottinette électrique avec une batterie de 899 Wh qui promet 80 km d'autonomie à 25 km/h. Arrivée en France prévue en novembre 2026."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "2 200 W et 60 km d&#8217;autonomie à 25 km/h : la nouvelle trottinette tout-terrain de Segway veut tout chambouler",
     "source": "Frandroid",
     "category": "smartphones",
@@ -145,12 +217,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les Googlebook et leur « parfaite synergie avec votre téléphone Android » ne sont pas compatibles avec le plus gros fabricant de smartphones Android",
+    "title": "80 km réels à 25 km/h : Segway s&#8217;attaque vraiment aux longs trajets avec sa nouvelle trottinette",
     "source": "Frandroid",
     "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3275597_les-googlebook-et-leur-parfaite-synergie-avec-votre-telephone-android-ne-sont-pas-compatibles-avec-le-plus-gros-fabricant-de-smartphones-android",
-    "pubDate": "2026-10-07T07:59:49.000Z",
-    "summary": "Annoncés en grande pompe il y a quelques semaines, les nouveaux Googlebook promettaient une intégration sans pareille avec l’écosystème Android. Malheureusement, les premiers retours font état d’une i"
+    "url": "https://www.frandroid.com/marques/3274703_80-km-reels-a-25-km-h-segway-sattaque-vraiment-aux-longs-trajets-avec-sa-nouvelle-trottinette",
+    "pubDate": "2026-10-07T08:00:00.000Z",
+    "summary": "Segway a présenté ce mercredi 7 octobre la Max G3 Pro, une trottinette électrique avec une batterie de 899 Wh qui promet 80 km d'autonomie à 25 km/h. Arrivée en France prévue en novembre 2026."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -160,15 +232,6 @@
     "url": "https://www.numerama.com/tech/2346697-prime-day-sur-amazon-voici-les-meilleurs-deals-des-jours-flash-prime-a-suivre-en-direct.html",
     "pubDate": "2026-10-07T07:58:21.000Z",
     "summary": "La fin des Jours Flash Prime approche déjà sur Amazon. Il ne reste plus que quelques heures pour profiter des promotions résrervés aux abonnés Prime, ce 7 octobre minuit. Numerama continue de trier le"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le concept avait cassé internet : voici la Jaguar Type 01, une voiture électrique de 1 030 ch qui veut faire table rase du passé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/jaguar/3273281_le-concept-avait-casse-internet-voici-la-jaguar-type-01-une-voiture-electrique-de-1-030-ch-qui-veut-faire-table-rase-du-passe",
-    "pubDate": "2026-10-07T07:56:10.000Z",
-    "summary": "Jaguar lève le voile sur la Type 01, une GT électrique à quatre portes de plus de 5,20 m, annoncée jusqu'à 1 030 ch et 720 km d'autonomie WLTP. Une voiture électrique qui revendique la rupture et une "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -244,42 +307,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "C'est en France qu'est poli le miroir du plus grand télescope du monde",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632929-c-est-en-france-qu-est-poli-le-miroir-du-plus-grand-telescope-du-monde.html",
-    "pubDate": "2026-10-07T06:09:00.000Z",
-    "summary": "Safran va achever, avant la fin de l'année, le chantier des 931 segments du miroir principal de l'Extremely Large Telescope, le télescope géant de l'ESO. Le groupe français veut mettre ce savoir-faire"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Volkswagen bat un record depuis 2020, avec près de 12 000 commandes en septembre (dont 57% en électrique)",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632653-volkswagen-bat-un-record-depuis-2020-avec-pres-de-12-000-commandes-en-septembre-dont-57-en-electrique.html",
-    "pubDate": "2026-10-07T06:02:00.000Z",
-    "summary": "Volkswagen signe un mois de septembre particulièrement solide en France. Portée par le succès de la toute récente ID. Polo, la marque enregistre près de 12 000 commandes, avec en prime une part de 57%"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Prime Day, jour 2 : 50 offres tech jusqu’à -69% chez Amazon, des caméras Blink au Pixel 10 Pro XL",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632659-prime-day-c-est-parti-pour-les-jours-flash-prime-d-amazon-voici-50-offres-tech-jusqu-a--69.html",
-    "pubDate": "2026-10-07T06:00:00.000Z",
-    "summary": "Les Jours Flash Prime d'Amazon entrent dans leur deuxième et dernière journée ce mercredi 7 octobre. On y trouve aussi bien des liseuses Kindle que des smartphones, et nous avons retenu ce qui reste v"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Aspirer et laver séparément, c’est du passé : Roborock donne un coup de neuf dans l’entretien des sols avec ses aspirateurs-laveurs F25",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-631909-aspirer-et-laver-separement-c-est-du-passe-roborock-donne-un-coup-de-neuf-dans-l-entretien-des-sols-avec-ses-aspirateurs-laveurs-f25.html",
-    "pubDate": "2026-10-07T05:30:00.000Z",
-    "summary": "Quitte à investir dans un aspirateur sans fil aujourd’hui, autant choisir un modèle capable de passer la serpillière en même temps. Roborock l’a bien compris, l’aspirateur-balai laveur est très tendan"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Sophie Adenot rentre : suivez en direct le retour sur Terre de l’astronaute française",
     "source": "Numerama",
     "category": "culture",
@@ -331,32 +358,5 @@
     "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
     "pubDate": "2026-10-06T20:35:20.000Z",
     "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "pubDate": "2026-10-06T20:00:30.000Z",
-    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "pubDate": "2026-10-06T19:56:50.000Z",
-    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "pubDate": "2026-10-06T18:22:45.000Z",
-    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
   }
 ]
