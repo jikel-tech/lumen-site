@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sophie Adenot rentre : suivez en direct le retour sur Terre de l’astronaute française",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2347857-sophie-adenot-rentre-suivez-en-direct-le-retour-sur-terre-de-lastronaute-francaise.html",
+    "pubDate": "2026-10-07T04:45:00.000Z",
+    "summary": "L’astronaute française Sophie Adenot et ses trois coéquipiers quittent l’ISS ce mercredi 7 octobre après près de huit mois en orbite. Suivez en direct le désarrimage et l’amerrissage de la capsule Cre"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Google lance Nano Banana 2.1, son IA qui génère et retouche vos images pour deux fois moins cher",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632938-google-lance-nano-banana-2-1-son-ia-qui-genere-et-retouche-vos-images.html",
+    "pubDate": "2026-10-07T04:28:00.000Z",
+    "summary": "Google a déployé Nano Banana 2.1 dans l'application Gemini et dans le mode IA de son moteur de recherche. Les utilisateurs français peuvent retoucher une zone précise d'une photo avec plus de finesse "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Le concept avait cassé internet : voici la Jaguar Type 01, une voiture électrique de 1 030 ch qui veut faire table rase du passé",
     "source": "Frandroid",
     "category": "smartphones",
@@ -340,23 +358,5 @@
     "url": "https://www.clubic.com/actualite-632878-voltix-vinci-met-en-service-a-vierzon-la-station-de-recharge-pour-camion-electrique-la-plus-puissante-de-france.html",
     "pubDate": "2026-10-06T15:31:00.000Z",
     "summary": "Les camions électriques deviennent petit à petit une réalité en France. Avec, comme illustration, cette immense site de recharge inauguré à Vierzon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Faire tourner GTA V dans un simple navigateur : l'exploit fou qui a affolé les joueurs aujourd'hui",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632902-faire-tourner-gta-v-dans-un-simple-navigateur-l-exploit-fou-qui-a-affole-les-joueurs-aujourd-hui.html",
-    "pubDate": "2026-10-06T15:24:00.000Z",
-    "summary": "Un simple navigateur Web a suffi à plusieurs joueurs pour lancer une version non officielle du blockbuster de Rockstar, sans installer le jeu. PlayGTA5.com téléchargeait environ 700 Mo de données au d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Ne payez jamais » : un moteur de données volées tend un nouveau piège à ses victimes",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2347737-ne-payez-jamais-un-moteur-de-donnees-volees-tend-un-nouveau-piege-a-ses-victimes.html",
-    "pubDate": "2026-10-06T15:23:00.000Z",
-    "summary": "Un moteur de recherche de données volées, très partagé sur les réseaux sociaux, propose désormais de supprimer ses fiches contre paiement."
   }
 ]
