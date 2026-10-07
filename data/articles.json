@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "pubDate": "2026-10-07T20:48:45.000Z",
+    "summary": "The developer of Hermes agent raised a $90 million Series B."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
     "source": "TechCrunch",
     "category": "ia",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/actualite-633091-tickets-restaurant-la-mauvaise-surprise-qui-pourrait-vous-attendre-a-la-caisse-du-supermarche.html",
     "pubDate": "2026-10-07T14:52:00.000Z",
     "summary": "Des députés ont proposé de limiter les courses payées en titres-restaurant à 10 ou 15 euros par jour, contre 25 euros aujourd’hui. Ces pistes n’ont pas été retenues en commission, mais pourraient reve"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "pubDate": "2026-10-07T14:41:38.000Z",
-    "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
   }
 ]
