@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "pubDate": "2026-10-07T20:22:37.000Z",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft défie Claude et GPT en local, mais réclame 75 Go de RAM avec son nouveau modèle MAI Code 1.1 Flash",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3277299_microsoft-defie-claude-et-gpt-en-local-mais-reclame-75-go-de-ram-avec-son-nouveau-modele-mai-code-1-1-flash",
+    "pubDate": "2026-10-07T20:14:27.000Z",
+    "summary": "Microsoft a présenté une version locale de MAI-Code-1.1-Flash, son modèle d'IA pour coder ultra-abordable et rapide. Elle arrive d'ici fin octobre dans GitHub Copilot, sur les PC à puce Nvidia RTX Spa"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Orange lance un nouveau décodeur TV haut de gamme, associé à une prestigieuse marque pour l'acoustique",
     "source": "Clubic",
@@ -235,15 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Discord : 27 millions d&#8217;adresses IP et votre géolocalisation fuitent à cause d&#8217;un bot",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3277035_discord-27-millions-dadresses-ip-et-votre-geolocalisation-fuitent-a-cause-dun-bot",
-    "pubDate": "2026-10-07T15:57:52.000Z",
-    "summary": "Double Counter est un bot de vérification installé sur plus de 600 000 serveurs Discord. Les pseudos de 28 millions de comptes sont considérés comme exposés, tout comme l'adresse IP et la localisation"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Micron : une grève en préparation à Taïwan. Nouveau coup dur pour la RAM ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
     "pubDate": "2026-10-07T14:41:38.000Z",
     "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Google experiments with an AI-powered gaming platform",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "pubDate": "2026-10-07T14:36:23.000Z",
-    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
   }
 ]
