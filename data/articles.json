@@ -1,6 +1,105 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-10-07T14:15:00.000Z",
+    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Combien coûtera un PC RTX Spark en France ? Une fuite de HP donne un premier ordre d&#8217;idée",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3276725_combien-coutera-un-pc-rtx-spark-en-france-une-fuite-de-hp-donne-un-premier-ordre-didee",
+    "pubDate": "2026-10-07T14:09:23.000Z",
+    "summary": "HP a affiché par erreur, ce mercredi 7 octobre, les prix américains de ses premiers PC portables Nvidia RTX Spark, de 2 999,99 à 4 999,99 dollars (environ 2 680 à 4 460 € HT)."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic : son PDG Dario Amodei touche un salaire très \"moyen\"",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633067-anthropic-son-pdg-dario-amodei-touche-un-salaire-tres-moyen.html",
+    "pubDate": "2026-10-07T14:06:00.000Z",
+    "summary": "Anthropic est THE entreprise dont on parle ces derniers mois dans le secteur de l'intelligence artificielle. Pourtant, son patron Dario Amodei est loin d'être un des patrons les mieux payés de la tech"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment utiliser Messenger sans compte Facebook ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/comment-faire/tutoriaux/1940016_comment-utiliser-messenger-sans-compte-facebook",
+    "pubDate": "2026-10-07T14:05:59.000Z",
+    "summary": "Vous continuez d'utiliser Messenger, mais Facebook ne fait plus partie de vos habitudes depuis un bon moment ? Il existe un moyen d'utiliser le premier sans subir le second, on vous explique comment f"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vraie photo ou IA ? Google rend son outil de détection gratuit et accessible à tous : voici SynthID Detector",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/google/3276551_vraie-photo-ou-ia-google-rend-son-outil-de-detection-gratuit-et-accessible-a-tous-voici-synthid-detector",
+    "pubDate": "2026-10-07T14:00:00.000Z",
+    "summary": "Depuis ce mercredi 7 octobre, tout le monde peut vérifier sur synthid.com si une image, une vidéo ou un fichier audio contient le filigrane invisible SynthID de Google. Jusqu'ici, l'outil était réserv"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "SynthID Detector : Google lance un outil pour repérer les contenus générés par IA",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2348527-synthid-detector-google-lance-un-outil-pour-reperer-les-contenus-generes-par-ia.html",
+    "pubDate": "2026-10-07T14:00:00.000Z",
+    "summary": "Google DeepMind ouvre au grand public SynthID Detector, son outil capable de repérer le filigrane invisible caché dans les images, vidéos et fichiers audio générés par IA. SynthID était initialement u"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "pubDate": "2026-10-07T14:00:00.000Z",
+    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google&#8217;s new SynthID website can identify AI-generated media",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "pubDate": "2026-10-07T14:00:00.000Z",
+    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Ring&#8217;s first smart lock can be hand-cranked when its battery dies",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
+    "pubDate": "2026-10-07T14:00:00.000Z",
+    "summary": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Comment des hackers ont pu se faire passer pour Google en piratant trois extensions nationales",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2348685-comment-des-hackers-ont-pu-se-faire-passer-pour-google-en-piratant-trois-extensions-nationales.html",
+    "pubDate": "2026-10-07T13:54:39.000Z",
+    "summary": "En piratant les organismes qui gèrent les extensions .gh, .sl et .as, des pirates ont pu se faire délivrer de vrais certificats de sécurité au nom de Google et d'autres grandes marques, de quoi faire "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Lancement supposé des Core 2000HX, Intel n'en aurait toujours pas terminé avec Raptor Lake",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633052-lancement-suppose-des-core-2000hx-intel-n-en-aurait-toujours-pas-termine-avec-raptor-lake.html",
+    "pubDate": "2026-10-07T13:48:00.000Z",
+    "summary": "Alors que la DDR4 est moins onéreuse que la DDR5, le retour d'une gamme de CPU Raptor Lake Next viendrait de réduire (un peu) le prix des laptops."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
     "source": "TechCrunch",
     "category": "ia",
@@ -181,15 +280,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce récent SSD externe SanDisk 2 000 Mo/s avec 4 To de stockage est à -40 % pour la fin des Jours Flash Prime",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3276049_ce-ssd-externe-sandisk-4-to-encaisse-les-chocs-sauf-celui-du-prime-day-ou-il-est-affiche-a-40",
-    "pubDate": "2026-10-07T11:26:00.000Z",
-    "summary": "Le SanDisk Extreme V3 4 To est un SSD petit, endurant et rapide qui double la vitesse par rapport à la génération précédente et son prix passe de 1 112,99 euros sur le site officiel à 664,99 euros sur"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Elon Musk l'assure, Starlink assurera la connectivité \"dans tout le Système solaire et au-delà\"",
     "source": "Clubic",
     "category": "logiciels",
@@ -235,42 +325,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Parti d&#8217;Activision sur fond de scandales, Bobby Kotick hérite du comité de gouvernance de Skydance",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/3276055_parti-dactivision-sur-fond-de-scandales-bobby-kotick-herite-du-comite-de-gouvernance-de-skydance",
-    "pubDate": "2026-10-07T10:50:43.000Z",
-    "summary": "Bobby Kotick, l'ancien patron d'Activision Blizzard parti en 2023 après des années de scandales, entre au conseil d'administration de Skydance, le groupe né ce mardi 6 octobre de la fusion entre Param"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce forfait voyage devient encore moins cher, à condition d&#8217;avoir une carte que beaucoup possèdent déjà",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3276025_ce-forfait-voyage-devient-encore-moins-cher-a-condition-davoir-une-carte-que-beaucoup-possedent-deja",
-    "pubDate": "2026-10-07T10:46:00.000Z",
-    "summary": "Auchan Télécom propose un forfait de 200 Go en 5G à 13,99 euros par mois, sans engagement, avec 35 Go utilisables dans plus de 160 destinations. Et avec la carte fidélité Waaoh, le prix descend à 11,9"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple préparerait le lancement de plusieurs produits pour octobre",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633013-apple-preparerait-le-lancement-de-plusieurs-produits-pour-octobre.html",
-    "pubDate": "2026-10-07T10:33:00.000Z",
-    "summary": "Le mois d'octobre d'Apple sera particulièrement riche. Car d'autres produits seraient programmés, en plus de l'iPhone Duo et de son nouveau hub domotique."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google Home n'arrive plus à changer la couleur de vos ampoules, Philips Hue compris",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633031-google-home-n-arrive-plus-a-changer-la-couleur-de-vos-ampoules-philips-hue-compris.html",
-    "pubDate": "2026-10-07T10:23:00.000Z",
-    "summary": "Google Home n’arrive plus à modifier la couleur d’ampoules connectées de plusieurs marques, dont Philips Hue. L’allumage et la luminosité fonctionnent toujours, et Google n’a pas encore reconnu le pro"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Essai du Xpeng L03 : il avait presque tout pour balayer le Tesla Model Y, mais…",
     "source": "Numerama",
     "category": "culture",
@@ -304,59 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2348309-pour-patienter-avant-gta-6-on-a-deniche-un-bon-prix-sur-gta-5-pour-ps5-avec-un-disque-dans-la-boite.html",
     "pubDate": "2026-10-07T09:20:00.000Z",
     "summary": "[Deal du jour] À six semaines de la sortie de GTA 6, Joybuy fait passer la version PS5 de Grand Theft Auto V à 16,99 € au lieu de 19,99 €."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Identité, réservations, numéro de chambre… une faille dans ce logiciel hôtelier français expose les clients de 1 500 établissements",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2348265-identite-reservations-numero-de-chambre-une-faille-dans-ce-logiciel-hotelier-francais-expose-les-clients-de-1-500-etablissements.html",
-    "pubDate": "2026-10-07T09:13:44.000Z",
-    "summary": "L'éditeur parisien Medialog a confirmé une intrusion dans son logiciel de gestion hôtelière Medialog Hôtel. Des données d'identité et de réservation de clients d'environ 1 500 établissements ont été e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Si un humain avait fait ça, ce serait la médaille Fields » : l&#8217;IA d&#8217;OpenAI fait une percée sur l&#8217;hypothèse de Riemann",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2348207-si-un-humain-avait-fait-ca-ce-serait-la-medaille-fields-lia-dopenai-fait-une-percee-sur-lhypothese-de-riemann.html",
-    "pubDate": "2026-10-07T08:55:34.000Z",
-    "summary": "OpenAI a publié 722 manuscrits de mathématiques produits par un modèle interne inaccessible au public, dont une avancée revendiquée vers l'hypothèse de Riemann. L'entreprise sort à peine de la polémiq"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Recharge bidirectionnelle (V2H) : Tesla rattrape son retard, ou presque",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2348273-recharge-bidirectionnelle-v2h-tesla-rattrape-son-retard-ou-presque.html",
-    "pubDate": "2026-10-07T08:50:00.000Z",
-    "summary": "Tesla débloque enfin la recharge bidirectionnelle sur les Model 3 et Model Y pour alimenter votre domicile en cas de coupure de courant. Mais pour profiter de cette fonction de secours, les conditions"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Spotify expands audiobooks to over 180 markets",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-    "pubDate": "2026-10-07T07:00:00.000Z",
-    "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "How to find out if Amazon thinks you have &#8216;flat buttocks&#8217;",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-    "pubDate": "2026-10-06T22:55:39.000Z",
-    "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-    "pubDate": "2026-10-06T22:53:09.000Z",
-    "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
   }
 ]
