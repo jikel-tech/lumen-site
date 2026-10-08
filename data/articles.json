@@ -1,5 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "pubDate": "2026-10-08T15:12:59.000Z",
+    "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Vous passez de l'ADSL à la fibre ? Bouygues Telecom offre 4 mois d'abonnement gratuit",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633331-vous-passez-de-l-adsl-a-la-fibre-bouygues-telecom-offre-4-mois-d-abonnement-gratuit.html",
+    "pubDate": "2026-10-08T15:11:00.000Z",
+    "summary": "Bouygues Telecom veut accompagner les Français qui doivent passer à la fibre optique. Et certains vont avoir droit à quatre mois d'abonnement gratuit."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+    "pubDate": "2026-10-08T15:06:17.000Z",
+    "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+    "pubDate": "2026-10-08T15:01:15.000Z",
+    "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "pubDate": "2026-10-08T15:00:00.000Z",
+    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Xbox lance Xbox XP, sa division dédiée aux adaptations ciné, télé et bien plus",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2349723-xbox-lance-xbox-xp-sa-division-dediee-aux-adaptations-cine-tele-et-bien-plus.html",
+    "pubDate": "2026-10-08T14:55:23.000Z",
+    "summary": "Xbox veut désormais faire vivre ses franchises bien au-delà des jeux vidéo. La firme annonce la création de XP, une nouvelle division chargée de développer les adaptations au cinéma et à la télévision"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sophie Adenot rentre : suivez en direct l&#8217;amerrissage imminent de l’astronaute française",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2347857-sophie-adenot-rentre-suivez-en-direct-lamerrissage-imminent-de-lastronaute-francaise.html",
+    "pubDate": "2026-10-08T14:54:00.000Z",
+    "summary": "L’astronaute française Sophie Adenot et ses trois coéquipiers quittent l’ISS ce mercredi 7 octobre après près de huit mois en orbite. Suivez en direct le désarrimage et l’amerrissage de la capsule Cre"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Amazon propose un bundle MSI avec clavier + souris Forge en promo à moins de 45€ pour un setup gaming",
     "source": "Clubic",
@@ -87,7 +150,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
     "pubDate": "2026-10-08T14:00:00.000Z",
-    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee."
+    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -252,15 +315,6 @@
     "summary": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Uber and China&#8217;s Pony.ai plan to launch robotaxis in London",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-    "pubDate": "2026-10-08T12:53:39.000Z",
-    "summary": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "ChatGPT s'arme de graphiques et d'outils interactifs pour éclaircir ses explications",
     "source": "Clubic",
@@ -304,59 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3204813_cette-tour-pc-lenovo-avec-rtx-5070-et-32-go-de-ram-coute-300-euros-de-moins-cher-boulanger",
     "pubDate": "2026-10-08T12:28:03.000Z",
     "summary": "La Lenovo LOQ Tower 26ADR10 est une tour gaming déjà montée qui intègre une carte graphique Nvidia GeForce RTX 5070. La bonne nouvelle, c'est que son prix passe de 1 999 euros à 1 699 euros chez Boula"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "GTA 6 : le leaker est de retour avec une fuite massive de 25 minutes de gameplay",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349415-gta-6-le-leaker-est-de-retour-avec-une-fuite-massive-de-25-minutes-de-gameplay.html",
-    "pubDate": "2026-10-08T12:20:00.000Z",
-    "summary": "Pendant que Take-Two et Rockstar Games verrouillent leur communication avec des présentations presse au compte-gouttes, la réalité du terrain vient de leur remettre un tacle à la gorge. Le leaker Cybe"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Pour piloter son malware, ce pirate a caché les adresses de ses serveurs dans un poème sur GitHub",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633232-pour-piloter-son-malware-ce-pirate-a-cache-les-adresses-de-ses-serveurs-dans-un-poeme-sur-github.html",
-    "pubDate": "2026-10-08T12:01:00.000Z",
-    "summary": "Depuis avril, une campagne malveillante détourne des serveurs hébergeant des outils d’IA pour miner des cryptomonnaies et propager ses infections. Sa particularité ? Un système de communication insoli"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test d&#8217;Hellraiser: Revival, l&#8217;adaptation qui ne vous épargnera pas",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349219-test-dhellraiser-revival-ladaptation-qui-ne-vous-epargnera-pas.html",
-    "pubDate": "2026-10-08T12:00:00.000Z",
-    "summary": "Hellraiser: Revival est une adaptation franchement réussie de l'œuvre de Clive Barker. On lui pardonne ses quelques défauts de finition, tant il excelle dans l'art de matérialiser un univers extrême s"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-    "pubDate": "2026-10-08T12:00:00.000Z",
-    "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Home Cinéma d’Orange : j&#8217;ai écouté l&#8217;audio immersif du nouveau décodeur, voici mes premières impressions",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/orange/3278033_home-cinema-dorange-jai-ecoute-laudio-immersif-du-nouveau-decodeur-voici-mes-premieres-impressions",
-    "pubDate": "2026-10-08T11:57:35.000Z",
-    "summary": "Orange vient d’annoncer le lancement de son nouveau décodeur TV. Baptisé Décodeur Home Cinéma, il s’agit d’un boîtier qui embarque Android TV, plusieurs haut-parleurs, se branche sur un téléviseur et "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le Xiaomi Poco M8 devient un smartphone d&#8217;entrée de gamme incontournable grâce à cette offre Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3277869_le-xiaomi-poco-m8-devient-un-smartphone-dentree-de-gamme-incontournable-grace-a-cette-offre-amazon",
-    "pubDate": "2026-10-08T11:31:00.000Z",
-    "summary": "La polyvalence du Xiaomi Poco M8 5G s'accompagne d'une réduction généreuse offerte par Amazon qui retire presque 25 % sur la version 512 Go du téléphone."
   }
 ]
