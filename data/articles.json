@@ -1,6 +1,69 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+    "pubDate": "2026-10-08T18:30:00.000Z",
+    "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;Allemand Ecosia lâche Mistral et ose évoquer l&#8217;énergie nucléaire française dans ses raisons",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2349811-lallemand-ecosia-lache-mistral-et-ose-evoquer-lenergie-nucleaire-francaise-dans-ses-raisons.html",
+    "pubDate": "2026-10-08T18:21:34.000Z",
+    "summary": "Le moteur de recherche berlinois Ecosia, vitrine de la « tech verte et européenne », remplace le champion français Mistral par des modèles chinois. Parmi ses griefs : la qualité, la souveraineté… et l"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "pubDate": "2026-10-08T18:20:32.000Z",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "pubDate": "2026-10-08T18:19:45.000Z",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "pubDate": "2026-10-08T18:19:42.000Z",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "pubDate": "2026-10-08T18:18:00.000Z",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "pubDate": "2026-10-08T18:16:24.000Z",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
     "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
     "source": "TechCrunch",
     "category": "ia",
@@ -252,33 +315,6 @@
     "summary": "Bouygues Telecom veut accompagner les Français qui doivent passer à la fibre optique. Et certains vont avoir droit à quatre mois d'abonnement gratuit."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-    "pubDate": "2026-10-08T15:06:17.000Z",
-    "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Asos confirms breach of customer data after hackers send rogue app notification",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-    "pubDate": "2026-10-08T15:01:15.000Z",
-    "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-    "pubDate": "2026-10-08T15:00:00.000Z",
-    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Xbox lance Xbox XP, une division dédiée à tout sauf aux jeux vidéo",
     "source": "Numerama",
@@ -295,15 +331,6 @@
     "url": "https://www.clubic.com/bons-plans-633310-amazon-propose-un-bundle-msi-avec-clavier-souris-forge-en-promo-a-moins-de-45-pour-un-setup-gaming.html",
     "pubDate": "2026-10-08T14:48:00.000Z",
     "summary": "Dans ce bundle MSI, on retrouve un clavier MSI Forge GK320 et une souris Forge GM300, deux accessoires filaires qui constituent une bonne base pour une petite configuration gaming, surtout qu’il est à"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Spotify is getting more serious about selling enterprise software",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-    "pubDate": "2026-10-08T14:34:33.000Z",
-    "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -331,32 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2349631-bridgerton-netflix-annonce-une-nouvelle-serie-spin-off-sur-violet.html",
     "pubDate": "2026-10-08T14:26:49.000Z",
     "summary": "Alors que le tournage de la saison 5 bat son plein dans les rues de Londres, Netflix et Shondaland viennent de lâcher une bombe d'élégance et de potins mondains : la franchise&nbsp;Bridgerton&nbsp;s’a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Alexa+, écran « Nanomatte », FireOS abandonné : les trois nouvelles tablettes d’Amazon font leur révolution",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/amazon/3278313_alexa-ecran-nanomatte-fireos-abandonne-les-trois-nouvelles-tablettes-damazon-font-leur-revolution",
-    "pubDate": "2026-10-08T14:21:18.000Z",
-    "summary": "Amazon a présenté ce jeudi 8 octobre trois tablettes Alexa, les 12 Pro, 11 et 8, vendues en France de 229,99 à 669,99 euros. Grosse nouveauté : FireOS est abandonné au profit d'Android."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
-    "pubDate": "2026-10-08T14:16:56.000Z",
-    "summary": "This is the first time the Alphabet-owned company has turned to debt financing."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "pubDate": "2026-10-08T14:00:00.000Z",
-    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
   }
 ]
