@@ -1,5 +1,104 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+    "pubDate": "2026-10-08T14:16:56.000Z",
+    "summary": "This is the first time the Alphabet-owned company has turned to debt financing."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone Air 2 : il pourrait être aussi fin que l’iPhone Duo déplié",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633295-iphone-air-2-il-pourrait-etre-aussi-fin-que-l-iphone-duo-deplie.html",
+    "pubDate": "2026-10-08T14:07:00.000Z",
+    "summary": "Apple préparerait un iPhone Air 2 encore plus fin que le modèle actuel. Une rumeur évoque une épaisseur de seulement 5,2 mm, alors même que le smartphone pourrait embarquer une batterie plus grande."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Perturbation importante du réseau » : en Russie, une attaque de drones présumée vise le plus grand data center du géant Yandex",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2349533-perturbation-importante-du-reseau-en-russie-une-attaque-de-drones-presumee-vise-le-plus-grand-data-center-du-geant-yandex.html",
+    "pubDate": "2026-10-08T13:58:27.000Z",
+    "summary": "Un important incendie s'est déclaré dans la nuit du 7 au 8 octobre 2026 sur le site de Sasovo, en Russie, qui abrite le principal data center de Yandex. Le géant russe du numérique a d'abord signalé d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Alpine A290, E-208 GTi, Mini JCW E : comment la nouvelle Polo GTI se place face à ses trois rivales",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2349199-alpine-a290-e-208-gti-mini-jcw-e-comment-la-nouvelle-polo-gti-se-place-face-a-ses-trois-rivales.html",
+    "pubDate": "2026-10-08T13:58:09.000Z",
+    "summary": "Volkswagen a ouvert les précommandes de l'ID. Polo GTI, sa première GTI 100&nbsp;% électrique, à partir de 41&nbsp;450&nbsp;€ en France. Elle arrive face à l'Alpine A290, la Mini John Cooper Works E e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Face à Revolut, Wise se lance dans les eSIM de voyage avec des forfaits sur mesure",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/esim-voyage/3278197_face-a-revolut-wise-se-lance-dans-les-esim-de-voyage-avec-des-forfaits-sur-mesure",
+    "pubDate": "2026-10-08T13:57:41.000Z",
+    "summary": "Wise a lancé ce mardi 6 octobre des forfaits eSIM de voyage dont on choisit soi-même le volume de données et la durée, avec remboursement des forfaits non utilisés. L'application de la fintech scanne "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon Kids Tablet : sous Android, la tablette enfant d'Amazon laisse les parents valider chaque appli",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633322-amazon-kids-tablet-sous-android-la-tablette-enfant-d-amazon-laisse-les-parents-valider-chaque-appli.html",
+    "pubDate": "2026-10-08T13:56:00.000Z",
+    "summary": "Amazon lance deux tablettes pour enfants sous Android, où chaque téléchargement sur Google Play passe par la validation des parents. Elles arrivent en France le 19 octobre, à partir de 229,99 €."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon dévoile l&#8217;Alexa Tablet Pro, son concurrent de l&#8217;iPad avec un écran papier et le Play Store",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2348957-amazon-devoile-lalexa-tablet-pro-son-concurrent-de-lipad-avec-un-ecran-papier-et-le-play-store.html",
+    "pubDate": "2026-10-08T13:52:34.000Z",
+    "summary": "Adieu les tablettes Fire, Amazon passe aux « Alexa Tablet ». Le géant américain en profite pour adopter le vrai Android avec les services Google et le Play Store, après avoir longtemps proposé sa prop"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Bouygues Telecom devient partenaire d'AXA et lance 3 offres pour protéger le quotidien de ses clients",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633283-bouygues-telecom-devient-partenaire-d-axa-et-lance-3-offres-pour-proteger-le-quotidien-de-ses-clients.html",
+    "pubDate": "2026-10-08T13:51:00.000Z",
+    "summary": "Bouygues Telecom lance une première, en collaboration avec l'assureur Axa. Le groupe va donner naissance à trois offres d'assurance liées aux usages numériques."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon brade ce casque JBL avec ANC et 76 heures d&#8217;autonomie à moins de 60 euros",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3105611_amazon-brade-ce-casque-jbl-avec-anc-et-76-heures-dautonomie-a-moins-de-60-euros",
+    "pubDate": "2026-10-08T13:48:20.000Z",
+    "summary": "Le JBL Tune 780NC est un casque complet. Sur les oreilles, il est confortable, dispose d'un son personnalisable et d'une autonomie qui tiendra même lors des voyages les plus longs. En ce moment, il es"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Xpeng lance la production en Europe de son nouveau SUV électrique : direction Paris par la route pour son lancement",
     "source": "Frandroid",
@@ -42,7 +141,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
     "pubDate": "2026-10-08T13:20:32.000Z",
-    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated."
+    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -217,30 +316,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Sans mot de passe ni alerte... L'incroyable faille qui a exposé 470 000 installations photovoltaïques",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633229-sans-mot-de-passe-ni-alerte-l-incroyable-faille-qui-a-expose-470-000-installations-photovoltaiques.html",
-    "pubDate": "2026-10-08T11:16:00.000Z",
-    "summary": "Un chercheur en sécurité a découvert qu’il était possible d’entrer dans le service cloud de SunGrow sans mot de passe, puis de remonter jusqu’à des comptes administrateurs. À ce niveau d’accès, quelqu"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "La PS5 Pro revient en stock sur la Fnac avant GTA 6 après avoir quitté les rayons",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2288349-la-ps5-pro-revient-en-stock-sur-la-fnac-avant-gta-6-apres-avoir-quitte-les-rayons.html",
     "pubDate": "2026-10-08T11:10:02.000Z",
     "summary": "[Deal du jour] Trouver une PS5 Pro à son prix conseillé est devenu compliqué. La console revient chez Fnac à 899,99 €, alors que certains vendeurs tiers en demandent près du double."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Free Mobile alerte ses abonnés : c'est la fin pour la 2G en France",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633226-free-mobile-alerte-ses-abonnes-c-est-la-fin-pour-la-2g-en-france.html",
-    "pubDate": "2026-10-08T11:09:00.000Z",
-    "summary": "C'est la fin d'un réseau qui avait plus de 30 ans. Free mobile vient en effet d'annoncer à ses derniers abonnés concernés la fin de la 2G !"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -262,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Starlink frôle la collision : SpaceX accuse les autres opérateurs de satellites d’incidents à répétition",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633202-starlink-frole-la-collision-spacex-accuse-les-autres-operateurs-de-satellites-d-incidents-a-repetition.html",
-    "pubDate": "2026-10-08T10:53:00.000Z",
-    "summary": "Alors que Starlink compte toujours plus de satellites dans sa constellation, SpaceX monte au créneau et pointe du doigt les autres opérateurs. Car en orbite, les risques de collision augmentent de man"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Cette plateforme de jeux générés par IA attire déjà 10 millions de joueuses et de joueurs chaque mois",
     "source": "Numerama",
     "category": "culture",
@@ -286,77 +358,5 @@
     "url": "https://www.numerama.com/politique/2349269-le-loup-mal-aime-dintermarche-aura-bien-sa-peluche-en-magasin-un-an-apres-et-on-connait-son-prix.html",
     "pubDate": "2026-10-08T10:19:52.000Z",
     "summary": "Près d’un an après la publicité qui l’a rendu célèbre, le loup d’Intermarché arrivera en magasin fin novembre. L’enseigne prévoit 700 000 peluches, vendues 19,90 euros pièce."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "L&#8217;IA de Google fait plonger l&#8217;audience des médias français : -22,9 % de visites en un an",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/web/3277937_lia-de-google-fait-plonger-laudience-des-medias-francais-229-de-visites-en-un-an",
-    "pubDate": "2026-10-08T10:09:32.000Z",
-    "summary": "Les sites de 40 grands médias d'information français ont perdu 22,9 % de leurs visites entre septembre 2025 et septembre 2026, d'après les chiffres de l'ACPM. Sur la même période, leurs applications n"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Envie d&#8217;essayer Alexa+ sans vous ruiner ? Cette enceinte Amazon Echo Dot 2022 est compatible et chute sous les 30 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3277967_envie-dessayer-alexa-sans-vous-ruiner-lecho-dot-damazon-chute-sous-les-30-e",
-    "pubDate": "2026-10-08T10:07:00.000Z",
-    "summary": "L'Echo Dot (2022), cinquième génération de la petite enceinte connectée d'Amazon, est compatible avec Alexa+, la nouvelle version de l'assistant qui s'appuie sur l'IA générative. Elle est à retrouver "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Superman changera déjà de costume dans la suite de 2027, et pour une bonne raison",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349239-superman-change-deja-de-costume-dans-la-suite-de-2027-et-pour-une-bonne-raison.html",
-    "pubDate": "2026-10-08T10:05:00.000Z",
-    "summary": "Plus d'un an après la sortie du Superman de James Gunn, premier film du nouveau DCU, David Corenswet confirme que l'Homme d'Acier portera un costume retravaillé dans la suite, Man of Tomorrow, attendu"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Samsung va produire 30 % de smartphones en moins, malgré des bénéfices records",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3277829_samsung-va-produire-30-de-smartphones-en-moins-malgre-des-benefices-records",
-    "pubDate": "2026-10-08T09:50:09.000Z",
-    "summary": "Samsung réduirait jusqu'à 30 % sa production de smartphones au quatrième trimestre 2026, d'après le quotidien sud-coréen Money Today."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avengers Doomsday : on sait enfin où est Nick Fury dans le prochain Marvel",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349003-avengers-doomsday-mais-au-fait-ou-est-passe-nick-fury.html",
-    "pubDate": "2026-10-08T09:25:00.000Z",
-    "summary": "Vous pensiez retrouver le bon vieux Nick Fury pour mener la charge contre le Docteur Doom dans le prochain Avengers: Doomsday ? Mauvaise pioche."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Apple Watch Series 12 : la dernière montre de la Pomme perd déjà 50 € dans sa version 46 mm",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3277851_apple-watch-series-12-la-derniere-montre-dapple-perd-deja-50-e-dans-sa-version-46-mm",
-    "pubDate": "2026-10-08T09:22:00.000Z",
-    "summary": "L'Apple Watch Series 12, la dernière montre connectée d'Apple, passe de 499 euros à 449 euros chez Boulanger dans sa version 46 mm. La remise de 50 euros s'applique dans le panier et il faut simplemen"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Je ne connais rien aux voitures, mais » : comment Jeff Bezos a convaincu le patron de Ferrari de créer la très controversée Luce électrique",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/ferrari/3277763_je-ne-connais-rien-aux-voitures-mais-comment-jeff-bezos-a-convaincu-le-patron-de-ferrari-de-creer-la-tres-controversee-luce-electrique",
-    "pubDate": "2026-10-08T09:18:04.000Z",
-    "summary": "John Elkann, président de Ferrari, reconnaît que l’idée de lancer une voiture électrique ne vient pas de lui. C’est Jeff Bezos, le fondateur d'Amazon, qui la lui a soufflée..."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Netflix consacre déjà un documentaire à l&#8217;affaire Hugging Face : à quoi peut-on s&#8217;attendre ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349045-netflix-consacre-deja-un-documentaire-a-laffaire-hugging-face-a-quoi-peut-on-sattendre.html",
-    "pubDate": "2026-10-08T09:05:00.000Z",
-    "summary": "Le 12 octobre 2026, Netflix diffusera AI Gone Wild, un épisode de sa collection Instadocs consacré à l'attaque menée en juillet par des agents d'OpenAI contre Hugging Face."
   }
 ]
