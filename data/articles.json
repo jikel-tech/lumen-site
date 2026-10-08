@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Après son VPN, IPVanish lance son antivirus",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633127-apres-son-vpn-ipvanish-lance-son-antivirus.html",
+    "pubDate": "2026-10-08T09:40:00.000Z",
+    "summary": "IPVanish ne se contente plus de protéger votre connexion. Son application Windows et macOS embarque désormais un antivirus, lequel analyse les sites, les téléchargements et les fichiers de l'appareil."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avengers Doomsday : on sait enfin où est Nick Fury dans le prochain Marvel",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2349003-avengers-doomsday-mais-au-fait-ou-est-passe-nick-fury.html",
+    "pubDate": "2026-10-08T09:25:00.000Z",
+    "summary": "Vous pensiez retrouver le bon vieux Nick Fury pour mener la charge contre le Docteur Doom dans le prochain Avengers: Doomsday ? Mauvaise pioche."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Apple Watch Series 12 : la dernière montre de la Pomme perd déjà 50 € dans sa version 46 mm",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3277851_apple-watch-series-12-la-derniere-montre-dapple-perd-deja-50-e-dans-sa-version-46-mm",
+    "pubDate": "2026-10-08T09:22:00.000Z",
+    "summary": "L'Apple Watch Series 12, la dernière montre connectée d'Apple, passe de 499 euros à 449 euros chez Boulanger dans sa version 46 mm. La remise de 50 euros s'applique dans le panier et il faut simplemen"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les promos continuent après le Prime Day : Amazon brade un mini PC bureautique NiPoGi avec un Core i5",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633178-les-promos-continuent-apres-le-prime-day-amazon-brade-un-mini-pc-bureautique-nipogi-avec-un-core-i5.html",
+    "pubDate": "2026-10-08T09:20:00.000Z",
+    "summary": "Le NiPoGi H2 est un mini PC bureautique équilibré pour un usage domestique ou scolaire, avec des limites graphiques. Amazon le propose en promo à 469,90 euros au lieu de 526 euros."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« Je ne connais rien aux voitures, mais » : comment Jeff Bezos a convaincu le patron de Ferrari de créer la très controversée Luce électrique",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/ferrari/3277763_je-ne-connais-rien-aux-voitures-mais-comment-jeff-bezos-a-convaincu-le-patron-de-ferrari-de-creer-la-tres-controversee-luce-electrique",
+    "pubDate": "2026-10-08T09:18:04.000Z",
+    "summary": "John Elkann, président de Ferrari, reconnaît que l’idée de lancer une voiture électrique ne vient pas de lui. C’est Jeff Bezos, le fondateur d'Amazon, qui la lui a soufflée..."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Apple et sa maison connectée : après LG, un groupe français apparaît dans le code d'iOS 27.2",
     "source": "Clubic",
     "category": "logiciels",
@@ -127,15 +172,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avengers Doomsday : mais au fait, où est passé Nick Fury ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349003-avengers-doomsday-mais-au-fait-ou-est-passe-nick-fury.html",
-    "pubDate": "2026-10-08T08:33:54.000Z",
-    "summary": "Vous pensiez retrouver le bon vieux Nick Fury pour mener la charge contre le Docteur Doom dans le prochain Avengers: Doomsday ? Mauvaise pioche."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les Google Pixel 9 et 10 gagnent une exclusivité des Pixel 11",
     "source": "Frandroid",
     "category": "smartphones",
@@ -208,15 +244,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google Wallet risque de vous faire choisir la mauvaise carte avec sa nouvelle interface",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3277485_google-wallet-risque-de-vous-faire-choisir-la-mauvaise-carte-avec-sa-nouvelle-interface",
-    "pubDate": "2026-10-08T07:55:19.000Z",
-    "summary": "À peine déployée, la nouvelle interface de Google Wallet sur Android révèle déjà un problème de lisibilité gênant. En affichant les cartes bancaires sous forme de pile verticale, l’application masque "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Orange dévoile un décodeur TV avec un home cinéma intégré : n&#8217;enterrez pas les box trop vite",
     "source": "Numerama",
     "category": "culture",
@@ -232,15 +259,6 @@
     "url": "https://www.numerama.com/sciences/2348993-sophie-adenot-rentre-et-ce-nest-pas-un-hasard-si-sa-capsule-spacex-amerrit-dans-le-pacifique.html",
     "pubDate": "2026-10-08T07:51:41.000Z",
     "summary": "La capsule Dragon qui ramène Sophie Adenot doit amerrir dans le Pacifique, au large de la Californie, ce jeudi 8 octobre vers 17h34, heure de Paris. L'astronaute française rentre après près de huit mo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Les smartphones de Samsung ne génèrent actuellement aucun bénéfice » : la crise de la mémoire forcerait le constructeur à réduire sa production",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3277579_les-smartphones-de-samsung-ne-generent-actuellement-aucun-benefice-la-crise-de-la-memoire-forcerait-le-constructeur-a-reduire-sa-production",
-    "pubDate": "2026-10-08T07:50:16.000Z",
-    "summary": "Les coûts de la RAM n’épargnent personne, même Samsung. D’après le média sud-coréen Money Today, le constructeur aurait demandé à ses fournisseurs de réduire de 20 à 30 % sa production de smartphones "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -295,24 +313,6 @@
     "url": "https://www.numerama.com/sciences/2347857-sophie-adenot-de-retour-suivez-en-direct-lamerrissage-de-lastronaute-francaise.html",
     "pubDate": "2026-10-08T07:04:06.000Z",
     "summary": "L’astronaute française Sophie Adenot et ses trois coéquipiers quittent l’ISS ce mercredi 7 octobre après près de huit mois en orbite. Suivez en direct le désarrimage et l’amerrissage de la capsule Cre"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les hackers IA de YesWeHack ont débusqué des failles chez Sanofi en quelques heures",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633148-les-hackers-ia-de-yeswehack-ont-debusque-des-failles-chez-sanofi-en-quelques-heures.html",
-    "pubDate": "2026-10-08T07:01:00.000Z",
-    "summary": "Sanofi a testé le pentest agentique avec YesWeHack, en laissant des agents d'IA attaquer cinq de ses applications web. Présenté aux Assises de la cybersécurité, le bilan est encourageant, même si l'IA"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone Duo : et si Apple avait trouvé le format idéal pour ses futurs iPhone ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632608-iphone-duo-et-si-apple-avait-trouve-le-format-ideal-pour-ses-futurs-iphone.html",
-    "pubDate": "2026-10-08T06:52:00.000Z",
-    "summary": "À force de vouloir des écrans toujours plus grands, les smartphones sont devenus moins faciles à utiliser d’une seule main. L’iPhone Duo prend le problème à contre-pied et propose une disposition qui "
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
