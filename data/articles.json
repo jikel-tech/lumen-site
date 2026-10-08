@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Chery Q à Paris : la petite voiture électrique chinoise qu&#8217;on ne peut (encore) pas acheter",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/chery/3277097_chery-q-a-paris-la-petite-voiture-electrique-chinoise-quon-ne-peut-encore-pas-acheter",
+    "pubDate": "2026-10-08T05:05:00.000Z",
+    "summary": "Un mois après ses débuts en France, le constructeur chinois Chery profite du Mondial de Paris pour dévoiler le Tiggo 4 hybride, son plus petit SUV, dont les commandes ouvrent le 12 octobre à partir de"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft et Nvidia réinventent le PC : tout ce qu&#8217;il faut retenir de la conférence Windows",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3277385_microsoft-et-nvidia-reinventent-le-pc-tout-ce-quil-faut-retenir-de-la-conference-windows",
+    "pubDate": "2026-10-08T05:00:00.000Z",
+    "summary": "Microsoft et Nvidia ont tenu conférence commune le 7 octobre à San Francisco. Agents IA intégrés à Windows 11, modèles géants en local, Surface Laptop Ultra et PC RTX Spark&nbsp;: voici tout ce qu'il "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Copilot va lire tous les fichiers de Windows 11 : Microsoft redemande la confiance perdue avec Recall",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/microsoft-copilot/3277419_copilot-va-lire-tous-les-fichiers-de-windows-11-microsoft-redemande-la-confiance-perdue-avec-recall",
+    "pubDate": "2026-10-08T05:00:00.000Z",
+    "summary": "Microsoft va donner à Copilot l'accès à tous les fichiers du PC, le droit d'y agir et des modèles locaux pour le faire. Deux ans après le raté de Recall, l'entreprise demande à nouveau qu'on lui fasse"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les données de 1 015 patients de l’AP-HP volées dans une cyberattaque",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633142-les-donnees-de-1-015-patients-de-l-ap-hp-volees-dans-une-cyberattaque.html",
+    "pubDate": "2026-10-08T05:00:00.000Z",
+    "summary": "Des cybercriminels ont mis en vente sur un forum les noms, prénoms, informations de naissance et identifiants internes de 1 015 patients de l’AP-HP. Pour récupérer ces fichiers, les pirates ont forcé "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Surface RTX Spark Dev Box : Microsoft lance son mini PC Nvidia pour l&#8217;IA locale",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3277435_surface-rtx-spark-dev-box-microsoft-lance-son-mini-pc-nvidia-pour-lia-locale",
+    "pubDate": "2026-10-08T04:50:00.000Z",
+    "summary": "Microsoft ouvre les précommandes de la Surface RTX Spark Dev Box, un mini PC à puce Nvidia et 128 Go de mémoire conçu pour faire tourner des modèles d'IA en local. Le prix n'a pas été donné sur scène."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Pourquoi Microsoft ne parle presque plus des Copilot+ PC alors que 40 % des PC portables professionnels en portent désormais l&#8217;étiquette",
     "source": "Frandroid",
     "category": "smartphones",
@@ -144,15 +189,6 @@
     "summary": "Jensen Huang, CEO de Nvidia, a affirmé ce mercredi 7 octobre, sur la scène de la keynote Windows et Surface de Microsoft, que son entreprise n'aurait jamais vu le jour sans Windows. Il a raconté ce so"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft invente le port USB-C magnétique : la sécurité du MagSafe d&#8217;Apple, la liberté en plus",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3277193_microsoft-invente-le-port-usb-c-magnetique-la-securite-du-magsafe-dapple-la-liberte-en-plus",
-    "pubDate": "2026-10-07T18:31:45.000Z",
-    "summary": "Microsoft a présenté ce mercredi 7 octobre, à San Francisco, Magnetic Connect, un port USB-C magnétique intégré au Surface Laptop Ultra). Le câble se détache si on trébuche dessus, comme avec le MagSa"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
     "source": "TechCrunch",
@@ -160,15 +196,6 @@
     "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "pubDate": "2026-10-07T18:30:57.000Z",
     "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "128 Go de RAM et puce Nvidia : voici la réponse de Microsoft à Apple avec le Surface Laptop Ultra",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3277187_128-go-de-ram-et-puce-nvidia-voici-la-reponse-de-microsoft-a-apple-avec-le-surface-laptop-ultra",
-    "pubDate": "2026-10-07T18:22:08.000Z",
-    "summary": "Microsoft a ouvert ce mercredi 7 octobre les précommandes du Surface Laptop Ultra, un PC portable de 15 pouces équipé de la puce Nvidia RTX Spark, vendu à partir de 2 599 dollars aux États-Unis. C'est"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -198,15 +225,6 @@
     "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft veut faire tourner des IA géantes sur PC : prévoyez jusqu&#8217;à 60 Go de RAM",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/os/windows/3277149_microsoft-devoile-lintelligence-hybride-sur-windows-des-ia-sur-pc-qui-fonctionnent-sans-internet",
-    "pubDate": "2026-10-07T17:45:47.000Z",
-    "summary": "Microsoft prépare l'exécution en local, sur les PC Windows, de modèles d'IA de 70 à 284 milliards de paramètres&nbsp;: son MAI Code 1.1 Flash, un nouveau Nemotron de Nvidia et DeepSeek V4 Flash. Compr"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Greenairy is building smart plant towers to clean the air in your office",
     "source": "TechCrunch",
@@ -214,15 +232,6 @@
     "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
     "pubDate": "2026-10-07T17:30:00.000Z",
     "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "L&#8217;excellent casque Sonos Ace presque à moitié prix, c&#8217;est jusqu&#8217;à ce soir minuit sur Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3277057_lexcellent-casque-sonos-ace-presque-a-moitie-prix-cest-jusqua-ce-soir-minuit-sur-amazon",
-    "pubDate": "2026-10-07T17:14:00.000Z",
-    "summary": "Le Sonos Ace est un excellent casque à réduction de bruit active que l'on a noté 9/10 à sa sortie en 2024. Il est actuellement à 227 euros au lieu de 449 euros dans le cadre des Jours Flash Prime sur "
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
     "pubDate": "2026-10-07T15:07:08.000Z",
     "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "C'est fou ! SpaceX veut lever 40 milliards de dollars... simplement pour acheter des puces Nvidia",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633085-c-est-fou-spacex-veut-lever-40-milliards-de-dollars-simplement-pour-acheter-des-puces-nvidia.html",
-    "pubDate": "2026-10-07T14:56:00.000Z",
-    "summary": "Les milliards vont continuer de pleuvoir sur le secteur de l'intelligence artificielle. SpaceX et Elon Musk recherchent en effet près de 40 milliards de dollars pour acquérir encore plus de GPU NVIDIA"
   }
 ]
