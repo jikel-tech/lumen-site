@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Gemini est en panne ce jeudi soir : ce qu'il se passe réellement",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633361-gemini-est-en-panne-ce-jeudi-soir-ce-qu-il-se-passe-reellement.html",
+    "pubDate": "2026-10-08T17:11:00.000Z",
+    "summary": "L’assistant de Google connaît une panne importante ce jeudi 8 octobre. Erreurs de génération, conversations impossibles à charger et requêtes API en échec sont signalées dans plusieurs pays. Le servic"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pas de place pour une TV dans la chambre ? Ce vidéoprojecteur Full HD XGIMI avec Netflix passe à 299€",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633340-pas-de-place-pour-une-tv-dans-la-chambre-ce-videoprojecteur-full-hd-xgimi-avec-netflix-passe-a-299.html",
+    "pubDate": "2026-10-08T17:07:00.000Z",
+    "summary": "Quand la nuit tombe plus tôt, un mur clair peut faire office d’écran pour les films et les séries du soir. Le XGIMI MoGo 2 Pro (New), mini vidéoprojecteur Full HD sous Google TV, est affiché à 299 € c"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Meta déploie de nouveaux outils IA pour détecter les publicités menant à des contenus pédocriminels",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633355-meta-deploie-de-nouveaux-outils-ia-pour-detecter-les-publicites-menant-a-des-contenus-pedocriminels.html",
+    "pubDate": "2026-10-08T16:57:00.000Z",
+    "summary": "L'intelligence artificielle va être déployée sur les réseaux sociaux de Meta pour contrer la pédopornographie. Un combat dans lequel le groupe serait de plus en plus efficace."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Notre antivirus Mac préféré couvre désormais l'iPhone, et Intego ONE Complete perd 35% sur 2 ans",
     "source": "Clubic",
     "category": "logiciels",
@@ -96,7 +123,7 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
     "pubDate": "2026-10-08T16:00:00.000Z",
-    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o"
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -297,15 +324,6 @@
     "summary": "This is the first time the Alphabet-owned company has turned to debt financing."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone Air 2 : il pourrait être aussi fin que l’iPhone Duo déplié",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633295-iphone-air-2-il-pourrait-etre-aussi-fin-que-l-iphone-duo-deplie.html",
-    "pubDate": "2026-10-08T14:07:00.000Z",
-    "summary": "Apple préparerait un iPhone Air 2 encore plus fin que le modèle actuel. Une rumeur évoque une épaisseur de seulement 5,2 mm, alors même que le smartphone pourrait embarquer une batterie plus grande."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
     "source": "TechCrunch",
@@ -340,23 +358,5 @@
     "url": "https://www.numerama.com/vroom/2349199-alpine-a290-e-208-gti-mini-jcw-e-comment-la-nouvelle-polo-gti-se-place-face-a-ses-trois-rivales.html",
     "pubDate": "2026-10-08T13:58:09.000Z",
     "summary": "Volkswagen a ouvert les précommandes de l'ID. Polo GTI, sa première GTI 100&nbsp;% électrique, à partir de 41&nbsp;450&nbsp;€ en France. Elle arrive face à l'Alpine A290, la Mini John Cooper Works E e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Face à Revolut, Wise se lance dans les eSIM de voyage avec des forfaits sur mesure",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/telecom/esim-voyage/3278197_face-a-revolut-wise-se-lance-dans-les-esim-de-voyage-avec-des-forfaits-sur-mesure",
-    "pubDate": "2026-10-08T13:57:41.000Z",
-    "summary": "Wise a lancé ce mardi 6 octobre des forfaits eSIM de voyage dont on choisit soi-même le volume de données et la durée, avec remboursement des forfaits non utilisés. L'application de la fintech scanne "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon Kids Tablet : sous Android, la tablette enfant d'Amazon laisse les parents valider chaque appli",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633322-amazon-kids-tablet-sous-android-la-tablette-enfant-d-amazon-laisse-les-parents-valider-chaque-appli.html",
-    "pubDate": "2026-10-08T13:56:00.000Z",
-    "summary": "Amazon lance deux tablettes pour enfants sous Android, où chaque téléchargement sur Google Play passe par la validation des parents. Elles arrivent en France le 19 octobre, à partir de 229,99 €."
   }
 ]
