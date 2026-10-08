@@ -1,5 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "\"Welcome home\" : Apple prépare un événement dédié à la maison connectée le 13 octobre",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633376-welcome-home-apple-prepare-un-evenement-dedie-a-la-maison-connectee-le-13-octobre.html",
+    "pubDate": "2026-10-08T19:29:00.000Z",
+    "summary": "Apple confirme un événement spécial le 13 octobre, placé sous le signe de la maison connectée. Après plusieurs semaines de rumeurs, le constructeur s’apprête à lever le voile sur ses projets pour nos "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Ecosia quitte Mistral pour des IA chinoises, Arthur Mensch répond : « Désolé si le nucléaire est un vrai point de blocage »",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3278721_ecosia-quitte-mistral-pour-des-ia-chinoises-arthur-mensch-repond-desole-si-le-nucleaire-est-un-vrai-point-de-blocage",
+    "pubDate": "2026-10-08T19:28:38.000Z",
+    "summary": "Ecosia, le moteur de recherche allemand qui finance la reforestation, quitte Mistral cinq mois après l’avoir choisi et bascule sur des modèles ouverts, dont plusieurs chinois. Sur les trois raisons av"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
     "source": "TechCrunch",
@@ -105,7 +123,7 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633361-gemini-est-en-panne-ce-jeudi-soir-ce-qu-il-se-passe-reellement.html",
     "pubDate": "2026-10-08T17:11:00.000Z",
-    "summary": "L’assistant de Google connaît une panne importante ce jeudi 8 octobre. Erreurs de génération, conversations impossibles à charger et requêtes API en échec sont signalées dans plusieurs pays. Le servic"
+    "summary": "L’assistant de Google a connu une panne importante ce jeudi 8 octobre. Erreurs de génération, conversations impossibles à charger et requêtes API en échec étaient signalées dans plusieurs pays. Le ser"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -325,15 +343,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon propose un bundle MSI avec clavier + souris Forge en promo à moins de 45€ pour un setup gaming",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633310-amazon-propose-un-bundle-msi-avec-clavier-souris-forge-en-promo-a-moins-de-45-pour-un-setup-gaming.html",
-    "pubDate": "2026-10-08T14:48:00.000Z",
-    "summary": "Dans ce bundle MSI, on retrouve un clavier MSI Forge GK320 et une souris Forge GM300, deux accessoires filaires qui constituent une bonne base pour une petite configuration gaming, surtout qu’il est à"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "GTA, CoD, Halo : ces jeux cultes tournent désormais illégalement partout sur navigateur",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/bons-plans/3187299_ce-rival-du-xiaomi-redmi-note-17-pro-baisse-son-prix-de-145-euros-pour-rester-competitif",
     "pubDate": "2026-10-08T14:33:15.000Z",
     "summary": "Le Realme 16 Pro est un smartphone de milieu de gamme noté 8/10 dans nos colonnes, que nous recommandons chaudement pour son écran AMOLED 144 Hz, son capteur 200 Mpx et sa batterie de 6 500 mAh. Bonne"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Bridgerton : Netflix annonce une nouvelle série spin-off sur Violet",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2349631-bridgerton-netflix-annonce-une-nouvelle-serie-spin-off-sur-violet.html",
-    "pubDate": "2026-10-08T14:26:49.000Z",
-    "summary": "Alors que le tournage de la saison 5 bat son plein dans les rues de Londres, Netflix et Shondaland viennent de lâcher une bombe d'élégance et de potins mondains : la franchise&nbsp;Bridgerton&nbsp;s’a"
   }
 ]
