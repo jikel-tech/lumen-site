@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sophie Adenot de retour : suivez en direct l&#8217;amerrissage de l’astronaute française",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2347857-sophie-adenot-de-retour-suivez-en-direct-lamerrissage-de-lastronaute-francaise.html",
+    "pubDate": "2026-10-08T07:04:06.000Z",
+    "summary": "L’astronaute française Sophie Adenot et ses trois coéquipiers quittent l’ISS ce mercredi 7 octobre après près de huit mois en orbite. Suivez en direct le désarrimage et l’amerrissage de la capsule Cre"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les hackers IA de YesWeHack ont débusqué des failles chez Sanofi en quelques heures",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633148-les-hackers-ia-de-yeswehack-ont-debusque-des-failles-chez-sanofi-en-quelques-heures.html",
+    "pubDate": "2026-10-08T07:01:00.000Z",
+    "summary": "Sanofi a testé le pentest agentique avec YesWeHack, en laissant des agents d'IA attaquer cinq de ses applications web. Présenté aux Assises de la cybersécurité, le bilan est encourageant, même si l'IA"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "iPhone Duo : et si Apple avait trouvé le format idéal pour ses futurs iPhone ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -261,15 +279,6 @@
     "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Orange lance un nouveau décodeur TV haut de gamme, associé à une prestigieuse marque pour l'acoustique",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633004-orange-lance-un-nouveau-decodeur-tv-haut-de-gamme-associe-a-une-prestigieuse-marque-pour-l-acoustique.html",
-    "pubDate": "2026-10-07T20:00:00.000Z",
-    "summary": "Orange a dévoilé, mercredi soir, son Décodeur Home Cinema, un boîtier TV doté de quatre haut-parleurs signés Bang & Olufsen et compatible Dolby Atmos. Réservé aux abonnés Livebox Max, il peut être com"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/cyberguerre/2348765-les-arnaques-aux-cartes-pokemon-se-multiplient-avec-58-fausses-boutiques-recensees-en-quelques-semaines.html",
     "pubDate": "2026-10-07T16:05:00.000Z",
     "summary": "Depuis début septembre, Pokéscam a recensé 58 fausses boutiques Pokémon. En pleine ruée sur les coffrets des 30 ans, certaines affichent des prix crédibles, de faux stocks limités et des vitrines part"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cyber for Good lance l&#8217;Academy : six webinaires gratuits pour aider les associations à mieux se protéger",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2348767-cyber-for-good-lance-lacademy-six-webinaires-gratuits-pour-aider-les-associations-a-mieux-se-proteger.html",
-    "pubDate": "2026-10-07T15:59:31.000Z",
-    "summary": "Associations, coopératives et entreprises sociales peuvent suivre gratuitement, d'octobre 2026 à mars 2027, un parcours de six webinaires consacré à la cybersécurité, à la compréhension des opportunit"
   }
 ]
