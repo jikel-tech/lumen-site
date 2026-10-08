@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "pubDate": "2026-10-08T18:10:55.000Z",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sophie Adenot de retour, voilà ce qui l&#8217;attend pour les semaines à venir",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2348407-sophie-adenot-de-retour-voila-ce-qui-lattend-pour-les-semaines-a-venir.html",
+    "pubDate": "2026-10-08T18:00:00.000Z",
+    "summary": "Si le voyage spatial de Sophie Adenot est bien terminé, ses prochaines semaines vont tout de même être très chargées, avec tout un protocole à respecter, et bien sûr, sa mission qui se poursuit, même "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Canal+ lance une plateforme entièrement gratuite pour suivre le sport même sans abonnement !",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633364-canal-lance-une-plateforme-entierement-gratuite-pour-suivre-le-sport-meme-sans-abonnement.html",
+    "pubDate": "2026-10-08T17:46:00.000Z",
+    "summary": "Canal+ lance ce vendredi Sport+, une plateforme gratuite dédiée au sport et intégrée à son application. Les abonnés, comme les non-abonnés, pourront y suivre des résumés, vidéos courtes et une sélecti"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Apple fixe un événement « Welcome home » au 13 octobre : un hub à écran de 6 pouces, un HomePod mini et une Apple TV seraient attendus",
     "source": "Frandroid",
@@ -307,15 +334,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "IA : des ex-salariés d’OpenAI s'inquiètent de l'arrivée de modèles IA dont le raisonnement serait illisible",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633307-ia-des-ex-salaries-d-openai-s-inquietent-de-l-arrivee-d-ia-dont-le-raisonnement-serait-illisible.html",
-    "pubDate": "2026-10-08T14:26:00.000Z",
-    "summary": "Il y a un peu de remue-ménage du côté d'OpenAI. Des salariés fraîchement licenciés alertent sur la potentielle perte de contrôle que l'on pourrait avoir sur les modèles IA les plus avancés à l'avenir."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Alexa+, écran « Nanomatte », FireOS abandonné : les trois nouvelles tablettes d’Amazon font leur révolution",
     "source": "Frandroid",
     "category": "smartphones",
@@ -340,23 +358,5 @@
     "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
     "pubDate": "2026-10-08T14:00:00.000Z",
     "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-    "pubDate": "2026-10-08T14:00:00.000Z",
-    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Perturbation importante du réseau » : en Russie, une attaque de drones présumée vise le plus grand data center du géant Yandex",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2349533-perturbation-importante-du-reseau-en-russie-une-attaque-de-drones-presumee-vise-le-plus-grand-data-center-du-geant-yandex.html",
-    "pubDate": "2026-10-08T13:58:27.000Z",
-    "summary": "Un important incendie s'est déclaré dans la nuit du 7 au 8 octobre 2026 sur le site de Sasovo, en Russie, qui abrite le principal data center de Yandex. Le géant russe du numérique a d'abord signalé d"
   }
 ]
