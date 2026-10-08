@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Pourquoi Microsoft ne parle presque plus des Copilot+ PC alors que 40 % des PC portables professionnels en portent désormais l&#8217;étiquette",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3277377_pourquoi-microsoft-ne-parle-presque-plus-des-copilot-pc-alors-que-40-des-pc-portables-professionnels-en-portent-desormais-letiquette",
+    "pubDate": "2026-10-08T04:34:00.000Z",
+    "summary": "Le 7 octobre, Microsoft a consacré une trentaine de secondes aux Copilot+ PC et près d'une heure aux GPU Nvidia. Le NPU, vendu en 2024 comme l'avenir de l'IA sur PC, a été rétrogradé sans un mot d'exp"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "GPT‑6 pour tous : la nouvelle IA d’OpenAI arrive pour le grand public",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633151-gpt-6-pour-tous-la-nouvelle-ia-d-openai-arrive-pour-le-grand-public.html",
+    "pubDate": "2026-10-08T04:29:00.000Z",
+    "summary": "Les utilisateurs gratuits de ChatGPT peuvent accéder progressivement à GPT-6 depuis ce jeudi, au lendemain des abonnés payants. OpenAI accompagne ce déploiement d’Intelligent UI. Avec cette fonction, "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Diviser son plein par trois et revendre son courant : la promesse de l&#8217;électrique face à l&#8217;essence avec le V2G",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/3277099_diviser-son-plein-par-trois-et-revendre-son-courant-la-promesse-de-lelectrique-face-a-lessence-avec-le-v2g",
+    "pubDate": "2026-10-08T04:21:00.000Z",
+    "summary": "420 euros par an pour recharger, contre 1 200 euros de carburant : selon l'Avere-France, rouler en électrique coûte près de trois fois moins cher. Et avec une recharge bien pilotée, la facture peut en"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Microsoft a payé 69 milliards pour Call of Duty et l&#8217;oublie sur ses propres PC",
     "source": "Frandroid",
     "category": "smartphones",
@@ -226,30 +253,12 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "En vidéo : la Xpeng L03 peut-il faire trembler la Tesla Model Y ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/video/3276469_en-video-la-xpeng-l03-peut-il-faire-trembler-la-tesla-model-y",
-    "pubDate": "2026-10-07T16:34:00.000Z",
-    "summary": "Xpeng lance son L03 en France avec un tarif agressif sous la barre des 35 000 euros. Ce SUV électrique coupé a-t-il les armes pour bousculer le best-seller de Tesla ? Réponse en vidéo."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Google ouvre SynthID Detector à tous pour traquer les contenus générés par IA",
     "source": "Clubic",
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633112-google-ouvre-synthid-detector-a-tous-pour-traquer-les-contenus-generes-par-ia.html",
     "pubDate": "2026-10-07T16:33:00.000Z",
     "summary": "Le portail de vérification de Google devient accessible au grand public dans le monde entier, France comprise. Images, vidéos et fichiers audio peuvent être analysés à la recherche du filigrane invisi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Meilleur PC portable Asus en 2026 : quel ordinateur Asus choisir selon son budget ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/1434265_quels-sont-les-meilleurs-pc-portables-asus",
-    "pubDate": "2026-10-07T16:28:14.000Z",
-    "summary": "La marque Asus est un des plus gros vendeurs d’ordinateurs portables en France… ce qui veut dire que les références sont nombreuses. Nous avons concocté pour vous une sélection des meilleurs PC portab"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/actualite-633085-c-est-fou-spacex-veut-lever-40-milliards-de-dollars-simplement-pour-acheter-des-puces-nvidia.html",
     "pubDate": "2026-10-07T14:56:00.000Z",
     "summary": "Les milliards vont continuer de pleuvoir sur le secteur de l'intelligence artificielle. SpaceX et Elon Musk recherchent en effet près de 40 milliards de dollars pour acquérir encore plus de GPU NVIDIA"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Avec l'iPhone Duo, Apple veut un lancement parfait, sans reproduire les erreurs des smartphones Android",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633088-avec-l-iphone-duo-apple-veut-un-lancement-parfait-sans-reproduire-les-erreurs-des-smartphones-android.html",
-    "pubDate": "2026-10-07T14:56:00.000Z",
-    "summary": "L'iPhone Duo doit impérativement être un lancement réussi. Pour la marque à la pomme, aucun problème de compatibilité ne sera toléré. Les applications doivent être nativement compatibles avec les deux"
   }
 ]
