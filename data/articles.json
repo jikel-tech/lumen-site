@@ -1,5 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone Duo : et si Apple avait trouvé le format idéal pour ses futurs iPhone ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-632608-iphone-duo-et-si-apple-avait-trouve-le-format-ideal-pour-ses-futurs-iphone.html",
+    "pubDate": "2026-10-08T06:52:00.000Z",
+    "summary": "À force de vouloir des écrans toujours plus grands, les smartphones sont devenus moins faciles à utiliser d’une seule main. L’iPhone Duo prend le problème à contre-pied et propose une disposition qui "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Mauvaise nouvelle pour la productivité, les Googlebook ont du mal à faire tourner les applications Linux",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/os/googlebook-os/3277523_mauvaise-nouvelle-pour-la-productivite-les-googlebook-ont-du-mal-a-faire-tourner-les-applications-linux",
+    "pubDate": "2026-10-08T06:43:18.000Z",
+    "summary": "Vendus nettement plus cher que les machines ChromeOS d’antan, les Googlebook se positionnent comme des vraies alternatives à Windows et macOS. Malheureusement, ils souffrent actuellement d’un gros déf"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Des milliers d&#8217;actions : avec Windows 11, vous allez pouvoir contrôler tout votre PC depuis la barre de recherche",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3277511_des-milliers-dactions-avec-windows-11-vous-allez-pouvoir-controler-tout-votre-pc-depuis-la-barre-de-recherche",
+    "pubDate": "2026-10-08T06:42:04.000Z",
+    "summary": "Microsoft a présenté ce mercredi 7 octobre une nouvelle version de la recherche de Windows 11. Depuis la barre des tâches, elle permet de lancer des milliers d'actions, comme activer le mode sombre ou"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Face aux pratiques de Microsoft, Mozilla se tourne maintenant vers les régulateurs",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633094-mozilla-vs-microsoft.html",
+    "pubDate": "2026-10-08T06:38:00.000Z",
+    "summary": "Cent jours après son rapport \"Over The Edge 2.0\", Mozilla ne voit aucun changement de cap chez Microsoft. Edge reste mis en avant sur Windows, y compris via Copilot et Windows Backup, et la fondation "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Votre site grandit : comment choisir un hébergement à la hauteur ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-631237-votre-site-grandit-comment-choisir-un-hebergement-a-la-hauteur.html",
+    "pubDate": "2026-10-08T06:30:00.000Z",
+    "summary": "Hourra, votre site cartonne ! Les visiteurs se multiplient, votre catalogue se développe et vous envisagez de passer à la vitesse supérieure. Pour y arriver, votre hébergement doit suivre le rythme. E"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "L&#8217;Amazfit Cheetah 2 Pro baisse de prix : cette montre GPS en titane a de sérieux arguments pour les coureurs",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3276767_lamazfit-cheetah-2-pro-baisse-de-prix-cette-montre-gps-en-titane-a-de-serieux-arguments-pour-les-coureurs",
+    "pubDate": "2026-10-08T06:22:00.000Z",
+    "summary": "L'Amazfit Cheetah 2 Pro est une montre de running bien équipée avec notamment un GPS double fréquence que vous retrouvez sur Amazon pour 419,99 euros au lieu de 449,90 euros."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Xbox Project Helix : Microsoft veut remettre la console au cœur de sa stratégie",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633130-xbox-project-helix-microsoft-veut-remettre-la-console-au-c-ur-de-sa-strategie.html",
+    "pubDate": "2026-10-08T06:22:00.000Z",
+    "summary": "Project Helix ne sera pas qu’une nouvelle Xbox de salon. Microsoft semble aussi préparer le terrain pour le jeu nomade, avec une machine portable qui pourrait rejoindre la prochaine génération aux côt"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
     "source": "TechCrunch",
@@ -91,21 +154,21 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft et Nvidia réinventent le PC : tout ce qu&#8217;il faut retenir de la conférence Windows",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3277385_microsoft-et-nvidia-reinventent-le-pc-tout-ce-quil-faut-retenir-de-la-conference-windows",
-    "pubDate": "2026-10-08T05:00:00.000Z",
-    "summary": "Microsoft et Nvidia ont tenu conférence commune le 7 octobre à San Francisco. Agents IA intégrés à Windows 11, modèles géants en local, Surface Laptop Ultra et PC RTX Spark&nbsp;: voici tout ce qu'il "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Copilot va lire tous les fichiers de Windows 11 : Microsoft redemande la confiance perdue avec Recall",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/microsoft-copilot/3277419_copilot-va-lire-tous-les-fichiers-de-windows-11-microsoft-redemande-la-confiance-perdue-avec-recall",
     "pubDate": "2026-10-08T05:00:00.000Z",
     "summary": "Microsoft va donner à Copilot l'accès à tous les fichiers du PC, le droit d'y agir et des modèles locaux pour le faire. Deux ans après le raté de Recall, l'entreprise demande à nouveau qu'on lui fasse"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Microsoft et Nvidia réinventent le PC : tout ce qu&#8217;il faut retenir de la conférence Windows",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/microsoft/3277385_microsoft-et-nvidia-reinventent-le-pc-tout-ce-quil-faut-retenir-de-la-conference-windows",
+    "pubDate": "2026-10-08T05:00:00.000Z",
+    "summary": "Microsoft et Nvidia ont tenu conférence commune le 7 octobre à San Francisco. Agents IA intégrés à Windows 11, modèles géants en local, Surface Laptop Ultra et PC RTX Spark&nbsp;: voici tout ce qu'il "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -153,15 +216,6 @@
     "summary": "420 euros par an pour recharger, contre 1 200 euros de carburant : selon l'Avere-France, rouler en électrique coûte près de trois fois moins cher. Et avec une recharge bien pilotée, la facture peut en"
   },
   {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft a payé 69 milliards pour Call of Duty et l&#8217;oublie sur ses propres PC",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3277357_microsoft-a-paye-69-milliards-pour-call-of-duty-et-loublie-sur-ses-propres-pc",
-    "pubDate": "2026-10-08T04:10:00.000Z",
-    "summary": "Microsoft promet des centaines de jeux sur les PC RTX Spark dès leur lancement. Call of Duty, sa propre licence, n'arrivera pourtant qu'en 2027."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
     "source": "TechCrunch",
@@ -178,24 +232,6 @@
     "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
     "pubDate": "2026-10-07T22:59:16.000Z",
     "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Free a lâché son Player Devialet, Orange tente le coup avec Bang & Olufsen et son Décodeur Home Cinema",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/orange/3277359_free-a-lache-son-player-devialet-orange-tente-le-coup-avec-bang-olufsen-et-son-decodeur-home-cinema",
-    "pubDate": "2026-10-07T22:05:00.000Z",
-    "summary": "Orange a dévoilé ce mercredi 7 octobre 2026 son Décodeur Home Cinema, un boîtier TV doté de quatre haut-parleurs conçus par Bang &amp; Olufsen, facturé 50 euros aux abonnés Livebox Max. Deux enceintes"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "828 km d’autonomie : le BMW iX4 électrique fait déjà de l’ombre au iX3 avec sa carrosserie de SUV coupé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/bmw/3275723_828-km-dautonomie-le-bmw-ix4-electrique-fait-deja-de-lombre-au-ix3-avec-sa-carrosserie-de-suv-coupe",
-    "pubDate": "2026-10-07T22:01:00.000Z",
-    "summary": "BMW continue l’élargissement de sa nouvelle gamme de voitures électriques reposant sur la plateforme Neue Klasse. Après l’iX3 et l’i3, c’est l’iX4 qui arrive. Un SUV coupé qui reprend les qualités de "
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -232,15 +268,6 @@
     "url": "https://www.clubic.com/actualite-633004-orange-lance-un-nouveau-decodeur-tv-haut-de-gamme-associe-a-une-prestigieuse-marque-pour-l-acoustique.html",
     "pubDate": "2026-10-07T20:00:00.000Z",
     "summary": "Orange a dévoilé, mercredi soir, son Décodeur Home Cinema, un boîtier TV doté de quatre haut-parleurs signés Bang & Olufsen et compatible Dolby Atmos. Réservé aux abonnés Livebox Max, il peut être com"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "101 médias français réclament 1,4 milliard d’euros à Meta",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633136-medias-francais-reclament-1-4-milliard-d-euros-a-meta.html",
-    "pubDate": "2026-10-07T19:20:00.000Z",
-    "summary": "Journaux, télévisions, radios et sites web français réclament près de 1,4 milliard d'euros à Meta devant la justice parisienne. Les 101 groupes plaignants accusent Facebook et Instagram d'avoir capté "
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -313,33 +340,6 @@
     "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
     "pubDate": "2026-10-07T16:53:46.000Z",
     "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Google ouvre SynthID Detector à tous pour traquer les contenus générés par IA",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633112-google-ouvre-synthid-detector-a-tous-pour-traquer-les-contenus-generes-par-ia.html",
-    "pubDate": "2026-10-07T16:33:00.000Z",
-    "summary": "Le portail de vérification de Google devient accessible au grand public dans le monde entier, France comprise. Images, vidéos et fichiers audio peuvent être analysés à la recherche du filigrane invisi"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le \"parrain de l'IA\" veut que les nouveaux modèles IA soient soumis aux mêmes autorisations que les médicaments",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633121-le-parrain-de-l-ia-veut-que-les-nouveaux-modeles-ia-soient-soumis-aux-memes-autorisations-que-les-medicaments.html",
-    "pubDate": "2026-10-07T16:22:00.000Z",
-    "summary": "Une voix importante s'élève aujourd'hui pour pousser à la régulation des modèles IA avancés. Une régulation qui serait calquée sur celle des nouveaux médicaments."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Cet écran gaming d'Alienware de 27 pouces à 280 Hz en QHD perd 20% pendant les Jours Flash d'Amazon",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633079-cet-ecran-gaming-d-alienware-de-27-pouces-a-280-hz-en-qhd-perd-20-pendant-les-jours-flash-d-amazon.html",
-    "pubDate": "2026-10-07T16:07:00.000Z",
-    "summary": "Avec son taux de rafraîchissement de 280 Hz et son temps de réponse de 0,03 ms, l'Alienware AW2725D conviendra à tous les joueurs pour un prix réduit puisqu'il perd un peu plus de 100 euros à l'occasi"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
