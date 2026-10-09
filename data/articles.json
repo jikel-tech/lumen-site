@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+    "pubDate": "2026-10-09T18:57:58.000Z",
+    "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+    "pubDate": "2026-10-09T18:57:06.000Z",
+    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Renault et EDF veulent réduire la facture d’électricité des Français grâce aux voitures électriques",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633556-renault-et-edf-veulent-reduire-la-facture-d-electricite-des-francais-grace-aux-voitures-electriques.html",
+    "pubDate": "2026-10-09T18:55:00.000Z",
+    "summary": "Renault Group et EDF veulent que les propriétaires de voitures électriques paient moins cher leur électricité, simplement en laissant leur véhicule branché à la maison. Les deux groupes français ont s"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Un satellite soviétique \"mort\" vient de se désintégrer en orbite : pourquoi les experts s’inquiètent",
     "source": "Clubic",
@@ -225,15 +252,6 @@
     "summary": "La OnePlus Pad Lite, tablette d'entrée de gamme de OnePlus avec écran de 11 pouces et batterie de 9 340 mAh, est à retrouver pour 128,26 euros au lieu de 229,99 euros sur Aliexpress, grâce à un code p"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-    "pubDate": "2026-10-09T14:30:00.000Z",
-    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Ledger lance l’alerte sur un revendeur après des vols de cryptos estimés à 86 millions de dollars",
     "source": "Numerama",
@@ -268,15 +286,6 @@
     "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
     "pubDate": "2026-10-09T14:00:00.000Z",
     "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-    "pubDate": "2026-10-09T13:40:36.000Z",
-    "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce."
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.clubic.com/actualite-633481-windows-11-prepare-un-widget-bien-pratique-pour-garder-un-il-sur-l-autonomie-de-vos-peripheriques-sans-fil.html",
     "pubDate": "2026-10-09T12:48:00.000Z",
     "summary": "Microsoft teste un nouveau widget pour Windows 11, capable d'afficher au même endroit le niveau de batterie de votre PC et de vos périphériques connectés. Une petite nouveauté qui devrait faciliter le"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« OpenAI n’est pas une entreprise normale » : le licenciement de trois chercheurs en sécurité tourne au bras de fer public",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html",
-    "pubDate": "2026-10-09T12:30:02.000Z",
-    "summary": "OpenAI a publié une note pour défendre le licenciement de trois chercheurs de ses équipes de sécurité, qui contestent toute faute dans une lettre ouverte."
   }
 ]
