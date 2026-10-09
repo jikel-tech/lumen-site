@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Amazon a un problème avec ses satellites : il lui faut plus de fusées pour les envoyer dans l&#8217;espace",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2349889-amazon-a-un-probleme-avec-ses-satellites-il-lui-faut-plus-de-fusees-pour-les-envoyer-dans-lespace.html",
+    "pubDate": "2026-10-09T12:50:11.000Z",
+    "summary": "Amazon a construit son 1 000e satellite Leo, et son usine de Kirkland en produit désormais 27 par semaine. Seuls 396 sont en orbite, faute de fusées pour les lancer."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Windows 11 prépare un widget bien pratique pour garder un œil sur l’autonomie de vos périphériques sans fil",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633481-windows-11-prepare-un-widget-bien-pratique-pour-garder-un-il-sur-l-autonomie-de-vos-peripheriques-sans-fil.html",
+    "pubDate": "2026-10-09T12:48:00.000Z",
+    "summary": "Microsoft teste un nouveau widget pour Windows 11, capable d'afficher au même endroit le niveau de batterie de votre PC et de vos périphériques connectés. Une petite nouveauté qui devrait faciliter le"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Passer d’un iPhone à un Samsung Galaxy devient beaucoup plus simple chez Free",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/free/3279681_passer-dun-iphone-a-un-samsung-galaxy-devient-beaucoup-plus-simple-chez-free",
+    "pubDate": "2026-10-09T12:46:55.000Z",
+    "summary": "Free a étendu ce vendredi 9 octobre son transfert d'eSIM entre iPhone et Android aux smartphones Samsung sous One UI 8.5. Une semaine plus tôt, seuls les Google Pixel y avaient droit."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "JBL PartyBox Stage 320 : cette puissante enceinte de soirée perd 200 € chez Boulanger",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3037625_jbl-partybox-stage-320-cette-puissante-enceinte-de-soiree-perd-200-euros-chez-boulanger",
+    "pubDate": "2026-10-09T12:35:32.000Z",
+    "summary": "La JBL PartyBox Stage 320 s’impose comme une enceinte de soirée particulièrement réussie, comme en témoigne sa note de 9/10. Déjà très convaincante, elle devient encore plus intéressante en ce moment "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "« OpenAI n’est pas une entreprise normale » : le licenciement de trois chercheurs en sécurité tourne au bras de fer public",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html",
+    "pubDate": "2026-10-09T12:30:02.000Z",
+    "summary": "OpenAI a publié une note pour défendre le licenciement de trois chercheurs de ses équipes de sécurité, qui contestent toute faute dans une lettre ouverte."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "3,10 % brut pendant un an : combien rapporte réellement le livret boosté Bfor+ de BforBank ? [Sponso]",
     "source": "Numerama",
     "category": "culture",
@@ -226,24 +271,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "iPhone Air 2 : Apple voudrait le rendre encore plus fin tout en gonflant sa batterie",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3279167_iphone-air-2-apple-voudrait-le-rendre-encore-plus-fin-tout-en-gonflant-sa-batterie",
-    "pubDate": "2026-10-09T09:34:44.000Z",
-    "summary": "L'iPhone Air 2 mesurerait 5,2 millimètres d'épaisseur, soit 0,4 millimètre de moins que le premier iPhone Air. Il aurait malgré tout une batterie plus grosse que celle de son prédécesseur."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "« Un trésor national » : comment Elon Musk et Donald Trump ont scellé leur réconciliation",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/politique/3278997_un-tresor-national-comment-elon-musk-et-donald-trump-ont-scelle-leur-reconciliation",
-    "pubDate": "2026-10-09T09:26:38.000Z",
-    "summary": "Après s’être éloignés au cours de l’année dernière, Elon Musk et Donald Trump se sont retrouvés ce jeudi&nbsp;8&nbsp;octobre 2026 pour une cérémonie de remise de prix qui réunissait tout le gratin de "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "SpaceX se rapproche du \"réseau mobile le plus avancé au monde”, les télécoms historiques dégringolent",
     "source": "Clubic",
     "category": "logiciels",
@@ -259,15 +286,6 @@
     "url": "https://www.clubic.com/actualite-633409-sony-veut-tourner-la-page-du-disque-mais-les-joueurs-francais-ne-semblent-pas-prets-a-l-abandonner.html",
     "pubDate": "2026-10-09T09:15:00.000Z",
     "summary": "Alors que Sony prévoit d’abandonner progressivement les jeux PlayStation sur disque à partir de 2028, les ventes de Marvel’s Wolverine racontent une histoire quelque peu différente. En France, plus de"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "On a testé la Steam Machine de Valve : à plus de 1 000 €, la déception est difficile à avaler",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-632518-on-a-teste-la-steam-machine-de-valve-a-plus-de-1-000-la-deception-est-difficile-a-avaler.html",
-    "pubDate": "2026-10-09T09:01:00.000Z",
-    "summary": "Depuis son annonce en novembre dernier, la Steam Machine a fait couler beaucoup d’encre. Sur le papier, la promesse est intéressante, mais la crise que traverse le monde informatique avec des prix dél"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -313,24 +331,6 @@
     "url": "https://www.numerama.com/tech/2349909-il-est-desormais-interdit-de-harceler-claude-ai.html",
     "pubDate": "2026-10-09T08:30:08.000Z",
     "summary": "Anthropic met à jour sa politique d'utilisation et interdira à partir du 12 novembre les comportements cruels et répétés envers Claude. Une décision qui relance un débat sur les réseaux sociaux : pour"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Tesla renomme son FSD en Europe : signe d&#8217;une homologation prochaine ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2349885-tesla-renomme-son-fsd-en-europe-signe-dune-homologation-prochaine.html",
-    "pubDate": "2026-10-09T08:28:10.000Z",
-    "summary": "En Europe, le FSD s'appellera « Tesla Conduite Assistée ». Une manière de bien souligner que le logiciel est une aide à la conduite et non un système complètement autonome. Une décision qui intervient"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "La pédale de frein d’une voiture chinoise à plus de 100 000 € casse en plein test&#8230; à trois reprises",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2349921-la-pedale-de-frein-dune-voiture-chinoise-a-plus-de-100-000-e-casse-en-plein-test-a-trois-reprises.html",
-    "pubDate": "2026-10-09T08:28:02.000Z",
-    "summary": "Censé incarner le summum du luxe chinois selon Huawei et JAC, le van Maextro V800 vient de subir un sérieux revers particulièrement inquiétant. Lors d’un test indépendant, la pédale de frein de trois "
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
