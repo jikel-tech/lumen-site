@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cyberattaque contre e-votez : comment des bots ont perturbé le vote en ligne de la primaire de gauche",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633571-cyberattaque-contre-e-votez-comment-des-bots-ont-perturbe-le-vote-en-ligne-de-la-primaire-de-gauche.html",
+    "pubDate": "2026-10-09T20:13:00.000Z",
+    "summary": "Des attaquants ont saturé la plateforme e-votez de connexions automatisées dès l’ouverture du vote en ligne de la primaire de la gauche sociale-démocrate, ce vendredi. Une partie des électeurs a eu du"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2349889-amazon-a-un-probleme-avec-ses-satellites-il-lui-faut-plus-de-fusees-pour-les-envoyer-dans-lespace.html",
     "pubDate": "2026-10-09T12:50:11.000Z",
     "summary": "Amazon a construit son 1 000e satellite Leo, et son usine de Kirkland en produit désormais 27 par semaine. Seuls 396 sont en orbite, faute de fusées pour les lancer."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Windows 11 prépare un widget bien pratique pour garder un œil sur l’autonomie de vos périphériques sans fil",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633481-windows-11-prepare-un-widget-bien-pratique-pour-garder-un-il-sur-l-autonomie-de-vos-peripheriques-sans-fil.html",
-    "pubDate": "2026-10-09T12:48:00.000Z",
-    "summary": "Microsoft teste un nouveau widget pour Windows 11, capable d'afficher au même endroit le niveau de batterie de votre PC et de vos périphériques connectés. Une petite nouveauté qui devrait faciliter le"
   }
 ]
