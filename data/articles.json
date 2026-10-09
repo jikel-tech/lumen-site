@@ -1,6 +1,51 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Alerte sur l'emploi des jeunes : l'IA a détruit 75 000 CDI par an en France",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633421-alerte-sur-l-emploi-des-jeunes-l-ia-a-detruit-75-000-cdi-par-an-en-france.html",
+    "pubDate": "2026-10-09T11:43:00.000Z",
+    "summary": "On commence déjà à bien sentir les effets de l'IA sur le marché du travail. Et ce, particulièrement du côté des jeunes !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Même prix, 4 To en moins... La décision de Microsoft qui va faire enrager les abonnés 365",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633454-meme-prix-4-to-en-moins-la-decision-de-microsoft-qui-va-faire-enrager-les-abonnes-365.html",
+    "pubDate": "2026-10-09T11:31:00.000Z",
+    "summary": "Microsoft remplace le téraoctet de stockage OneDrive accordé à chaque membre des abonnements Family et Premium par une enveloppe commune de 2 To. Les familles les plus gourmandes devront donc composer"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "iPhone 18 Pro : Apple aurait déjà réduit ses commandes de 20 %, les prix commencent-ils à peser ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633439-iphone-18-pro-apple-aurait-deja-reduit-ses-commandes-de-20-les-prix-commencent-ils-a-peser.html",
+    "pubDate": "2026-10-09T11:28:00.000Z",
+    "summary": "Les iPhone 18 Pro et Pro Max rencontreraient une demande moins importante que prévu, poussant Apple à réduire certaines commandes de composants. La hausse des prix pourrait commencer à peser sur les v"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cdiscount fait chuter l&#8217;Echo Studio 2025, l&#8217;enceinte Dolby Atmos d&#8217;Amazon, à un prix inédit",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3279439_cdiscount-fait-chuter-lecho-studio-2025-lenceinte-dolby-atmos-damazon-a-un-prix-inedit",
+    "pubDate": "2026-10-09T11:18:00.000Z",
+    "summary": "L'Amazon Echo Studio (2025), la grande enceinte connectée Dolby Atmos d'Amazon, revient plus compacte et plus futée que la première génération. Elle est actuellement disponible à 175 euros au lieu de "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "MALFEX : comment des pirates ont piégé des milliers de téléchargements npm avec de banales images PNG",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633442-malfex-comment-des-pirates-ont-piege-des-milliers-de-telechargements-npm-avec-de-banales-images-png.html",
+    "pubDate": "2026-10-09T11:17:00.000Z",
+    "summary": "La campagne MALFEX exploite plusieurs bibliothèques npm pour diffuser des malwares sur Windows. Parmi ses méthodes, deux détournent des fichiers PNG, tantôt en leur empruntant leur apparence, tantôt e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les bulletins sont intacts, mais des électeurs sont bloqués : une attaque DDoS frappe la primaire socialiste",
     "source": "Numerama",
     "category": "culture",
@@ -190,15 +235,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Victimes de leur succès, ces quatre Mercedes électriques sont désormais impossibles à commander avant 2027",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/mercedes-benz/3279043_victimes-de-leur-succes-ces-quatre-mercedes-electriques-sont-desormais-impossibles-a-commander-avant-2027",
-    "pubDate": "2026-10-09T09:09:06.000Z",
-    "summary": "Malgré des ventes mondiales en baisse de 8 %, Mercedes voit ses ventes de voitures électriques s’envoler. À tel point que quatre modèles affichent déjà complet en Europe jusqu’à la fin de l’année."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "On a testé la Steam Machine de Valve : à plus de 1 000 €, la déception est difficile à avaler",
     "source": "Clubic",
     "category": "logiciels",
@@ -232,15 +268,6 @@
     "url": "https://www.numerama.com/pop-culture/2349685-one-piece-op-17-ou-acheter-les-nouvelles-mini-tins-luffy-shanks-et-boa-hancock-ts-03.html",
     "pubDate": "2026-10-09T08:45:00.000Z",
     "summary": "[Précommande] Les nouvelles Mini Tins One Piece Card Game TS-03 sortent le vendredi 30 octobre. Vous voulez mettre la main sur les boîtes Luffy, Shanks ou Boa Hancock ? Voici les liens à surveiller po"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Microsoft veut empêcher les agents IA de faire n'importe quoi sur votre PC, et sa solution est désormais disponible pour tous",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633403-microsoft-veut-empecher-les-agents-ia-de-faire-n-importe-quoi-sur-votre-pc-et-sa-solution-est-desormais-disponible-pour-tous.html",
-    "pubDate": "2026-10-09T08:42:00.000Z",
-    "summary": "Présentés en préversion en juin dernier, les Microsoft Execution Containers sont désormais disponibles en version stable. Microsoft en a profité pour détailler les moyens de limiter les accès des agen"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -295,33 +322,6 @@
     "url": "https://www.numerama.com/tech/2344991-apple-home-hub-tout-ce-que-lon-sait-de-lecran-pour-la-maison-attendu-en-octobre.html",
     "pubDate": "2026-10-09T08:26:11.000Z",
     "summary": "C'est officiel : Apple organise le 13 octobre à New York un événement baptisé « Welcome Home » consacré à la maison connectée. La marque devrait y lancer son premier écran pour la maison, une sorte d'"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Open source : le code vient d’Europe, mais les décisions se prennent ailleurs",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633394-rapport-open-source-linux-foundation.html",
-    "pubDate": "2026-10-09T08:25:00.000Z",
-    "summary": "Selon la Linux Foundation, 94% des organisations européennes jugent la souveraineté numérique importante, mais seules 37% participent à la gouvernance des projets open source dont elles dépendent."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ring dévoile sa première serrure connectée, avec une idée maligne pour éviter les pannes de batterie",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633397-ring-devoile-sa-premiere-serrure-connectee-avec-une-idee-maligne-pour-eviter-les-pannes-de-batterie.html",
-    "pubDate": "2026-10-09T08:09:00.000Z",
-    "summary": "Ring présente sa première serrure connectée, avec une solution originale pour éviter les mauvaises surprises liées à une batterie déchargée. Une simple molette permet de lui redonner suffisamment d’én"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le moment de vérité approche : Amazon a construit 1 000 satellites et s’apprête à lancer son Internet spatial",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633390-le-moment-de-verite-approche-amazon-a-construit-1-000-satellites-et-s-apprete-a-lancer-son-internet-spatial.html",
-    "pubDate": "2026-10-09T08:01:00.000Z",
-    "summary": "Après des années d’attente, Amazon se prépare enfin à passer à l’action, se prépare à lancer son service d’Internet par satellite d’ici à la fin de l’année. Et le géant de l’e-commerce n’a visiblement"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
