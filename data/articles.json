@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Si toute la glace de ce bassin en Antarctique venait à fondre, le niveau de la mer monterait de 3 à 4 mètres",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2349583-si-toute-la-glace-de-ce-bassin-venait-a-fondre-le-niveau-de-la-mer-monterait-de-3-a-4-metres.html",
+    "pubDate": "2026-10-10T14:30:00.000Z",
+    "summary": "Le bassin de Wilkes, en Antarctique, est gelé et en partie situé sous le niveau de la mer. Si toute sa glace venait à fondre en raison du changement climatique, le niveau global de la mer monterait de"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Anthropic: son IA envoie à tort un signalement de meurtre à la police de Philadelphie",
     "source": "Clubic",
     "category": "logiciels",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
     "pubDate": "2026-10-09T17:00:00.000Z",
     "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "pubDate": "2026-10-09T16:56:42.000Z",
-    "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co"
   }
 ]
