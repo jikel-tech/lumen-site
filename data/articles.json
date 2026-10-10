@@ -1,6 +1,24 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un VAE qui a tout d&#8217;un vélo de route classique : le Van Rysel E-EDR AF coûte 1 200 € de moins chez Decathlon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3279097_un-vae-qui-a-tout-dun-velo-de-route-classique-le-van-rysel-e-edr-af-coute-1-200-e-de-moins-chez-decathlon",
+    "pubDate": "2026-10-10T13:11:00.000Z",
+    "summary": "Le Van Rysel E-EDR AF, vélo de route électrique de Decathlon équipé d'un groupe SRAM Apex AXS en 1x12 et d'un kit Mahle X35 très discret, est actuellement bradé à 1 599,99 euros au lieu de 2 799,99 eu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Sur Mars, cet étrange nuage est dû à un phénomène physique unique dans le Système Solaire",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2349127-sur-mars-cet-etrange-nuage-est-du-a-un-phenomene-physique-unique-dans-le-systeme-solaire.html",
+    "pubDate": "2026-10-10T13:00:00.000Z",
+    "summary": "Un nuage qui peut s'étirer sur 1 800 kilomètres apparaît régulièrement sur Mars, avant de disparaître. Depuis des années, les scientifiques cherchent à comprendre pourquoi, et une étude parue dans Nat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "La France finance un consortium pour développer son cloud de confiance et son IA",
     "source": "Clubic",
     "category": "logiciels",
@@ -226,15 +244,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Notre sélection des meilleurs écrans PC pas cher : 5 modèles à moins de 400 euros",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/3262665_ecran-pc-pas-cher-les-meilleurs-modeles-a-moins-de-400-e",
-    "pubDate": "2026-10-10T08:00:00.000Z",
-    "summary": "Tout PC de bureau a besoin d'un écran. Que ce soit pour jouer ou pour travailler, il est important de choisir le moniteur adapté – mais plus compliqué de le faire rentrer dans un budget modéré."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test Acer Predator XB273U F5 : G-Sync Pulsar change-t-il vraiment la donne ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
     "pubDate": "2026-10-09T16:45:00.000Z",
     "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "pubDate": "2026-10-09T16:40:14.000Z",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
   }
 ]
