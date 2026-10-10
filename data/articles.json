@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "pubDate": "2026-10-10T16:25:42.000Z",
+    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Avast a repéré plus de 200 sites liés à GTA 6 en 24 heures, et beaucoup sont dangereux",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633457-avast-a-repere-plus-de-200-sites-lies-a-gta-6-en-24-heures-et-beaucoup-sont-dangereux.html",
+    "pubDate": "2026-10-10T16:25:00.000Z",
+    "summary": "À six semaines de sa sortie, GTA 6 attire plus que jamais les escrocs. Avast dit avoir recensé plus de 200 noms de domaine liés au jeu en 24 heures, dont une vingtaine jugés à risque, avec de fausses "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Une IA présentée comme une femme reçoit 10 % d’argent en moins pour le même travail",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633613-une-ia-presentee-comme-une-femme-recoit-10-d-argent-en-moins-pour-le-meme-travail.html",
+    "pubDate": "2026-10-10T16:21:00.000Z",
+    "summary": "Johan a épaulé 93 salariés, Johanna 96 autres, sur des exercices de bureau menés en réalité virtuelle et avec un modèle de langage identique. Au moment de partager une enveloppe de 4 francs suisses av"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cu",
     "title": "Les 10 animes incontournables de l&#8217;automne 2026, avec le retour attendu des Carnets de l’Apothicaire",
     "source": "Numerama",
@@ -190,15 +217,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Alerte pour Starlink ! La Russie pourrait utiliser ses satellites comme des armes dans l'espace",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633595-alerte-pour-starlink-la-russie-pourrait-utiliser-ses-satellites-comme-des-armes-dans-l-espace.html",
-    "pubDate": "2026-10-10T12:02:00.000Z",
-    "summary": "La guerre hybride entre l'Occident et la Russie s'inviterait aussi dans l'espace. Moscou a ainsi déjà utilisé ses satellites pour gêner ceux de ses adversaires."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test de Star Wars Galactic Racer : et si le meilleur jeu Star Wars était un jeu de course ?",
     "source": "Numerama",
     "category": "culture",
@@ -214,15 +232,6 @@
     "url": "https://www.frandroid.com/bons-plans/3278193_200-euros-de-moins-pour-le-dyson-v12-detect-slim-absolute-livre-avec-tous-ses-accessoires",
     "pubDate": "2026-10-10T11:18:00.000Z",
     "summary": "Le Dyson V12 Detect Slim Absolute est un aspirateur balai qui est fourni avec de nombreux accessoires pour répondre à différents besoins, dont une brosse avec une lumière pour détecter chaque poussièr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Meta a-t-elle précipité le lancement de Muse pour devancer un concurrent ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633577-meta-connaissait-les-risques-de-securite-de-son-agent-ia-avant-son-lancement.html",
-    "pubDate": "2026-10-10T11:15:00.000Z",
-    "summary": "Pendant les tests de Muse, l’agent IA de Meta a notamment modifié le mot de passe d’un utilisateur sans son accord. Mark Zuckerberg a malgré tout ordonné son lancement en août, et ses deux responsable"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "pubDate": "2026-10-09T21:41:29.000Z",
     "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "pubDate": "2026-10-09T19:36:56.000Z",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
   }
 ]
