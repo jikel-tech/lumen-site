@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Anthropic: son IA envoie à tort un signalement de meurtre à la police de Philadelphie",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633601-anthropic-son-ia-envoie-a-tort-un-signalement-de-meurtre-a-la-police-de-philadelphie.html",
+    "pubDate": "2026-10-10T14:08:00.000Z",
+    "summary": "L'intelligence artificielle peut clairement créer des problèmes à l'avenir. Une nouvelle preuve avec cet incident dû à une IA d'Anthropic !"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "On a testé les panneaux Nanoleaf avec le module Philips Hue : un mariage réussi, mais exclusif",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/philips/3272869_on-a-teste-les-panneaux-nanoleaf-avec-le-module-philips-hue-un-mariage-reussi-mais-exclusif",
+    "pubDate": "2026-10-10T14:00:00.000Z",
+    "summary": "Philips Hue vend un kit de neuf panneaux hexagonaux Nanoleaf avec son nouveau module d'applique murale à 239,98 euros, pour piloter ce mur lumineux depuis l'application Hue. Une fois le module Hue bra"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "pubDate": "2026-10-10T14:00:00.000Z",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Anthropic coupe l’accès à Internet de ses IA pendant leurs tests après plusieurs dérapages",
     "source": "Clubic",
     "category": "logiciels",
@@ -235,24 +262,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Fin du permis à vie : la France a jusqu’à fin 2028 pour choisir entre 10 et 15 ans",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/voitures-electriques/3280553_fin-du-permis-a-vie-la-france-a-jusqua-fin-2028-pour-choisir-entre-10-et-15-ans",
-    "pubDate": "2026-10-10T08:29:40.000Z",
-    "summary": "La directive européenne 2025/2205 limite à 15 ans la validité du permis voiture et moto, avec un contrôle de santé ou un questionnaire à chaque renouvellement. La France a jusqu’au 26 novembre 2028 po"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Le FBI alerte sur des pirates qui vident des boîtes mail avec des outils gratuits et des failles anciennes",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633568-le-fbi-alerte-sur-des-pirates-qui-vident-des-boites-mail-avec-des-outils-gratuits-et-des-failles-anciennes.html",
-    "pubDate": "2026-10-10T08:24:00.000Z",
-    "summary": "Des pirates informatiques liés à l’entreprise chinoise Integrity Technology Group pillent depuis 2021 les messageries d’administrations et d’hôpitaux. Dix agences de sept pays, dont le FBI et le rense"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les géants de l’IA préparent déjà l’après-catastrophe et redoutent deux scénarios en particulier",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "pubDate": "2026-10-09T16:56:42.000Z",
     "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Danu Robotics&#8217; fight to build a better recycling robot",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "pubDate": "2026-10-09T16:45:00.000Z",
-    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
   }
 ]
