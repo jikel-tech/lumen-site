@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Test de Star Wars Galactic Racer : et si le meilleur jeu Star Wars était un jeu de course ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2349101-test-de-star-wars-galactic-racer-et-si-le-meilleur-jeu-star-wars-etait-un-jeu-de-course.html",
+    "pubDate": "2026-10-10T11:31:00.000Z",
+    "summary": "Un studio composé d'anciens développeurs et développeuses de Burnout qui se lance dans un jeu de courses dans l'univers Star Wars, on s'attendait à ce que ça fasse des étincelles. Mais Galactic Racer "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "200 euros de moins pour le Dyson V12 Detect Slim Absolute, livré avec tous ses accessoires",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3278193_200-euros-de-moins-pour-le-dyson-v12-detect-slim-absolute-livre-avec-tous-ses-accessoires",
+    "pubDate": "2026-10-10T11:18:00.000Z",
+    "summary": "Le Dyson V12 Detect Slim Absolute est un aspirateur balai qui est fourni avec de nombreux accessoires pour répondre à différents besoins, dont une brosse avec une lumière pour détecter chaque poussièr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Meta a-t-elle précipité le lancement de Muse pour devancer un concurrent ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633577-meta-connaissait-les-risques-de-securite-de-son-agent-ia-avant-son-lancement.html",
+    "pubDate": "2026-10-10T11:15:00.000Z",
+    "summary": "Pendant les tests de Muse, l’agent IA de Meta a notamment modifié le mot de passe d’un utilisateur sans son accord. Mark Zuckerberg a malgré tout ordonné son lancement en août, et ses deux responsable"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Une RTX 5070 sous les 1500€ : le MSI Katana 15 HX à 1449,99 € à la Fnac, que vaut l’offre ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -226,24 +253,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "20 000 serveurs VPN contre 1 000, faut-il vraiment choisir le plus gros réseau ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/dossier-633529-serveurs-vpn-contre-1-000-faut-il-vraiment-choisir-le-plus-gros-reseau.html",
-    "pubDate": "2026-10-10T07:02:00.000Z",
-    "summary": "Des dizaines de milliers de serveurs chez l’un, vingt fois moins chez l’autre. À première vue, le choix semble vite fait. Pourtant, compter les serveurs d’un VPN ne dit pas combien d’utilisateurs ils "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nvidia GeForce Now sur&#8230; Nintendo 3DS ? Une application 100 % open source fait tourner des jeux Steam et Xbox sur la console portable",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/console/cloud-gaming/3280519_nvidia-geforce-now-sur-nintendo-3ds-une-application-100-open-source-fait-tourner-des-jeux-steam-et-xbox-sur-la-console-portable",
-    "pubDate": "2026-10-10T06:58:00.000Z",
-    "summary": "Une nouvelle application open source permet de jouer en cloud gaming avec Nvidia GeForce Now sur la Nintendo 3DS. Le bricolage a tout d'un projet à la Frankenstein, mais il fonctionne et ramène la con"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Spy X Family tome 17 : où précommander l’édition collector ?",
     "source": "Numerama",
     "category": "culture",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
     "pubDate": "2026-10-09T16:40:14.000Z",
     "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Tesla renames &#8216;Full Self-Driving&#8217; to &#8216;Tesla Assisted Driving&#8217; in Europe",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-    "pubDate": "2026-10-09T16:07:26.000Z",
-    "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software."
   }
 ]
