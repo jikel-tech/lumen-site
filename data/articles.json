@@ -1,5 +1,14 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Cyberattaque : les données du programme de fidélité Quick ont fuité",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633553-cyberattaque-les-donnees-du-programme-de-fidelite-quick-ont-fuite.html",
+    "pubDate": "2026-10-10T05:03:00.000Z",
+    "summary": "Les cyberattaques n'épargnent personne. Cette fois, c'est l'enseigne de restauration rapide Quick qui annonce avoir été victime d'une fuite de données."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
     "source": "TechCrunch",
@@ -349,14 +358,5 @@
     "url": "https://www.frandroid.com/produits-android/3279659_canal-relance-sport-une-plateforme-gratuite-va-qui-ravir-les-fans-de-sport",
     "pubDate": "2026-10-09T13:01:20.000Z",
     "summary": "Environ 11 ans après avoir éteint la chaîne Sport+, Canal+ la fait renaître de ses cendres sous la forme d'une plateforme pensée pour le mobile, accessible à tous et sans abonnement. Que peut-on y tro"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Amazon a un problème avec ses satellites : il lui faut plus de fusées pour les envoyer dans l&#8217;espace",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2349889-amazon-a-un-probleme-avec-ses-satellites-il-lui-faut-plus-de-fusees-pour-les-envoyer-dans-lespace.html",
-    "pubDate": "2026-10-09T12:50:11.000Z",
-    "summary": "Amazon a construit son 1 000e satellite Leo, et son usine de Kirkland en produit désormais 27 par semaine. Seuls 396 sont en orbite, faute de fusées pour les lancer."
   }
 ]
