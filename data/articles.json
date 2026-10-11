@@ -1,6 +1,33 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Un paramètre d’IA, qu’est-ce que c’est et faut-il vraiment en compter des milliards ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/dossier-633505-un-parametre-d-ia-qu-est-ce-que-c-est-et-faut-il-vraiment-en-compter-des-milliards.html",
+    "pubDate": "2026-10-11T14:18:00.000Z",
+    "summary": "Un modèle d’IA peut compter dix fois plus de paramètres qu’un autre sans produire de meilleures réponses. Ces petits coefficients influencent ses calculs, mobilisent parfois une mémoire considérable e"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Les agents IA qui négocient vos factures pourraient coûter des milliards aux entreprises",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633643-les-agents-ia-qui-negocient-vos-factures-pourraient-couter-des-milliards-aux-entreprises.html",
+    "pubDate": "2026-10-11T14:15:00.000Z",
+    "summary": "Aux États-Unis, des agents IA personnels épluchent les relevés bancaires de leurs utilisateurs à la recherche d’abonnements oubliés ou en double, puis discutent directement avec les services clients p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNo",
+    "title": "What to know about the landmark Warner Bros. Discovery sale",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+    "pubDate": "2026-10-11T14:15:00.000Z",
+    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "PC portable étudiant : quel modèle choisir en 2026, selon votre budget ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -244,15 +271,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Nouveau Volkswagen ID. Tiguan : le best-seller lui aussi passe à l’électrique (et succède aux ID.4 et ID.5)",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633493-nouveau-volkswagen-id-tiguan-le-best-seller-passe-a-l-electrique-et-succede-aux-id-4-et-id-5.html",
-    "pubDate": "2026-10-11T07:49:00.000Z",
-    "summary": "Volkswagen poursuit sa révolution électrique avec un nom bien connu des automobilistes. Dévoilé à l’occasion de sa première mondiale, le nouvel ID. Tiguan remplacera les ID.4 et ID.5 dès 2027. Un SUV "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Les Sony WF-1000XM5 sont en forte promo, mais est-ce suffisant pour rivaliser avec les XM6 ?",
     "source": "Frandroid",
     "category": "smartphones",
@@ -268,15 +286,6 @@
     "url": "https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html",
     "pubDate": "2026-10-11T07:20:00.000Z",
     "summary": "Cette semaine, l'IA a beaucoup fait parler. OpenAI a impressionné le monde scientifique avec ses 772 manuscrits mathématiques, tandis que Mistral AI a fait son retour dans la course avec son premier m"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Test ASUS Zenbook 14 2026 : les bons compromis aux bons endroits ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/test-produit-631546-test-asus-zenbook-14-2026-les-bons-compromis-aux-bons-endroits.html",
-    "pubDate": "2026-10-11T07:02:00.000Z",
-    "summary": "Annoncé au Computex 2026, dans la foulée de plusieurs modèles auxquels il s’oppose frontalement sur l’entrée de gamme, le nouvel ASUS Zenbook 14 fait partie des modèles abordables, au look premium, la"
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/pop-culture/2346177-10-animes-de-lautomne-2026-a-suivre.html",
     "pubDate": "2026-10-10T16:01:00.000Z",
     "summary": "Après un bel été riche en animes, l'automne arrive avec son lot de contenus à ne pas louper cette saison. Voici notre sélection à ne pas louper sur Netflix et Crunchyroll."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Éviter la suspension du permis, préjugés sur l&#8217;électrique balayés et l&#8217;Allemagne veut homologuer rapidement le Tesla FSD : le récap&#8217; Vroom de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2350705-eviter-la-suspension-du-permis-prejuges-sur-lelectrique-balayes-et-lallemagne-veut-homologuer-rapidement-le-tesla-fsd-le-recap-vroom-de-la-semaine.html",
-    "pubDate": "2026-10-10T15:12:00.000Z",
-    "summary": "À la une sur Vroom cette semaine : le gouvernement généralise la suspension du permis pour usage du téléphone au volant, l’Ademe débunk trois idées reçues sur la voiture électrique et le ministre alle"
   }
 ]
