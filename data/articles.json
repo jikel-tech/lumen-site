@@ -1,6 +1,15 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cu",
+    "title": "Percées mathématiques d&#8217;OpenAI, modèle Mistral Large 4 et Orange Home Cinema – le récap’ tech de la semaine",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html",
+    "pubDate": "2026-10-11T07:20:00.000Z",
+    "summary": "Cette semaine, l'IA a beaucoup fait parler. OpenAI a impressionné le monde scientifique avec ses 772 manuscrits mathématiques, tandis que Mistral AI a fait son retour dans la course avec son premier m"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
     "title": "Test ASUS Zenbook 14 2026 : les bons compromis aux bons endroits ?",
     "source": "Clubic",
     "category": "logiciels",
@@ -349,14 +358,5 @@
     "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html",
     "pubDate": "2026-10-10T08:49:19.000Z",
     "summary": "Branché sur les assistants de code, l’outil open source REA permet de faire décortiquer un programme par une IA en lui posant simplement une question. Plébiscité en quelques jours, il soulève déjà des"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Les géants de l’IA préparent déjà l’après-catastrophe et redoutent deux scénarios en particulier",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2350763-les-geants-de-lia-preparent-deja-lapres-catastrophe-et-redoutent-deux-scenarios-en-particulier.html",
-    "pubDate": "2026-10-10T07:31:37.000Z",
-    "summary": "Selon Axios, les dirigeants d’Anthropic, d’OpenAI et d’autres entreprises de l’IA simulent en privé la crise politique qui suivrait un premier accident majeur causé par l’IA."
   }
 ]
