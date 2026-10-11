@@ -1,5 +1,32 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "La fête ne s&#8217;arrête jamais avec cette enceinte JBL Partybox Encore 2 100 W dotée d&#8217;un micro sans fil en promo à moins de 280 €",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3279767_la-fete-ne-sarrete-jamais-avec-cette-enceinte-jbl-partybox-encore-2-100-w-dotee-dun-micro-sans-fil-en-promo-a-moins-de-280-e",
+    "pubDate": "2026-10-11T15:37:00.000Z",
+    "summary": "La JBL Partybox Encore 2 est une enceinte de soirée à vocation karaoké et accompagnement musical que vous retrouvez en promo à 279,99 euros au lieu de 349,99 euros sur Boulanger."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "Où regarder tous les films James Bond en streaming en France ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2350109-ou-regarder-tous-les-films-james-bond-en-streaming-en-france.html",
+    "pubDate": "2026-10-11T15:30:00.000Z",
+    "summary": "Avis aux amateurs de martinis et de gadgets hors de prix : se faire un marathon 007 en France relevait encore récemment du casse-tête juridique. Entre contrats d'exclusivité temporaires et valse des d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cu",
+    "title": "De l’argent pour doper le rendement des cellules solaires : la découverte des chercheurs",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633649-des-chercheurs-utilisent-largent-pour-ameliorer-le-rendement-des-cellules-solaires.html",
+    "pubDate": "2026-10-11T15:15:00.000Z",
+    "summary": "À l’Institut de sciences photoniques de Barcelone (ICFO), une équipe de physiciens a remplacé l’électrode transparente d’une cellule solaire organique par un film d’argent de six nanomètres. Grâce à c"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNo",
     "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
     "source": "TechCrunch",
@@ -262,15 +289,6 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cu",
-    "title": "Budget 2027 : les députés veulent faire déclarer les wallets crypto, malgré le rejet du texte en commission",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633619-fiscalite-des-cryptos-en-2027-voici-ce-que-les-deputes-veulent-changer-et-pourquoi.html",
-    "pubDate": "2026-10-11T08:25:00.000Z",
-    "summary": "Les détenteurs de cryptomonnaies pourraient bientôt devoir déclarer au fisc leur portefeuille auto-hébergé, dès 100 000 euros. La commission des finances de l’Assemblée nationale a voté cette mesure a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
     "title": "Donner vie à ses cartes Pokémon et Yu-Gi-Oh!, vous en rêviez ? Des fans l&#8217;ont fait avec leurs lunettes connectées",
     "source": "Frandroid",
     "category": "smartphones",
@@ -304,15 +322,6 @@
     "url": "https://www.numerama.com/vroom/2350629-ces-politiques-prets-a-sacrifier-la-voiture-electrique-pour-quelques-centimes-a-la-pompe.html",
     "pubDate": "2026-10-11T06:23:00.000Z",
     "summary": "Pour gratter quelques euros sur les pleins, faut-il saboter la voiture électrique ? C’est l’étrange idée qui s’invite dans la présidentielle. De quoi faire le point de la situation dans l'édito de la "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cu",
-    "title": "Ce dispositf de Govee simule l&#8217;effet Ambilight sans casser sa tirelire grâce à cette réduction d&#8217;Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3279799_ce-dispositf-de-govee-simule-leffet-ambilight-sans-casser-sa-tirelire-grace-a-cette-reduction-damazon",
-    "pubDate": "2026-10-11T05:50:00.000Z",
-    "summary": "Le Govee Rétroéclairage TV3 est une bande LED à placer à l'arrière de vos téléviseurs qui retranscrira les couleurs diffusées à l'écran pour moins de 100 euros si vous profitez de cette promotion d'Am"
   },
   {
     "id": "aHR0cHM6Ly90ZWNo",
@@ -349,14 +358,5 @@
     "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
     "pubDate": "2026-10-10T17:00:00.000Z",
     "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNo",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "pubDate": "2026-10-10T16:25:42.000Z",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
   }
 ]
