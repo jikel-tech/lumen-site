@@ -1,5 +1,18 @@
 [
   {
+    "id": "8de94558238b",
+    "title": "Nouvelle mise à jour pour le répéteur Wi-Fi Freebox, qui répare un bug sur l'importante bande 5 GHz",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633841-nouvelle-mise-a-jour-pour-le-repeteur-wi-fi-freebox-qui-repare-un-bug-sur-l-importante-bande-5-ghz.html",
+    "pubDate": "2026-10-12T17:01:00.000Z",
+    "summary": "Free a déployé ce lundi une mise à jour de son répéteur Wi-Fi pour Freebox. Le nouveau firmware corrige un bug rare touchant la bande 5 GHz et ajoute des correctifs de sécurité, le tout avec une…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "3131235ed534",
     "title": "Plus besoin de retenir vos mots de passe : Proton Pass Plus coûte 2,49€ par mois",
     "source": "Clubic",
@@ -1021,19 +1034,6 @@
     "url": "https://www.clubic.com/actualite-633730-torrentclaw-ce-moteur-cherche-les-torrents-infectes-et-decouvre-que-vlc-est-souvent-detourne.html",
     "pubDate": "2026-10-12T10:15:00.000Z",
     "summary": "Des torrents malveillants utilisent une copie parfaitement légitime de VLC pour charger une bibliothèque infectée. Un moteur de recherche spécialisé en a repéré plusieurs dizaines en analysant près…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4b871379b0df",
-    "title": "Conduite assistée : le géant chinois XPeng promet un système qui s’adapte aux pays européens en 2 semaines",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633712-conduite-assistee-le-geant-chinois-xpeng-promet-une-technologie-qui-s-adapte-a-l-europe-en-deux-semaines.html",
-    "pubDate": "2026-10-12T10:06:00.000Z",
-    "summary": "Décidément, les constructeurs chinois convoitent toujours autant le Vieux Continent. XPeng l’assure : elle est capable d’ajuster sa conduite assistée à chaque nouveau pays européen en deux semaines…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
