@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Intelligence artificielle">
+<defs><radialGradient id="g" cx=".5" cy=".5" r=".8"><stop offset="0" stop-color="#16301F"/><stop offset="1" stop-color="#0B0F0D"/></radialGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<g stroke="#7FFFB0" stroke-opacity=".45" stroke-width="1.5" fill="none">
+<path d="M120 120L300 80L470 150L650 90M120 120L220 270L300 80M220 270L400 330L470 150M400 330L610 300L650 90M470 150L610 300M220 270L120 380M400 330L330 410M610 300L700 390M300 80L400 330"/></g>
+<g fill="#0B0F0D" stroke="#7FFFB0" stroke-width="2.5"><circle cx="120" cy="120" r="14"/><circle cx="300" cy="80" r="18"/><circle cx="470" cy="150" r="22"/><circle cx="650" cy="90" r="14"/><circle cx="220" cy="270" r="16"/><circle cx="400" cy="330" r="24"/><circle cx="610" cy="300" r="17"/><circle cx="120" cy="380" r="9"/><circle cx="330" cy="410" r="9"/><circle cx="700" cy="390" r="9"/></g>
+<circle cx="470" cy="150" r="9" fill="#7FFFB0"/><circle cx="400" cy="330" r="11" fill="#FFB25E"/><circle cx="300" cy="80" r="7" fill="#7FFFB0" opacity=".7"/>
+</svg>

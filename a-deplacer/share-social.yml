@@ -1,0 +1,60 @@
+name: Partage automatique Facebook / X
+
+on:
+  schedule:
+    - cron: '0 8,12,18 * * *'   # 9 h, 13 h et 19 h au Cameroun
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulation (n'envoie rien)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lumen-data
+  cancel-in-progress: false
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Installer les dépendances
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Publier une actu
+        working-directory: scripts
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: node share-social.js
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "lumen-bot"
+          git config user.email "lumen-bot@users.noreply.github.com"
+          git add data/shared.json
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer."
+          else
+            git commit -m "data: actu partagée [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi

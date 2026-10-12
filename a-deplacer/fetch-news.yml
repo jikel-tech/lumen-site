@@ -1,0 +1,51 @@
+name: Collecte des actus LUMen
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # toutes les 30 minutes (GitHub peut décaler de quelques minutes)
+  workflow_dispatch:           # bouton "Run workflow" pour tester à la main
+
+permissions:
+  contents: write
+
+# Un seul workflow à la fois qui écrit dans data/ : évite les conflits de push.
+concurrency:
+  group: lumen-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Installer les dépendances
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Collecter les flux et résumer
+        working-directory: scripts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node fetch-news.js
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "lumen-bot"
+          git config user.email "lumen-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer."
+          else
+            git commit -m "data: mise à jour des actus [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi

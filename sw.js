@@ -1,44 +1,52 @@
-// Service worker LUMEN — cache la coquille du site pour un usage hors-ligne,
-// mais va toujours chercher les actus fraîches sur le réseau en priorité.
+/* Service worker LUMen : site installable (PWA) + lecture hors ligne de la dernière version vue.
+   Il inclut aussi le worker OneSignal pour les notifications push (sans effet tant que OneSignal n'est pas configuré).
+   Pense à changer VERSION quand tu modifies index.html, app.js ou style.css pour forcer la mise à jour du cache. */
+const VERSION = 'lumen-v2';
+const SHELL = [
+  './', 'index.html', 'manifest.json',
+  'assets/style.css', 'assets/app.js', 'assets/config.js',
+  'assets/categories/default.svg', 'assets/categories/smartphones.svg', 'assets/categories/ia.svg',
+  'assets/categories/logiciels.svg', 'assets/categories/culture.svg', 'assets/categories/afrique.svg',
+  'icons/icon-192.png',
+];
 
-const CACHE_NAME = 'lumen-shell-v1';
-const SHELL_FILES = ['/', '/index.html', '/manifest.json'];
+try { importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js'); } catch (e) { /* hors ligne ou bloqué : sans conséquence */ }
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(SHELL_FILES))
-  );
-  self.skipWaiting();
+  event.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k)))
-    )
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k))))
+      .then(() => self.clients.claim())
   );
-  self.clients.claim();
 });
 
 self.addEventListener('fetch', (event) => {
-  const url = new URL(event.request.url);
+  const req = event.request;
+  const url = new URL(req.url);
+  if (req.method !== 'GET' || url.origin !== self.location.origin) return; // GitHub, Google, etc. : on ne touche pas
+  if (url.pathname.startsWith('/.netlify/')) return; // fonctions serveur : jamais en cache
 
-  // Les données d'actus : toujours réseau d'abord (fraîcheur), cache en secours si hors-ligne.
-  if (url.pathname.endsWith('data/articles.json')) {
+  // Pages : réseau d'abord, cache en secours
+  if (req.mode === 'navigate') {
     event.respondWith(
-      fetch(event.request)
-        .then((res) => {
-          const clone = res.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
-          return res;
-        })
-        .catch(() => caches.match(event.request))
+      fetch(req)
+        .then((res) => { const copy = res.clone(); caches.open(VERSION).then((c) => c.put(req, copy)); return res; })
+        .catch(() => caches.match(req).then((r) => r || caches.match('index.html')))
     );
     return;
   }
 
-  // Le reste (coquille du site) : cache d'abord, réseau en secours.
+  // Le reste : cache immédiat + mise à jour en arrière-plan
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request))
+    caches.match(req).then((cached) => {
+      const network = fetch(req)
+        .then((res) => { if (res.ok) { const copy = res.clone(); caches.open(VERSION).then((c) => c.put(req, copy)); } return res; })
+        .catch(() => cached);
+      return cached || network;
+    })
   );
 });

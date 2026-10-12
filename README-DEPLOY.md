@@ -1,88 +1,63 @@
-# LUMEN — Guide de déploiement (100% gratuit)
+# LUMen — guide de mise en ligne
 
-Ce site est prêt à héberger. Cinq étapes, environ 30 minutes au total.
+Ce dossier contient les phases 1, 3, 4, 5 et 6 de la feuille de route, plus le bouton **S'abonner / Se désabonner**.
+La phase 2 (envoi de la newsletter) n'est pas touchée : garde ton `scripts/send-newsletter.js` et ton workflow `send-newsletter.yml` tels quels.
 
-## 1. Mettre le site sur GitHub (gratuit)
+## 1. Mettre le code sur GitHub
 
-1. Créez un compte sur github.com si vous n'en avez pas.
-2. Créez un nouveau repository **public** (ex: `lumen-site`).
-3. Téléversez tous les fichiers de ce dossier dans le repository (glisser-déposer
-   sur la page GitHub, ou via `git push` si vous connaissez Git).
+1. Copie le contenu de ce dossier dans ton dépôt `jikel-tech/lumen-site` (les fichiers existants du même nom sont remplacés).
+2. **Ne remplace pas** `scripts/send-newsletter.js` ni `.github/workflows/send-newsletter.yml`.
+3. Si ton `scripts/package.json` contient d'autres dépendances que `fast-xml-parser` (utilisées par `send-newsletter.js`), **fusionne-les** dans celui fourni ici au lieu de l'écraser.
+4. Ne copie pas `data/articles.json` : il existe déjà dans ton dépôt et est tenu à jour par le robot.
 
-> Important : le dépôt doit être **public** pour que GitHub Actions (l'automatisation)
-> reste gratuit et illimité. Un dépôt privé a un quota gratuit limité par mois.
+## 2. Secrets GitHub (Settings → Secrets and variables → Actions)
 
-## 2. Héberger le site (gratuit) — GitHub Pages
+| Secret | Pour quoi | Obligatoire ? |
+|---|---|---|
+| `GEMINI_API_KEY` | résumés des actus + analyse hebdomadaire | déjà en place |
+| `BREVO_API_KEY` | newsletter quotidienne | déjà en place |
+| `FB_PAGE_ID`, `FB_PAGE_TOKEN` | partage auto sur une page Facebook | non (ignoré si absent) |
+| `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` | partage auto sur X | non (ignoré si absent) |
+| `ONESIGNAL_APP_ID`, `ONESIGNAL_REST_API_KEY` | notification push du matin | non (ignoré si absent) |
 
-1. Dans le repository, allez dans **Settings → Pages**.
-2. Source : "Deploy from a branch" → branche `main`, dossier `/root`.
-3. Votre site sera en ligne sous 2 minutes à l'adresse
-   `https://votre-nom.github.io/lumen-site/`.
+Les workflows de partage et de push ont un bouton « Run workflow » en **mode simulation par défaut** : lance-les d'abord ainsi pour voir ce qui serait publié.
 
-Alternative équivalente : Netlify ou Vercel (glisser-déposer le dossier), aussi gratuits.
+## 3. Variables Netlify (Site configuration → Environment variables)
 
-## 3. Activer la mise à jour automatique toutes les 30 min
+Pour que « S'abonner / Se désabonner » fonctionne directement sur le site :
 
-Rien à faire ! Le fichier `.github/workflows/update-news.yml` s'active automatiquement
-dès que le repository est en ligne. GitHub Actions est gratuit et illimité pour les
-dépôts publics.
+- `BREVO_API_KEY` : la même clé Brevo
+- `BREVO_LIST_ID` : le numéro de ta liste de contacts (Brevo → Contacts → Listes)
+- optionnel, pour la double confirmation par email : `BREVO_DOI_TEMPLATE_ID` (modèle d'email de confirmation Brevo)
 
-Pour vérifier que ça tourne : onglet **Actions** du repository → vous verrez
-"Mise à jour des actus LUMEN" s'exécuter toutes les 30 minutes.
+Tant que ces variables manquent, le site retombe sur ton formulaire Brevo hébergé (rien ne casse).
 
-Pour la déclencher tout de suite sans attendre : onglet Actions → cliquez sur
-le workflow → "Run workflow".
+## 4. À renseigner dans `assets/config.js`
 
-### Résumés par IA (optionnel)
+- `GA_ID` : ton ID Google Analytics 4 (`G-…`). Tant que c'est `G-XXXXXXXXXX`, rien n'est chargé.
+- `ONESIGNAL_APP_ID` : ton App ID OneSignal. Vide = le bouton cloche reste caché.
 
-Par défaut, le site affiche un extrait court de chaque article source (fiable,
-gratuit, sans clé à configurer). Si vous voulez de vrais résumés en 3 phrases
-générés par IA :
+## 5. Ce que fait chaque phase
 
-1. Créez une clé API sur console.anthropic.com (un petit budget est nécessaire
-   au-delà de l'offre d'essai — ce n'est pas gratuit à volume élevé, contrairement
-   au reste du système).
-2. Dans le repository GitHub : **Settings → Secrets and variables → Actions →
-   New repository secret**, nom `ANTHROPIC_API_KEY`, collez votre clé.
-3. Le script bascule automatiquement sur les résumés IA la fois suivante.
+- **Phase 1 – solidifier** : doublons fusionnés (même sujet couvert par plusieurs sources → badge « N sources »), flux en panne ignorés sans bloquer les autres (alerte dans GitHub Actions après 6 échecs), résumés IA mis en cache (plus d'appels répétés toutes les 30 min), anti-spam du formulaire (piège invisible, délai minimal, limite par IP, contrôle d'origine). Un bug d'identifiants (collisions entre articles de sites en `www`) est corrigé.
+- **Phase 3 – visuels** : un visuel dessiné par rubrique (`assets/categories/*.svg`), sans image générée par IA.
+- **Phase 4 – Google Analytics 4** : chargé seulement avec un vrai ID et si le navigateur n'envoie pas « Ne pas suivre ». La politique de confidentialité est mise à jour.
+- **Phase 5 – redesign éditorial** : navigation par rubriques, bandeau « En direct », à la une, tendances, sections par rubrique, dernières actus.
+- **Phase 6 – audience** : archives du jour indexables (`/jour/`) et sitemap, analyse hebdomadaire (`/hebdo/`, dimanche), partage auto Facebook/X (3 par jour), push du matin, rubrique « Tech Afrique ».
+- **Bouton newsletter** : « S'abonner » devient « Se désabonner » après inscription (mémorisé dans le navigateur).
 
-## 4. Newsletter — Brevo (gratuit jusqu'à 300 emails envoyés/jour)
+## 6. Premier lancement
 
-1. Créez un compte gratuit sur brevo.com.
-2. Créez un formulaire d'inscription (Contacts → Formulaires).
-3. Brevo vous donne un code d'intégration. Remplacez, dans `index.html`, les
-   deux blocs `<form id="newsletter-form">` et `<form id="popupForm">` par ce
-   code (ou connectez leur API si vous préférez garder le style actuel).
+1. Pousse sur GitHub, puis dans l'onglet **Actions** lance « Collecte des actus LUMen » (Run workflow).
+2. Vérifie que `data/articles.json` se remplit et que le site affiche les actus.
+3. Lance « Archives du jour (SEO) » pour créer la première page `/jour/…`.
+4. Dans Google Search Console, soumets `https://jikeltech.netlify.app/sitemap.xml`.
 
-## 5. Statistiques et monétisation
+## 7. À savoir
 
-- **Google Analytics 4** (gratuit) : créez une propriété sur analytics.google.com,
-  copiez votre ID de mesure (`G-XXXXXXX`), remplacez-le dans le bloc commenté en
-  bas de `index.html`, puis décommentez ces deux lignes.
-- **Google AdSense / affiliation Jumia-Amazon** : ces programmes exigent une
-  validation manuelle (contenu réel, trafic, ancienneté du site — comptez
-  plusieurs semaines après la mise en ligne). L'emplacement publicitaire est
-  déjà réservé dans la page (`<div class="ad-slot">`) ; vous n'aurez qu'à
-  coller le code fourni par AdSense une fois votre compte approuvé.
-
-## 6. Icônes PWA
-
-Ajoutez deux images dans le dossier `icons/` :
-- `icon-192.png` (192×192 px)
-- `icon-512.png` (512×512 px)
-
-Sans elles, le site fonctionne quand même, mais l'icône d'installation sera
-absente sur le téléphone des visiteurs.
-
-## Limites à connaître
-
-- Les flux RSS fournis par défaut sont des exemples réels (Frandroid, Numerama,
-  Clubic, TechCrunch) — ajoutez ou retirez des sources dans
-  `scripts/fetch-news.js` selon votre audience (ex. flux plus centrés Afrique/
-  mobile si vous ciblez les lecteurs de marques comme Tecno ou Infinix).
-- Le système ne recopie jamais un article en entier : c'est un extrait court +
-  lien vers la source, ce qui est à la fois légal et bon pour vos relations
-  avec les sites sources.
-- Tout ce système est gratuit à l'usage courant. Seul le résumé par IA a un
-  coût si vous dépassez le quota d'essai d'Anthropic — sinon le site reste
-  fonctionnel avec les extraits RSS.
+- `netlify.toml` évite de redéployer le site à chaque commit du robot qui ne touche que `data/`. Seules les archives (1 fois par jour) et tes changements de code déclenchent un déploiement.
+- Quand tu modifies `index.html`, `app.js` ou `style.css`, change `VERSION` dans `sw.js` (ex. `lumen-v3`) pour que les visiteurs reçoivent la nouvelle version.
+- « Se désabonner » demande l'adresse email : n'importe qui connaissant l'adresse d'un abonné pourrait la désabonner. C'est le compromis habituel d'un site sans compte utilisateur ; le lien présent dans chaque email reste la voie la plus sûre.
+- Le texte de l'analyse hebdomadaire est généré avec l'IA et indiqué comme tel. Tu peux le relire et le modifier dans `hebdo/*.html` et `data/weekly.json` avant de le publier.
+- Pour ajouter ou retirer une source RSS : `scripts/feeds.json` (pas besoin de toucher au code).
+- Le flux `https://techcabal.com/feed/` a été ajouté sans pouvoir être vérifié depuis mon environnement : s'il est en panne, le robot l'ignorera et te le signalera.

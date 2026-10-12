@@ -1,0 +1,9 @@
+[
+  { "url": "https://www.frandroid.com/feed", "source": "Frandroid", "category": "smartphones" },
+  { "url": "https://www.numerama.com/feed/", "source": "Numerama", "category": "culture" },
+  { "url": "https://www.clubic.com/feed/news.rss", "source": "Clubic", "category": "logiciels" },
+  { "url": "https://techcrunch.com/feed/", "source": "TechCrunch", "category": "logiciels" },
+  { "url": "https://www.agenceecofin.com/telecom/feed", "source": "Agence Ecofin", "category": "afrique", "africa": true },
+  { "url": "https://www.wearetech.africa/feed", "source": "We Are Tech Africa", "category": "afrique", "africa": true },
+  { "url": "https://techcabal.com/feed/", "source": "TechCabal", "category": "afrique", "africa": true }
+]

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Logiciels">
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0B0F0D"/><stop offset="1" stop-color="#14221A"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<rect x="120" y="70" width="560" height="310" rx="14" fill="#121814" stroke="#4E8E68" stroke-width="2"/>
+<path d="M120 112H680" stroke="#4E8E68" stroke-width="2"/><circle cx="148" cy="91" r="6" fill="#FFB25E"/><circle cx="170" cy="91" r="6" fill="#7FFFB0" opacity=".7"/><circle cx="192" cy="91" r="6" fill="#7FFFB0" opacity=".35"/>
+<g fill="none" stroke="#7FFFB0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M300 190L240 245L300 300"/><path d="M500 190L560 245L500 300"/></g>
+<path d="M425 180L375 312" stroke="#FFB25E" stroke-width="12" stroke-linecap="round"/>
+<g stroke="#7FFFB0" stroke-opacity=".35" stroke-width="5" stroke-linecap="round"><path d="M150 140H230M150 335H260M560 140H650M590 335H650"/></g>
+</svg>

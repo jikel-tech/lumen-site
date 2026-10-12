@@ -1,3 +1,44 @@
 [build]
   publish = "."
-  ignore = "bash scripts/netlify-ignore.sh"
+  # Pas d'étape de build : c'est un site statique.
+  # Le robot GitHub Actions committe data/ toutes les 30 min : on ignore ces commits pour ne pas
+  # redéployer (et consommer des crédits Netlify) quand seul le dossier data/ a changé.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data'"
+
+[functions]
+  directory = "netlify/functions"
+
+# Le code des scripts et des fonctions n'a pas à être servi comme pages publiques.
+[[redirects]]
+  from = "/scripts/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/netlify/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/icons/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/assets/categories/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

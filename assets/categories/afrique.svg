@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Tech Afrique et Cameroun">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F160B"/><stop offset="1" stop-color="#0B0F0D"/></linearGradient>
+<pattern id="p" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M50 6L94 50L50 94L6 50Z" fill="none" stroke="#FFB25E" stroke-opacity=".5" stroke-width="2.5"/><path d="M50 28L72 50L50 72L28 50Z" fill="#7FFFB0" fill-opacity=".55"/><path d="M0 0L14 0L0 14ZM100 0L86 0L100 14ZM0 100L14 100L0 86ZM100 100L86 100L100 86Z" fill="#FFB25E" fill-opacity=".6"/></pattern></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<rect width="800" height="450" fill="url(#p)"/>
+<rect x="0" y="170" width="800" height="110" fill="#0B0F0D" opacity=".78"/>
+<path d="M0 170H800M0 280H800" stroke="#FFB25E" stroke-width="3" opacity=".8"/>
+<g fill="#7FFFB0"><circle cx="300" cy="225" r="9"/><circle cx="400" cy="225" r="14"/><circle cx="500" cy="225" r="9"/></g>
+<path d="M312 225H386M414 225H488" stroke="#7FFFB0" stroke-width="3" opacity=".6"/>
+</svg>

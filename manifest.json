@@ -1,13 +1,17 @@
 {
-  "name": "LUMEN — Actualité Tech",
-  "short_name": "LUMEN",
-  "description": "L'actualité tech résumée et sourcée, mise à jour en continu.",
-  "start_url": "/",
+  "name": "LUMen — L'actualité tech, résumée et sourcée",
+  "short_name": "LUMen",
+  "description": "Toute l'actualité tech en un coup d'œil, avec un regard sur la tech africaine.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0B0F0D",
   "theme_color": "#0B0F0D",
+  "lang": "fr",
+  "categories": ["news", "technology"],
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
