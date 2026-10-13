@@ -1,5 +1,62 @@
 [
   {
+    "id": "b985534e8c47",
+    "title": "Octobre rouge pour Apple : la firme préparerait un 2e évènement consacré à de nouveaux Mac et un nouvel iPad",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-633946-octobre-rouge-pour-apple-la-firme-preparerait-un-2e-evenement-consacre-a-de-nouveaux-mac-et-un-nouvel-ipad.html",
+    "pubDate": "2026-10-13T11:09:00.000Z",
+    "summary": "La marque américaine Apple prévoit d'organiser un second événement technologique d'ici la fin du mois d'octobre. Cette nouvelle conférence sera entièrement dédiée à la présentation de quatre ordinateurs Mac inédits et d'une nouvelle tablette iPad. Le format de cette rencontre privilégiera des présentations axées sur de nouvelles expériences.",
+    "keywords": [
+      "apple",
+      "mac",
+      "ipad",
+      "technologie",
+      "evenement"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f6200f691a14",
+    "title": "West Africa’s new mobile money rules could change who holds deposits",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/13/francophone-weekly-by-techcabal-044/",
+    "pubDate": "2026-10-13T11:02:10.000Z",
+    "summary": "La banque centrale d'Afrique de l'Ouest a doublé le plafond des portefeuilles mobiles à 4 millions de FCFA. Cette réforme entrée en vigueur en novembre élargit les opportunités pour les fintechs et les utilisateurs. Elle intensifie également la concurrence avec les institutions bancaires traditionnelles.",
+    "keywords": [
+      "afrique de l ouest",
+      "mobile money",
+      "fintech",
+      "bceao",
+      "reglementation"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0960b3b7b2d5",
+    "title": "Sebulba se moque d’Anakin dans Star Wars: Galactic Racer… sans savoir qu’il parle de Dark Vador",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2352081-sebulba-clashe-anakin-dans-star-wars-galactic-racer-sans-savoir-quil-parle-de-dark-vador.html",
+    "pubDate": "2026-10-13T11:00:00.000Z",
+    "summary": "Le jeu vidéo Star Wars: Galactic Racer est disponible depuis le 6 octobre dernier. Développé par Fuse Games, ce titre met en scène une réplique amusante de Sebulba adressée à Anakin Skywalker. Le personnage ignore toutefois qu'il s'adresse en réalité au futur Dark Vador.",
+    "keywords": [
+      "star wars galactic racer",
+      "fuse games",
+      "sebulba",
+      "anakin skywalker",
+      "jeu video"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "7b3ba03a178a",
     "title": "Anthropic pense avoir trouvé comment protéger Claude de ses copieurs, mais il y a un prix à payer",
     "source": "Clubic",
@@ -1442,62 +1499,6 @@
       "afrique du sud",
       "fintech",
       "banque numerique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2d2bbebdb48d",
-    "title": "Passez un cap en cyberconfidentialité grâce à ce réseau virtuel privé (VPN) suisse",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-632239-passez-un-cap-en-cyberconfidentialite-grace-a-ce-reseau-virtuel-prive-vpn-suisse.html",
-    "pubDate": "2026-10-13T05:30:00.000Z",
-    "summary": "Proton VPN propose actuellement une réduction importante sur son abonnement longue durée. Cette suite de cybersécurité suisse permet de protéger efficacement les données personnelles des internautes. L'offre promotionnelle atteint un rabais de soixante-dix pour cent sur le tarif initial.",
-    "keywords": [
-      "proton vpn",
-      "cybersécurité",
-      "vpn",
-      "vie privée"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "72d5f06c053d",
-    "title": "M-KOPA franchit la barre des 600 millions de dollars de revenus en Afrique",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/m-kopa-franchit-la-barre-des-600-millions-de-dollars-de-revenus-en-afrique",
-    "pubDate": "2026-10-13T05:28:58.000Z",
-    "summary": "La société financière M-KOPA a atteint 600 millions de dollars de chiffre d'affaires lors de son exercice 2025. Cette performance s'appuie sur une croissance de 45 % et une base de 10 millions de clients répartis dans cinq pays africains. La plateforme attire quotidiennement 10 000 nouveaux usagers tout en préservant la rentabilité de ses services de crédit.",
-    "keywords": [
-      "m-kopa",
-      "afrique",
-      "fintech",
-      "smartphones",
-      "revenus"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4173c1e8cfe4",
-    "title": "Surface Laptop Ultra : le nouveau PC portable à puce Nvidia RTX Spark de Microsoft est en précommande",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/bons-plans/3282007_surface-laptop-ultra-le-nouveau-pc-portable-a-puce-nvidia-rtx-spark-de-microsoft-est-en-precommande",
-    "pubDate": "2026-10-13T05:24:00.000Z",
-    "summary": "Microsoft propose en précommande son nouveau PC portable baptisé Surface Laptop Ultra. Cet appareil intègre une puce Nvidia RTX Spark ainsi qu'un écran tactile mini-LED de quinze pouces. Les premières livraisons de cette machine affichée à un tarif élevé débuteront fin octobre.",
-    "keywords": [
-      "microsoft",
-      "surface laptop ultra",
-      "nvidia",
-      "pc portable",
-      "fnac"
     ],
     "aiDone": true,
     "coverage": 1,
