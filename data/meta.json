@@ -1,0 +1,55 @@
+{
+  "feeds": {
+    "https://techcrunch.com/feed/": {
+      "source": "TechCrunch",
+      "ok": true,
+      "lastSuccess": "2026-10-13T00:07:36.292Z",
+      "lastCount": 15,
+      "consecutiveFailures": 0
+    },
+    "https://www.numerama.com/feed/": {
+      "source": "Numerama",
+      "ok": true,
+      "lastSuccess": "2026-10-13T00:07:36.292Z",
+      "lastCount": 15,
+      "consecutiveFailures": 0
+    },
+    "https://www.frandroid.com/feed": {
+      "source": "Frandroid",
+      "ok": true,
+      "lastSuccess": "2026-10-13T00:07:36.292Z",
+      "lastCount": 15,
+      "consecutiveFailures": 0
+    },
+    "https://www.clubic.com/feed/news.rss": {
+      "source": "Clubic",
+      "ok": true,
+      "lastSuccess": "2026-10-13T00:07:36.292Z",
+      "lastCount": 15,
+      "consecutiveFailures": 0
+    },
+    "https://techcabal.com/feed/": {
+      "source": "TechCabal",
+      "ok": true,
+      "lastSuccess": "2026-10-13T00:07:36.292Z",
+      "lastCount": 10,
+      "consecutiveFailures": 0
+    },
+    "https://www.wearetech.africa/feed": {
+      "source": "We Are Tech Africa",
+      "consecutiveFailures": 1,
+      "ok": false,
+      "lastError": "HTTP 404",
+      "lastErrorAt": "2026-10-13T00:07:36.292Z"
+    },
+    "https://www.agenceecofin.com/telecom/feed": {
+      "source": "Agence Ecofin",
+      "consecutiveFailures": 1,
+      "ok": false,
+      "lastError": "HTTP 404",
+      "lastErrorAt": "2026-10-13T00:07:36.292Z"
+    }
+  },
+  "feedsOk": 5,
+  "feedsTotal": 7
+}
