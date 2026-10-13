@@ -1,5 +1,23 @@
 [
   {
+    "id": "f2fb2747c1a4",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "pubDate": "2026-10-13T22:36:59.000Z",
+    "summary": "Andrew Feldman, le dirigeant de Cerebras, critique publiquement les discours alarmistes sur l'intelligence artificielle. Lors de l'événement TechCrunch Disrupt, il estime que ces mises en garde occultent les véritables avantages de la technologie. Il invite ainsi les acteurs du secteur à cesser de propager des scénarios de fin du monde.",
+    "keywords": [
+      "cerebras",
+      "andrew feldman",
+      "intelligence artificielle",
+      "techcrunch disrupt"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "dfcf317d924a",
     "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
     "source": "TechCrunch",
@@ -1473,24 +1491,6 @@
       "pays-bas",
       "france",
       "distribution"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "161d38a5133d",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "pubDate": "2026-10-13T13:28:06.000Z",
-    "summary": "La programmation complète de la scène principale de l'événement TechCrunch Disrupt 2026 vient d'être dévoilée. Les participants pourront assister à des échanges exclusifs menés par des personnalités telles que Max Hodak et Mark Wahlberg. Des réductions tarifaires sont actuellement proposées pour l'achat de pass.",
-    "keywords": [
-      "techcrunch",
-      "disrupt",
-      "conference",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
