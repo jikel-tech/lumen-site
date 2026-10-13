@@ -1,0 +1,56 @@
+name: Archives du jour (SEO)
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 23 h au Cameroun : la page du jour est quasi complète
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lumen-data
+  cancel-in-progress: false
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Installer les dépendances
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Générer la page du jour et le sitemap
+        working-directory: scripts
+        run: node build-pages.js
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "lumen-bot"
+          git config user.email "lumen-bot@users.noreply.github.com"
+          git add jour sitemap.xml data/archive.json
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer."
+            exit 0
+          fi
+          git commit -m "seo: archives du jour"
+          # Si un autre robot a écrit en même temps, on garde NOS versions des fichiers de données.
+          for i in 1 2 3 4; do
+            if git pull --rebase -X theirs --autostash && git push; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Échec n°$i, nouvel essai..."
+            sleep $((i * 5))
+          done
+          echo "::error::Impossible d'enregistrer les données après 4 essais"
+          exit 1
