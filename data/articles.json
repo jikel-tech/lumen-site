@@ -1,5 +1,43 @@
 [
   {
+    "id": "dfcf317d924a",
+    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+    "pubDate": "2026-10-13T21:15:00.000Z",
+    "summary": "L'entreprise Helix Carbon propose de valoriser les rejets polluants des hauts Fourneaux sidérurgiques. Cette technologie innovante vise à réduire simultanément les émissions polluantes et les coûts de production du fer. Cette solution permet d'améliorer les marges financières du secteur tout en agissant pour l'environnement.",
+    "keywords": [
+      "helix carbon",
+      "fer",
+      "acier",
+      "pollution",
+      "recyclage"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "96f2aead784a",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "pubDate": "2026-10-13T20:59:11.000Z",
+    "summary": "Le FBI a appréhendé un collaborateur d'OpenAI pour avoir installé un appareil d'enregistrement secret dans une salle de réunion. Cet équipement visait à intercepter des discussions confidentielles concernant les technologies de super intelligence de l'entreprise. Les motivations exactes de cet acte d'espionnage restent pour l'instant indéterminées.",
+    "keywords": [
+      "openai",
+      "fbi",
+      "espionnage",
+      "intelligence artificielle",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "2d5aac8b5365",
     "title": "La seconde va être redéfinie d’ici 2030 : pourquoi les horloges atomiques au césium ne suffisent plus",
     "source": "Numerama",
@@ -1453,43 +1491,6 @@
       "disrupt",
       "conference",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b5a2e7af4967",
-    "title": "India delays digital payments fee rollout amid retailer pushback",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-    "pubDate": "2026-10-13T13:25:05.000Z",
-    "summary": "La National Payments Corporation of India a suspendu l'instauration d'une taxe sur les paiements numériques. Cette décision fait suite à l'opposition marquée des commerçants locaux. Le déploiement de cette commission de 0,4 % est ainsi repoussé en raison des fêtes.",
-    "keywords": [
-      "npci",
-      "upi",
-      "inde",
-      "paiement mobile"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "77ede2d780f6",
-    "title": "Apple lance de nouveaux Apple TV et HomePod mini : voici les nouveautés",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351795-apple-tv-et-homepod-mini-apres-4-ans-et-6-ans-dattente-apple-devoile-enfin-de-nouvelles-versions-sans-siri-ai-en-france.html",
-    "pubDate": "2026-10-13T13:24:58.000Z",
-    "summary": "Apple renouvelle ses appareils pour la maison connectée avec de nouvelles éditions de l'Apple TV et du HomePod mini. Ces nouveaux modèles intègrent des puces plus performantes pour optimiser l'expérience utilisateur. Toutefois, les utilisateurs en France ne pourront pas profiter de l'intelligence artificielle Siri AI sur ces équipements.",
-    "keywords": [
-      "apple",
-      "apple tv",
-      "homepod mini",
-      "maison connectee",
-      "france"
     ],
     "aiDone": true,
     "coverage": 1,
