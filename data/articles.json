@@ -1,5 +1,102 @@
 [
   {
+    "id": "73bd62000f06",
+    "title": "Le paradoxe chinois : premier pollueur de la planète, mais sauveur du bilan carbone mondial",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/3281303_le-paradoxe-chinois-premier-pollueur-de-la-planete-mais-sauveur-du-bilan-carbone-mondial",
+    "pubDate": "2026-10-13T16:44:10.000Z",
+    "summary": "Premier pollueur mondial, la Chine contribue aussi à éviter des centaines de millions de tonnes d’émissions par an à l’étranger grâce à ses technologies propres. En 2025, les équipements qu’elle a…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e2eb9867216e",
+    "title": "Ce forfait Free perd 10 euros par mois et gagne la data illimitée, voici comment",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3283357_ce-forfait-free-perd-10-euros-par-mois-et-gagne-la-data-illimitee-voici-comment",
+    "pubDate": "2026-10-13T16:44:00.000Z",
+    "summary": "Avec une Freebox Pop, le Forfait Free 5G+ passe de 19,99 à 9,99 euros par mois. La data devient aussi illimitée en France métropolitaine, sans engagement.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "950fd49d85d3",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "pubDate": "2026-10-13T16:30:00.000Z",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "1bc308b49edf",
+    "title": "Jusqu’à 4 500 € de remise immédiate : on a déniché les meilleures promos du Mondial de l’Auto pour acheter votre voiture électrique au meilleur prix",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/survoltes/3283541_jusqua-4-500-e-de-remise-immediate-on-a-deniche-les-meilleures-promos-du-mondial-de-lauto-pour-acheter-votre-voiture-electrique-au-meilleur-prix",
+    "pubDate": "2026-10-13T16:29:48.000Z",
+    "summary": "Le Mondial de l'auto vient d'ouvrir ses portes au public avec d'importantes offres promotionnelles sur les véhicules électriques. Les constructeurs automobiles proposent des remises immédiates pouvant atteindre 4 500 euros pour inciter les clients à l'achat. Ces mesures commerciales incluent également des primes exceptionnelles et des loyers offerts pendant toute la durée de l'événement.",
+    "keywords": [
+      "mondial de l'auto",
+      "voiture électrique",
+      "promotion",
+      "automobile",
+      "remise"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "028cad2ae952",
+    "title": "Ils sont beaux et intelligents : les écouteurs JBL Live Flex 3 sont à moins de 100€ chez Boulanger",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/bons-plans-634021-ils-sont-beaux-et-intelligents-les-ecouteurs-jbl-live-flex-3-sont-a-moins-de-100-chez-boulanger.html",
+    "pubDate": "2026-10-13T16:28:00.000Z",
+    "summary": "Les JBL Live Flex 3 permettent de contrôler la musique directement depuis leur boîtier de recharge, équipé d’un écran tactile. Boulanger les propose en violet à 99,99 €, contre un prix conseillé de…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "79feea023b06",
+    "title": "Planet Zoo 2 : on a testé le meilleur jeu de gestion de ces dernières années",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2352305-planet-zoo-2-on-a-teste-le-meilleur-jeu-de-gestion-de-ces-dernieres-annees.html",
+    "pubDate": "2026-10-13T16:27:00.000Z",
+    "summary": "Près de sept ans après avoir régné sans partage sur le genre, Frontier Developments remet enfin son titre en jeu avec Planet Zoo 2. Sorti ce mardi 13 octobre simultanément sur PC, PS5 et Xbox Series…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e922f9d15fd1",
+    "title": "Une loi solaire et des canicules : comment l’Allemagne a freiné ses heures de prix négatifs",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/survoltes/3282429_une-loi-solaire-et-des-canicules-comment-lallemagne-a-freine-ses-heures-de-prix-negatifs",
+    "pubDate": "2026-10-13T16:15:53.000Z",
+    "summary": "Alors que les heures de prix négatifs se multiplient en France et ailleurs en Europe, l’Allemagne fait état d’une baisse pour la première fois en quatre ans. La consommation électrique tirée par les…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "70078a187621",
     "title": "Apple s'entoure de LG et Schneider Electric pour une nouvelle offensive dans votre maison",
     "source": "Clubic",
@@ -110,19 +207,6 @@
     "url": "https://www.frandroid.com/guide-dachat/1711769_les-meilleures-multiprises-connectees-pour-rendre-vos-objets-connectes-notre-selection",
     "pubDate": "2026-10-13T15:40:20.000Z",
     "summary": "La multiprise connectée est une solution maligne pour apporter un peu d'intelligence à vos objets électriques non connectés, tout en vous aidant à réaliser des économies d’énergie.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "79feea023b06",
-    "title": "Planet Zoo 2 : on a testé le meilleur jeu de gestion de ces dernières années",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2352305-planet-zoo-2-on-a-teste-le-meilleur-jeu-de-gestion-de-ces-dernieres-annees.html",
-    "pubDate": "2026-10-13T15:37:45.000Z",
-    "summary": "Près de sept ans après avoir régné sans partage sur le genre, Frontier Developments remet enfin son titre en jeu avec Planet Zoo 2. Sorti ce mardi 13 octobre simultanément sur PC, PS5 et Xbox Series…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
@@ -1072,100 +1156,6 @@
       "zimbabwe"
     ],
     "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b8ed45a3cb9",
-    "title": "Surprise : No Man’s Sky débarque sur iPhone et iPad",
-    "source": "Numerama",
-    "category": "smartphones",
-    "url": "https://www.numerama.com/pop-culture/2352023-surprise-no-mans-sky-debarque-sur-iphone-et-ipad.html",
-    "pubDate": "2026-10-13T12:35:00.000Z",
-    "summary": "Le jeu vidéo No Man's Sky sera bientôt disponible sur les tablettes et smartphones d'Apple. Cette adaptation marque une nouvelle étape pour le studio Hello Games après des années de mises à jour. Le titre mobile concrétise ainsi la spectaculaire rédemption de cette production vidéoludique.",
-    "keywords": [
-      "no man's sky",
-      "hello games",
-      "iphone",
-      "ipad",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e596899866a2",
-    "title": "On a vu l’Alpine A310 Vision, le concept-car le plus alléchant du Mondial de l’Auto, avec un gros bémol",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2352105-on-a-vu-lalpine-a310-vision-le-concept-car-le-plus-allechant-du-mondial-de-lauto-avec-un-gros-bemol.html",
-    "pubDate": "2026-10-13T12:26:11.000Z",
-    "summary": "Alpine a dévoilé au Mondial de l'Auto de Paris 2026 l'A310 Vision, un concept-car qui réinterprète le coupé A310 lancé en 1971. En revanche, la marque prévient que ce concept n'annonce aucun modèle…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "33c0b5054646",
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "pubDate": "2026-10-13T12:23:42.000Z",
-    "summary": "The startup will sell some of its assets to Disney for $20 million.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0178bc105f52",
-    "title": "300 milliards de paramètres sans broncher : Intel annonce une carte graphique 480 Go pour l’IA",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/intel/3282651_300-milliards-de-parametres-sans-broncher-intel-annonce-une-carte-graphique-480-go-pour-lia",
-    "pubDate": "2026-10-13T12:22:42.000Z",
-    "summary": "Intel officialise sa nouvelle carte graphique professionnelle pour l'intelligence artificielle. Ce composant embarque jusqu'à 480 Go de mémoire vidéo dédiée. Il permet de gérer des modèles de langage atteignant 300 milliards de paramètres.",
-    "keywords": [
-      "intel",
-      "gpu d270",
-      "intelligence artificielle",
-      "carte graphique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ff0fde092ab0",
-    "title": "FR-Alert : votre téléphone va peut-être recevoir une alerte ce mardi 13 octobre",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633976-fr-alert-votre-telephone-va-peut-etre-recevoir-une-alerte-ce-mardi-13-octobre.html",
-    "pubDate": "2026-10-13T12:08:00.000Z",
-    "summary": "Le dispositif FR-Alert procède à un test grandeur nature sur les mobiles de nombreux citoyens. Il s'agit d'un simple exercice national et non d'une véritable urgence. Les usagers ne doivent donc pas céder à la panique en découvrant cette notification.",
-    "keywords": [
-      "fr-alert",
-      "smartphone",
-      "alerte",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c51d56e58f89",
-    "title": "Le nouveau TV OLED 65″ de Sony veut transformer votre salon en cinéma et il perd déjà 300 € chez Boulanger",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/bons-plans/3283037_le-nouveau-tv-oled-65-de-sony-veut-transformer-votre-salon-en-cinema-et-il-perd-deja-300-e-chez-boulanger",
-    "pubDate": "2026-10-13T12:02:25.000Z",
-    "summary": "Le Bravia 6 OLED 65 pouces de Sony est le dernier-né de la marque à proposer un grand écran lumineux et à démocratiser l'accès à cette technologie avec son prix en baisse de 1 799 euros à 1 499 euros…",
-    "keywords": [],
-    "aiDone": false,
     "coverage": 1,
     "also": []
   }
