@@ -1,5 +1,61 @@
 [
   {
+    "id": "2ce212c19db2",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "pubDate": "2026-10-13T23:13:31.000Z",
+    "summary": "Science Corporation a posé son implant visuel Prima sur un premier patient atteint de la maladie de Stargardt. Cet exploit a été révélé par Max Hodak, cofondateur et ancien dirigeant de Neuralink, lors de la conférence TechCrunch Disrupt. Cette avancée technologique s'inscrit dans la stratégie de l'entreprise pour développer de nouvelles interfaces cerveau-machine.",
+    "keywords": [
+      "science corporation",
+      "prima",
+      "implant visuel",
+      "maladie de stargardt",
+      "max hodak"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "14cee17a15e6",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "pubDate": "2026-10-13T23:05:34.000Z",
+    "summary": "Andrew Feldman anticipe une démocratisation rapide des assistants intelligents personnels à domicile. Le dirigeant de Cerebras estime que ces technologies fonctionneront grâce à une architecture hybride mêlant cloud et appareils locaux. Cette vision rapproche l'utilisation de l'intelligence artificielle des équipements électroménagers du quotidien.",
+    "keywords": [
+      "cerebras",
+      "andrew feldman",
+      "intelligence artificielle",
+      "assistant personnel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f267b0c17dba",
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "pubDate": "2026-10-13T23:00:00.000Z",
+    "summary": "La startup Industrial Next développe des solutions pour automatiser des tâches complexes traditionnellement réservées aux humains. Sa technologie permet aux robots industriels de changer de mission en quelques minutes seulement. Cette innovation vise à transformer radicalement la flexibilité des chaînes de production.",
+    "keywords": [
+      "industrial next",
+      "robots",
+      "usine",
+      "automatisation",
+      "industrie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "f2fb2747c1a4",
     "title": "Cerebras CEO pushes back on AI doomsday warnings",
     "source": "TechCrunch",
@@ -1435,62 +1491,6 @@
       "homepod mini",
       "enceinte connectee",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fc720fa6668d",
-    "title": "Ces chercheurs croient tellement en l'IA qu'ils se mettent à faire n'importe quoi",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634003-ces-chercheurs-croient-tellement-en-l-ia-qu-ils-se-mettent-a-faire-n-importe-quoi.html",
-    "pubDate": "2026-10-13T13:38:00.000Z",
-    "summary": "Des chercheurs affirment que l'intelligence artificielle peut tout accomplir. Leur comportement face à cette technologie est comparé à une attitude absurde. Cette situation soulève des questions sur la crédibilité des scientifiques.",
-    "keywords": [
-      "intelligence artificielle",
-      "recherche",
-      "technologie",
-      "innovation"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "1e8cc563edf0",
-    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-    "pubDate": "2026-10-13T13:37:19.000Z",
-    "summary": "Apple prépare le lancement d'une nouvelle gamme d'appareils pour la maison connectée. Cette offre comprend notamment une serrure intelligente, un thermostat et des sonnettes vidéo. L'ensemble de ces équipements fonctionnera avec le nouveau hub HomeView de la marque.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "maison connectee",
-      "domotique",
-      "smart home"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a88947d5567e",
-    "title": "Cyberattaque des supermarchés : une autre attaque d'ampleur aux Pays-Bas le même jour",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633991-cyberattaque-des-supermarches-une-autre-attaque-d-ampleur-aux-pays-bas-le-meme-jour.html",
-    "pubDate": "2026-10-13T13:29:00.000Z",
-    "summary": "Une grave cyberattaque a touché les systèmes de réfrigération de supermarchés en France. Le même jour, un important acteur de la grande distribution a également subi une attaque informatique aux Pays-Bas. Ces incidents simultanés soulignent la vulnérabilité croissante du secteur de la distribution face aux cybermenaces.",
-    "keywords": [
-      "cyberattaque",
-      "supermarché",
-      "pays-bas",
-      "france",
-      "distribution"
     ],
     "aiDone": true,
     "coverage": 1,
