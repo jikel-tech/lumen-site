@@ -1,5 +1,75 @@
 [
   {
+    "id": "ff0fde092ab0",
+    "title": "FR-Alert : votre téléphone va peut-être recevoir une alerte ce mardi 13 octobre",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-633976-fr-alert-votre-telephone-va-peut-etre-recevoir-une-alerte-ce-mardi-13-octobre.html",
+    "pubDate": "2026-10-13T12:08:00.000Z",
+    "summary": "Le dispositif FR-Alert procède à un test grandeur nature sur les mobiles de nombreux citoyens. Il s'agit d'un simple exercice national et non d'une véritable urgence. Les usagers ne doivent donc pas céder à la panique en découvrant cette notification.",
+    "keywords": [
+      "fr-alert",
+      "smartphone",
+      "alerte",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c51d56e58f89",
+    "title": "Le nouveau TV OLED 65″ de Sony veut transformer votre salon en cinéma et il perd déjà 300 € chez Boulanger",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/bons-plans/3283037_le-nouveau-tv-oled-65-de-sony-veut-transformer-votre-salon-en-cinema-et-il-perd-deja-300-e-chez-boulanger",
+    "pubDate": "2026-10-13T12:02:25.000Z",
+    "summary": "Le Bravia 6 OLED 65 pouces de Sony est le dernier-né de la marque à proposer un grand écran lumineux et à démocratiser l'accès à cette technologie avec son prix en baisse de 1 799 euros à 1 499 euros…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "69ebb2c612f7",
+    "title": "Windows 11 23H2 vit ses dernières semaines, les entreprises ont un mois pour réagir",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633958-windows-11-23h2-vit-ses-dernieres-semaines-les-entreprises-ont-un-mois-pour-reagir.html",
+    "pubDate": "2026-10-13T12:02:00.000Z",
+    "summary": "Les dernières éditions de Windows 11 23H2 encore prises en charge recevront leur ultime patch de sécurité le mois prochain. Pour les organisations qui n'ont pas encore terminé leur migration, il va…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "8409f97640bf",
+    "title": "Avec nesti, David Kimani convertit les loyers payés en garantie de crédit bancaire",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/tech-stars/avec-nesti-david-kimani-convertit-les-loyers-payes-en-garantie-de-credit-bancaire",
+    "pubDate": "2026-10-13T11:54:42.000Z",
+    "summary": "Written by: Melchior Koba En Afrique, de nombreux travailleurs du secteur informel peinent encore à prouver leur solvabilité auprès des établissements bancaires. Cet entrepreneur a imaginé une…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e07efb7ae7fa",
+    "title": "4 nouveaux Mac, 1 nouvel iPad et 2 jours « d’expériences »… Apple préparerait déjà les invitations pour un autre évènement",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3282841_4-nouveaux-mac-1-nouvel-ipad-et-2-jours-dexperiences-apple-preparerait-deja-les-invitations-pour-un-autre-evenement",
+    "pubDate": "2026-10-13T11:50:00.000Z",
+    "summary": "Le mois d'octobre s'annonce effectivement très chargé pour Apple. En parallèle de la présentation « Welcome home » d'ores et déjà prévue ce 13 octobre, la firme organiserait à la fin du mois un…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "58c662f44990",
     "title": "Frigos piratés dans les supermarchés : les grandes enseignes ont un coupable tout désigné",
     "source": "Numerama",
@@ -142,6 +212,19 @@
       "bon plan"
     ],
     "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e96ae0c840bd",
+    "title": "Bagues connectées : quels sont les meilleurs modèles testés par la rédaction en 2026 ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/1875593_bagues-connectees-quels-sont-les-modeles-deja-disponibles",
+    "pubDate": "2026-10-13T10:34:00.000Z",
+    "summary": "Les bagues connectées sont de plus en plus nombreuses sur le marché des wearables. Si ces produits vous intriguent, voici tout ce qu'il faut savoir, ainsi que notre sélection parmi les différentes…",
+    "keywords": [],
+    "aiDone": false,
     "coverage": 1,
     "also": []
   },
@@ -1380,120 +1463,6 @@
       "ram",
       "crise",
       "marche"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "eada420f4ddc",
-    "title": "Opel ressuscite le break avec le STX Concept, et il a un sacré regard",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633856-opel-ressuscite-le-break-avec-le-stx-concept-et-il-a-un-sacre-regard.html",
-    "pubDate": "2026-10-13T06:08:00.000Z",
-    "summary": "Au Mondial de l'Auto 2026 à Paris, la marque Opel a levé le voile sur le STX Concept. Ce véhicule expérimental marque le retour du break et préfigure le style des futurs modèles du constructeur. D'autres nouveautés, comme la monoplace Formule E GSE 27FE et la Corsa GSE, étaient également exposées.",
-    "keywords": [
-      "opel",
-      "stx concept",
-      "mondial de l'auto",
-      "break",
-      "voiture electrique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b6f91fcb09a",
-    "title": "Ventes Flash Amazon : 10 offres tech jusqu’à -31 %, du robot Roborock à la TV LG de 75\"",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
-    "pubDate": "2026-10-13T06:00:00.000Z",
-    "summary": "Amazon propose de nouvelles réductions sur divers équipements technologiques quelques jours après ses promotions majeures. Les remises atteignent jusqu'à trente et un pour cent sur une sélection incluant des téléviseurs et des aspirateurs robots. Ces offres ont été comparées aux tarifs habituels du marché pour évaluer leur pertinence réelle.",
-    "keywords": [
-      "amazon",
-      "roborock",
-      "lg",
-      "ventes flash",
-      "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "399922f53e76",
-    "title": "Nigeria : la société financière OPay envisage une entrée en Bourse à Lagos",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/nigeria-la-societe-financiere-opay-envisage-une-entree-en-bourse-a-lagos",
-    "pubDate": "2026-10-13T05:58:18.000Z",
-    "summary": "La fintech OPay a obtenu le feu vert de ses actionnaires pour réaliser une cotation secondaire à la Bourse du Nigeria. Cette initiative interviendra après son introduction initiale prévue sur la place boursière de New York. L'opération vise à permettre aux investisseurs locaux d'accompagner l'expansion de la firme sur son principal marché.",
-    "keywords": [
-      "opay",
-      "nigeria",
-      "bourse",
-      "fintech",
-      "lagos"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2147f0e17532",
-    "title": "Halcyon ferme les inscriptions à son programme pour l'agriculture le 23 octobre",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-une/halcyon-ferme-les-inscriptions-a-son-programme-pour-lagriculture-le-23-octobre",
-    "pubDate": "2026-10-13T05:53:04.000Z",
-    "summary": "L'incubateur américain Halcyon propose un programme d'accompagnement dédié aux innovations agricoles en Afrique subsaharienne. Les jeunes entreprises retenues recevront une aide financière de 10 000 dollars sans dilution de capital. La date limite pour soumettre les dossiers de candidature est fixée au 23 octobre.",
-    "keywords": [
-      "halcyon",
-      "agriculture",
-      "afrique subsaharienne",
-      "incubateur",
-      "innovation"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ebbb168ea140",
-    "title": "Netflix sur la TV, appels sur le mobile : avez-vous encore besoin d’une offre internet triple play ? [Sponso]",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/telecom/box-internet/3278271_netflix-sur-la-tv-appels-sur-le-mobile-avez-vous-encore-besoin-dune-offre-internet-triple-play",
-    "pubDate": "2026-10-13T05:47:00.000Z",
-    "summary": "Les abonnements internet traditionnels incluant la télévision et la téléphonie fixe font l'objet d'un questionnement légitime face aux nouveaux usages. En 2026, la popularité croissante des plateformes de streaming et l'utilisation généralisée du mobile remettent en cause la pertinence du triple play. Les consommateurs se demandent ainsi s'il est encore utile de souscrire à ces offres globales pour leurs besoins quotidiens.",
-    "keywords": [
-      "netflix",
-      "triple play",
-      "streaming",
-      "mobile",
-      "internet"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "598e758943e4",
-    "title": "Maroc : l’entreprise YoLa Fresh ferme en raison de difficultés financières",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/maroc-l-entreprise-yola-fresh-ferme-en-raison-de-difficultes-financieres",
-    "pubDate": "2026-10-13T05:45:02.000Z",
-    "summary": "La start-up marocaine YoLa Fresh a mis un terme à ses activités trois ans après son lancement. Cette décision fait suite à des difficultés financières et à l'impossibilité de rentabiliser sa logistique. L'entreprise avait levé neuf millions de dollars pour connecter les agriculteurs aux commerçants.",
-    "keywords": [
-      "yola fresh",
-      "maroc",
-      "agriculture",
-      "start-up",
-      "financement"
     ],
     "aiDone": true,
     "coverage": 1,
