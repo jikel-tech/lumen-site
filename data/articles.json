@@ -1,5 +1,73 @@
 [
   {
+    "id": "42d7b34c7617",
+    "title": "Jouer aux jeux Xbox sur PS5 ? Un développeur a réussi l'impensable grâce à l'IA",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-633880-jouer-aux-jeux-xbox-sur-ps5-un-developpeur-a-reussi-l-impensable-grace-a-l-ia.html",
+    "pubDate": "2026-10-13T09:05:00.000Z",
+    "summary": "Un développeur originaire du Brésil a créé le projet PSBox Cloud Gaming. Ce logiciel permet d'exécuter le service Xbox Cloud Gaming directement sur une console PlayStation 5 modifiée. L'outil gère le streaming en haute définition ainsi que la compatibilité des manettes.",
+    "keywords": [
+      "xbox",
+      "ps5",
+      "cloud gaming",
+      "ia",
+      "bresil"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "33745232e7e2",
+    "title": "Sony sort une PS5 toute noire, mais très limitée, et réitère la fin des jeux disque en 2028",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/sony/3282925_sony-sort-une-ps5-toute-noire-mais-tres-limitee-et-reitere-la-fin-des-jeux-disque-en-2028",
+    "pubDate": "2026-10-13T09:01:39.000Z",
+    "summary": "Sony sortira le 19 novembre 2026 au Japon une PS5 Digital Edition noire, baptisée « Midnight Black », au prix de 55 000 yens (environ 310 euros). La console ne fonctionne qu'avec un compte…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "94ff52d8c482",
+    "title": "Tic-tac, cette version de Windows 11 s'apprête à recevoir sa dernière mise à jour de sécurité… et après ?",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633910-tic-tac-cette-version-de-windows-11-s-apprete-a-recevoir-sa-derniere-mise-a-jour-de-securite-et-apres.html",
+    "pubDate": "2026-10-13T08:56:00.000Z",
+    "summary": "Microsoft s'apprête à déployer la toute dernière mise à jour de sécurité pour Windows 11 24H2. Les utilisateurs des éditions Famille et Pro doivent rapidement envisager une mise à niveau. Cette échéance marque la fin du support pour cette version spécifique du système d'exploitation.",
+    "keywords": [
+      "microsoft",
+      "windows 11",
+      "mise a jour",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fbc358626443",
+    "title": "Implants espions dans des Ledger : les détenteurs de cryptomonnaies doutent désormais de toute la chaîne de distribution",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2351867-implants-espions-dans-des-ledger-les-detenteurs-de-cryptomonnaies-doutent-desormais-de-toute-la-chaine-de-distribution.html",
+    "pubDate": "2026-10-13T08:50:00.000Z",
+    "summary": "Des implants espions ont été découverts dans des portefeuilles Ledger par l'intermédiaire du revendeur CryptoBilis. Cette situation sème le doute parmi les détenteurs de cryptomonnaies concernant la fiabilité de la chaîne d'approvisionnement. Face à l'amplification des rumeurs, l'entreprise appelle à la vigilance tandis que les utilisateurs inspectent eux-mêmes leur matériel.",
+    "keywords": [
+      "ledger",
+      "cryptomonnaies",
+      "cryptobilis",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "59613e762cc3",
     "title": "L’Atari 800XL de 1983 revient en précommande avec un vrai clavier mécanique et 25 jeux",
     "source": "Numerama",
@@ -91,6 +159,19 @@
       "telecom"
     ],
     "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "23cd9479c433",
+    "title": "Quel smartphone acheter pour jouer en 2026 ? Le guide des meilleurs smartphones gaming",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/smartphones/529525_quels-sont-les-meilleurs-smartphones-pour-jouer-a-fortnite-en-2018-notre-selection",
+    "pubDate": "2026-10-13T08:32:20.000Z",
+    "summary": "Vous êtes en quête d'un bon smartphone pour le gaming ? Grâce à cette sélection, vous trouverez le modèle de téléphone qu'il vous faut pour jouer à des jeux exigeants tels que Fortnite ou Genshin…",
+    "keywords": [],
+    "aiDone": false,
     "coverage": 1,
     "also": []
   },
@@ -1400,100 +1481,6 @@
       "iphone",
       "ipad",
       "hello games"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fd736a63a6db",
-    "title": "Vous pouvez préparer votre précommande de l’iPhone Duo dès aujourd’hui",
-    "source": "Numerama",
-    "category": "smartphones",
-    "url": "https://www.numerama.com/tech/2350985-vous-pouvez-preparer-votre-precommande-de-liphone-duo-des-aujourdhui.html",
-    "pubDate": "2026-10-12T16:13:19.000Z",
-    "summary": "Apple permet de préparer l'achat du nouvel iPhone Duo dès ce lundi. Les clients pourront ainsi valider leur précommande plus rapidement à partir du 16 octobre. Cette démarche concerne le premier smartphone pliant de la marque à la pomme.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "smartphone pliant",
-      "precommande"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "142580f970c1",
-    "title": "Amazon partage avec les entreprises les outils inspirés de son million de robots, la France en bonne place",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633823-amazon-partage-avec-les-entreprises-les-outils-inspires-de-son-million-de-robots-la-france-en-bonne-place.html",
-    "pubDate": "2026-10-12T16:03:00.000Z",
-    "summary": "Amazon Web Services commercialise une boîte à outils open source destinée à la création de robots dotés d'intelligence artificielle physique. Cette solution s'appuie directement sur les technologies développées pour le parc de robots de la firme. Une étude récente positionne la France parmi les marchés en phase d'accélération pour cette discipline.",
-    "keywords": [
-      "amazon",
-      "aws",
-      "intelligence artificielle",
-      "robotique",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6d607114df9e",
-    "title": "On a vu Below, la meilleure série horrifique Netflix du moment pour Halloween 2026 ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351551-on-a-vu-below-la-meilleure-serie-horrifique-netflix-du-moment-pour-halloween-2026.html",
-    "pubDate": "2026-10-12T16:00:43.000Z",
-    "summary": "La mini-série canadienne Below est désormais disponible sur la plateforme Netflix. Cette production horrifique mêle habilement drame familial et chronique sociale d'une communauté côtière. Elle s'impose déjà comme un rendez-vous incontournable pour les amateurs de frissons.",
-    "keywords": [
-      "netflix",
-      "below",
-      "serie",
-      "horreur",
-      "canada"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8a7b1180eb5a",
-    "title": "Darty propose -150€ sur un TV 4K QLED de 58\" avec Dolby Vision idéal pour les petits budgets",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633760-darty-propose--150-sur-un-tv-4k-qled-de-58-avec-dolby-vision-ideal-pour-les-petits-budgets.html",
-    "pubDate": "2026-10-12T15:51:00.000Z",
-    "summary": "L'enseigne Darty applique une réduction de cent cinquante euros sur un téléviseur quatre cas QLED de marque Hisense. Ce modèle de cinquante-huit pouces intègre la technologie Dolby Vision pour un tarif désormais fixé à environ quatre cents euros. Cet appareil entrée de gamme s'adresse particulièrement aux consommateurs disposant d'un budget restreint.",
-    "keywords": [
-      "darty",
-      "hisense",
-      "television",
-      "qled",
-      "bonplan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bdf59882f2c6",
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "pubDate": "2026-10-12T15:45:00.000Z",
-    "summary": "La startup Honeyjar propose des solutions technologiques pour optimiser les relations publiques. Ses nouveaux outils exploitent l'intelligence artificielle pour simplifier le travail des communicants. Cette innovation ambitionne de réparer un secteur professionnel souvent jugé inefficace.",
-    "keywords": [
-      "honeyjar",
-      "intelligence artificielle",
-      "relations publiques",
-      "communication",
-      "tech"
     ],
     "aiDone": true,
     "coverage": 1,
