@@ -1,5 +1,37 @@
 [
   {
+    "id": "58c662f44990",
+    "title": "Frigos piratés dans les supermarchés : les grandes enseignes ont un coupable tout désigné",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2352099-frigos-pirates-dans-les-supermarches-les-grandes-enseignes-ont-un-coupable-tout-designe.html",
+    "pubDate": "2026-10-13T11:20:38.000Z",
+    "summary": "Des centaines de supermarchés français, notamment Intermarché et Leclerc, ont subi une cyberattaque ayant mis leurs rayons frais hors service. Suite à cet incident, les grandes enseignes pointent du doigt un maillon précis de leur chaîne logistique et informatique. La question des responsabilités est désormais au centre des préoccupations du secteur.",
+    "keywords": [
+      "intermarche",
+      "leclerc",
+      "cyberattaque",
+      "supermarche",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e021aed594a0",
+    "title": "Noté 9/10 et en promo à -80 €, ce casque Sony 1000X The ColleXion mise sur l’excellence sonore",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3282893_note-9-10-et-en-promo-a-80-e-ce-casque-sony-1000x-the-collexion-mise-sur-lexcellence-sonore",
+    "pubDate": "2026-10-13T11:17:00.000Z",
+    "summary": "Le Sony WH-1000X The ColleXion est un casque Bluetooth anniversaire qui célèbre les 10 ans de sa gamme de casques, qui se retrouve en promo à 549 euros au lieu de 629 euros sur Amazon.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "b985534e8c47",
     "title": "Octobre rouge pour Apple : la firme préparerait un 2e évènement consacré à de nouveaux Mac et un nouvel iPad",
     "source": "Clubic",
@@ -1462,43 +1494,6 @@
       "agriculture",
       "start-up",
       "financement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "71dd2ad84e39",
-    "title": "Mondial de l’Auto 2026 : Smart va créer l’événement avec sa nouvelle #2",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633862-mondial-de-l-auto-2026-smart-va-creer-l-evenement-avec-sa-nouvelle-2.html",
-    "pubDate": "2026-10-13T05:45:00.000Z",
-    "summary": "La marque Smart officialise sa toute nouvelle citadine biplace entièrement électrique baptisée Smart #2. Cet événement marquant s'est déroulé lors du Mondial de l’Auto de Paris. Le véhicule affiche une autonomie de 290 kilomètres selon le cycle WLTP pour un tarif initial fixé à 19 990 euros.",
-    "keywords": [
-      "smart",
-      "smart #2",
-      "voiture electrique",
-      "mondial de l'auto"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3c3a83536d43",
-    "title": "Afrique du Sud : la fintech Mukuru nomme un ancien cadre de Jumia comme directeur client",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-fintech-mukuru-nomme-un-ancien-cadre-de-jumia-comme-directeur-client",
-    "pubDate": "2026-10-13T05:36:45.000Z",
-    "summary": "La fintech sud-africaine Mukuru vient de nommer un ancien responsable de Jumia au poste de directeur de l'expérience client. Jean-Jacques Maïkere aura pour mission d'accompagner la transformation de la plateforme en banque numérique. Cette nomination intervient alors que l'entreprise de transfert d'argent dessert plus de treize millions d'utilisateurs à travers le monde.",
-    "keywords": [
-      "mukuru",
-      "jumia",
-      "afrique du sud",
-      "fintech",
-      "banque numerique"
     ],
     "aiDone": true,
     "coverage": 1,
