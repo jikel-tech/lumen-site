@@ -1,5 +1,99 @@
 [
   {
+    "id": "4816b1c3a28c",
+    "title": "MaQuestionMedicale : 369 000 messages intimes entre patients et médecins à vendre sur le dark web",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3282995_maquestionmedicale-369-000-messages-intimes-entre-patients-et-medecins-a-vendre-sur-le-dark-web",
+    "pubDate": "2026-10-13T10:03:57.000Z",
+    "summary": "Des centaines de milliers de messages intimes issus de la plateforme française MaQuestionMedicale sont actuellement proposés à la vente sur le dark web. Un individu se faisant appeler Feel revendique cette fuite de données personnelles et médicales. Certaines des conversations compromises remontent jusqu'à l'année 2019.",
+    "keywords": [
+      "maquestionmedicale",
+      "dark web",
+      "cybersecurite",
+      "teleconsultation",
+      "piratage"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "af1cb5e0f5ff",
+    "title": "Ce détecteur d'IA confronte 23 moteurs avant de trancher !",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-632677-ce-detecteur-d-ia-confronte-23-moteurs-avant-de-trancher.html",
+    "pubDate": "2026-10-13T10:00:00.000Z",
+    "summary": "Le nouvel outil SlopTotal propose une approche prudente pour identifier les textes générés par intelligence artificielle. Ce système analyse le contenu via vingt-trois moteurs de détection différents. Il présente ensuite les résultats individuels afin de mettre en évidence les divergences.",
+    "keywords": [
+      "sloptotal",
+      "intelligence artificielle",
+      "detecteur",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "34c9c0faf2a0",
+    "title": "Fibre optique : après le Cameroun et le Congo, la Centrafrique veut s’interconnecter avec la RDC",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/actualites/telecom/fibre-optique-apres-le-cameroun-et-le-congo-la-centrafrique-veut-s-interconnecter-avec-la-rdc",
+    "pubDate": "2026-10-13T09:56:39.000Z",
+    "summary": "La République centrafricaine cherche à améliorer sa connectivité Internet internationale enclavée. Le pays relance son projet d'interconnexion par fibre optique avec la République démocratique du Congo. Cette initiative terrestre vise à réduire la dépendance aux infrastructures des autres pays voisins.",
+    "keywords": [
+      "centrafrique",
+      "rdc",
+      "fibre optique",
+      "internet",
+      "telecoms"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ddeb1951dc19",
+    "title": "Google transforme Gemini : discuter ne suffit plus, l’IA veut désormais agir à votre place",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633940-google-transforme-gemini-discuter-ne-suffit-plus-l-ia-veut-desormais-agir-a-votre-place.html",
+    "pubDate": "2026-10-13T09:51:00.000Z",
+    "summary": "Google met à jour son application Gemini sur Android avec une intégration plus poussée de Spark. Cette nouveauté permet aux utilisateurs de passer facilement d'une discussion textuelle à l'exécution de tâches concrètes par l'intelligence artificielle. Il est désormais possible de suivre directement l'avancement de ces actions au même endroit.",
+    "keywords": [
+      "google",
+      "gemini",
+      "intelligence artificielle",
+      "android",
+      "spark"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fb31a56764f6",
+    "title": "« Ils ne sont pas en train de tricher » : Sharesub et Spliiit s'unissent pour faire changer la loi sur le partage de comptes",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-633913-netflix-disney-spotify-sharesub-et-spliiit-s-unissent-pour-faire-changer-la-loi-sur-le-partage-de-comptes.html",
+    "pubDate": "2026-10-13T09:45:00.000Z",
+    "summary": "Les plateformes françaises concurrentes Sharesub et Spliiit s'associent pour lancer une pétition inédite. Hébergée sur le site de l'Assemblée nationale, cette initiative vise à faire évoluer la législation concernant le partage de comptes numériques. Les deux entreprises souhaitent ainsi contester les règles restrictives imposées par les géants de la tech.",
+    "keywords": [
+      "sharesub",
+      "spliiit",
+      "co-abonnement",
+      "assemblee nationale",
+      "loi"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "1768b698c48b",
     "title": "« Les gains sont conformes à mes calculs » : 3 lecteurs mettent la batterie Zendure à l’épreuve [Sponso]",
     "source": "Frandroid",
@@ -1403,99 +1497,6 @@
       "noyau linux",
       "anthropic",
       "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3b4be63b1fc3",
-    "title": "LineageOS 24 apporte Android 17 aux vieux smartphones et s’installe en quelques clics",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/android/rom-custom-2/lineageos/3282509_lineageos-24-apporte-android-17-aux-vieux-smartphones-et-sinstalle-en-quelques-clics",
-    "pubDate": "2026-10-12T20:56:41.000Z",
-    "summary": "LineageOS 24.0 propose désormais une version basée sur Android 17 pour les anciens téléphones mobiles. Cette mise à jour intègre les correctifs de sécurité déployés entre août 2025 et octobre 2026. Le projet open-source a publié cette mouture en avance par rapport à son calendrier habituel.",
-    "keywords": [
-      "lineageos",
-      "android",
-      "smartphone",
-      "mise a jour",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ee4e871ed416",
-    "title": "Ledger confirme un implant espion dans un portefeuille vendu par son propre revendeur agréé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/crypto-monnaie/3282489_ledger-confirme-un-implant-espion-dans-un-portefeuille-vendu-par-son-propre-revendeur-agree",
-    "pubDate": "2026-10-12T20:47:02.000Z",
-    "summary": "L'entreprise Ledger a validé la présence d'un composant espion non officiel dans un appareil distribué par l'un de ses partenaires officiels. Ce dispositif frauduleux était destiné aux utilisateurs de la région Asie du Sud-Est. Des experts estiment que les pertes financières totales pour les victimes dépassent quatre-vingt-six millions de dollars.",
-    "keywords": [
-      "ledger",
-      "cryptobilis",
-      "securite",
-      "asie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "74de837e5ab6",
-    "title": "68 % du coût d’un PC portable part dans trois pièces, et toutes augmentent en même temps",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3282487_68-du-cout-dun-pc-portable-part-dans-trois-pieces-et-toutes-augmentent-en-meme-temps",
-    "pubDate": "2026-10-12T20:35:33.000Z",
-    "summary": "Au troisième trimestre 2026, trois composants essentiels concentrent 68 % du coût de fabrication d'un ordinateur portable à 900 dollars. D'après le cabinet TrendForce, cette part atteignait seulement 45 % au début de l'année 2025. Cette hausse simultanée concerne le processeur, la mémoire vive et le SSD.",
-    "keywords": [
-      "trendforce",
-      "pc portable",
-      "processeur",
-      "ssd",
-      "composants"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "aa23d8900b26",
-    "title": "J’ai testé un des premiers Googlebook et la déception est de taille",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/acer/3280655_jai-teste-un-des-premiers-googlebook-et-la-deception-est-de-taille",
-    "pubDate": "2026-10-12T20:30:10.000Z",
-    "summary": "Le tout nouvel Acer Googlebook 14 fait son entrée sur le marché de la tech. Cependant, les premiers essais de cet ordinateur portable révèlent une forte ressemblance avec l'ancien système Chrome OS. Cette transition vers cette nouvelle gamme de produits s'avère donc décevante à l'utilisation.",
-    "keywords": [
-      "acer",
-      "googlebook",
-      "chrome os",
-      "ordinateur"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "9c8da6988d72",
-    "title": "Meta annonce Muse Wonder et dit avoir rattrapé les meilleurs en IA, le premier test indépendant nuance",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/meta/3282445_meta-annonce-muse-wonder-et-dit-avoir-rattrape-les-meilleurs-en-ia-le-premier-test-independant-nuance",
-    "pubDate": "2026-10-12T17:59:38.000Z",
-    "summary": "Le géant technologique Meta a dévoilé Muse Wonder et Muse Wonder Full, deux nouveaux modèles d'intelligence artificielle destinés aux agents. L'entreprise affirme que ces outils rivalisent désormais avec les performances des meilleurs systèmes concurrents sur le marché. Un premier test indépendant classe toutefois la version intégrale en deuxième position derrière Claude Opus 5.5.",
-    "keywords": [
-      "meta",
-      "muse wonder",
-      "intelligence artificielle",
-      "openai",
-      "anthropic"
     ],
     "aiDone": true,
     "coverage": 1,
