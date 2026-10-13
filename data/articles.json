@@ -6,9 +6,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/console/3282545_plus-de-200-gigaoctets-pour-gta-6-pourquoi-ce-chiffre-pourrait-etre-faux",
     "pubDate": "2026-10-12T21:45:42.000Z",
-    "summary": "Le leaker Cyberleek affirme que la version de développement de GTA 6 qu'il utilise pour ses vidéos pèse plus de 200 gigaoctets. Il promet de la diffuser en entier si son memecoin atteint 30 millions…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un informateur nommé Cyberleek prétend détenir une version de développement du jeu GTA 6 pesant plus de 200 gigaoctets. Il menace de publier l'intégralité de ces vidéos si son projet de cryptomonnaie atteint 30 millions de dollars de capitalisation. Cette annonce spectaculaire suscite toutefois de nombreux doutes quant à sa véracité réelle.",
+    "keywords": [
+      "gta 6",
+      "cyberleek",
+      "fuite",
+      "jeu video",
+      "memecoin"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -19,9 +25,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/os/gnu-linux/3282511_linus-torvalds-qui-reduisait-lia-a-90-de-marketing-publie-un-patch-du-noyau-linux-ecrit-avec-claude-code",
     "pubDate": "2026-10-12T20:58:40.000Z",
-    "summary": "Linus Torvalds a publié une série de huit patchs pour le noyau Linux écrits avec Claude Code, l'assistant de programmation d'Anthropic. En 2024, le créateur de Linux décrivait encore l'IA comme « 90…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le créateur du noyau Linux a intégré des correctifs conçus grâce à l'intelligence artificielle. Linus Torvalds a utilisé l'assistant de programmation Claude Code développé par Anthropic. Ce changement intervient alors qu'il qualifiait auparavant l'IA de simple outil marketing.",
+    "keywords": [
+      "linus torvalds",
+      "claude code",
+      "noyau linux",
+      "anthropic",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -32,9 +44,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/android/rom-custom-2/lineageos/3282509_lineageos-24-apporte-android-17-aux-vieux-smartphones-et-sinstalle-en-quelques-clics",
     "pubDate": "2026-10-12T20:56:41.000Z",
-    "summary": "LineageOS 24.0, basé sur Android 17, est disponible depuis le 11 octobre 2026 avec les correctifs de sécurité d'août 2025 à octobre 2026. Le projet le sort bien plus tôt que lors de ses cycles…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "LineageOS 24.0 propose désormais une version basée sur Android 17 pour les anciens téléphones mobiles. Cette mise à jour intègre les correctifs de sécurité déployés entre août 2025 et octobre 2026. Le projet open-source a publié cette mouture en avance par rapport à son calendrier habituel.",
+    "keywords": [
+      "lineageos",
+      "android",
+      "smartphone",
+      "mise a jour",
+      "securite"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -45,9 +63,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/crypto-monnaie/3282489_ledger-confirme-un-implant-espion-dans-un-portefeuille-vendu-par-son-propre-revendeur-agree",
     "pubDate": "2026-10-12T20:47:02.000Z",
-    "summary": "Ledger a confirmé le samedi 10 octobre qu'un portefeuille vendu par CryptoBilis, son revendeur agréé en Asie du Sud-Est, contenait un implant matériel non autorisé. Des chercheurs estiment entre 86…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'entreprise Ledger a validé la présence d'un composant espion non officiel dans un appareil distribué par l'un de ses partenaires officiels. Ce dispositif frauduleux était destiné aux utilisateurs de la région Asie du Sud-Est. Des experts estiment que les pertes financières totales pour les victimes dépassent quatre-vingt-six millions de dollars.",
+    "keywords": [
+      "ledger",
+      "cryptobilis",
+      "securite",
+      "asie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -58,9 +81,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3282487_68-du-cout-dun-pc-portable-part-dans-trois-pieces-et-toutes-augmentent-en-meme-temps",
     "pubDate": "2026-10-12T20:35:33.000Z",
-    "summary": "Le processeur, la mémoire vive et le SSD représentaient 68 % du coût des composants d'un PC portable vendu 900 dollars au troisième trimestre 2026, selon le cabinet TrendForce. Début 2025, c'était 45…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Au troisième trimestre 2026, trois composants essentiels concentrent 68 % du coût de fabrication d'un ordinateur portable à 900 dollars. D'après le cabinet TrendForce, cette part atteignait seulement 45 % au début de l'année 2025. Cette hausse simultanée concerne le processeur, la mémoire vive et le SSD.",
+    "keywords": [
+      "trendforce",
+      "pc portable",
+      "processeur",
+      "ssd",
+      "composants"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -71,9 +100,14 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/acer/3280655_jai-teste-un-des-premiers-googlebook-et-la-deception-est-de-taille",
     "pubDate": "2026-10-12T20:30:10.000Z",
-    "summary": "Les Googlebook débarquent sur le marché et l'Acer Googlebook 14 fait partie des premiers ! Mais à l'usage, la nouvelle ère ressemble tout de même énormément à Chrome OS.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le tout nouvel Acer Googlebook 14 fait son entrée sur le marché de la tech. Cependant, les premiers essais de cet ordinateur portable révèlent une forte ressemblance avec l'ancien système Chrome OS. Cette transition vers cette nouvelle gamme de produits s'avère donc décevante à l'utilisation.",
+    "keywords": [
+      "acer",
+      "googlebook",
+      "chrome os",
+      "ordinateur"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -84,9 +118,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/meta/3282445_meta-annonce-muse-wonder-et-dit-avoir-rattrape-les-meilleurs-en-ia-le-premier-test-independant-nuance",
     "pubDate": "2026-10-12T17:59:38.000Z",
-    "summary": "Meta a présenté ce lundi 12 octobre Muse Wonder et Muse Wonder Full, deux modèles d'IA conçus pour les agents, qu'il dit au niveau des meilleurs d'OpenAI et d'Anthropic. Le premier classement…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le géant technologique Meta a dévoilé Muse Wonder et Muse Wonder Full, deux nouveaux modèles d'intelligence artificielle destinés aux agents. L'entreprise affirme que ces outils rivalisent désormais avec les performances des meilleurs systèmes concurrents sur le marché. Un premier test indépendant classe toutefois la version intégrale en deuxième position derrière Claude Opus 5.5.",
+    "keywords": [
+      "meta",
+      "muse wonder",
+      "intelligence artificielle",
+      "openai",
+      "anthropic"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -97,9 +137,14 @@
     "category": "culture",
     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "pubDate": "2026-10-12T17:56:56.000Z",
-    "summary": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le géant technologique Meta lance officiellement son tout premier modèle de pointe baptisé Muse Wonder. Cette nouvelle solution se distingue par une taille plus importante et des performances accrues par rapport à la version légère précédente. Elle offre ainsi de meilleurs résultats sur les tâches complexes telles que la programmation informatique.",
+    "keywords": [
+      "meta",
+      "muse wonder",
+      "intelligence artificielle",
+      "modele de langage"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -110,9 +155,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633844-maia-300-microsoft-annonce-le-deploiement-de-sa-nouvelle-generation-de-puces-ia.html",
     "pubDate": "2026-10-12T17:35:00.000Z",
-    "summary": "Microsoft franchit une nouvelle étape dans l'IA. Le géant américain vient en effet de présenter sa nouvelle génération de puces IA maison.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Microsoft officialise le lancement de sa dernière génération de processeurs spécialisés en intelligence artificielle. Cette innovation technologique marque une étape importante dans la stratégie matérielle du géant américain. Les nouvelles puces IA maison de Microsoft sont désormais prêtes pour un déploiement à grande échelle.",
+    "keywords": [
+      "microsoft",
+      "maia 300",
+      "intelligence artificielle",
+      "processeur",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -123,9 +174,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3282247_ce-forfait-5g-avec-data-illimite-est-a-moitie-prix-pendant-les-3-premiers-mois-chez-cet-operateur",
     "pubDate": "2026-10-12T17:27:28.000Z",
-    "summary": "NRJ Mobile propose son forfait 5G illimité à 17,49 euros par mois, sans engagement. Avec le code promo disponible jusqu’au 25 octobre 2026, il passe à moitié prix pendant les trois premiers mois.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "NRJ Mobile commercialise un forfait 5G sans engagement doté d'une enveloppe de données illimitées. L'opérateur applique une réduction de moitié sur ce tarif promotionnel durant le premier trimestre d'abonnement. Cette offre spéciale, accessible via un code promotionnel, reste valable jusqu'au 25 octobre 2026.",
+    "keywords": [
+      "nrj mobile",
+      "forfait 5g",
+      "donnees illimitees",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -136,9 +192,15 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/12/african-ai-startups-vc-funding/",
     "pubDate": "2026-10-12T17:19:52.000Z",
-    "summary": "Six African investors explain what makes African AI startups fundable: local-language voice products, sticky software, licences and revenue.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des investisseurs africains dévoilent les critères de financement pour les startups spécialisées dans l'intelligence artificielle. Le développement de produits vocaux en langues locales et de logiciels fidélisants attire particulièrement les fonds. L'obtention de licences et la génération de revenus restent également indispensables pour convaincre les investisseurs du continent.",
+    "keywords": [
+      "intelligence artificielle",
+      "afrique",
+      "vc",
+      "startup",
+      "investissement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -149,9 +211,14 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "pubDate": "2026-10-12T17:19:14.000Z",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La jeune pousse californienne WindBorne a décroché un contrat militaire américain d'une valeur proche de 50 millions de dollars. Cette entreprise spécialisée dans la prévision météorologique utilise des ballons sondes et des technologies d'intelligence artificielle. Ce partenariat stratégique avec l'Armée de l'air américaine permettra de renforcer l'exploitation de ses données atmosphériques.",
+    "keywords": [
+      "windborne",
+      "us air force",
+      "intelligence artificielle",
+      "meteo"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -162,9 +229,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633841-nouvelle-mise-a-jour-pour-le-repeteur-wi-fi-freebox-qui-repare-un-bug-sur-l-importante-bande-5-ghz.html",
     "pubDate": "2026-10-12T17:01:00.000Z",
-    "summary": "Free a déployé ce lundi une mise à jour de son répéteur Wi-Fi pour Freebox. Le nouveau firmware corrige un bug rare touchant la bande 5 GHz et ajoute des correctifs de sécurité, le tout avec une…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Free a publié ce lundi une nouvelle mise à jour logicielle pour son répéteur Wi-Fi Freebox. Ce nouveau firmware résout un dysfonctionnement peu fréquent affectant la bande de fréquence 5 GHz. Il intègre également divers correctifs de sécurité et s'installe de manière presque automatique.",
+    "keywords": [
+      "free",
+      "freebox",
+      "wifi",
+      "mise a jour",
+      "routeur"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -175,9 +248,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-633817-plus-besoin-de-retenir-vos-mots-de-passe-proton-pass-plus-coute-2-49-par-mois.html",
     "pubDate": "2026-10-12T16:37:00.000Z",
-    "summary": "Classé premier de notre comparatif des gestionnaires de mots de passe, Proton Pass propose déjà une version gratuite généreuse. Sa formule Plus y ajoute un authentificateur intégré, des alias e-mail…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le service Proton Pass propose désormais une offre payante dénommée Pass Plus. Cette formule intègre notamment un authentificateur ainsi que des alias e-mail illimités. Son tarif est fixé à 2,49 euros par mois.",
+    "keywords": [
+      "proton pass",
+      "gestionnaire de mots de passe",
+      "cybersécurité",
+      "logiciel"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -188,9 +266,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/dossier-628309-agences-de-communication-et-studios-creatifs-des-cibles-sous-estimees-qui-detiennent-des-donnees-clients-sensibles.html",
     "pubDate": "2026-10-12T16:19:00.000Z",
-    "summary": "Vous vous demandez peut-être ce qui, dans les dossiers de votre agence de publicité ou de votre studio créatif, peut bien intéresser des cybercriminels. Et c’est bien normal, car votre cœur de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les agences de communication et les studios créatifs sont souvent sous-estimés en matière de sécurité informatique. Ces structures déiennent pourtant des données sensibles appartenant à leurs clients. Les cybercriminels ciblent ces entreprises dont le cœur de métier n'est pas la cybersécurité.",
+    "keywords": [
+      "cybersécurité",
+      "agences de communication",
+      "studios créatifs",
+      "données clients",
+      "cybercriminalité"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -227,9 +311,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633823-amazon-partage-avec-les-entreprises-les-outils-inspires-de-son-million-de-robots-la-france-en-bonne-place.html",
     "pubDate": "2026-10-12T16:03:00.000Z",
-    "summary": "Amazon Web Services a lancé sa Physical AI Toolchain, une boîte à outils open source pour concevoir des robots dotés d'IA physique. Une étude sur la discipline classe la France parmi les marchés « en…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon Web Services commercialise une boîte à outils open source destinée à la création de robots dotés d'intelligence artificielle physique. Cette solution s'appuie directement sur les technologies développées pour le parc de robots de la firme. Une étude récente positionne la France parmi les marchés en phase d'accélération pour cette discipline.",
+    "keywords": [
+      "amazon",
+      "aws",
+      "intelligence artificielle",
+      "robotique",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -253,9 +343,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-633760-darty-propose--150-sur-un-tv-4k-qled-de-58-avec-dolby-vision-ideal-pour-les-petits-budgets.html",
     "pubDate": "2026-10-12T15:51:00.000Z",
-    "summary": "Le Hisense 58E79S est un TV entrée de gamme qui propose une bonne polyvalence pour son prix, même s’il peut pêcher un peu en gaming. Il est actuellement affiché à 399,99 euros au lieu de 549,99 euros…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'enseigne Darty applique une réduction de cent cinquante euros sur un téléviseur quatre cas QLED de marque Hisense. Ce modèle de cinquante-huit pouces intègre la technologie Dolby Vision pour un tarif désormais fixé à environ quatre cents euros. Cet appareil entrée de gamme s'adresse particulièrement aux consommateurs disposant d'un budget restreint.",
+    "keywords": [
+      "darty",
+      "hisense",
+      "television",
+      "qled",
+      "bonplan"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -266,9 +362,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "pubDate": "2026-10-12T15:45:00.000Z",
-    "summary": "Could AI actually make PR better?",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Honeyjar propose des solutions technologiques pour optimiser les relations publiques. Ses nouveaux outils exploitent l'intelligence artificielle pour simplifier le travail des communicants. Cette innovation ambitionne de réparer un secteur professionnel souvent jugé inefficace.",
+    "keywords": [
+      "honeyjar",
+      "intelligence artificielle",
+      "relations publiques",
+      "communication",
+      "tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
