@@ -1,5 +1,151 @@
 [
   {
+    "id": "45d5e4849c59",
+    "title": "Quand et comment suivre les annonces d’Apple : HomeView, Apple TV 4K, Homepod mini 2",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
+    "pubDate": "2026-10-13T12:53:42.000Z",
+    "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "apple tv 4k",
+      "homepod mini",
+      "maison connectee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "46785860b217",
+    "title": "Remboursement du passe Navigo : c’est le dernier jour pour récupérer jusqu’à 90,80 €",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-cest-le-dernier-jour-pour-recuperer-jusqua-90-euros-80.html",
+    "pubDate": "2026-10-13T12:40:13.000Z",
+    "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une campagne de dédommagement d'Île-de-France Mobilités est ouverte depuis la mi-septembre 2026. Voici comment savoir si…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ac8e0e090cda",
+    "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+    "pubDate": "2026-10-13T12:40:00.000Z",
+    "summary": "La startup Giraffe Bio vient de lever 6,4 millions de dollars en amorçage. Son objectif est de proposer des biomolécules sur mesure pour aider l'industrie minière. Cette technologie vise à optimiser l'extraction du cuivre face à la pénurie annoncée.",
+    "keywords": [
+      "giraffe bio",
+      "cuivre",
+      "biomolécules",
+      "extraction",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c559f037a301",
+    "title": "Les data centers consomment bien plus d'eau que les géants de l'IA le laissent entendre, ces données sont effarantes",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633979-les-data-centers-consomment-bien-plus-eau-que-les-geants-IA-le-laissent-entendre-ces-donnees-sont-effarantes.html",
+    "pubDate": "2026-10-13T12:39:00.000Z",
+    "summary": "Les géants de la tech promettent de nouvelles technologies qui permettent d’économiser l’eau dans le refroidissement de leurs data centers. Mais ils oublient un point essentiel.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5a3120e4dbd0",
+    "title": "John Sakala intègre l'IA dans WhatsApp et Instagram pour vendre et encaisser",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/tech-stars/john-sakala-integre-lia-dans-whatsapp-et-instagram-pour-vendre-et-encaisser",
+    "pubDate": "2026-10-13T12:35:02.000Z",
+    "summary": "L'entrepreneur zimbabwéen John Sakala intègre l'intelligence artificielle dans WhatsApp et Instagram pour faciliter les transactions commerciales. Sa jeune entreprise ChatCash centralise la gestion des ventes au sein d'une interface unique. Cette solution technologique vise à simplifier l'activité quotidienne des petites entreprises en Afrique.",
+    "keywords": [
+      "john sakala",
+      "chatcash",
+      "intelligence artificielle",
+      "afrique",
+      "zimbabwe"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b8ed45a3cb9",
+    "title": "Surprise : No Man’s Sky débarque sur iPhone et iPad",
+    "source": "Numerama",
+    "category": "smartphones",
+    "url": "https://www.numerama.com/pop-culture/2352023-surprise-no-mans-sky-debarque-sur-iphone-et-ipad.html",
+    "pubDate": "2026-10-13T12:35:00.000Z",
+    "summary": "Le jeu vidéo No Man's Sky sera bientôt disponible sur les tablettes et smartphones d'Apple. Cette adaptation marque une nouvelle étape pour le studio Hello Games après des années de mises à jour. Le titre mobile concrétise ainsi la spectaculaire rédemption de cette production vidéoludique.",
+    "keywords": [
+      "no man's sky",
+      "hello games",
+      "iphone",
+      "ipad",
+      "jeu video"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e596899866a2",
+    "title": "On a vu l’Alpine A310 Vision, le concept-car le plus alléchant du Mondial de l’Auto, avec un gros bémol",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2352105-on-a-vu-lalpine-a310-vision-le-concept-car-le-plus-allechant-du-mondial-de-lauto-avec-un-gros-bemol.html",
+    "pubDate": "2026-10-13T12:26:11.000Z",
+    "summary": "Alpine a dévoilé au Mondial de l'Auto de Paris 2026 l'A310 Vision, un concept-car qui réinterprète le coupé A310 lancé en 1971. En revanche, la marque prévient que ce concept n'annonce aucun modèle…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "33c0b5054646",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "pubDate": "2026-10-13T12:23:42.000Z",
+    "summary": "The startup will sell some of its assets to Disney for $20 million.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0178bc105f52",
+    "title": "300 milliards de paramètres sans broncher : Intel annonce une carte graphique 480 Go pour l’IA",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/intel/3282651_300-milliards-de-parametres-sans-broncher-intel-annonce-une-carte-graphique-480-go-pour-lia",
+    "pubDate": "2026-10-13T12:22:42.000Z",
+    "summary": "Intel officialise sa nouvelle carte graphique professionnelle pour l'intelligence artificielle. Ce composant embarque jusqu'à 480 Go de mémoire vidéo dédiée. Il permet de gérer des modèles de langage atteignant 300 milliards de paramètres.",
+    "keywords": [
+      "intel",
+      "gpu d270",
+      "intelligence artificielle",
+      "carte graphique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "ff0fde092ab0",
     "title": "FR-Alert : votre téléphone va peut-être recevoir une alerte ce mardi 13 octobre",
     "source": "Clubic",
@@ -37,9 +183,34 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633958-windows-11-23h2-vit-ses-dernieres-semaines-les-entreprises-ont-un-mois-pour-reagir.html",
     "pubDate": "2026-10-13T12:02:00.000Z",
-    "summary": "Les dernières éditions de Windows 11 23H2 encore prises en charge recevront leur ultime patch de sécurité le mois prochain. Pour les organisations qui n'ont pas encore terminé leur migration, il va…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Microsoft s'apprête à diffuser le tout dernier correctif de sécurité pour Windows 11 23H2 le mois prochain. Cette échéance marque la fin de la prise en charge des dernières versions de ce système d'exploitation. Les entreprises doivent donc impérativement finaliser leur migration dans les prochaines semaines.",
+    "keywords": [
+      "windows 11",
+      "microsoft",
+      "securite",
+      "migration",
+      "entreprise"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ca8af88c72e4",
+    "title": "Test FR-Alert ce mardi : si votre téléphone a sonné sans crier gare, voilà pourquoi",
+    "source": "Numerama",
+    "category": "smartphones",
+    "url": "https://www.numerama.com/tech/2351873-test-fr-alert-ce-mardi-si-votre-telephone-a-sonne-sans-crier-gare-voila-pourquoi.html",
+    "pubDate": "2026-10-13T12:00:49.000Z",
+    "summary": "Le dispositif FR-Alert a déclenché des signaux sonores sur les smartphones ce mardi 13 octobre 2026. La préfecture de Seine-et-Marne a mené cet exercice dans cinquante-six communes durant la matinée. Une opération similaire a également touché le Lot ainsi que le département de la Corrèze.",
+    "keywords": [
+      "fr-alert",
+      "seine-et-marne",
+      "lot",
+      "smartphone",
+      "alerte"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -50,9 +221,15 @@
     "category": "afrique",
     "url": "http://www.wearetech.africa/fr/fils/tech-stars/avec-nesti-david-kimani-convertit-les-loyers-payes-en-garantie-de-credit-bancaire",
     "pubDate": "2026-10-13T11:54:42.000Z",
-    "summary": "Written by: Melchior Koba En Afrique, de nombreux travailleurs du secteur informel peinent encore à prouver leur solvabilité auprès des établissements bancaires. Cet entrepreneur a imaginé une…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'entrepreneur kényan David Kimani a cofondé la solution technologique nesti pour aider les travailleurs informels. Cette innovation permet de convertir les loyers payés régulièrement en garantie de crédit bancaire. Le dispositif aide ainsi les populations exclues du système financier traditionnel à accéder plus facilement aux financements.",
+    "keywords": [
+      "nesti",
+      "david kimani",
+      "fintech",
+      "credit",
+      "kenya"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -95,9 +272,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3282893_note-9-10-et-en-promo-a-80-e-ce-casque-sony-1000x-the-collexion-mise-sur-lexcellence-sonore",
     "pubDate": "2026-10-13T11:17:00.000Z",
-    "summary": "Le Sony WH-1000X The ColleXion est un casque Bluetooth anniversaire qui célèbre les 10 ans de sa gamme de casques, qui se retrouve en promo à 549 euros au lieu de 629 euros sur Amazon.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le casque Bluetooth Sony WH-1000X The ColleXion célèbre la décennie d'existence de sa gamme audio emblématique. Amazon propose actuellement cet appareil en promotion au tarif de 549 euros au lieu de 629 euros. Ce modèle anniversaire bénéficie d'une excellente évaluation de 9 sur 10 grâce à ses performances sonores.",
+    "keywords": [
+      "sony",
+      "casque",
+      "audio",
+      "promotion",
+      "bluetooth"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -222,9 +405,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/guide-dachat/1875593_bagues-connectees-quels-sont-les-modeles-deja-disponibles",
     "pubDate": "2026-10-13T10:34:00.000Z",
-    "summary": "Les bagues connectées sont de plus en plus nombreuses sur le marché des wearables. Si ces produits vous intriguent, voici tout ce qu'il faut savoir, ainsi que notre sélection parmi les différentes…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le marché des objets connectés s'enrichit de nouvelles bagues intelligentes. La rédaction propose un guide complet pour comprendre ces accessoires innovants. Une sélection des meilleurs modèles testés est également présentée.",
+    "keywords": [
+      "bague connectée",
+      "smart ring",
+      "wearable",
+      "lumen"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -505,25 +693,6 @@
       "vpn",
       "cybersecurite",
       "post-quantique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "45d5e4849c59",
-    "title": "Quand et comment suivre les annonces d’Apple : HomeView, Apple TV 4K, Homepod mini 2",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
-    "pubDate": "2026-10-13T09:23:41.000Z",
-    "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "apple tv 4k",
-      "homepod mini",
-      "maison connectee"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1296,173 +1465,6 @@
       "carbon credit",
       "financement",
       "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "db9783b513e1",
-    "title": "Beats x Pokémon : une collaboration insolite se prépare autour de l’enceinte Pill",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633883-beats-x-pokemon-une-collaboration-insolite-se-prepare-autour-de-l-enceinte-pill.html",
-    "pubDate": "2026-10-13T07:03:00.000Z",
-    "summary": "La marque Beats annonce un partenariat inattendu avec la franchise Pokémon. Une édition spéciale de l'enceinte Pill sera conçue aux couleurs du personnage Pikachu. Un premier teaser a été partagé pour présenter cette future sortie.",
-    "keywords": [
-      "beats",
-      "pokemon",
-      "pikachu",
-      "enceinte",
-      "pill"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "9965423a5a4f",
-    "title": "Test de Castlevania: Belmont’s Curse, ou quand la France ressuscite un mythe d’outre-tombe avec brio",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351003-test-de-castlevania-belmonts-curse-ou-quand-la-france-ressuscite-un-mythe-doutre-tombe-avec-brio.html",
-    "pubDate": "2026-10-13T07:00:00.000Z",
-    "summary": "Le studio français a développé le nouveau jeu Castlevania: Belmont’s Curse pour Konami. Cet épisode inédit marque le grand retour de la franchise culte après plus d'une décennie d'absence. Ce titre en deux dimensions célèbre ainsi les quarante ans de la célèbre licence de jeux vidéo.",
-    "keywords": [
-      "castlevania",
-      "konami",
-      "jeu video",
-      "france",
-      "rogue lite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b22c7a765fc",
-    "title": "WhatsApp va enfin vous laisser programmer vos messages",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633811-whatsapp-va-enfin-vous-laisser-programmer-vos-messages.html",
-    "pubDate": "2026-10-13T06:42:00.000Z",
-    "summary": "WhatsApp déploie enfin une nouvelle option très attendue sur sa version bêta Android. Les utilisateurs peuvent désormais planifier l'envoi de leurs contenus multimédias et textuels. Cette programmation fonctionne même lorsque l'appareil mobile se trouve hors ligne.",
-    "keywords": [
-      "whatsapp",
-      "android",
-      "messagerie",
-      "application"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e5069535e42d",
-    "title": "SteelSeries Arctis Nova 5 : noté 9/10, ce casque gamer de 2024 reste toujours aussi recommandable, surtout à moins de 90 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3282111_steelseries-arctis-nova-5-note-9-10-ce-casque-gamer-de-2024-reste-toujours-aussi-recommandable-surtout-a-moins-de-90-e",
-    "pubDate": "2026-10-13T06:36:00.000Z",
-    "summary": "Le casque gamer SteelSeries Arctis Nova 5 conserve une excellente cote sur le marché technologique actuel. Lancé en 2024, ce modèle de milieu de gamme bénéficie désormais d'une baisse de prix notable chez plusieurs revendeurs. Il est ainsi affiché à moins de 90 euros chez Amazon et Boulanger.",
-    "keywords": [
-      "steelseries",
-      "arctis nova 5",
-      "casque gamer",
-      "amazon",
-      "boulanger"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "36ee7da64b26",
-    "title": "Frigos piratés dans les supermarchés : la faille était connue, mais le matériel trop vieux ou pas mis à jour",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/culture-tech/3282619_frigos-pirates-dans-les-supermarches-la-faille-etait-connue-le-materiel-etait-trop-vieux",
-    "pubDate": "2026-10-13T06:34:29.000Z",
-    "summary": "Des systèmes de réfrigération du fabricant Danfoss ont été piratés dans de nombreux supermarchés en France. L'entreprise indique que la majorité des équipements concernés étaient obsolètes ou manquaient de mises à jour logicielles. Notamment, le modèle AK-SM800 impliqué ne bénéficie plus de support technique depuis l'année 2021.",
-    "keywords": [
-      "danfoss",
-      "cybersecurite",
-      "supermarches",
-      "france",
-      "faille"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3228edf296e8",
-    "title": "iPhone : Apple atteint un record alors que le marché mondial des smartphones s’effondre",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633865-iphone-apple-atteint-un-record-alors-que-le-marche-mondial-des-smartphones-s-effondre.html",
-    "pubDate": "2026-10-13T06:24:00.000Z",
-    "summary": "Le marché mondial des smartphones subit son pire troisième trimestre depuis quatorze ans en raison d'une pénurie de mémoire. Cette crise provoque une augmentation des prix et une diminution du volume des expéditions à l'échelle internationale. Malgré cette chute générale, l'iPhone d'Apple réussit à s'accaparer une part de marché record.",
-    "keywords": [
-      "iphone",
-      "apple",
-      "smartphone",
-      "marche"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "98e818defb32",
-    "title": "👨🏿‍🚀TechCabal Daily – A not-so-Flash deal",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-not-so-flash-deal/",
-    "pubDate": "2026-10-13T06:16:23.000Z",
-    "summary": "La fusion fintech de Pepkor rencontre une vive opposition de la part de ses actionnaires. Quickmart décide de résilier des contrats qui étaient liés à son fondateur. De son côté, Eskom se lance officiellement sur le marché des bornes de recharge pour véhicules électriques.",
-    "keywords": [
-      "pepkor",
-      "quickmart",
-      "eskom",
-      "dangote",
-      "fintech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ea1f4243f55e",
-    "title": "Blizzard ne sait pas où WoW: Forever nous emmènera",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351819-blizzard-ne-sait-pas-ou-wow-forever-nous-emmenera.html",
-    "pubDate": "2026-10-13T06:14:16.000Z",
-    "summary": "Le studio Blizzard Entertainment prépare la sortie de World of Warcraft: Forever prévue pour le 4 novembre prochain. Cette nouvelle version du célèbre MMorpg ramène les joueurs au tout début de l'univers d'Azeroth. L'équipe de développement n'a pas encore défini la direction narrative que prendra ce titre à l'avenir.",
-    "keywords": [
-      "blizzard",
-      "world of warcraft",
-      "mmorpg",
-      "jeu vidéo"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a7341ec673e2",
-    "title": "Le marché du smartphone s’effondre au troisième trimestre avec un creux jamais vu depuis presque 15 ans",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/economie/3282625_le-marche-du-smartphone-seffondre-au-troisieme-trimestre-avec-un-creux-jamais-vu-depuis-presque-15-ans",
-    "pubDate": "2026-10-13T06:12:47.000Z",
-    "summary": "L'industrie mondiale du smartphone traverse une crise historique sans précédent depuis près de quinze ans. Le troisième trimestre 2026 enregistre ainsi la pire baisse d'activité jamais observée sur ce marché. Cette chute brutale est directement provoquée par les tensions majeures qui touchent actuellement l'approvisionnement en mémoire RAM.",
-    "keywords": [
-      "smartphone",
-      "ram",
-      "crise",
-      "marche"
     ],
     "aiDone": true,
     "coverage": 1,
