@@ -1,5 +1,23 @@
 [
   {
+    "id": "bb7629ecc5bb",
+    "title": "Le mot de passe 123456 aurait ouvert l’accès aux données de 8,8 millions de personnes",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633853-le-mot-de-passe-123456-aurait-ouvert-l-acces-aux-donnees-de-8-8-millions-de-personnes.html",
+    "pubDate": "2026-10-13T05:00:00.000Z",
+    "summary": "Un simple mot de passe a permis d'accéder au registre national danois de la population. Les données personnelles de 8,8 millions d'individus ont ainsi été compromises par un pirate. Cet incident met en lumière de graves failles de sécurité au sein d'une petite entreprise d'Odense.",
+    "keywords": [
+      "danemark",
+      "securite informatique",
+      "piratage",
+      "donnees personnelles"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "db6179234a05",
     "title": "On est montés à bord du BYD Atto 8 : 775 ch, 650 km, charge en 5 min, de folles promesses",
     "source": "Frandroid",
@@ -1474,25 +1492,6 @@
       "agriculture",
       "numerique",
       "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8f634860deb7",
-    "title": "Quand l’IA disparaît, les résultats s’effondrent : ce que révèle une étude sur ChatGPT et la persévérance",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/tech/2351209-comment-lia-detruit-votre-capacite-a-perseverer-en-a-peine-10-minutes.html",
-    "pubDate": "2026-10-12T12:01:00.000Z",
-    "summary": "Une récente étude scientifique met en lumière les effets de l'intelligence artificielle sur la cognition humaine. L'utilisation prolongée de ChatGPT réduirait rapidement la capacité des utilisateurs à persévérer face à une difficulté. Ce constat soulève de nouvelles questions quant aux conséquences de la technologie sur nos efforts intellectuels à long terme.",
-    "keywords": [
-      "chatgpt",
-      "intelligence artificielle",
-      "etude",
-      "cognition",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
