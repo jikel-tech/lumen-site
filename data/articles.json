@@ -661,9 +661,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633820-entre-croissance-elevee-et-menace-sur-l-emploi-le-fmi-alerte-sur-la-double-face-de-l-ia.html",
     "pubDate": "2026-10-12T14:59:00.000Z",
-    "summary": "L'intelligence artificielle investit nos vies de jour en jour. Mais est-elle vraiment bien utilisée ? Quels en sont les risques ? Emploi, croissance, piratages, la directrice générale du FMI…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le Fonds monétaire international souligne la dualité de l'intelligence artificielle au sein de la société. Cette technologie stimule fortement la croissance économique mondiale tout en faisant peser de lourds risques sur l'emploi. Sa directrice générale appelle ainsi à une vigilance accrue face aux dangers de cette transformation.",
+    "keywords": [
+      "fmi",
+      "intelligence artificielle",
+      "emploi",
+      "croissance",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -674,9 +680,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/leapmotor/3282069_on-est-monte-a-bord-de-la-leapmotor-b03-cette-citadine-electrique-chinoise-vendue-par-stellantis-pourrait-faire-mal-a-peugeot-et-citroen",
     "pubDate": "2026-10-12T14:58:28.000Z",
-    "summary": "L'offensive produit de Leapmotor se poursuit. La marque chinoise distribuée en Europe par Stellantis profite du Mondial de l'Auto pour lancer sa B03, une citadine électrique qui pourrait faire mal…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le constructeur chinois Leapmotor dévoile la nouvelle citadine électrique B03 lors du Mondial de l'Auto. Ce modèle est distribué en Europe grâce au partenariat stratégique noué avec le groupe Stellantis. L'arrivée de ce véhicule sur le marché risque de concurrencer directement les marques françaises comme Peugeot et Citroën.",
+    "keywords": [
+      "leapmotor",
+      "stellantis",
+      "voiture electrique",
+      "mondial de l'auto",
+      "chine"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -687,9 +699,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-633805-smartphone-tablette-ou-switch-cette-batterie-iniu-20-000-mah-et-45-w-tombe-a-29-99.html",
     "pubDate": "2026-10-12T14:56:00.000Z",
-    "summary": "La batterie externe INIU P51L réunit 20 000 mAh, une sortie USB-C de 45 W et un câble intégré dans un boîtier d’environ 326 g. Amazon l’affiche à 29,99 €, un tarif à remettre en perspective avec…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site e-commerce Amazon propose actuellement la batterie externe INIU au prix réduit de 29,99 euros. Cet accessoire nomade affiche une capacité de 20 000 mAh ainsi qu'une puissance de sortie USB-C atteignant 45 W. Il intègre également un câble de recharge direct dans un format pesant environ 326 grammes.",
+    "keywords": [
+      "iniu",
+      "batterie externe",
+      "amazon",
+      "smartphone",
+      "accessoire tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -700,9 +718,15 @@
     "category": "logiciels",
     "url": "https://www.numerama.com/cyberguerre/2351549-piratage-intermarche-super-u-leclerc-pourquoi-les-frigos-des-supermarches-sont-ils-connectes-a-internet.html",
     "pubDate": "2026-10-12T14:54:28.000Z",
-    "summary": "La cyberattaque qui a fait chauffer les congélateurs d’Intermarché, Leclerc et Super U en a surpris plus d’un. Ces équipements sont pourtant connectés pour de bonnes raisons, et le problème vient…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Une récente cyberattaque a ciblé les congélateurs connectés de plusieurs grandes enseignes de distribution françaises. Ces équipements de réfrigération intègrent des connexions Internet pour des motifs opérationnels légitimes. L'incident met en lumière des failles dans les méthodes de sécurisation et de raccordement de ces appareils.",
+    "keywords": [
+      "intermarché",
+      "leclerc",
+      "super u",
+      "cyberattaque",
+      "objets connectés"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -713,9 +737,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3281881_489-e-cest-le-super-prix-de-ce-tv-4k-lg-qned-de-65-pouces-ideal-pour-les-soirees-cine-de-cet-automne",
     "pubDate": "2026-10-12T14:44:14.000Z",
-    "summary": "Avec sa grande dalle QNED, le TV LG 65QNED80A6A devrait donner une autre dimension à vos films favoris. La bonne nouvelle, c'est que Joybuy le propose à 489,99 euros au lieu de 699 euros.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site marchand Joybuy propose actuellement le téléviseur 4K LG de 65 pouces à un tarif réduit. Cet appareil doté d'une dalle QNED est affiché au prix de 489,99 euros au lieu de 699 euros. Cette offre permet de s'équiper à moindre coût pour les sessions de cinéma à domicile.",
+    "keywords": [
+      "lg",
+      "tv 4k",
+      "qned",
+      "joybuy",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -726,9 +756,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/3282077_nothing-os-5-0-debarque-sur-le-phone-3-avec-android-17-et-plus-de-80-nouveautes",
     "pubDate": "2026-10-12T14:43:51.000Z",
-    "summary": "Nothing a lancé ce lundi 12 octobre le déploiement de Nothing OS 5.0, basé sur Android 17, en commençant par le Phone (3). La marque annonce plus de 80 améliorations et la présente comme sa plus…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque Nothing a entamé ce lundi 12 octobre le déploiement de sa mise à jour Nothing OS 5.0. Cette nouvelle version logicielle, conçue sur la base d'Android 17, équipe en premier lieu le modèle Phone (3). Le constructeur met en avant plus de quatre-vingts améliorations notables pour cette version.",
+    "keywords": [
+      "nothing",
+      "phone 3",
+      "nothing os 5.0",
+      "android 17"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -739,9 +774,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-633742-le-dernier-google-pixel-11-a--100-les-dernieres-innovations-photos-et-ia-sont-a-portee-de-main.html",
     "pubDate": "2026-10-12T14:35:00.000Z",
-    "summary": "Le Google Pixel 11 est le dernier smartphone en date de la marque, l'entrée de gamme de cette génération, avec de belles avancées sur l'IA et la photo, à retrouver sur Fnac pour 899 euros au lieu de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le smartphone Google Pixel 11 bénéficie actuellement d'une réduction de cent euros chez Fnac. Ce modèle intègre des améliorations notables en matière d'intelligence artificielle et de photographie. L'appareil est ainsi proposé au tarif de 899 euros.",
+    "keywords": [
+      "google",
+      "pixel 11",
+      "smartphone",
+      "fnac",
+      "ia"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -752,9 +793,15 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/",
     "pubDate": "2026-10-12T14:34:21.000Z",
-    "summary": "Millions of Africans live within reach of mobile broadband but remain offline. Ghana, Egypt, and Niger show why expanding coverage is only part of the solution: people also need affordable devices,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des millions d'Africains vivant dans des zones couvertes par le haut débit mobile restent pourtant hors ligne. La situation au Ghana, en Égypte et au Niger démontre que le déploiement des réseaux ne suffit pas. Pour connecter la population, il faut notamment des terminaux abordables et des services adaptés aux besoins quotidiens.",
+    "keywords": [
+      "afrique",
+      "internet",
+      "ghana",
+      "egypte",
+      "niger"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -765,9 +812,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2351477-ce-mod-impressionnant-de-starfield-ajoute-un-vrai-atterrissage-pour-les-vaisseaux.html",
     "pubDate": "2026-10-12T14:32:20.000Z",
-    "summary": "Le moddeur Frederik Wessberg travaille sur un projet permettant d'atterrir sur les planètes de Starfield sans écran de chargement. Après six mois de développement, il montre à quel point c'est…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le moddeur Frederik Wessberg développe un mod pour Starfield qui supprime les écrans de chargement lors des atterrissages. Ce projet gratuit, aboutissement de six mois de travail, sera réservé à la version PC du jeu. L'extension offre une expérience d'immersion nettement supérieure pour les joueurs sur ordinateur.",
+    "keywords": [
+      "starfield",
+      "mod",
+      "frederik wessberg",
+      "pc",
+      "jeu"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -778,9 +831,14 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/actualite-633799-apple-produit-des-iphone-duo-en-quantite-mais-il-y-a-beaucoup-de-perte.html",
     "pubDate": "2026-10-12T14:32:00.000Z",
-    "summary": "La production de l'iPhone Duo avance, cependant, un bon nombre d'appareils seraient tout simplement perdus. Le chiffre fait froid dans le dos quant à la quantité de smartphones sortis d'usine, en…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple progresse dans la fabrication de son nouveau modèle d'appareil mobile. De nombreux exemplaires de ce smartphone disparaissent toutefois au cours du processus industriel. Ces pertes importantes en usine suscitent des inquiétudes quant au volume réel de production.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "smartphone",
+      "production"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -791,9 +849,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/chery/3281981_tres-bonne-nouvelle-pour-le-prix-du-jaecoo-5-electrique-en-france-comment-sa-production-en-espagne-va-faire-chuter-les-prix-du-suv-electrique-chinois",
     "pubDate": "2026-10-12T14:21:28.000Z",
-    "summary": "Au Mondial de l'Auto, Omoda Jaecoo a annoncé le début de production en Espagne du Jaecoo 5 EV au premier trimestre 2027. Le bénéfice en France est clair : le SUV électrique devrait être éligible au…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque chinoise Omoda Jaecoo lancera la production européenne de son SUV électrique Jaecoo 5 en Espagne dès le premier trimestre 2027. Cette fabrication locale en Espagne permettra de faire baisser significativement le prix de vente de ce véhicule en France. Grâce à cette relocalisation industrielle, le nouveau modèle électrique pourra également prétendre aux aides à l'achat en France.",
+    "keywords": [
+      "jaecoo 5",
+      "omoda jaecoo",
+      "suv electrique",
+      "espagne",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -804,9 +868,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/orange/3281779_orange-la-reconnexion-flash-permet-de-recuperer-internet-en-cas-de-panne-voici-comment",
     "pubDate": "2026-10-12T14:16:44.000Z",
-    "summary": "Orange lance un nouveau service, la Reconnexion Flash, dont le but est d'assurer rapidement la continuité de votre connexion Internet fixe en cas de panne. Derrière le nom se cache un procédé bien…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'opérateur Orange commercialise un nouveau service baptisé Reconnexion Flash. Cette offre technique vise à garantir un maintien rapide de l'accès Internet fixe lors d'incidents. Le dispositif permet ainsi aux usagers de rétablir leur connexion en toute simplicité.",
+    "keywords": [
+      "orange",
+      "reconnexion flash",
+      "internet",
+      "panne"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -817,9 +886,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
     "pubDate": "2026-10-12T14:16:00.000Z",
-    "summary": "Home Assistant 2026.10 simplifie la connexion des assistants IA à votre maison connectée. Quelques réglages méritent toutefois votre attention avant de leur donner accès à vos équipements.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La version 2026.10 de Home Assistant facilite grandement l'intégration des intelligences artificielles conversationnelles dans l'écosystème domotique. Cette mise à jour permet de connecter plus aisément des modèles comme ChatGPT et Claude à la maison connectée. Il est cependant recommandé de configurer certains paramètres avec précaution avant d'autoriser ces IA à piloter les équipements.",
+    "keywords": [
+      "home assistant",
+      "chatgpt",
+      "claude",
+      "domotique",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -830,9 +905,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
     "pubDate": "2026-10-12T14:09:34.000Z",
-    "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque Ultrahuman s'associe à Abou Dabi pour lancer son modèle d'âge biologique aux Émirats arabes unis. Ce partenariat de deux ans permettra de mener des recherches approfondies et une validation clinique de la technologie. Cette initiative renforcera la présence du fabricant de bagues connectées dans la région.",
+    "keywords": [
+      "ultrahuman",
+      "smart ring",
+      "emirats arabes unis",
+      "sante connectee",
+      "abou dabi"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -843,9 +924,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/actualite-633796-lineageos-debarque-enfin-sur-les-pixel-10-et-pixel-10-pro.html",
     "pubDate": "2026-10-12T14:06:00.000Z",
-    "summary": "On l'attendait, cette version a pris plus de temps que prévu. LineageOS est enfin disponible pour certains smartphones de la gamme Pixel 10, mais pas pour tout le monde.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le système d'exploitation LineageOS est désormais disponible sur les smartphones Pixel 10 et Pixel 10 Pro. Cette version alternative d'Android a nécessité plus de temps que prévu avant son lancement officiel. La mise à disposition de ce logiciel concerne uniquement une partie de la gamme récente de Google.",
+    "keywords": [
+      "lineageos",
+      "pixel 10",
+      "pixel 10 pro",
+      "google",
+      "smartphone"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
