@@ -1224,9 +1224,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2350963-test-de-valor-mortis-le-mariage-parfait-entre-dark-souls-et-fps.html",
     "pubDate": "2026-10-12T13:00:00.000Z",
-    "summary": "Après nous avoir fait virevolter dans les deux Ghostrunner, le studio One More Level ose se confronter au genre des soulslike avec Valor Mortis. Le studio garde sa vue à la première personne, un…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le studio One More Level lance Valor Mortis, un jeu vidéo qui fusionne les codes du soulslike et du FPS. Cette nouveauté adopte une vue à la première personne audacieuse pour ce type de gameplay. Le titre est disponible depuis ce mardi 13 octobre et s'impose comme une réussite.",
+    "keywords": [
+      "valor mortis",
+      "one more level",
+      "fps",
+      "soulslike",
+      "jeu video"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1237,9 +1243,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/fitbit/3281737_google-lance-le-fitbit-edge-un-bracelet-discret-malgre-lecran-et-avec-batterie-remplacable",
     "pubDate": "2026-10-12T13:00:00.000Z",
-    "summary": "Google officialise le Fitbit Edge, un bracelet connecté doté d'un écran vendu 179,99 euros en France et disponible le 27 octobre. C'est le premier appareil Fitbit avec une batterie remplaçable.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google commercialise en France le nouveau bracelet connecté Fitbit Edge au prix de 179,99 euros. Cet appareil doté d'un écran sera disponible à l'achat à partir du 27 octobre prochain. Il s'agit du tout premier produit de la marque à intégrer une batterie remplaçable.",
+    "keywords": [
+      "google",
+      "fitbit edge",
+      "bracelet connecté",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1250,9 +1261,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/cmf/3281239_cmf-speaker-s-et-speaker-m-deux-enceintes-bluetooth-ip68-qui-ressemblent-a-des-briques-de-lait",
     "pubDate": "2026-10-12T13:00:00.000Z",
-    "summary": "CMF, la marque de Nothing, présente ses deux premières enceintes Bluetooth. Le Speaker S (10 watts) et le Speaker M (35 watts) adoptent une forme de brique de lait, avec une façade interchangeable et…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque CMF, filiale de Nothing, dévoile ses tout premiers modèles d'enceintes Bluetooth. Les appareils nommés Speaker S et Speaker M affichent une puissance respective de 10 et 35 watts. Leur design atypique évoque des briques de lait et intègre notamment une façade interchangeable.",
+    "keywords": [
+      "cmf",
+      "nothing",
+      "enceinte bluetooth",
+      "speaker s",
+      "speaker m"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1263,9 +1280,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633652-cmf-se-lance-dans-l-enceinte-bluetooth-avec-un-design-qui-casse-des-briques.html",
     "pubDate": "2026-10-12T13:00:00.000Z",
-    "summary": "Après des écouteurs, un casque, et des clips d’oreille, CMF vient de dévoiler les deux premières enceintes waterproof de l’univers Nothing/CMF, les Speaker S et Speaker M. L'ex marque fille du…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque CMF élargit son catalogue audio en introduisant ses tout premiers modèles d'enceintes. Ces appareils nomades et résistants à l'eau se déclinent en deux versions distinctes nommées Speaker S et Speaker M. Cette nouveauté vient compléter l'écosystème d'accessoires déjà composé d'écouteurs et de casques.",
+    "keywords": [
+      "cmf",
+      "nothing",
+      "enceinte bluetooth",
+      "speaker s",
+      "speaker m"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1276,9 +1299,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633502-fitbit-edge-google-signe-le-retour-du-bracelet-d-activite-avec-ecran.html",
     "pubDate": "2026-10-12T13:00:00.000Z",
-    "summary": "Avec son écran et son GPS intégré, le nouveau bracelet de Google veut occuper l’espace entre le Fitbit Air et la Pixel Watch. Une formule plus pratique au quotidien, mais qui fait l’impasse sur le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google officialise le retour des bracelets connectés sur le marché avec le nouveau Fitbit Edge. Cet appareil intègre un écran d'affichage ainsi qu'un GPS pour un usage quotidien amélioré. Il se positionne commercialement entre le modèle Fitbit Air et la montre connectée Pixel Watch.",
+    "keywords": [
+      "google",
+      "fitbit edge",
+      "bracelet d'activite",
+      "gps",
+      "montre connectee"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1289,9 +1318,14 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
     "pubDate": "2026-10-12T12:47:59.000Z",
-    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un ancien dirigeant de Plaud a réussi à lever 26 millions de dollars pour financer un nouveau projet. Cette application d'intelligence artificielle est conçue pour écouter l'utilisateur en permanence en arrière-plan. L'objectif de cet outil est de collecter un maximum de contexte pour améliorer l'assistance personnalisée.",
+    "keywords": [
+      "plaud",
+      "intelligence artificielle",
+      "application",
+      "levee de fonds"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1302,9 +1336,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-632623-ce-petit-logiciel-gratuit-apporte-a-windows-11-une-fonctionnalite-que-les-utilisateurs-de-mac-connaissent-bien.html",
     "pubDate": "2026-10-12T12:33:00.000Z",
-    "summary": "Vous rêvez d'un fond d'écran dynamique ? Sur macOS, cette fonctionnalité est disponible nativement. Windows ne propose pas exactement la même expérience, mais WinDynamicDesktop permet de retrouver ce…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un utilitaire gratuit permet d'obtenir des fonds d'écran dynamiques sur Windows 11. Cette option visuelle est déjà proposée par défaut sur les ordinateurs Mac. Le logiciel WinDynamicDesktop comble ainsi ce manque pour les utilisateurs du système de Microsoft.",
+    "keywords": [
+      "windynamicdesktop",
+      "windows 11",
+      "macos",
+      "logiciel",
+      "fond d'écran"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1315,9 +1355,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633754-le-lancet-classe-l-ia-malveillante-parmi-les-deux-seules-menaces-d-extinction-pour-l-humanite-d-ici-2100.html",
     "pubDate": "2026-10-12T12:14:00.000Z",
-    "summary": "La prestigieuse revue scientifique The Lancet a passé au crible 17 menaces qui pèsent sur l’humanité d’ici 2100. Deux seulement pourraient provoquer son extinction : le conflit nucléaire et…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La revue scientifique The Lancet a récemment évalué dix-sept risques majeurs pesant sur l'humanité d'ici la fin du siècle. Selon cette analyse, l'intelligence artificielle malveillante représente, aux côtés du conflit nucléaire, l'une des deux menaces d'extinction possibles. Cette publication met en lumière la dangerosité critique de ces technologies pour l'avenir de notre espèce.",
+    "keywords": [
+      "the lancet",
+      "intelligence artificielle",
+      "menace d extinction",
+      "technologie",
+      "futur"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1328,9 +1374,15 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/12/lagos-life-advertising-revenue-running-costs/",
     "pubDate": "2026-10-12T12:10:42.000Z",
-    "summary": "This is Follow the Money, our weekly series that unpacks the earnings, business, and scaling strategies of African fintechs, financial institutions, companies, and governments. A new edition drops…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le jeu de simulation urbaine Lagos Life a connu un succès viral fulgurant en octobre 2026. Ce projet improvisé s'est rapidement transformé en une véritable activité publicitaire générant des revenus importants. La plateforme a ainsi revendiqué plus de 170 000 dollars de gains en quelques jours seulement.",
+    "keywords": [
+      "lagos life",
+      "jeu",
+      "publicite",
+      "nigeria",
+      "fintech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1341,9 +1393,14 @@
     "category": "culture",
     "url": "https://www.frandroid.com/bons-plans/3272321_nintendo-switch-2-la-version-europeenne-avec-batterie-remplacable-coute-deja-50-euros-de-moins-sur-amazon",
     "pubDate": "2026-10-12T12:09:46.000Z",
-    "summary": "La Nintendo Switch 2 arrive dans une nouvelle version européenne, avec une batterie facilement remplaçable. Amazon la propose d'ores et déjà à 449 euros au lieu de 499,99 euros.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose la nouvelle Nintendo Switch 2 européenne à un tarif réduit de 449 euros. Cette variante inédite se distingue par la présence d'une batterie facilement remplaçable. Le prix de lancement initialement fixé à près de 500 euros baisse ainsi de cinquante euros.",
+    "keywords": [
+      "nintendo switch 2",
+      "amazon",
+      "batterie",
+      "jeu video"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1354,9 +1411,15 @@
     "category": "afrique",
     "url": "http://www.wearetech.africa/fr/fils/actualites/tech/togo-la-chine-inspire-de-nouvelles-pistes-pour-numeriser-l-agriculture",
     "pubDate": "2026-10-12T12:04:07.000Z",
-    "summary": "Written by: Samira Njoya Dans un secteur exposé aux aléas climatiques et aux contraintes de gestion de l’eau, les outils numériques offrent de nouvelles possibilités pour adapter les pratiques…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le Togo envisage d'intégrer des technologies innovantes pour moderniser son secteur agricole. Des solutions numériques telles que l'intelligence artificielle et la robotique sont étudiées pour faire face aux défis climatiques. Cette démarche s'inspire des pratiques observées en Chine.",
+    "keywords": [
+      "togo",
+      "chine",
+      "agriculture",
+      "numerique",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1367,9 +1430,15 @@
     "category": "ia",
     "url": "https://www.numerama.com/tech/2351209-comment-lia-detruit-votre-capacite-a-perseverer-en-a-peine-10-minutes.html",
     "pubDate": "2026-10-12T12:01:00.000Z",
-    "summary": "Si l'IA s'impose dans de nombreux usages du quotidien, ses effets à long terme sur nos capacités intellectuelles restent mal connus, par manque de recul. Une étude présentée début octobre montre…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Une récente étude scientifique met en lumière les effets de l'intelligence artificielle sur la cognition humaine. L'utilisation prolongée de ChatGPT réduirait rapidement la capacité des utilisateurs à persévérer face à une difficulté. Ce constat soulève de nouvelles questions quant aux conséquences de la technologie sur nos efforts intellectuels à long terme.",
+    "keywords": [
+      "chatgpt",
+      "intelligence artificielle",
+      "etude",
+      "cognition",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1380,9 +1449,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/comment-faire/tutoriaux/2413910_comment-activer-la-transcription-des-messages-vocaux-sur-whatsapp",
     "pubDate": "2026-10-12T11:45:06.000Z",
-    "summary": "WhatsApp vous permet enfin de transcrire les messages audio sous forme de texte. Mais l'outil est désactivé par défaut. Voici la méthode pour l'activer.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "WhatsApp propose désormais une fonctionnalité officielle pour transformer les messages audio en texte. Cette option bien pratique se trouve désactivée à l'origine dans les réglages de l'application. Les utilisateurs doivent ainsi effectuer une manipulation spécifique pour en profiter au quotidien.",
+    "keywords": [
+      "whatsapp",
+      "transcription",
+      "messages vocaux",
+      "audio",
+      "tutoriel"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1393,9 +1468,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633739-la-prochaine-apple-tv-4k-pourrait-bien-vous-faire-oublier-sa-telecommande.html",
     "pubDate": "2026-10-12T11:43:00.000Z",
-    "summary": "Apple prépare une nouvelle version de son Apple TV 4K, et quelques surprises pourraient accompagner son lancement. Le constructeur aurait notamment prévu deux nouveautés pour simplifier son…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple prépare le lancement d'une nouvelle version de son boîtier multimédia Apple TV 4K. Ce futur modèle devrait intégrer des améliorations majeures destinées à simplifier l'utilisation quotidienne. Les utilisateurs pourraient ainsi découvrir des fonctionnalités inédites remplaçant l'usage de la télécommande classique.",
+    "keywords": [
+      "apple",
+      "apple tv",
+      "apple tv 4k",
+      "streaming",
+      "high-tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1406,9 +1487,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2351143-vous-ne-revez-pas-dark-vador-va-affronter-hulk-dans-un-crossover-pour-marvel.html",
     "pubDate": "2026-10-12T11:40:00.000Z",
-    "summary": "Ça fait presque 50 ans que certains en rêvaient, et Disney a enfin décidé d'appuyer sur le bouton rouge. Un crossover comics Star Wars/Marvel: Hope Assembles se prépare pour janvier 2027 (pour fêter…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Marvel et Disney préparent un crossover inédit entre Star Wars et l'univers Marvel pour janvier 2027. Cette bande dessinée événement, intitulée Hope Assembles, célébrera le cinquantième anniversaire de la célèbre franchise galactique. Les premiers visuels officiels mettent notamment en scène la confrontation entre Dark Vador et Hulk.",
+    "keywords": [
+      "marvel",
+      "star wars",
+      "dark vador",
+      "hulk",
+      "disney"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   }
