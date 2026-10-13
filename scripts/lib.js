@@ -38,37 +38,43 @@ export function safeUrl(u) {
   }
 }
 
+// Modèles Gemini. "gemini-2.5-flash" n'est plus accessible aux clés récentes (erreur 404) : voir
+// https://ai.google.dev/gemini-api/docs/models. Résumés courts → modèle économique ;
+// texte long (analyse hebdomadaire) → modèle plus capable. GEMINI_MODEL force un modèle précis.
+const MODEL_SHORT = 'gemini-3.5-flash-lite';
+const MODEL_LONG = 'gemini-3.8-flash';
+let geminiErrors = 0;
+
 // Appel à Gemini avec réponse texte libre. Renvoie null si pas de clé ou en cas d'erreur.
 export async function gemini(prompt, { json = false, maxOutputTokens = 1024, temperature = 0.4 } = {}) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) return null;
+  const model = process.env.GEMINI_MODEL || (maxOutputTokens >= 2000 ? MODEL_LONG : MODEL_SHORT);
   try {
-    const res = await fetch(
-      'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent',
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: {
-            temperature,
-            maxOutputTokens,
-            ...(json ? { responseMimeType: 'application/json' } : {}),
-            // Pas de "réflexion" interne : plus rapide, moins coûteux pour des résumés courts.
-            thinkingConfig: { thinkingBudget: 0 },
-          },
-        }),
-        signal: AbortSignal.timeout(30000),
-      }
-    );
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature,
+          // Les nouveaux modèles "réfléchissent" un peu avant de répondre, et ces tokens comptent dans
+          // la limite : on garde de la marge pour que la réponse ne soit pas coupée.
+          maxOutputTokens: maxOutputTokens + 2000,
+          ...(json ? { responseMimeType: 'application/json' } : {}),
+        },
+      }),
+      signal: AbortSignal.timeout(60000),
+    });
     if (!res.ok) {
-      console.error(`Gemini HTTP ${res.status}`);
+      // On détaille seulement les 2 premières erreurs pour garder un journal lisible.
+      if (geminiErrors++ < 2) console.error(`Gemini HTTP ${res.status} (modèle ${model}) : ${(await res.text()).replace(key, '***').slice(0, 300)}`);
       return null;
     }
     const data = await res.json();
-    return data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || null;
+    return data?.candidates?.[0]?.content?.parts?.map((p) => p.text || '').join('').trim() || null;
   } catch (err) {
-    console.error('Gemini indisponible :', err.message);
+    if (geminiErrors++ < 2) console.error('Gemini indisponible :', err.message);
     return null;
   }
 }
