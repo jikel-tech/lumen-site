@@ -1,14 +1,77 @@
 [
   {
+    "id": "e951e10e013f",
+    "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+    "pubDate": "2026-10-13T18:30:03.000Z",
+    "summary": "Mind Robotics, une entreprise issue de Rivian, vient de recruter Doug Field à sa tête. Ce vétérane de l'industrie automobile a notamment piloté le développement de la Tesla Model 3. Il a également collaboré par le passé sur le projet de véhicule autonome d'Apple.",
+    "keywords": [
+      "mind robotics",
+      "rivian",
+      "doug field",
+      "vehicule electrique",
+      "tesla"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d3f06c5cb28b",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "pubDate": "2026-10-13T18:30:00.000Z",
+    "summary": "La startup Flox Intelligence développe une intelligence artificielle pour éloigner la faune sauvage des infrastructures sensibles. Ses boîtiers intelligents identifient les animaux grâce à l'edge computing. Ils émettent ensuite des sons spécifiques à chaque espèce pour les repousser des voies ferrées, des routes et des aéroports.",
+    "keywords": [
+      "flox intelligence",
+      "intelligence artificielle",
+      "faune sauvage",
+      "infrastructures",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "27aa32eca883",
+    "title": "J’ai testé l’enceinte de salon Marshall Acton IV : un joli caractère",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/marshall/3250163_jai-teste-lenceinte-residentielle-marshall-acton-iv-un-joli-caractere",
+    "pubDate": "2026-10-13T18:22:04.000Z",
+    "summary": "Le test de l'enceinte de salon Marshall Acton IV révèle un appareil au format compact et sans batterie. Ce modèle s'adresse aux pièces exiguës grâce à son design discret et sa nouvelle entrée RCA. La marque mise sur une signature sonore raffinée pour séduire les amateurs de musique en intérieur.",
+    "keywords": [
+      "marshall",
+      "acton iv",
+      "enceinte",
+      "audio",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "c06a934276cf",
     "title": "Facebook is giving users more control over their algorithm",
     "source": "TechCrunch",
     "category": "culture",
     "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
     "pubDate": "2026-10-13T18:05:24.000Z",
-    "summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Meta introduit une nouvelle fonctionnalité nommée Your Algorithm sur ses plateformes. Cet outil, déjà disponible sur Instagram, exploite l'intelligence artificielle. Il offre aux utilisateurs une plus grande maîtrise sur le contenu qui leur est présenté.",
+    "keywords": [
+      "meta",
+      "facebook",
+      "instagram",
+      "intelligence artificielle",
+      "algorithme"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -19,9 +82,14 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
     "pubDate": "2026-10-13T18:05:00.000Z",
-    "summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Longshot développe un canon géant pour projeter des charges utiles directement dans l'espace. Ce projet innovant vise à rendre possible la création de centres de données orbitaux. Le dispositif sera présenté lors de l'événement TechCrunch Disrupt 2026.",
+    "keywords": [
+      "longshot",
+      "espace",
+      "technologie",
+      "innovation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -96,9 +164,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3283679_un-tv-oled-samsung-55-pouces-de-2026-sous-les-900-e-cest-possible-avec-cette-superbe-offre",
     "pubDate": "2026-10-13T17:23:00.000Z",
-    "summary": "Le Samsung 55S85H fait partie des derniers TV OLED 2026 de la marque. Il offre une belle qualité d'image et plaira aussi bien aux cinéastes qu'aux joueurs. En ce moment, son prix passe de 1 199 euros…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le téléviseur OLED 2026 Samsung 55S85H bénéficie actuellement d'une importante réduction chez le revendeur Joybuy. Ce modèle de 55 pouces est ainsi proposé au tarif attractif de 899 euros au lieu de 1 199 euros. Cet écran s'adresse particulièrement aux amateurs de cinéma ainsi qu'aux passionnés de jeux vidéo grâce à ses performances.",
+    "keywords": [
+      "samsung",
+      "oled",
+      "tv",
+      "joybuy",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -110,19 +184,6 @@
     "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
     "pubDate": "2026-10-13T17:18:25.000Z",
     "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "27aa32eca883",
-    "title": "J’ai testé l’enceinte résidentielle Marshall Acton IV : un joli caractère",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/marshall/3250163_jai-teste-lenceinte-residentielle-marshall-acton-iv-un-joli-caractere",
-    "pubDate": "2026-10-13T17:00:00.000Z",
-    "summary": "Plus petite des enceintes résidentielles de la marque : ce modèle est conçu pour les chambres, bureaux et petits salons. Sans batterie ni vocation nomade, elle mise sur son format compact, sa…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
@@ -1096,38 +1157,6 @@
     "url": "https://www.frandroid.com/marques/3283005_boulanger-retire-300-e-au-pixel-11-pro-xl-le-dernier-smartphone-haut-de-gamme-de-google",
     "pubDate": "2026-10-13T13:16:00.000Z",
     "summary": "Lancé il y a peu, le Google Pixel 11 Pro XL est la version grand format du haut de gamme de Google. Il est déjà proposé à 1 099 euros au lieu de 1 399 euros chez Boulanger, en version 256 Go.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b1f4f9b630a7",
-    "title": "Apple makes another push into the smart home market with HomeView",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-    "pubDate": "2026-10-13T13:15:46.000Z",
-    "summary": "Apple intensifie sa présence sur le marché de la maison intelligente avec le lancement de HomeView. Ce nouvel appareil conçu par Apple vient concurrencer directement les gammes Amazon Echo Show et Google Nest Hub. Cette incursion marque une nouvelle étape dans la stratégie domotique de l'entreprise américaine.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "maison intelligente",
-      "domotique",
-      "amazon"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b88aa0fe0a7",
-    "title": "Apple lance ses caméras et sa serrure avec LG et Schneider : Home Collection, 9 accessoires, 0 en France",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3283311_apple-lance-ses-cameras-et-sa-serrure-avec-lg-home-collection-9-accessoires-0-en-france",
-    "pubDate": "2026-10-13T13:14:49.000Z",
-    "summary": "Apple lance sa première gamme d'accessoires domotiques, conçue avec LG et le français Schneider Electric. Caméras, serrure et thermostats se pilotent sans autre appli que Maison, mais aucun n'est…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
