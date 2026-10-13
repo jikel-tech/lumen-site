@@ -3,35 +3,35 @@
     "https://techcrunch.com/feed/": {
       "source": "TechCrunch",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.numerama.com/feed/": {
       "source": "Numerama",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.frandroid.com/feed": {
       "source": "Frandroid",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.clubic.com/feed/news.rss": {
       "source": "Clubic",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://techcabal.com/feed/": {
       "source": "TechCabal",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 10,
       "consecutiveFailures": 0
     },
@@ -52,20 +52,20 @@
     "https://www.agenceecofin.com/rss": {
       "source": "Agence Ecofin",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 0,
       "consecutiveFailures": 0
     },
     "https://wearetech.africa/component/obrss/fluxrss": {
       "source": "We Are Tech Africa",
       "ok": true,
-      "lastSuccess": "2026-10-13T18:53:59.801Z",
+      "lastSuccess": "2026-10-13T19:22:48.355Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     }
   },
   "feedsOk": 7,
   "feedsTotal": 7,
-  "updatedAt": "2026-10-13T18:53:59.801Z",
+  "updatedAt": "2026-10-13T19:22:48.355Z",
   "articles": 80
 }

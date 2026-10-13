@@ -1,5 +1,42 @@
 [
   {
+    "id": "0bfd196f12cf",
+    "title": "Netflix gagne les droits du Mondial 2030 en Espagne, qu’est-ce que ça change pour la diffusion en France ?",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-634066-netflix-gagne-les-droits-du-mondial-2030-en-espagne-qu-est-ce-que-ca-change-pour-la-diffusion-en-france.html",
+    "pubDate": "2026-10-13T19:15:00.000Z",
+    "summary": "Netflix a acquis les droits de diffusion en direct de l'intégralité de la Coupe du monde 2030 pour ses abonnés en Espagne. Ce tournoi historique est coorganisé par l'Espagne, le Portugal et le Maroc. En revanche, la plateforme ne retransmettra aucune rencontre en France.",
+    "keywords": [
+      "netflix",
+      "coupe du monde 2030",
+      "espagne",
+      "droits tv",
+      "m6"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "eeb7b63b8dbc",
+    "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+    "pubDate": "2026-10-13T19:00:00.000Z",
+    "summary": "La jeune pousse Niobia développe une solution logicielle destinée au secteur technologique. Son outil aide les fabricants de puces et de batteries à repérer les défauts sur leurs chaînes de production. Cette technologie vise à limiter les interruptions d'activité et à réduire les erreurs industrielles.",
+    "keywords": [
+      "niobia",
+      "batteries",
+      "semi-conducteurs",
+      "production"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e951e10e013f",
     "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
     "source": "TechCrunch",
@@ -100,9 +137,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634027-paris-audio-video-show-2026-clubic-vous-offre-vos-places-pour-le-salon.html",
     "pubDate": "2026-10-13T17:45:00.000Z",
-    "summary": "Le Paris Audio Video Show revient au Palais des Congrès de Paris les 24 et 25 octobre 2026. Deux jours pour découvrir les dernières nouveautés en matière de hi-fi, de home cinéma et de technologies…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le Paris Audio Video Show se tiendra au Palais des Congrès de Paris les 24 et 25 octobre 2026. Cet événement permettra de découvrir les dernières innovations en matière de hi-fi et de home cinéma. Le site Clubic propose actuellement d'obtenir des places gratuites pour assister au salon.",
+    "keywords": [
+      "pavs 2026",
+      "clubic",
+      "paris audio video show",
+      "hifi",
+      "home cinema"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -151,9 +194,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/nvidia/3283903_doctolib-pigment-genesis-ai-entalpic-nvidia-fait-ses-courses-en-france",
     "pubDate": "2026-10-13T17:27:56.000Z",
-    "summary": "Nvidia entre au capital de Doctolib en tant qu'actionnaire minoritaire, a annoncé son CEO Jensen Huang à Paris ce mardi 13 octobre, sans dévoiler le montant. Le groupe américain investit aussi dans…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le géant américain Nvidia a pris une participation minoritaire au capital de Doctolib. Le PDG Jensen Huang a officialisé cette implantation lors de son passage à Paris. L'entreprise investit également dans trois autres startups françaises spécialisées dans l'intelligence artificielle.",
+    "keywords": [
+      "nvidia",
+      "doctolib",
+      "intelligence artificielle",
+      "france",
+      "investissement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -183,9 +232,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
     "pubDate": "2026-10-13T17:18:25.000Z",
-    "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Pluto Security vient de lever 42 millions de dollars pour répondre aux nouveaux défis de cybersécurité en entreprise. L'adoption généralisée des outils d'intelligence artificielle au sein des organisations crée des failles inédites. Ces vulnérabilités inattendues inquiètent particulièrement les équipes de sécurité informatique.",
+    "keywords": [
+      "pluto security",
+      "intelligence artificielle",
+      "cybersecurite",
+      "entreprise",
+      "levee de fonds"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -215,9 +270,14 @@
     "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
     "pubDate": "2026-10-13T17:00:00.000Z",
-    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google permet désormais à chacun de concevoir des applications personnelles pour Android grâce à l'intelligence artificielle. Ces créations numériques sur mesure fonctionnent directement sur mobile sans passer par une publication publique. Les utilisateurs peuvent ainsi profiter d'outils sur mesure en toute simplicité.",
+    "keywords": [
+      "google play",
+      "android",
+      "intelligence artificielle",
+      "applications"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -228,9 +288,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-634033-la-camera-d-interieur-tapo-c201-garde-un-il-sur-votre-logement-pour-moins-de-30-grace-a-cette-vente-flash-amazon.html",
     "pubDate": "2026-10-13T16:50:00.000Z",
-    "summary": "La caméra Tapo C201 permet de surveiller une pièce à distance grâce à sa tête motorisée et à sa connexion Wi-Fi. Amazon la propose à 29,75 € au lieu de 39,98 € pendant une durée limitée.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose actuellement une réduction sur la caméra connectée Tapo C201. Cet appareil permet de surveiller son domicile à distance grâce à une tête motorisée et une liaison Wi-Fi. Le produit est ainsi vendu au prix de 29,75 euros au lieu de 39,98 euros.",
+    "keywords": [
+      "amazon",
+      "tapo c201",
+      "camera",
+      "maison connectee"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -241,9 +306,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/survoltes/3281303_le-paradoxe-chinois-premier-pollueur-de-la-planete-mais-sauveur-du-bilan-carbone-mondial",
     "pubDate": "2026-10-13T16:44:10.000Z",
-    "summary": "Premier pollueur mondial, la Chine contribue aussi à éviter des centaines de millions de tonnes d’émissions par an à l’étranger grâce à ses technologies propres. En 2025, les équipements qu’elle a…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La Chine est à la fois le premier pollueur mondial et un exportateur majeur de technologies propres. Ses équipements écologiques vendus à l'étranger ont permis d'éviter le rejet de 374 millions de tonnes de CO2 en 2025. Cette réduction dépasse le volume total des émissions de dioxyde de carbone produites par la France en une année.",
+    "keywords": [
+      "chine",
+      "co2",
+      "technologies propres",
+      "emissions"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -254,9 +324,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3283357_ce-forfait-free-perd-10-euros-par-mois-et-gagne-la-data-illimitee-voici-comment",
     "pubDate": "2026-10-13T16:44:00.000Z",
-    "summary": "Avec une Freebox Pop, le Forfait Free 5G+ passe de 19,99 à 9,99 euros par mois. La data devient aussi illimitée en France métropolitaine, sans engagement.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Free propose une réduction tarifaire importante pour les abonnés équipés d'une Freebox Pop. Le Forfait Free 5G+ voit ainsi son prix mensuel diminuer de moitié pour s'établir à 9,99 euros. Cette offre sans engagement intègre également une enveloppe de données mobiles illimitées sur le territoire français.",
+    "keywords": [
+      "free",
+      "freebox pop",
+      "forfait 5g",
+      "telecom",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -267,9 +343,15 @@
     "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
     "pubDate": "2026-10-13T16:30:00.000Z",
-    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Satlyt développe un logiciel ouvert pour l'informatique orbitale compatible avec les satellites de plusieurs entreprises. Contrairement à l'approche fermée de SpaceX, cette solution se positionne comme l'équivalent d'Android dans l'espace. Le logiciel de l'entreprise s'apprête désormais à être lancé à bord d'une fusée SpaceX.",
+    "keywords": [
+      "satlyt",
+      "spacex",
+      "google",
+      "spatial",
+      "logiciel"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -299,9 +381,14 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-634021-ils-sont-beaux-et-intelligents-les-ecouteurs-jbl-live-flex-3-sont-a-moins-de-100-chez-boulanger.html",
     "pubDate": "2026-10-13T16:28:00.000Z",
-    "summary": "Les JBL Live Flex 3 permettent de contrôler la musique directement depuis leur boîtier de recharge, équipé d’un écran tactile. Boulanger les propose en violet à 99,99 €, contre un prix conseillé de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le distributeur Boulanger propose actuellement les écouteurs JBL Live Flex 3 à moins de 100 euros. Ce modèle se distingue par un boîtier de recharge intègrant un écran tactile pour piloter la musique. Cette offre promotionnelle permet d'acquérir l'appareil en coloris violet pour 99,99 euros.",
+    "keywords": [
+      "jbl",
+      "boulanger",
+      "ecouteurs",
+      "live flex 3"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -312,9 +399,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2352305-planet-zoo-2-on-a-teste-le-meilleur-jeu-de-gestion-de-ces-dernieres-annees.html",
     "pubDate": "2026-10-13T16:27:00.000Z",
-    "summary": "Près de sept ans après avoir régné sans partage sur le genre, Frontier Developments remet enfin son titre en jeu avec Planet Zoo 2. Sorti ce mardi 13 octobre simultanément sur PC, PS5 et Xbox Series…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le studio Frontier Developments lance officiellement Planet Zoo 2 ce mardi 13 octobre. Ce nouveau jeu de gestion arrive simultanément sur PC, PS5 et Xbox Series X|S. Le titre ambitionne de surpasser le succès de son prédécesseur sorti sept ans plus tôt.",
+    "keywords": [
+      "planet zoo 2",
+      "frontier developments",
+      "jeu de gestion",
+      "pc",
+      "consoles"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -325,9 +418,15 @@
     "category": "culture",
     "url": "https://www.frandroid.com/survoltes/3282429_une-loi-solaire-et-des-canicules-comment-lallemagne-a-freine-ses-heures-de-prix-negatifs",
     "pubDate": "2026-10-13T16:15:53.000Z",
-    "summary": "Alors que les heures de prix négatifs se multiplient en France et ailleurs en Europe, l’Allemagne fait état d’une baisse pour la première fois en quatre ans. La consommation électrique tirée par les…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'Allemagne a enregistré une diminution de ses heures de prix négatifs sur le marché de l'électricité. Cette évolution s'explique en partie par la consommation accrue liée aux canicules et par un recul de la production éolienne. Surtout, le pays bénéficie des effets d'une récente réforme concernant le soutien public accordé à l'énergie solaire.",
+    "keywords": [
+      "allemagne",
+      "energie solaire",
+      "prix negatifs",
+      "electricite",
+      "canicule"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -338,9 +437,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634060-apple-s-entoure-de-lg-et-schneider-electric-pour-une-nouvelle-offensive-dans-votre-maison.html",
     "pubDate": "2026-10-13T16:04:00.000Z",
-    "summary": "Apple officialise sa nouvelle gamme d’accessoires pour la maison connectée, développée avec LG et Schneider Electric. Caméras, serrure et thermostats sont au programme, avec une intégration poussée à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple lance une nouvelle gamme d'équipements pour la maison connectée en collaboration avec LG et Schneider Electric. Cette collection comprend notamment des caméras, des serrures connectées et des thermostats intégrés à l'application Apple Maison. Aucun déploiement commercial n'est prévu en France pour le moment.",
+    "keywords": [
+      "apple",
+      "lg",
+      "schneider electric",
+      "maison connectee",
+      "domotique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -351,9 +456,14 @@
     "category": "ia",
     "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3283689_gemini-4-argon-passe-un-cap-deploiement-mondial-et-bonne-surprise-pour-les-abonnes-pro",
     "pubDate": "2026-10-13T16:00:00.000Z",
-    "summary": "Google ouvre ce mardi 13 octobre Gemini 4 Argon aux abonnés Google AI Pro et Ultra, ainsi qu'aux développeurs et aux entreprises via l'API Gemini. Annoncé le 30 septembre, le modèle était jusqu'ici…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google lance le déploiement mondial de son modèle Gemini 4 Argon dès ce mardi 13 octobre. Cette intelligence artificielle devient accessible aux abonnés Google AI Pro et Ultra ainsi qu'aux développeurs. Auparavant, l'accès à cet outil était strictement limité à quelques équipes spécialisées en cybersécurité.",
+    "keywords": [
+      "google",
+      "gemini",
+      "intelligence artificielle",
+      "deploiement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1131,32 +1241,6 @@
     "url": "https://www.frandroid.com/events/wwdc/3283289_apple-tv-4k-2026-puce-a19-micros-integres-et-siri-ia-voici-toutes-les-nouveautes",
     "pubDate": "2026-10-13T13:19:28.000Z",
     "summary": "Apple lance sa nouvelle Apple TV 4K de quatrième génération. Le boîtier multimédia intègre une puce A19, un décodage matériel AV1 et trois microphones pour un contrôle vocal sans télécommande.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "dab63a9f7a06",
-    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-    "pubDate": "2026-10-13T13:16:11.000Z",
-    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "73c79ba9ea55",
-    "title": "Boulanger retire 300 € au Pixel 11 Pro XL, le dernier smartphone haut de gamme de Google",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3283005_boulanger-retire-300-e-au-pixel-11-pro-xl-le-dernier-smartphone-haut-de-gamme-de-google",
-    "pubDate": "2026-10-13T13:16:00.000Z",
-    "summary": "Lancé il y a peu, le Google Pixel 11 Pro XL est la version grand format du haut de gamme de Google. Il est déjà proposé à 1 099 euros au lieu de 1 399 euros chez Boulanger, en version 256 Go.",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
