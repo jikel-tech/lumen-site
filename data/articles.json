@@ -1,5 +1,63 @@
 [
   {
+    "id": "27aa32eca883",
+    "title": "J’ai testé l’enceinte résidentielle Marshall Acton IV : un joli caractère",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/marshall/3250163_jai-teste-lenceinte-residentielle-marshall-acton-iv-un-joli-caractere",
+    "pubDate": "2026-10-13T17:00:00.000Z",
+    "summary": "Plus petite des enceintes résidentielles de la marque : ce modèle est conçu pour les chambres, bureaux et petits salons. Sans batterie ni vocation nomade, elle mise sur son format compact, sa…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "7ab285947b8b",
+    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+    "pubDate": "2026-10-13T17:00:00.000Z",
+    "summary": "La start-up LNK Energies a développé une solution pour convertir les camions diesel en véhicules fonctionnant à l'hydrogène. Cette innovation vise à proposer une alternative économique et moins polluante que le carburant traditionnel. Le dispositif sera présenté lors de l'événement Disrupt.",
+    "keywords": [
+      "lnk energies",
+      "hydrogene",
+      "camion diesel",
+      "mit",
+      "disrupt"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5b75b71a6459",
+    "title": "Google Play now supports private, vibe-coded apps built just for you",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "pubDate": "2026-10-13T17:00:00.000Z",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c1c88114e3cb",
+    "title": "La caméra d’intérieur Tapo C201 garde un œil sur votre logement pour moins de 30€ grâce à cette vente flash Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-634033-la-camera-d-interieur-tapo-c201-garde-un-il-sur-votre-logement-pour-moins-de-30-grace-a-cette-vente-flash-amazon.html",
+    "pubDate": "2026-10-13T16:50:00.000Z",
+    "summary": "La caméra Tapo C201 permet de surveiller une pièce à distance grâce à sa tête motorisée et à sa connexion Wi-Fi. Amazon la propose à 29,75 € au lieu de 39,98 € pendant une durée limitée.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "73bd62000f06",
     "title": "Le paradoxe chinois : premier pollueur de la planète, mais sauveur du bilan carbone mondial",
     "source": "Frandroid",
@@ -1087,75 +1145,6 @@
     "summary": "La branche japonaise de PlayStation lance un nouveau modèle de PS5. Pour 55 000 yens, soit environ 310 €, les joueurs japonais pourront s'offrir cette PS5 le 19 novembre, le jour de la sortie de GTA…",
     "keywords": [],
     "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "46785860b217",
-    "title": "Remboursement du passe Navigo : c’est le dernier jour pour récupérer jusqu’à 90,80 €",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-cest-le-dernier-jour-pour-recuperer-jusqua-90-euros-80.html",
-    "pubDate": "2026-10-13T12:40:13.000Z",
-    "summary": "Île-de-France Mobilités clôture aujourd'hui sa campagne de remboursement du passe Navigo. Les usagers éligibles peuvent récupérer jusqu'à 90,80 euros. Cette mesure de dédommagement s'adresse aux voyageurs concernés par des perturbations.",
-    "keywords": [
-      "passe navigo",
-      "ile de france mobilites",
-      "remboursement",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ac8e0e090cda",
-    "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-    "pubDate": "2026-10-13T12:40:00.000Z",
-    "summary": "La startup Giraffe Bio vient de lever 6,4 millions de dollars en amorçage. Son objectif est de proposer des biomolécules sur mesure pour aider l'industrie minière. Cette technologie vise à optimiser l'extraction du cuivre face à la pénurie annoncée.",
-    "keywords": [
-      "giraffe bio",
-      "cuivre",
-      "biomolécules",
-      "extraction",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c559f037a301",
-    "title": "Les data centers consomment bien plus d'eau que les géants de l'IA le laissent entendre, ces données sont effarantes",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633979-les-data-centers-consomment-bien-plus-eau-que-les-geants-IA-le-laissent-entendre-ces-donnees-sont-effarantes.html",
-    "pubDate": "2026-10-13T12:39:00.000Z",
-    "summary": "Les géants de la tech promettent de nouvelles technologies qui permettent d’économiser l’eau dans le refroidissement de leurs data centers. Mais ils oublient un point essentiel.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "5a3120e4dbd0",
-    "title": "John Sakala intègre l'IA dans WhatsApp et Instagram pour vendre et encaisser",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/tech-stars/john-sakala-integre-lia-dans-whatsapp-et-instagram-pour-vendre-et-encaisser",
-    "pubDate": "2026-10-13T12:35:02.000Z",
-    "summary": "L'entrepreneur zimbabwéen John Sakala intègre l'intelligence artificielle dans WhatsApp et Instagram pour faciliter les transactions commerciales. Sa jeune entreprise ChatCash centralise la gestion des ventes au sein d'une interface unique. Cette solution technologique vise à simplifier l'activité quotidienne des petites entreprises en Afrique.",
-    "keywords": [
-      "john sakala",
-      "chatcash",
-      "intelligence artificielle",
-      "afrique",
-      "zimbabwe"
-    ],
-    "aiDone": true,
     "coverage": 1,
     "also": []
   }
