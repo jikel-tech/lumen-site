@@ -1,5 +1,99 @@
 [
   {
+    "id": "3c3a83536d43",
+    "title": "Afrique du Sud : la fintech Mukuru nomme un ancien cadre de Jumia comme directeur client",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-fintech-mukuru-nomme-un-ancien-cadre-de-jumia-comme-directeur-client",
+    "pubDate": "2026-10-13T05:36:45.000Z",
+    "summary": "La fintech sud-africaine Mukuru vient de nommer un ancien responsable de Jumia au poste de directeur de l'expérience client. Jean-Jacques Maïkere aura pour mission d'accompagner la transformation de la plateforme en banque numérique. Cette nomination intervient alors que l'entreprise de transfert d'argent dessert plus de treize millions d'utilisateurs à travers le monde.",
+    "keywords": [
+      "mukuru",
+      "jumia",
+      "afrique du sud",
+      "fintech",
+      "banque numerique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2d2bbebdb48d",
+    "title": "Passez un cap en cyberconfidentialité grâce à ce réseau virtuel privé (VPN) suisse",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-632239-passez-un-cap-en-cyberconfidentialite-grace-a-ce-reseau-virtuel-prive-vpn-suisse.html",
+    "pubDate": "2026-10-13T05:30:00.000Z",
+    "summary": "Proton VPN propose actuellement une réduction importante sur son abonnement longue durée. Cette suite de cybersécurité suisse permet de protéger efficacement les données personnelles des internautes. L'offre promotionnelle atteint un rabais de soixante-dix pour cent sur le tarif initial.",
+    "keywords": [
+      "proton vpn",
+      "cybersécurité",
+      "vpn",
+      "vie privée"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "72d5f06c053d",
+    "title": "M-KOPA franchit la barre des 600 millions de dollars de revenus en Afrique",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/m-kopa-franchit-la-barre-des-600-millions-de-dollars-de-revenus-en-afrique",
+    "pubDate": "2026-10-13T05:28:58.000Z",
+    "summary": "La société financière M-KOPA a atteint 600 millions de dollars de chiffre d'affaires lors de son exercice 2025. Cette performance s'appuie sur une croissance de 45 % et une base de 10 millions de clients répartis dans cinq pays africains. La plateforme attire quotidiennement 10 000 nouveaux usagers tout en préservant la rentabilité de ses services de crédit.",
+    "keywords": [
+      "m-kopa",
+      "afrique",
+      "fintech",
+      "smartphones",
+      "revenus"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4173c1e8cfe4",
+    "title": "Surface Laptop Ultra : le nouveau PC portable à puce Nvidia RTX Spark de Microsoft est en précommande",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/bons-plans/3282007_surface-laptop-ultra-le-nouveau-pc-portable-a-puce-nvidia-rtx-spark-de-microsoft-est-en-precommande",
+    "pubDate": "2026-10-13T05:24:00.000Z",
+    "summary": "Microsoft propose en précommande son nouveau PC portable baptisé Surface Laptop Ultra. Cet appareil intègre une puce Nvidia RTX Spark ainsi qu'un écran tactile mini-LED de quinze pouces. Les premières livraisons de cette machine affichée à un tarif élevé débuteront fin octobre.",
+    "keywords": [
+      "microsoft",
+      "surface laptop ultra",
+      "nvidia",
+      "pc portable",
+      "fnac"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d1e2a45a94ac",
+    "title": "Plusieurs versions de Windows 11 vont cesser de recevoir des mises à jour. Comment savoir si vous êtes concernés ?",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/microsoft/3282591_plusieurs-versions-de-windows-11-vont-cesser-de-recevoir-des-mises-a-jour-comment-savoir-si-vous-etes-concernes",
+    "pubDate": "2026-10-13T05:23:03.000Z",
+    "summary": "Microsoft s'apprête à stopper le déploiement des correctifs pour certaines déclinaisons de Windows 11. Les utilisateurs concernés disposent toutefois d'une alternative pour maintenir leur système à niveau. Il convient de vérifier sa version actuelle afin d'anticiper cette transition logicielle.",
+    "keywords": [
+      "windows 11",
+      "microsoft",
+      "mises a jour",
+      "securite",
+      "logiciel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "bb7629ecc5bb",
     "title": "Le mot de passe 123456 aurait ouvert l’accès aux données de 8,8 millions de personnes",
     "source": "Clubic",
@@ -1398,100 +1492,6 @@
       "intelligence artificielle",
       "application",
       "levee de fonds"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "eccd3f631055",
-    "title": "Ce petit logiciel gratuit apporte à Windows 11 une fonctionnalité que les utilisateurs de Mac connaissent bien",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632623-ce-petit-logiciel-gratuit-apporte-a-windows-11-une-fonctionnalite-que-les-utilisateurs-de-mac-connaissent-bien.html",
-    "pubDate": "2026-10-12T12:33:00.000Z",
-    "summary": "Un utilitaire gratuit permet d'obtenir des fonds d'écran dynamiques sur Windows 11. Cette option visuelle est déjà proposée par défaut sur les ordinateurs Mac. Le logiciel WinDynamicDesktop comble ainsi ce manque pour les utilisateurs du système de Microsoft.",
-    "keywords": [
-      "windynamicdesktop",
-      "windows 11",
-      "macos",
-      "logiciel",
-      "fond d'écran"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bd0ba53aa755",
-    "title": "Le Lancet classe l'IA malveillante parmi les deux seules menaces d'extinction pour l'humanité d'ici 2100",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633754-le-lancet-classe-l-ia-malveillante-parmi-les-deux-seules-menaces-d-extinction-pour-l-humanite-d-ici-2100.html",
-    "pubDate": "2026-10-12T12:14:00.000Z",
-    "summary": "La revue scientifique The Lancet a récemment évalué dix-sept risques majeurs pesant sur l'humanité d'ici la fin du siècle. Selon cette analyse, l'intelligence artificielle malveillante représente, aux côtés du conflit nucléaire, l'une des deux menaces d'extinction possibles. Cette publication met en lumière la dangerosité critique de ces technologies pour l'avenir de notre espèce.",
-    "keywords": [
-      "the lancet",
-      "intelligence artificielle",
-      "menace d extinction",
-      "technologie",
-      "futur"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0a19c2a4b437",
-    "title": "How Lagos Life turned a viral game into an ad business",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/12/lagos-life-advertising-revenue-running-costs/",
-    "pubDate": "2026-10-12T12:10:42.000Z",
-    "summary": "Le jeu de simulation urbaine Lagos Life a connu un succès viral fulgurant en octobre 2026. Ce projet improvisé s'est rapidement transformé en une véritable activité publicitaire générant des revenus importants. La plateforme a ainsi revendiqué plus de 170 000 dollars de gains en quelques jours seulement.",
-    "keywords": [
-      "lagos life",
-      "jeu",
-      "publicite",
-      "nigeria",
-      "fintech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "71557ecdf8c6",
-    "title": "Nintendo Switch 2 : la version européenne avec batterie remplaçable coûte déjà 50 € de moins sur Amazon",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/bons-plans/3272321_nintendo-switch-2-la-version-europeenne-avec-batterie-remplacable-coute-deja-50-euros-de-moins-sur-amazon",
-    "pubDate": "2026-10-12T12:09:46.000Z",
-    "summary": "Amazon propose la nouvelle Nintendo Switch 2 européenne à un tarif réduit de 449 euros. Cette variante inédite se distingue par la présence d'une batterie facilement remplaçable. Le prix de lancement initialement fixé à près de 500 euros baisse ainsi de cinquante euros.",
-    "keywords": [
-      "nintendo switch 2",
-      "amazon",
-      "batterie",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "52610429a0a1",
-    "title": "Togo : la Chine inspire de nouvelles pistes pour numériser l’agriculture",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/actualites/tech/togo-la-chine-inspire-de-nouvelles-pistes-pour-numeriser-l-agriculture",
-    "pubDate": "2026-10-12T12:04:07.000Z",
-    "summary": "Le Togo envisage d'intégrer des technologies innovantes pour moderniser son secteur agricole. Des solutions numériques telles que l'intelligence artificielle et la robotique sont étudiées pour faire face aux défis climatiques. Cette démarche s'inspire des pratiques observées en Chine.",
-    "keywords": [
-      "togo",
-      "chine",
-      "agriculture",
-      "numerique",
-      "intelligence artificielle"
     ],
     "aiDone": true,
     "coverage": 1,
