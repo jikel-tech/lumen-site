@@ -1,5 +1,175 @@
 [
   {
+    "id": "7b3ba03a178a",
+    "title": "Anthropic pense avoir trouvé comment protéger Claude de ses copieurs, mais il y a un prix à payer",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633919-anthropic-pense-avoir-trouve-comment-proteger-claude-de-ses-copieurs-mais-il-y-a-un-prix-a-payer.html",
+    "pubDate": "2026-10-13T10:43:00.000Z",
+    "summary": "La société Anthropic a mis en place de nouvelles mesures pour empêcher l'aspiration non autorisée de ses modèles d'intelligence artificielle. Ces protections renforcées autour de l'assistant Claude affichent des résultats jugés très prometteurs. Toutefois, ces barrières inédites risquent d'impacter négativement le quotidien des développeurs informatiques.",
+    "keywords": [
+      "anthropic",
+      "claude",
+      "intelligence artificielle",
+      "developpeurs",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c5d9e6b5a288",
+    "title": "À quelques semaines de GTA VI, GTA V prend une claque visuelle bluffante grâce à des fans",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633955-a-un-peu-plus-d-un-mois-de-gta-vi-un-mod-donne-un-nouveau-visage-a-gta-v.html",
+    "pubDate": "2026-10-13T10:41:00.000Z",
+    "summary": "Le moddeur Kypos redéfinit l'aspect visuel de GTA V sur PC grâce au projet AuraV. Cette modification intègre le path tracing pour améliorer l'éclairage, l'eau et la météo de Los Santos. Le titre phare de Rockstar Games rivalise ainsi avec les productions vidéoludiques récentes.",
+    "keywords": [
+      "gta v",
+      "aurav",
+      "kypos",
+      "mod",
+      "pc"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d2174c07f904",
+    "title": "Jouer en QHD+ à 240 Hz avec une RTX 5070 : le MSI Crosshair 16 HX AI passe à 1399,99€",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/bons-plans-633943-jouer-en-qhd-a-240-hz-avec-une-rtx-5070-le-msi-crosshair-16-hx-ai-passe-a-1-399-99.html",
+    "pubDate": "2026-10-13T10:36:00.000Z",
+    "summary": "Le PC portable MSI Crosshair 16 HX AI intègre une carte graphique RTX 5070 et un affichage QHD+ à 240 Hz. Ce modèle destiné aux joueurs exigeants bénéficie d'une baisse de prix significative pour s'établir à 1399,99 euros. Sa tarification initiale était fixée à 1999,99 euros lors de sa sortie.",
+    "keywords": [
+      "msi",
+      "rtx 5070",
+      "pc portable",
+      "gaming",
+      "bon plan"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "94bbf000cad1",
+    "title": "Pourquoi la définition de la seconde est-elle sur le point de changer ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2351941-pourquoi-la-definition-de-la-seconde-est-elle-sur-le-point-de-changer.html",
+    "pubDate": "2026-10-13T10:31:00.000Z",
+    "summary": "La Conférence générale des poids et mesures se réunit à Versailles pour débattre de la mesure du temps. Les métrologues projettent d'adopter une nouvelle définition de la seconde d'ici 2030. Ce changement est rendu possible grâce aux performances des horloges optiques.",
+    "keywords": [
+      "seconde",
+      "metrologie",
+      "versailles",
+      "horloge optique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f8af4f2e1a1c",
+    "title": "« Quelle bonne idée de connecter des frigos à Internet » : pourquoi les congélateurs des supermarchés sont connectés, et comment ça a dérapé",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/3282989_pourquoi-les-congelateurs-des-supermarches-sont-connectes-et-comment-des-pirates-ont-pu-les-pousser-a-50-c",
+    "pubDate": "2026-10-13T10:30:29.000Z",
+    "summary": "Des centaines de supermarchés ont subi une cyberattaque ciblant leurs systèmes de réfrigération. Cette intrusion informatique a provoqué une hausse anormale de la température dans les congélateurs. Cet incident met en lumière les risques liés à la connexion des appareils frigorifiques à Internet.",
+    "keywords": [
+      "cyberattaque",
+      "supermarchés",
+      "congélateurs",
+      "internet des objets",
+      "sécurité"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5a0a7fdf06a0",
+    "title": "Apple va faire des annonces à 15 heures : comment suivre la « keynote » en direct ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2351095-comment-suivre-la-conference-apple-du-13-octobre-sur-le-homeview-et-lapple-tv-en-direct.html",
+    "pubDate": "2026-10-13T10:29:57.000Z",
+    "summary": "Apple organise une conférence le 13 octobre pour présenter de nouveaux produits dédiés à la maison connectée. L'événement, qualifié d'expérience par la marque, se concentrera notamment sur le HomeView et l'Apple TV. Aucune annonce n'a précédé cette présentation, contrairement à celle du MacBook Neo en mars 2026.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "apple tv",
+      "conference",
+      "maison connectee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "eb05a2a2cb2f",
+    "title": "C’est l’hécatombe : après Danfoss, un deuxième fournisseur de systèmes frigorifiques est visé par des hackers",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/cyberguerre/2352205-cest-lhecatombe-apres-danfoss-un-deuxieme-fournisseur-de-systemes-frigorifiques-est-vise-par-des-hackers.html",
+    "pubDate": "2026-10-13T10:28:53.000Z",
+    "summary": "Une nouvelle cyberattaque perturbe des systèmes de réfrigération dans le secteur de la grande distribution. Après Danfoss, les équipements de la marque Dixell sont également touchés par ces actes malveillants. Un supermarché Leclerc situé dans le Tarn a notamment subi ces dysfonctionnements informatiques.",
+    "keywords": [
+      "cyberattaque",
+      "dixell",
+      "danfoss",
+      "leclerc",
+      "supermarche"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2433a0ba9d57",
+    "title": "Honor lance son tout premier vélo électrique pliant et il est déjà en promotion",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3282843_honor-lance-son-tout-premier-velo-electrique-pliant-et-il-est-deja-en-promotion",
+    "pubDate": "2026-10-13T10:22:00.000Z",
+    "summary": "La marque Honor commercialise son premier modèle de vélo électrique pliant nommé ADO Air 20 Pro. Ce nouveau produit intègre notamment un système de transmission à courroie et des vitesses automatiques. Pour son lancement officiel, le fabricant propose une réduction immédiate de cent euros sur son site internet.",
+    "keywords": [
+      "honor",
+      "ado air 20 pro",
+      "velo electrique",
+      "mobilite",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6b92726d3b3b",
+    "title": "Réacteur lunaire, vaisseau à fission vers Mars : la NASA passe à la vitesse supérieure sur le nucléaire spatial",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-633922-reacteur-lunaire-vaisseau-a-fission-vers-mars-la-nasa-passe-a-la-vitesse-superieure-sur-le-nucleaire-spatial.html",
+    "pubDate": "2026-10-13T10:19:00.000Z",
+    "summary": "La NASA et le département de l'Énergie s'associent pour développer l'énergie nucléaire spatiale. Ce partenariat vise notamment à concevoir un réacteur lunaire et un vaisseau à fission propulsé vers Mars. Cette accélération technologique répond à la concurrence croissante d'autres nations sur le plan international.",
+    "keywords": [
+      "nasa",
+      "nucleaire",
+      "mars",
+      "lune",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "4816b1c3a28c",
     "title": "MaQuestionMedicale : 369 000 messages intimes entre patients et médecins à vendre sur le dark web",
     "source": "Frandroid",
@@ -163,25 +333,6 @@
       "vpn",
       "cybersecurite",
       "post-quantique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f8af4f2e1a1c",
-    "title": "Pourquoi les congélateurs des supermarchés sont connectés, et comment des pirates ont pu les pousser à 50 °C",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/maison-connectee/3282989_pourquoi-les-congelateurs-des-supermarches-sont-connectes-et-comment-des-pirates-ont-pu-les-pousser-a-50-c",
-    "pubDate": "2026-10-13T09:23:46.000Z",
-    "summary": "Des centaines de supermarchés ont subi une cyberattaque ciblant leurs systèmes de réfrigération. Cette intrusion informatique a provoqué une hausse anormale de la température dans les congélateurs. Cet incident met en lumière les risques liés à la connexion des appareils frigorifiques à Internet.",
-    "keywords": [
-      "cyberattaque",
-      "supermarchés",
-      "congélateurs",
-      "internet des objets",
-      "sécurité"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1347,156 +1498,6 @@
       "nvidia",
       "pc portable",
       "fnac"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d1e2a45a94ac",
-    "title": "Plusieurs versions de Windows 11 vont cesser de recevoir des mises à jour. Comment savoir si vous êtes concernés ?",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/microsoft/3282591_plusieurs-versions-de-windows-11-vont-cesser-de-recevoir-des-mises-a-jour-comment-savoir-si-vous-etes-concernes",
-    "pubDate": "2026-10-13T05:23:03.000Z",
-    "summary": "Microsoft s'apprête à stopper le déploiement des correctifs pour certaines déclinaisons de Windows 11. Les utilisateurs concernés disposent toutefois d'une alternative pour maintenir leur système à niveau. Il convient de vérifier sa version actuelle afin d'anticiper cette transition logicielle.",
-    "keywords": [
-      "windows 11",
-      "microsoft",
-      "mises a jour",
-      "securite",
-      "logiciel"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bb7629ecc5bb",
-    "title": "Le mot de passe 123456 aurait ouvert l’accès aux données de 8,8 millions de personnes",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633853-le-mot-de-passe-123456-aurait-ouvert-l-acces-aux-donnees-de-8-8-millions-de-personnes.html",
-    "pubDate": "2026-10-13T05:00:00.000Z",
-    "summary": "Un simple mot de passe a permis d'accéder au registre national danois de la population. Les données personnelles de 8,8 millions d'individus ont ainsi été compromises par un pirate. Cet incident met en lumière de graves failles de sécurité au sein d'une petite entreprise d'Odense.",
-    "keywords": [
-      "danemark",
-      "securite informatique",
-      "piratage",
-      "donnees personnelles"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4ce8116f6608",
-    "title": "Meilleures liseuses couleur : quel modèle (Kindle, Kobo, Boox…) choisir en 2026 ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/2583405_meilleures-liseuses-couleur",
-    "pubDate": "2026-10-13T04:51:33.000Z",
-    "summary": "Le marché propose actuellement plusieurs références de liseuses électroniques dotées d'un affichage en couleur. Ce guide d'achat liste les meilleurs modèles disponibles pour les utilisateurs. Les lecteurs peuvent ainsi comparer différentes marques comme Kindle, Kobo ou Boox.",
-    "keywords": [
-      "liseuse",
-      "couleur",
-      "kindle",
-      "kobo",
-      "boox"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "db6179234a05",
-    "title": "On est montés à bord du BYD Atto 8 : 775 ch, 650 km, charge en 5 min, de folles promesses",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/byd/3282521_on-est-montes-a-bord-du-byd-atto-8-775-ch-650-km-charge-en-5-min-de-folles-promesses",
-    "pubDate": "2026-10-13T04:41:00.000Z",
-    "summary": "Au Mondial de l'Auto, BYD a officialisé l'Atto 8, un imposant SUV électrique familial de sept places. Ce véhicule affiche des caractéristiques impressionnantes avec 775 chevaux et une autonomie atteignant 650 kilomètres. La marque promet également une recharge ultra-rapide, bien que son efficacité réelle dépende des infrastructures disponibles.",
-    "keywords": [
-      "byd",
-      "atto 8",
-      "suv electrique",
-      "mondial de l'auto"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ee306d975865",
-    "title": "Meta dévoile Muse & Wonder, ses premiers modèles d’IA « frontier »",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633859-meta-devoile-muse-wonder-ses-premiers-modeles-d-ia-frontier.html",
-    "pubDate": "2026-10-13T04:39:00.000Z",
-    "summary": "Le laboratoire d'intelligence artificielle de Meta a dévoilé ses nouveaux modèles hautement performants nommés Muse et Wonder. L'entreprise technologique américaine a confronté ces innovations aux solutions de ses principaux concurrents sur le marché. Ces outils intègrent une capacité de mémorisation prolongée sur plusieurs mois afin de s'adapter aux besoins des utilisateurs.",
-    "keywords": [
-      "meta",
-      "muse et wonder",
-      "intelligence artificielle",
-      "modele frontier",
-      "memoire"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "5a0a7fdf06a0",
-    "title": "Comment suivre la conférence Apple du 13 octobre sur le HomeView et l’Apple TV en direct ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351095-comment-suivre-la-conference-apple-du-13-octobre-sur-le-homeview-et-lapple-tv-en-direct.html",
-    "pubDate": "2026-10-13T04:15:00.000Z",
-    "summary": "Apple organise une conférence le 13 octobre pour présenter de nouveaux produits dédiés à la maison connectée. L'événement, qualifié d'expérience par la marque, se concentrera notamment sur le HomeView et l'Apple TV. Aucune annonce n'a précédé cette présentation, contrairement à celle du MacBook Neo en mars 2026.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "apple tv",
-      "conference",
-      "maison connectee"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2dcb49d5116c",
-    "title": "Plus de 200 gigaoctets pour GTA 6 ? Pourquoi ce chiffre pourrait être faux",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/console/3282545_plus-de-200-gigaoctets-pour-gta-6-pourquoi-ce-chiffre-pourrait-etre-faux",
-    "pubDate": "2026-10-12T21:45:42.000Z",
-    "summary": "Un informateur nommé Cyberleek prétend détenir une version de développement du jeu GTA 6 pesant plus de 200 gigaoctets. Il menace de publier l'intégralité de ces vidéos si son projet de cryptomonnaie atteint 30 millions de dollars de capitalisation. Cette annonce spectaculaire suscite toutefois de nombreux doutes quant à sa véracité réelle.",
-    "keywords": [
-      "gta 6",
-      "cyberleek",
-      "fuite",
-      "jeu video",
-      "memecoin"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "9cd39dc2cb03",
-    "title": "Linus Torvalds, qui réduisait l’IA à « 90 % de marketing », publie un patch du noyau Linux écrit avec Claude Code",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/os/gnu-linux/3282511_linus-torvalds-qui-reduisait-lia-a-90-de-marketing-publie-un-patch-du-noyau-linux-ecrit-avec-claude-code",
-    "pubDate": "2026-10-12T20:58:40.000Z",
-    "summary": "Le créateur du noyau Linux a intégré des correctifs conçus grâce à l'intelligence artificielle. Linus Torvalds a utilisé l'assistant de programmation Claude Code développé par Anthropic. Ce changement intervient alors qu'il qualifiait auparavant l'IA de simple outil marketing.",
-    "keywords": [
-      "linus torvalds",
-      "claude code",
-      "noyau linux",
-      "anthropic",
-      "intelligence artificielle"
     ],
     "aiDone": true,
     "coverage": 1,
