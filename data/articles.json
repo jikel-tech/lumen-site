@@ -1,5 +1,76 @@
 [
   {
+    "id": "70078a187621",
+    "title": "Apple s'entoure de LG et Schneider Electric pour une nouvelle offensive dans votre maison",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634060-apple-s-entoure-de-lg-et-schneider-electric-pour-une-nouvelle-offensive-dans-votre-maison.html",
+    "pubDate": "2026-10-13T16:04:00.000Z",
+    "summary": "Apple officialise sa nouvelle gamme d’accessoires pour la maison connectée, développée avec LG et Schneider Electric. Caméras, serrure et thermostats sont au programme, avec une intégration poussée à…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6f1a68c9ff36",
+    "title": "Gemini 4 Argon passe un cap : déploiement mondial et bonne surprise pour les abonnés Pro",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3283689_gemini-4-argon-passe-un-cap-deploiement-mondial-et-bonne-surprise-pour-les-abonnes-pro",
+    "pubDate": "2026-10-13T16:00:00.000Z",
+    "summary": "Google ouvre ce mardi 13 octobre Gemini 4 Argon aux abonnés Google AI Pro et Ultra, ainsi qu'aux développeurs et aux entreprises via l'API Gemini. Annoncé le 30 septembre, le modèle était jusqu'ici…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "bc032d1601b9",
+    "title": "Face à OpenAI et Anthropic, Google dégaine Gemini 4 Argon pour revenir dans la course",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html",
+    "pubDate": "2026-10-13T16:00:00.000Z",
+    "summary": "Google déploie dans le monde entier Gemini 4 Argon, son nouveau modèle d'IA haut de gamme, moins de deux semaines après l'avoir présenté le 30 septembre 2026.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0434185eb138",
+    "title": "Mini LED et 144 Hz : cette TV Haier de 55 pouces s’affiche à moins de 630€ chez Boulanger",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633988-mini-led-et-144-hz-cette-tv-haier-de-55-pouces-s-affiche-a-moins-de-630-chez-boulanger.html",
+    "pubDate": "2026-10-13T15:57:00.000Z",
+    "summary": "Le distributeur Boulanger propose actuellement une réduction sur le téléviseur Haier H55M90EUX. Cet écran de 55 pouces intègre les technologies Mini LED, 4K et l'interface Google TV. L'appareil est ainsi vendu au prix de 628,34 euros au lieu de son tarif habituel.",
+    "keywords": [
+      "haier",
+      "boulanger",
+      "televiseur",
+      "mini led",
+      "google tv"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e74c1d058259",
+    "title": "Alerte maximale chez SAP : quatre failles critiques permettent de voler des identifiants et de prendre le contrôle de serveurs",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634054-alerte-maximale-chez-sap-quatre-failles-critiques-permettent-de-voler-des-identifiants-et-de-prendre-le-controle-de-serveurs.html",
+    "pubDate": "2026-10-13T15:49:00.000Z",
+    "summary": "SAP vient de corriger quatre vulnérabilités critiques dans ses logiciels professionnels. La plus grave permet de détourner les demandes d’authentification d’applications pour récupérer leurs…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "3f53a318dbbd",
     "title": "This Kenyan founder built a tool to help startups find funding faster",
     "source": "TechCabal",
@@ -19,9 +90,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/aito/3281721_avec-ou-sans-huawei-les-suv-electriques-chinois-daito-arrivent-enfin-en-europe-mais-plusieurs-mysteres-demeurent",
     "pubDate": "2026-10-13T15:42:50.000Z",
-    "summary": "Après un premier bain de foule à Paris en 2024 puis à Munich en 2025, Aito profite du Mondial de l'Auto 2026 pour confirmer son arrivée en Europe en 2027. La marque chinoise, cofondée avec Seres et…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque chinoise Aito officialise son expansion sur le marché européen pour l'année 2027. Ces nouveaux SUV électriques et hybrides, conçus en partenariat avec Seres et Huawei, se dévoilent lors des salons parisiens et munichois. Des zones d'ombre subsistent toutefois concernant les spécificités de ces véhicules par rapport aux versions asiatiques.",
+    "keywords": [
+      "aito",
+      "huawei",
+      "suv electrique",
+      "seres",
+      "europe"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1089,95 +1166,6 @@
     "summary": "Le Bravia 6 OLED 65 pouces de Sony est le dernier-né de la marque à proposer un grand écran lumineux et à démocratiser l'accès à cette technologie avec son prix en baisse de 1 799 euros à 1 499 euros…",
     "keywords": [],
     "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "69ebb2c612f7",
-    "title": "Windows 11 23H2 vit ses dernières semaines, les entreprises ont un mois pour réagir",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633958-windows-11-23h2-vit-ses-dernieres-semaines-les-entreprises-ont-un-mois-pour-reagir.html",
-    "pubDate": "2026-10-13T12:02:00.000Z",
-    "summary": "Microsoft s'apprête à diffuser le tout dernier correctif de sécurité pour Windows 11 23H2 le mois prochain. Cette échéance marque la fin de la prise en charge des dernières versions de ce système d'exploitation. Les entreprises doivent donc impérativement finaliser leur migration dans les prochaines semaines.",
-    "keywords": [
-      "windows 11",
-      "microsoft",
-      "securite",
-      "migration",
-      "entreprise"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ca8af88c72e4",
-    "title": "Test FR-Alert ce mardi : si votre téléphone a sonné sans crier gare, voilà pourquoi",
-    "source": "Numerama",
-    "category": "smartphones",
-    "url": "https://www.numerama.com/tech/2351873-test-fr-alert-ce-mardi-si-votre-telephone-a-sonne-sans-crier-gare-voila-pourquoi.html",
-    "pubDate": "2026-10-13T12:00:49.000Z",
-    "summary": "Le dispositif FR-Alert a déclenché des signaux sonores sur les smartphones ce mardi 13 octobre 2026. La préfecture de Seine-et-Marne a mené cet exercice dans cinquante-six communes durant la matinée. Une opération similaire a également touché le Lot ainsi que le département de la Corrèze.",
-    "keywords": [
-      "fr-alert",
-      "seine-et-marne",
-      "lot",
-      "smartphone",
-      "alerte"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8409f97640bf",
-    "title": "Avec nesti, David Kimani convertit les loyers payés en garantie de crédit bancaire",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/tech-stars/avec-nesti-david-kimani-convertit-les-loyers-payes-en-garantie-de-credit-bancaire",
-    "pubDate": "2026-10-13T11:54:42.000Z",
-    "summary": "L'entrepreneur kényan David Kimani a cofondé la solution technologique nesti pour aider les travailleurs informels. Cette innovation permet de convertir les loyers payés régulièrement en garantie de crédit bancaire. Le dispositif aide ainsi les populations exclues du système financier traditionnel à accéder plus facilement aux financements.",
-    "keywords": [
-      "nesti",
-      "david kimani",
-      "fintech",
-      "credit",
-      "kenya"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e07efb7ae7fa",
-    "title": "4 nouveaux Mac, 1 nouvel iPad et 2 jours « d’expériences »… Apple préparerait déjà les invitations pour un autre évènement",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3282841_4-nouveaux-mac-1-nouvel-ipad-et-2-jours-dexperiences-apple-preparerait-deja-les-invitations-pour-un-autre-evenement",
-    "pubDate": "2026-10-13T11:50:00.000Z",
-    "summary": "Le mois d'octobre s'annonce effectivement très chargé pour Apple. En parallèle de la présentation « Welcome home » d'ores et déjà prévue ce 13 octobre, la firme organiserait à la fin du mois un…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "58c662f44990",
-    "title": "Frigos piratés dans les supermarchés : les grandes enseignes ont un coupable tout désigné",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2352099-frigos-pirates-dans-les-supermarches-les-grandes-enseignes-ont-un-coupable-tout-designe.html",
-    "pubDate": "2026-10-13T11:20:38.000Z",
-    "summary": "Des centaines de supermarchés français, notamment Intermarché et Leclerc, ont subi une cyberattaque ayant mis leurs rayons frais hors service. Suite à cet incident, les grandes enseignes pointent du doigt un maillon précis de leur chaîne logistique et informatique. La question des responsabilités est désormais au centre des préoccupations du secteur.",
-    "keywords": [
-      "intermarche",
-      "leclerc",
-      "cyberattaque",
-      "supermarche",
-      "france"
-    ],
-    "aiDone": true,
     "coverage": 1,
     "also": []
   }
