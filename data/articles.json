@@ -1,5 +1,174 @@
 [
   {
+    "id": "e7cba62d0904",
+    "title": "Cette filiale de Microsoft vient d'être condamnée à une amende de 8,5 millions d'euros",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633826-cette-filiale-de-microsoft-vient-d-etre-condamnee-a-une-amende-de-8-6-millions-d-euros.html",
+    "pubDate": "2026-10-13T07:44:00.000Z",
+    "summary": "La Norvège a infligé une amende de 8,5 millions d'euros à Xandr, une filiale de Microsoft. La sanction concerne le partage illégal de données personnelles d'utilisateurs de Grindr, incluant leur orientation sexuelle. Le régulateur norvégien a rejeté la tentative de la régie publicitaire de reporter la faute sur l'application.",
+    "keywords": [
+      "microsoft",
+      "xandr",
+      "grindr",
+      "norvege",
+      "amende"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ec2afe7847da",
+    "title": "« Plus de code écrit à la main » : Epic Games mise sur l’IA pour développer son jeu de tir avec Disney",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/pop-culture/2351821-plus-de-code-ecrit-a-la-main-epic-games-mise-sur-lia-pour-developper-son-jeu-de-tir-avec-disney.html",
+    "pubDate": "2026-10-13T07:42:47.000Z",
+    "summary": "Epic Games intègre l'intelligence artificielle pour concevoir son prochain jeu vidéo inspiré de l'univers Disney. Le projet d'envergure, qui doit intégrer des figures de Marvel et de Star Wars, a vu son calendrier initial modifié. Cette adoption massive des outils d'IA vise à accélérer la production globale du titre.",
+    "keywords": [
+      "epic games",
+      "disney",
+      "intelligence artificielle",
+      "jeu video",
+      "marvel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "27bac9c123c1",
+    "title": "« Acheter ce produit » : Gemini pourrait vous aider à faire du shopping depuis sa bulle flottante",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3282617_acheter-ce-produit-gemini-pourrait-vous-aider-a-faire-du-shopping-depuis-sa-bulle-flottante",
+    "pubDate": "2026-10-13T07:38:21.000Z",
+    "summary": "Google développe une nouvelle option d'achat pour son intelligence artificielle nommée Shop this. Cette fonctionnalité permettrait de repérer directement un article visible sur l'écran d'un smartphone. Les utilisateurs de Gemini pourraient ainsi trouver où se procurer le produit sans quitter leur application actuelle.",
+    "keywords": [
+      "google",
+      "gemini",
+      "shop this",
+      "shopping",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e8f4ebb717c3",
+    "title": "« Plus de code écrit à la main » : Epic Games retarde son jeu Star Wars + Marvel et demande à ses développeurs de tout faire avec l’IA",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3282665_plus-de-code-ecrit-a-la-main-epic-games-retarde-son-jeu-star-wars-marvel-et-demande-a-ses-developpeurs-de-tout-faire-avec-lia",
+    "pubDate": "2026-10-13T07:36:12.000Z",
+    "summary": "Epic Games reporte sine die le développement de son jeu vidéo réunissant Star Wars et Marvel. Le studio américain exige désormais de ses équipes qu'elles recourent exclusivement à l'intelligence artificielle. Cette directive impose de concevoir l'intégralité du code et des graphismes sans intervention humaine directe.",
+    "keywords": [
+      "epic games",
+      "intelligence artificielle",
+      "star wars",
+      "marvel",
+      "jeu video"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b6d6e876de3",
+    "title": "Nothing OS 5.0 apporte plus de 80 nouveautés aux smartphones de la marque… sauf les derniers en date",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-633895-nothing-os-5-0-apporte-plus-de-80-nouveautes-aux-smartphones-de-la-marque-sauf-les-derniers-en-date.html",
+    "pubDate": "2026-10-13T07:30:00.000Z",
+    "summary": "La marque britannique Nothing déploie la mise à jour majeure Nothing OS 5.0 sur ses smartphones. Cette nouvelle version logicielle intègre plus de quatre-vingt améliorations notables. Étrangement, cette importante transition vers Android est pour l'instant réservée au modèle phare de l'année précédente.",
+    "keywords": [
+      "nothing",
+      "nothing os",
+      "android",
+      "smartphone",
+      "mise a jour"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "85ecdf1d8e31",
+    "title": "Nintendo n’a pas aimé voir Elon Musk déguisé en Wario dans le Saturday Night Live",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2351827-nintendo-na-pas-aime-voir-elon-musk-deguise-en-wario-dans-le-saturday-night-live.html",
+    "pubDate": "2026-10-13T07:29:53.000Z",
+    "summary": "En 2021, Elon Musk est apparu déguisé en Wario lors d'un sketch de l'émission américaine Saturday Night Live. Des années plus tard, des cadres marketing ont révélé que Nintendo avait très mal accueilli cette parodie. La firme japonaise n'a manifestement pas apprécié cette incursion surprise de son personnage dans le show.",
+    "keywords": [
+      "nintendo",
+      "elon musk",
+      "wario",
+      "saturday night live"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "47a7cc7eecb0",
+    "title": "Fibre Orange et Bouygues Telecom, compteurs Linky : ce gros piratage d’un sous-traitant expose des millions de données",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3282643_fibre-orange-et-bouygues-telecom-compteurs-linky-ce-gros-piratage-dun-sous-traitant-expose-des-millions-de-donnees",
+    "pubDate": "2026-10-13T07:24:14.000Z",
+    "summary": "Des millions de données sensibles concernant les clients de grands opérateurs ont été compromises suite à une cyberattaque. Un pirate informatique revendique le vol de trente-quatre gigaoctets d'informations appartenant au prestataire Solutions30. Cette fuite massive proviendrait d'une vulnérabilité informatique de type IDOR exploitée dans leur système.",
+    "keywords": [
+      "solutions30",
+      "orange",
+      "bouygues telecom",
+      "linky",
+      "piratage"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "eea769780422",
+    "title": "Microsoft to shut Nairobi engineering centre, putting hundreds of jobs at risk",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/",
+    "pubDate": "2026-10-13T07:20:50.000Z",
+    "summary": "Microsoft annonce la fermeture prochaine de son centre d'ingénierie situé à Nairobi. Cette décision menace directement des centaines d'emplois locaux. Ce projet ambitionnait pourtant de permettre aux ingénieurs africains de concevoir des produits mondiaux depuis le continent.",
+    "keywords": [
+      "microsoft",
+      "nairobi",
+      "kenya",
+      "emploi",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d6364de1d01d",
+    "title": "On a demandé à trois IA de nous humilier : les résultats sont drôles mais inquiétants",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3282655_on-a-demande-a-trois-ia-de-nous-humilier-les-resultats-sont-droles-mais-inquietants",
+    "pubDate": "2026-10-13T07:17:55.000Z",
+    "summary": "La tendance consistant à demander à ChatGPT de se moquer des utilisateurs redevient virale sur les réseaux sociaux. Derrière cette animation humoristique, les internautes obtiennent un aperçu des données accumulées par l'intelligence artificielle. Cette expérience amuse la toile tout en soulevant de vraies inquiétudes sur la protection de la vie privée.",
+    "keywords": [
+      "chatgpt",
+      "intelligence artificielle",
+      "reseaux sociaux",
+      "tendances tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "3ec6aa817c45",
     "title": "After Koko’s collapse, Circle Gas faces Kenya’s carbon-credit test",
     "source": "TechCabal",
@@ -1324,174 +1493,6 @@
       "frederik wessberg",
       "pc",
       "jeu"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "73276b7070d6",
-    "title": "Apple produit des iPhone Duo en quantité, mais il y a beaucoup de perte",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633799-apple-produit-des-iphone-duo-en-quantite-mais-il-y-a-beaucoup-de-perte.html",
-    "pubDate": "2026-10-12T14:32:00.000Z",
-    "summary": "Apple progresse dans la fabrication de son nouveau modèle d'appareil mobile. De nombreux exemplaires de ce smartphone disparaissent toutefois au cours du processus industriel. Ces pertes importantes en usine suscitent des inquiétudes quant au volume réel de production.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "smartphone",
-      "production"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "de98505d1631",
-    "title": "Très bonne nouvelle pour le prix du Jaecoo 5 électrique en France : comment sa production en Espagne va faire chuter les prix du SUV électrique chinois",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/chery/3281981_tres-bonne-nouvelle-pour-le-prix-du-jaecoo-5-electrique-en-france-comment-sa-production-en-espagne-va-faire-chuter-les-prix-du-suv-electrique-chinois",
-    "pubDate": "2026-10-12T14:21:28.000Z",
-    "summary": "La marque chinoise Omoda Jaecoo lancera la production européenne de son SUV électrique Jaecoo 5 en Espagne dès le premier trimestre 2027. Cette fabrication locale en Espagne permettra de faire baisser significativement le prix de vente de ce véhicule en France. Grâce à cette relocalisation industrielle, le nouveau modèle électrique pourra également prétendre aux aides à l'achat en France.",
-    "keywords": [
-      "jaecoo 5",
-      "omoda jaecoo",
-      "suv electrique",
-      "espagne",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "79eeac417c95",
-    "title": "Orange : la « Reconnexion Flash » permet de récupérer Internet en cas de panne, voici comment",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/orange/3281779_orange-la-reconnexion-flash-permet-de-recuperer-internet-en-cas-de-panne-voici-comment",
-    "pubDate": "2026-10-12T14:16:44.000Z",
-    "summary": "L'opérateur Orange commercialise un nouveau service baptisé Reconnexion Flash. Cette offre technique vise à garantir un maintien rapide de l'accès Internet fixe lors d'incidents. Le dispositif permet ainsi aux usagers de rétablir leur connexion en toute simplicité.",
-    "keywords": [
-      "orange",
-      "reconnexion flash",
-      "internet",
-      "panne"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "be89a3caa722",
-    "title": "Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude, mais attention à ce détail",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
-    "pubDate": "2026-10-12T14:16:00.000Z",
-    "summary": "La version 2026.10 de Home Assistant facilite grandement l'intégration des intelligences artificielles conversationnelles dans l'écosystème domotique. Cette mise à jour permet de connecter plus aisément des modèles comme ChatGPT et Claude à la maison connectée. Il est cependant recommandé de configurer certains paramètres avec précaution avant d'autoriser ces IA à piloter les équipements.",
-    "keywords": [
-      "home assistant",
-      "chatgpt",
-      "claude",
-      "domotique",
-      "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "735d5ad2f523",
-    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-    "pubDate": "2026-10-12T14:09:34.000Z",
-    "summary": "La marque Ultrahuman s'associe à Abou Dabi pour lancer son modèle d'âge biologique aux Émirats arabes unis. Ce partenariat de deux ans permettra de mener des recherches approfondies et une validation clinique de la technologie. Cette initiative renforcera la présence du fabricant de bagues connectées dans la région.",
-    "keywords": [
-      "ultrahuman",
-      "smart ring",
-      "emirats arabes unis",
-      "sante connectee",
-      "abou dabi"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "1e5bd0a5d3eb",
-    "title": "LineageOS débarque enfin sur les Pixel 10 et Pixel 10 Pro",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633796-lineageos-debarque-enfin-sur-les-pixel-10-et-pixel-10-pro.html",
-    "pubDate": "2026-10-12T14:06:00.000Z",
-    "summary": "Le système d'exploitation LineageOS est désormais disponible sur les smartphones Pixel 10 et Pixel 10 Pro. Cette version alternative d'Android a nécessité plus de temps que prévu avant son lancement officiel. La mise à disposition de ce logiciel concerne uniquement une partie de la gamme récente de Google.",
-    "keywords": [
-      "lineageos",
-      "pixel 10",
-      "pixel 10 pro",
-      "google",
-      "smartphone"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2256673fb284",
-    "title": "SpaceX s’apprête à tenter une récupération complète du Starship, une première dans l’histoire des fusées orbitales",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2351475-spacex-sapprete-a-tenter-une-recuperation-complete-du-starship-une-premiere-dans-lhistoire-des-fusees-orbitales.html",
-    "pubDate": "2026-10-12T14:04:24.000Z",
-    "summary": "SpaceX envisage de récupérer l'intégralité de sa fusée Starship dès son prochain vol d'essai. L'entreprise spatiale d'Elon Musk prévoit d'utiliser la tour de lancement pour rattraper les deux étages du lanceur. Cette opération inédite pourrait intervenir dans un délai de quatre à six semaines.",
-    "keywords": [
-      "spacex",
-      "starship",
-      "elon musk",
-      "fusee",
-      "spatial"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "169e9833fa80",
-    "title": "Samsung Galaxy S27 : la future hausse de prix se précise",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633781-samsung-galaxy-s27-une-hausse-de-prix-se-precise-selon-un-nouveau-rapport.html",
-    "pubDate": "2026-10-12T14:03:00.000Z",
-    "summary": "Le constructeur Samsung envisage d'augmenter les tarifs de ses prochains téléphones haut de gamme. Cette hausse annoncée des prix concerne directement la future gamme des smartphones Galaxy S27. Les consommateurs devront donc s'attendre à payer plus cher pour acquérir ces nouveaux appareils.",
-    "keywords": [
-      "samsung",
-      "galaxy s27",
-      "smartphone",
-      "prix"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0d41cda05e58",
-    "title": "La taxe GAFAM bientôt multipliée par 5 ? Les députés approuvent un amendement clé",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/politique/3281823_la-taxe-gafam-bientot-etre-multipliee-par-5-les-deputes-approuvent-un-amendement-cle",
-    "pubDate": "2026-10-12T14:02:00.000Z",
-    "summary": "Les députés français ont voté en commission un amendement pour alourdir significativement la fiscalité des géants du numérique. Le taux de la taxe GAFAM pourrait ainsi passer de trois à quinze pour cent. Cette augmentation dépasse les propositions initialement envisagées pour l'année prochaine.",
-    "keywords": [
-      "taxe gafam",
-      "amendement",
-      "fiscalité",
-      "numérique",
-      "france"
     ],
     "aiDone": true,
     "coverage": 1,
