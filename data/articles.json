@@ -1,11 +1,151 @@
 [
   {
+    "id": "dab63a9f7a06",
+    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+    "pubDate": "2026-10-13T13:16:11.000Z",
+    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "73c79ba9ea55",
+    "title": "Boulanger retire 300 € au Pixel 11 Pro XL, le dernier smartphone haut de gamme de Google",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3283005_boulanger-retire-300-e-au-pixel-11-pro-xl-le-dernier-smartphone-haut-de-gamme-de-google",
+    "pubDate": "2026-10-13T13:16:00.000Z",
+    "summary": "Lancé il y a peu, le Google Pixel 11 Pro XL est la version grand format du haut de gamme de Google. Il est déjà proposé à 1 099 euros au lieu de 1 399 euros chez Boulanger, en version 256 Go.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b1f4f9b630a7",
+    "title": "Apple makes another push into the smart home market with HomeView",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+    "pubDate": "2026-10-13T13:15:46.000Z",
+    "summary": "Apple intensifie sa présence sur le marché de la maison intelligente avec le lancement de HomeView. Ce nouvel appareil conçu par Apple vient concurrencer directement les gammes Amazon Echo Show et Google Nest Hub. Cette incursion marque une nouvelle étape dans la stratégie domotique de l'entreprise américaine.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "maison intelligente",
+      "domotique",
+      "amazon"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b88aa0fe0a7",
+    "title": "Apple lance ses caméras et sa serrure avec LG : Home Collection, 9 accessoires, 0 en France",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3283311_apple-lance-ses-cameras-et-sa-serrure-avec-lg-home-collection-9-accessoires-0-en-france",
+    "pubDate": "2026-10-13T13:14:49.000Z",
+    "summary": "Apple lance sa première gamme d'accessoires domotiques, conçue avec LG et le français Schneider Electric. Caméras, serrure et thermostats se pilotent sans autre appli que Maison, mais aucun n'est…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b1a1cc062d1a",
+    "title": "Apple présente HomeView, son premier écran connecté intelligent qui boude l’Europe",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3283265_apple-presente-homeview-son-premier-ecran-connecte-intelligent-qui-boude-leurope",
+    "pubDate": "2026-10-13T13:13:41.000Z",
+    "summary": "Apple a dévoilé son tout premier écran connecté intelligent nommé HomeView. Cet appareil domotique sera commercialisé aux États-Unis pour un tarif fixé à 299 dollars. Il ne sera toutefois pas disponible à la vente au sein de l'Union européenne.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "écran connecté",
+      "domotique",
+      "siri"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "cca3cdfa1ee1",
+    "title": "HomePod mini 2 officiel : Siri AI, puce S10 et son surround à quatre enceintes",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/apple/3283253_homepod-mini-2-officiel-siri-ai-puce-s10-et-son-surround-a-quatre-enceintes",
+    "pubDate": "2026-10-13T13:13:09.000Z",
+    "summary": "Apple a officialisé le HomePod mini 2 le 13 octobre 2026. Cette nouvelle enceinte connectée compacte intègre la future intelligence artificielle Siri AI. Elle propose également la fonction Sound Glow ainsi qu'un mode surround à quatre haut-parleurs.",
+    "keywords": [
+      "apple",
+      "homepod mini 2",
+      "siri ai",
+      "enceinte connectée"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0603638708af",
+    "title": "ColorOS 17 arrive dès la semaine prochaine : le calendrier complet du déploiement dévoilé",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633997-coloros-17-arrive-des-la-semaine-prochaine-le-calendrier-complet-du-deploiement-devoile.html",
+    "pubDate": "2026-10-13T13:11:00.000Z",
+    "summary": "Le constructeur chinois s'apprête à lancer la nouvelle version de son interface logicielle dès la semaine prochaine. Le calendrier officiel précise l'ordre de déploiement pour les récents smartphones de la marque. Cette mise à jour apporte plusieurs modifications sur les mobiles compatibles.",
+    "keywords": [
+      "coloros 17",
+      "smartphone",
+      "deploiement",
+      "mise a jour",
+      "chine"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e183ccec8b6e",
+    "title": "Marre de la musique générée par IA ? Deezer va proposer un bouton pour la faire disparaître",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633925-marre-de-la-musique-generee-par-ia-deezer-va-proposer-un-bouton-pour-la-faire-disparaitre.html",
+    "pubDate": "2026-10-13T13:08:00.000Z",
+    "summary": "Le Français Deezer prépare une sorte d'interrupteur pour bannir la musique générée par intelligence artificielle de ses résultats de recherche. L'option sera disponible partout d'ici la fin de…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "44a5b7847348",
+    "title": "Apple dévoile le HomeView, son écran pour piloter la maison (qui n’est pas disponible en Europe)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2351797-apple-devoile-le-homeview-son-ecran-pour-piloter-la-maison-qui-nest-pas-disponible-en-europe.html",
+    "pubDate": "2026-10-13T13:07:27.000Z",
+    "summary": "Après des années de rumeurs et de reports, Apple dévoile enfin son premier écran pour la maison : le HomeView. Apple le présente comme le centre de pilotage ultime pour la maison connectée, avec Siri…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "45d5e4849c59",
-    "title": "Quand et comment suivre les annonces d’Apple : HomeView, Apple TV 4K, Homepod mini 2",
+    "title": "Suivez toutes les annonces Apple : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
-    "pubDate": "2026-10-13T12:53:42.000Z",
+    "pubDate": "2026-10-13T13:06:05.000Z",
     "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
     "keywords": [
       "apple",
@@ -19,15 +159,69 @@
     "also": []
   },
   {
+    "id": "b6fe5bd95351",
+    "title": "« EXERCICE » répété trois fois : ce que signifie l’alerte qui fait sonner des milliers de smartphones",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/3283217_exercice-repete-trois-fois-ce-que-signifie-lalerte-qui-fait-sonner-des-milliers-de-smartphones",
+    "pubDate": "2026-10-13T13:00:28.000Z",
+    "summary": "Des milliers de smartphones sonneront ce mardi 13 octobre dans sept départements français. Cet événement correspond à un test grandeur nature du dispositif national FR-Alert. Le message reçu affichera explicitement le mot exercice à trois reprises sans exiger d'intervention.",
+    "keywords": [
+      "fr-alerte",
+      "smartphone",
+      "france",
+      "alerte"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "bc6b0eca0236",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "pubDate": "2026-10-13T13:00:00.000Z",
+    "summary": "American Express lance un nouveau cadre de sécurité destiné aux assistants virtuels. Cette solution technique vise à garantir que les agents intelligents n'effectuent que des achats validés par leurs propriétaires. L'initiative cherche à limiter les erreurs financières et les litiges potentiels liés au commerce piloté par l'intelligence artificielle.",
+    "keywords": [
+      "american express",
+      "intelligence artificielle",
+      "achats en ligne",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2ce618a9a88b",
+    "title": "Sony lance une PS5 noire deux fois moins chère pour GTA 6 (mais pas en France)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2352299-sony-lance-une-ps5-noire-deux-fois-moins-chere-pour-gta-6-mais-pas-en-france.html",
+    "pubDate": "2026-10-13T12:58:09.000Z",
+    "summary": "La branche japonaise de PlayStation lance un nouveau modèle de PS5. Pour 55 000 yens, soit environ 310 €, les joueurs japonais pourront s'offrir cette PS5 le 19 novembre, le jour de la sortie de GTA…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "46785860b217",
     "title": "Remboursement du passe Navigo : c’est le dernier jour pour récupérer jusqu’à 90,80 €",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-cest-le-dernier-jour-pour-recuperer-jusqua-90-euros-80.html",
     "pubDate": "2026-10-13T12:40:13.000Z",
-    "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une campagne de dédommagement d'Île-de-France Mobilités est ouverte depuis la mi-septembre 2026. Voici comment savoir si…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Île-de-France Mobilités clôture aujourd'hui sa campagne de remboursement du passe Navigo. Les usagers éligibles peuvent récupérer jusqu'à 90,80 euros. Cette mesure de dédommagement s'adresse aux voyageurs concernés par des perturbations.",
+    "keywords": [
+      "passe navigo",
+      "ile de france mobilites",
+      "remboursement",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1239,232 +1433,6 @@
       "google health",
       "application",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4f5d7b52aa65",
-    "title": "Pour refroidir l’iPhone Duo pliant, Apple fait passer un conduit de graphite dans sa charnière",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633868-pour-refroidir-l-iphone-duo-pliant-apple-fait-passer-un-conduit-de-graphite-dans-sa-charniere.html",
-    "pubDate": "2026-10-13T07:55:00.000Z",
-    "summary": "Apple intègre un conduit de graphite flexible dans la charnière de son futur iPhone Duo pliant. Ce système innovant permet d'évacuer efficacement la chaleur générée par la puce A20 Pro. Les ingénieurs de la firme expliquent le fonctionnement de cette pièce essentielle qui relie les deux parties de l'appareil.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "smartphone pliant",
-      "refroidissement",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "34fca308ca61",
-    "title": "WhatsApp : il devient enfin possible de programmer un message, voici comment essayer",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/android/applications/3282649_whatsapp-il-devient-enfin-possible-de-programmer-un-message-voici-comment-essayer",
-    "pubDate": "2026-10-13T07:50:54.000Z",
-    "summary": "Meta déploie enfin une nouvelle option permettant de planifier l'envoi de messages sur WhatsApp. Cette fonctionnalité tant attendue reste pour l'instant accessible uniquement en version bêta. Seul un nombre restreint d'utilisateurs peut tester cette nouveauté pour le moment.",
-    "keywords": [
-      "whatsapp",
-      "meta",
-      "messages",
-      "fonctionnalite",
-      "beta"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e7cba62d0904",
-    "title": "Cette filiale de Microsoft vient d'être condamnée à une amende de 8,5 millions d'euros",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633826-cette-filiale-de-microsoft-vient-d-etre-condamnee-a-une-amende-de-8-6-millions-d-euros.html",
-    "pubDate": "2026-10-13T07:44:00.000Z",
-    "summary": "La Norvège a infligé une amende de 8,5 millions d'euros à Xandr, une filiale de Microsoft. La sanction concerne le partage illégal de données personnelles d'utilisateurs de Grindr, incluant leur orientation sexuelle. Le régulateur norvégien a rejeté la tentative de la régie publicitaire de reporter la faute sur l'application.",
-    "keywords": [
-      "microsoft",
-      "xandr",
-      "grindr",
-      "norvege",
-      "amende"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ec2afe7847da",
-    "title": "« Plus de code écrit à la main » : Epic Games mise sur l’IA pour développer son jeu de tir avec Disney",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/pop-culture/2351821-plus-de-code-ecrit-a-la-main-epic-games-mise-sur-lia-pour-developper-son-jeu-de-tir-avec-disney.html",
-    "pubDate": "2026-10-13T07:42:47.000Z",
-    "summary": "Epic Games intègre l'intelligence artificielle pour concevoir son prochain jeu vidéo inspiré de l'univers Disney. Le projet d'envergure, qui doit intégrer des figures de Marvel et de Star Wars, a vu son calendrier initial modifié. Cette adoption massive des outils d'IA vise à accélérer la production globale du titre.",
-    "keywords": [
-      "epic games",
-      "disney",
-      "intelligence artificielle",
-      "jeu video",
-      "marvel"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "27bac9c123c1",
-    "title": "« Acheter ce produit » : Gemini pourrait vous aider à faire du shopping depuis sa bulle flottante",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3282617_acheter-ce-produit-gemini-pourrait-vous-aider-a-faire-du-shopping-depuis-sa-bulle-flottante",
-    "pubDate": "2026-10-13T07:38:21.000Z",
-    "summary": "Google développe une nouvelle option d'achat pour son intelligence artificielle nommée Shop this. Cette fonctionnalité permettrait de repérer directement un article visible sur l'écran d'un smartphone. Les utilisateurs de Gemini pourraient ainsi trouver où se procurer le produit sans quitter leur application actuelle.",
-    "keywords": [
-      "google",
-      "gemini",
-      "shop this",
-      "shopping",
-      "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e8f4ebb717c3",
-    "title": "« Plus de code écrit à la main » : Epic Games retarde son jeu Star Wars + Marvel et demande à ses développeurs de tout faire avec l’IA",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3282665_plus-de-code-ecrit-a-la-main-epic-games-retarde-son-jeu-star-wars-marvel-et-demande-a-ses-developpeurs-de-tout-faire-avec-lia",
-    "pubDate": "2026-10-13T07:36:12.000Z",
-    "summary": "Epic Games reporte sine die le développement de son jeu vidéo réunissant Star Wars et Marvel. Le studio américain exige désormais de ses équipes qu'elles recourent exclusivement à l'intelligence artificielle. Cette directive impose de concevoir l'intégralité du code et des graphismes sans intervention humaine directe.",
-    "keywords": [
-      "epic games",
-      "intelligence artificielle",
-      "star wars",
-      "marvel",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b6d6e876de3",
-    "title": "Nothing OS 5.0 apporte plus de 80 nouveautés aux smartphones de la marque… sauf les derniers en date",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633895-nothing-os-5-0-apporte-plus-de-80-nouveautes-aux-smartphones-de-la-marque-sauf-les-derniers-en-date.html",
-    "pubDate": "2026-10-13T07:30:00.000Z",
-    "summary": "La marque britannique Nothing déploie la mise à jour majeure Nothing OS 5.0 sur ses smartphones. Cette nouvelle version logicielle intègre plus de quatre-vingt améliorations notables. Étrangement, cette importante transition vers Android est pour l'instant réservée au modèle phare de l'année précédente.",
-    "keywords": [
-      "nothing",
-      "nothing os",
-      "android",
-      "smartphone",
-      "mise a jour"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "85ecdf1d8e31",
-    "title": "Nintendo n’a pas aimé voir Elon Musk déguisé en Wario dans le Saturday Night Live",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351827-nintendo-na-pas-aime-voir-elon-musk-deguise-en-wario-dans-le-saturday-night-live.html",
-    "pubDate": "2026-10-13T07:29:53.000Z",
-    "summary": "En 2021, Elon Musk est apparu déguisé en Wario lors d'un sketch de l'émission américaine Saturday Night Live. Des années plus tard, des cadres marketing ont révélé que Nintendo avait très mal accueilli cette parodie. La firme japonaise n'a manifestement pas apprécié cette incursion surprise de son personnage dans le show.",
-    "keywords": [
-      "nintendo",
-      "elon musk",
-      "wario",
-      "saturday night live"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "47a7cc7eecb0",
-    "title": "Fibre Orange et Bouygues Telecom, compteurs Linky : ce gros piratage d’un sous-traitant expose des millions de données",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3282643_fibre-orange-et-bouygues-telecom-compteurs-linky-ce-gros-piratage-dun-sous-traitant-expose-des-millions-de-donnees",
-    "pubDate": "2026-10-13T07:24:14.000Z",
-    "summary": "Des millions de données sensibles concernant les clients de grands opérateurs ont été compromises suite à une cyberattaque. Un pirate informatique revendique le vol de trente-quatre gigaoctets d'informations appartenant au prestataire Solutions30. Cette fuite massive proviendrait d'une vulnérabilité informatique de type IDOR exploitée dans leur système.",
-    "keywords": [
-      "solutions30",
-      "orange",
-      "bouygues telecom",
-      "linky",
-      "piratage"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "eea769780422",
-    "title": "Microsoft to shut Nairobi engineering centre, putting hundreds of jobs at risk",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/",
-    "pubDate": "2026-10-13T07:20:50.000Z",
-    "summary": "Microsoft annonce la fermeture prochaine de son centre d'ingénierie situé à Nairobi. Cette décision menace directement des centaines d'emplois locaux. Ce projet ambitionnait pourtant de permettre aux ingénieurs africains de concevoir des produits mondiaux depuis le continent.",
-    "keywords": [
-      "microsoft",
-      "nairobi",
-      "kenya",
-      "emploi",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d6364de1d01d",
-    "title": "On a demandé à trois IA de nous humilier : les résultats sont drôles mais inquiétants",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3282655_on-a-demande-a-trois-ia-de-nous-humilier-les-resultats-sont-droles-mais-inquietants",
-    "pubDate": "2026-10-13T07:17:55.000Z",
-    "summary": "La tendance consistant à demander à ChatGPT de se moquer des utilisateurs redevient virale sur les réseaux sociaux. Derrière cette animation humoristique, les internautes obtiennent un aperçu des données accumulées par l'intelligence artificielle. Cette expérience amuse la toile tout en soulevant de vraies inquiétudes sur la protection de la vie privée.",
-    "keywords": [
-      "chatgpt",
-      "intelligence artificielle",
-      "reseaux sociaux",
-      "tendances tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3ec6aa817c45",
-    "title": "After Koko’s collapse, Circle Gas faces Kenya’s carbon-credit test",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/circle-gas-carbon-revenue-kenya/",
-    "pubDate": "2026-10-13T07:08:28.000Z",
-    "summary": "L'entreprise Circle Gas traverse une passe financière difficile avec d'importantes pertes nettes enregistrées pour l'année 2025. La société affiche des passifs nets élevés et une trésorerie très limitée à la fin de la période. Pour soutenir son expansion au Kenya, Circle Gas est désormais à la recherche d'un nouveau financement significatif.",
-    "keywords": [
-      "circle gas",
-      "kenya",
-      "carbon credit",
-      "financement",
-      "tech"
     ],
     "aiDone": true,
     "coverage": 1,
