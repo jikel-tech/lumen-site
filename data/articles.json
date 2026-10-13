@@ -1,5 +1,136 @@
 [
   {
+    "id": "26bd15368aff",
+    "title": "Votre téléviseur pourrait bientôt héberger une IA malveillante, et ce n'est pas de la science-fiction",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633898-votre-televiseur-pourrait-bientot-heberger-une-ia-malveillante-et-ce-n-est-pas-de-la-science-fiction.html",
+    "pubDate": "2026-10-13T08:09:00.000Z",
+    "summary": "Des chercheurs de l'entreprise Anthropic ont mis en évidence un nouveau risque technologique majeur. Ils démontrent qu'une intelligence artificielle malveillante pourrait s'installer à l'insu des utilisateurs dans des appareils connectés. Cette menace potentielle concerne notamment les téléviseurs et les aspirateurs robots.",
+    "keywords": [
+      "anthropic",
+      "intelligence artificielle",
+      "securite",
+      "objets connectes"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4550253996e0",
+    "title": "Ça y est, YouTube déploie « Ask YouTube » sur smartphone, mais la France devra patienter",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3282587_ca-y-est-youtube-deploie-ask-youtube-sur-smartphone-mais-la-france-devra-patienter",
+    "pubDate": "2026-10-13T08:06:19.000Z",
+    "summary": "Google lance l'outil de recherche conversationnelle Ask YouTube sur les smartphones. Cette nouveauté intègre de l'intelligence artificielle générative pour faciliter la découverte de vidéos. Pour l'instant, le déploiement de cette fonctionnalité est strictement réservé aux utilisateurs situés aux États-Unis.",
+    "keywords": [
+      "youtube",
+      "google",
+      "ia generative",
+      "smartphone",
+      "etats-unis"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d4ab85ee2801",
+    "title": "Vélos électriques Bosch : cette nouvelle mise à jour gratuite apporte une fonction de charge bien pratique",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/bosch/3282725_velos-electriques-bosch-cette-nouvelle-mise-a-jour-gratuite-apporte-une-fonction-de-charge-bien-pratique",
+    "pubDate": "2026-10-13T08:00:00.000Z",
+    "summary": "La marque Bosch déploie la mise à jour 1.38 de son application mobile dédiée. Cette nouvelle version gratuite introduit notamment un affichage du temps de charge restant pour les vélos électriques. Les utilisateurs bénéficient aussi d'un contrôle de traction réglable et d'un tendeur de chaîne activable à la demande.",
+    "keywords": [
+      "bosch",
+      "ebike flow",
+      "vélo électrique",
+      "mise à jour"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "63db99205f7b",
+    "title": "Avis aux sportifs, cette ceinture cardio Garmin de référence est bradée à -28 % sur Amazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-28-pourcents-sur-amazon",
+    "pubDate": "2026-10-13T07:59:00.000Z",
+    "summary": "Le site e-commerce Amazon propose actuellement une réduction notable sur un accessoire de sport populaire. La ceinture cardio Garmin HRM 200 bénéficie d'une baisse de prix de vingt-huit pour cent. Ce modèle est notamment apprécié pour sa conception pratique dotée d'un module amovible.",
+    "keywords": [
+      "garmin",
+      "hrm 200",
+      "ceinture cardio",
+      "amazon",
+      "bon plan"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d66b9bb8c72f",
+    "title": "Fitbit : Google met fin au sursis des anciennes versions de l’appli",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633877-fitbit-google-met-fin-au-sursis-des-anciennes-versions-de-l-appli.html",
+    "pubDate": "2026-10-13T07:56:00.000Z",
+    "summary": "Google met définitivement un terme à l'ancienne application mobile de Fitbit. Une récente mise à jour oblige désormais les utilisateurs à basculer vers Google Health. Cette transition marque la fin définitive du sursis accordé aux irréductibles de l'ancienne interface.",
+    "keywords": [
+      "fitbit",
+      "google",
+      "google health",
+      "application",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4f5d7b52aa65",
+    "title": "Pour refroidir l’iPhone Duo pliant, Apple fait passer un conduit de graphite dans sa charnière",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-633868-pour-refroidir-l-iphone-duo-pliant-apple-fait-passer-un-conduit-de-graphite-dans-sa-charniere.html",
+    "pubDate": "2026-10-13T07:55:00.000Z",
+    "summary": "Apple intègre un conduit de graphite flexible dans la charnière de son futur iPhone Duo pliant. Ce système innovant permet d'évacuer efficacement la chaleur générée par la puce A20 Pro. Les ingénieurs de la firme expliquent le fonctionnement de cette pièce essentielle qui relie les deux parties de l'appareil.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "smartphone pliant",
+      "refroidissement",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "34fca308ca61",
+    "title": "WhatsApp : il devient enfin possible de programmer un message, voici comment essayer",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/android/applications/3282649_whatsapp-il-devient-enfin-possible-de-programmer-un-message-voici-comment-essayer",
+    "pubDate": "2026-10-13T07:50:54.000Z",
+    "summary": "Meta déploie enfin une nouvelle option permettant de planifier l'envoi de messages sur WhatsApp. Cette fonctionnalité tant attendue reste pour l'instant accessible uniquement en version bêta. Seul un nombre restreint d'utilisateurs peut tester cette nouveauté pour le moment.",
+    "keywords": [
+      "whatsapp",
+      "meta",
+      "messages",
+      "fonctionnalite",
+      "beta"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e7cba62d0904",
     "title": "Cette filiale de Microsoft vient d'être condamnée à une amende de 8,5 millions d'euros",
     "source": "Clubic",
@@ -593,6 +724,25 @@
       "securite informatique",
       "piratage",
       "donnees personnelles"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4ce8116f6608",
+    "title": "Meilleures liseuses couleur : quel modèle (Kindle, Kobo, Boox…) choisir en 2026 ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/2583405_meilleures-liseuses-couleur",
+    "pubDate": "2026-10-13T04:51:33.000Z",
+    "summary": "Le marché propose actuellement plusieurs références de liseuses électroniques dotées d'un affichage en couleur. Ce guide d'achat liste les meilleurs modèles disponibles pour les utilisateurs. Les lecteurs peuvent ainsi comparer différentes marques comme Kindle, Kobo ou Boox.",
+    "keywords": [
+      "liseuse",
+      "couleur",
+      "kindle",
+      "kobo",
+      "boox"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1342,157 +1492,6 @@
       "emploi",
       "croissance",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "1e910f63753c",
-    "title": "On est monté à bord de la Leapmotor B03 : cette citadine électrique chinoise vendue par Stellantis pourrait faire mal à Peugeot et Citroën",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/leapmotor/3282069_on-est-monte-a-bord-de-la-leapmotor-b03-cette-citadine-electrique-chinoise-vendue-par-stellantis-pourrait-faire-mal-a-peugeot-et-citroen",
-    "pubDate": "2026-10-12T14:58:28.000Z",
-    "summary": "Le constructeur chinois Leapmotor dévoile la nouvelle citadine électrique B03 lors du Mondial de l'Auto. Ce modèle est distribué en Europe grâce au partenariat stratégique noué avec le groupe Stellantis. L'arrivée de ce véhicule sur le marché risque de concurrencer directement les marques françaises comme Peugeot et Citroën.",
-    "keywords": [
-      "leapmotor",
-      "stellantis",
-      "voiture electrique",
-      "mondial de l'auto",
-      "chine"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b7f9889cd331",
-    "title": "Smartphone, tablette ou Switch : cette batterie INIU 20 000 mAh et 45 W tombe à 29,99€",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/bons-plans-633805-smartphone-tablette-ou-switch-cette-batterie-iniu-20-000-mah-et-45-w-tombe-a-29-99.html",
-    "pubDate": "2026-10-12T14:56:00.000Z",
-    "summary": "Le site e-commerce Amazon propose actuellement la batterie externe INIU au prix réduit de 29,99 euros. Cet accessoire nomade affiche une capacité de 20 000 mAh ainsi qu'une puissance de sortie USB-C atteignant 45 W. Il intègre également un câble de recharge direct dans un format pesant environ 326 grammes.",
-    "keywords": [
-      "iniu",
-      "batterie externe",
-      "amazon",
-      "smartphone",
-      "accessoire tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "126ae12efa10",
-    "title": "Piratage Intermarché, Super U, Leclerc : pourquoi les frigos des supermarchés sont-ils connectés à Internet ?",
-    "source": "Numerama",
-    "category": "logiciels",
-    "url": "https://www.numerama.com/cyberguerre/2351549-piratage-intermarche-super-u-leclerc-pourquoi-les-frigos-des-supermarches-sont-ils-connectes-a-internet.html",
-    "pubDate": "2026-10-12T14:54:28.000Z",
-    "summary": "Une récente cyberattaque a ciblé les congélateurs connectés de plusieurs grandes enseignes de distribution françaises. Ces équipements de réfrigération intègrent des connexions Internet pour des motifs opérationnels légitimes. L'incident met en lumière des failles dans les méthodes de sécurisation et de raccordement de ces appareils.",
-    "keywords": [
-      "intermarché",
-      "leclerc",
-      "super u",
-      "cyberattaque",
-      "objets connectés"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "25d4a9d6efb3",
-    "title": "489 €, c’est le super prix de ce TV 4K LG QNED de 65 pouces, idéal pour les soirées ciné cet automne",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3281881_489-e-cest-le-super-prix-de-ce-tv-4k-lg-qned-de-65-pouces-ideal-pour-les-soirees-cine-de-cet-automne",
-    "pubDate": "2026-10-12T14:44:14.000Z",
-    "summary": "Le site marchand Joybuy propose actuellement le téléviseur 4K LG de 65 pouces à un tarif réduit. Cet appareil doté d'une dalle QNED est affiché au prix de 489,99 euros au lieu de 699 euros. Cette offre permet de s'équiper à moindre coût pour les sessions de cinéma à domicile.",
-    "keywords": [
-      "lg",
-      "tv 4k",
-      "qned",
-      "joybuy",
-      "promotion"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "52f01b3de92a",
-    "title": "Nothing OS 5.0 débarque sur le Phone (3) avec Android 17 et plus de 80 nouveautés",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3282077_nothing-os-5-0-debarque-sur-le-phone-3-avec-android-17-et-plus-de-80-nouveautes",
-    "pubDate": "2026-10-12T14:43:51.000Z",
-    "summary": "La marque Nothing a entamé ce lundi 12 octobre le déploiement de sa mise à jour Nothing OS 5.0. Cette nouvelle version logicielle, conçue sur la base d'Android 17, équipe en premier lieu le modèle Phone (3). Le constructeur met en avant plus de quatre-vingts améliorations notables pour cette version.",
-    "keywords": [
-      "nothing",
-      "phone 3",
-      "nothing os 5.0",
-      "android 17"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0b5c65539014",
-    "title": "Le dernier Google Pixel 11 perd 100€ : les dernières innovations photos et IA sont à portée de main",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/bons-plans-633742-le-dernier-google-pixel-11-a--100-les-dernieres-innovations-photos-et-ia-sont-a-portee-de-main.html",
-    "pubDate": "2026-10-12T14:35:00.000Z",
-    "summary": "Le smartphone Google Pixel 11 bénéficie actuellement d'une réduction de cent euros chez Fnac. Ce modèle intègre des améliorations notables en matière d'intelligence artificielle et de photographie. L'appareil est ainsi proposé au tarif de 899 euros.",
-    "keywords": [
-      "google",
-      "pixel 11",
-      "smartphone",
-      "fnac",
-      "ia"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "5f0d560ccf0b",
-    "title": "Millions of Africans have internet coverage but are not online. Here’s why",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/",
-    "pubDate": "2026-10-12T14:34:21.000Z",
-    "summary": "Des millions d'Africains vivant dans des zones couvertes par le haut débit mobile restent pourtant hors ligne. La situation au Ghana, en Égypte et au Niger démontre que le déploiement des réseaux ne suffit pas. Pour connecter la population, il faut notamment des terminaux abordables et des services adaptés aux besoins quotidiens.",
-    "keywords": [
-      "afrique",
-      "internet",
-      "ghana",
-      "egypte",
-      "niger"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "86d6373d5c34",
-    "title": "Ce mod impressionnant de Starfield ajoute un vrai atterrissage pour les vaisseaux",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351477-ce-mod-impressionnant-de-starfield-ajoute-un-vrai-atterrissage-pour-les-vaisseaux.html",
-    "pubDate": "2026-10-12T14:32:20.000Z",
-    "summary": "Le moddeur Frederik Wessberg développe un mod pour Starfield qui supprime les écrans de chargement lors des atterrissages. Ce projet gratuit, aboutissement de six mois de travail, sera réservé à la version PC du jeu. L'extension offre une expérience d'immersion nettement supérieure pour les joueurs sur ordinateur.",
-    "keywords": [
-      "starfield",
-      "mod",
-      "frederik wessberg",
-      "pc",
-      "jeu"
     ],
     "aiDone": true,
     "coverage": 1,
