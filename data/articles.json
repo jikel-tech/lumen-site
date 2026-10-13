@@ -1,5 +1,62 @@
 [
   {
+    "id": "3ec6aa817c45",
+    "title": "After Koko’s collapse, Circle Gas faces Kenya’s carbon-credit test",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/13/circle-gas-carbon-revenue-kenya/",
+    "pubDate": "2026-10-13T07:08:28.000Z",
+    "summary": "L'entreprise Circle Gas traverse une passe financière difficile avec d'importantes pertes nettes enregistrées pour l'année 2025. La société affiche des passifs nets élevés et une trésorerie très limitée à la fin de la période. Pour soutenir son expansion au Kenya, Circle Gas est désormais à la recherche d'un nouveau financement significatif.",
+    "keywords": [
+      "circle gas",
+      "kenya",
+      "carbon credit",
+      "financement",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "db9783b513e1",
+    "title": "Beats x Pokémon : une collaboration insolite se prépare autour de l’enceinte Pill",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633883-beats-x-pokemon-une-collaboration-insolite-se-prepare-autour-de-l-enceinte-pill.html",
+    "pubDate": "2026-10-13T07:03:00.000Z",
+    "summary": "La marque Beats annonce un partenariat inattendu avec la franchise Pokémon. Une édition spéciale de l'enceinte Pill sera conçue aux couleurs du personnage Pikachu. Un premier teaser a été partagé pour présenter cette future sortie.",
+    "keywords": [
+      "beats",
+      "pokemon",
+      "pikachu",
+      "enceinte",
+      "pill"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "9965423a5a4f",
+    "title": "Test de Castlevania: Belmont’s Curse, ou quand la France ressuscite un mythe d’outre-tombe avec brio",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2351003-test-de-castlevania-belmonts-curse-ou-quand-la-france-ressuscite-un-mythe-doutre-tombe-avec-brio.html",
+    "pubDate": "2026-10-13T07:00:00.000Z",
+    "summary": "Le studio français a développé le nouveau jeu Castlevania: Belmont’s Curse pour Konami. Cet épisode inédit marque le grand retour de la franchise culte après plus d'une décennie d'absence. Ce titre en deux dimensions célèbre ainsi les quarante ans de la célèbre licence de jeux vidéo.",
+    "keywords": [
+      "castlevania",
+      "konami",
+      "jeu video",
+      "france",
+      "rogue lite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "2b22c7a765fc",
     "title": "WhatsApp va enfin vous laisser programmer vos messages",
     "source": "Clubic",
@@ -1435,62 +1492,6 @@
       "fiscalité",
       "numérique",
       "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "50db4f58bcdc",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "pubDate": "2026-10-12T14:00:00.000Z",
-    "summary": "L'événement TechCrunch Disrupt 2026 s'apprête à ouvrir ses portes dès demain à San Francisco. Plus de dix mille acteurs de l'écosystème technologique sont attendus pour trois jours de conférences et de networking. Les participants disposent des dernières vingt-quatre heures pour bénéficier d'une réduction tarifaire sur leurs billets.",
-    "keywords": [
-      "techcrunch disrupt",
-      "san francisco",
-      "evenement tech",
-      "startup",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "285fd09a04c3",
-    "title": "DroidDeck : l’app Android qui lance Steam, les jeux PC Windows et l’émulation",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/actualite-633766-droiddeck-l-app-android-qui-lance-steam-les-jeux-pc-windows-et-l-emulation-dans-une-seule-appli.html",
-    "pubDate": "2026-10-12T13:52:00.000Z",
-    "summary": "La nouvelle application DroidDeck permet de lancer des jeux PC Windows et le client Steam sur certains smartphones Android. Cet outil prend également en charge l'émulation de jeux vidéo. L'utilisation de cette solution nécessite cependant un appareil mobile compatible et suffisamment puissant.",
-    "keywords": [
-      "droiddeck",
-      "android",
-      "steam",
-      "jeux pc",
-      "emulation"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "dff4df9ccf3e",
-    "title": "Gemini Live va bientôt pouvoir se taire quand vous le souhaitez",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/google/3281443_gemini-live-va-bientot-pouvoir-se-taire-quand-vous-le-souhaitez",
-    "pubDate": "2026-10-12T13:47:57.000Z",
-    "summary": "Google développe une nouvelle interface pour son assistant vocal Gemini Live. Une fonctionnalité inédite permettra de stopper la voix de l'outil sans modifier le volume global de l'appareil. Cette mise à jour offre ainsi un meilleur contrôle aux utilisateurs de cet assistant.",
-    "keywords": [
-      "gemini live",
-      "google",
-      "assistant vocal",
-      "interface"
     ],
     "aiDone": true,
     "coverage": 1,
