@@ -149,6 +149,25 @@
     "also": []
   },
   {
+    "id": "a32562eab33c",
+    "title": "Mali : avec son application mobile, BamaEats propose des services de livraison de repas",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/solutions/mali-avec-son-application-mobile-bamaeats-propose-des-services-de-livraison-de-repas",
+    "pubDate": "2026-10-12T17:53:57.000Z",
+    "summary": "La start-up malienne MYKDEV Consulting lance une application mobile dédiée à la commande de repas. Baptisée BamaEats, cette solution numérique permet de connecter les habitants de Bamako avec des restaurants partenaires. La plateforme intègre également le suivi des commandes et un programme de fidélité pour ses utilisateurs.",
+    "keywords": [
+      "bamaeats",
+      "mali",
+      "bamako",
+      "livraison de repas",
+      "mykdev consulting"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e8c5778ddba5",
     "title": "Maia 300 : Microsoft annonce le déploiement de sa nouvelle génération de puces IA",
     "source": "Clubic",
@@ -943,9 +962,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2351475-spacex-sapprete-a-tenter-une-recuperation-complete-du-starship-une-premiere-dans-lhistoire-des-fusees-orbitales.html",
     "pubDate": "2026-10-12T14:04:24.000Z",
-    "summary": "Elon Musk espère un quinzième vol du Starship dans quatre à six semaines. SpaceX tenterait alors, pour la première fois, de rattraper les deux étages de la fusée avec la tour de lancement. Le vol…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "SpaceX envisage de récupérer l'intégralité de sa fusée Starship dès son prochain vol d'essai. L'entreprise spatiale d'Elon Musk prévoit d'utiliser la tour de lancement pour rattraper les deux étages du lanceur. Cette opération inédite pourrait intervenir dans un délai de quatre à six semaines.",
+    "keywords": [
+      "spacex",
+      "starship",
+      "elon musk",
+      "fusee",
+      "spatial"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -956,9 +981,14 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/actualite-633781-samsung-galaxy-s27-une-hausse-de-prix-se-precise-selon-un-nouveau-rapport.html",
     "pubDate": "2026-10-12T14:03:00.000Z",
-    "summary": "Les amoureux de Samsung vont devoir se faire une raison. La marque va très probablement augmenter le tarif de ses prochains smartphones haut de gamme Galaxy S27.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le constructeur Samsung envisage d'augmenter les tarifs de ses prochains téléphones haut de gamme. Cette hausse annoncée des prix concerne directement la future gamme des smartphones Galaxy S27. Les consommateurs devront donc s'attendre à payer plus cher pour acquérir ces nouveaux appareils.",
+    "keywords": [
+      "samsung",
+      "galaxy s27",
+      "smartphone",
+      "prix"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -969,9 +999,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/culture-tech/politique/3281823_la-taxe-gafam-bientot-etre-multipliee-par-5-les-deputes-approuvent-un-amendement-cle",
     "pubDate": "2026-10-12T14:02:00.000Z",
-    "summary": "Réunis en commission des finances, les députés ont approuvé un amendement écologiste visant à faire passer le taux de la taxe GAFAM de 3 à 15 %. Une hausse plus élevée que celle tentée en 2025, qui…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les députés français ont voté en commission un amendement pour alourdir significativement la fiscalité des géants du numérique. Le taux de la taxe GAFAM pourrait ainsi passer de trois à quinze pour cent. Cette augmentation dépasse les propositions initialement envisagées pour l'année prochaine.",
+    "keywords": [
+      "taxe gafam",
+      "amendement",
+      "fiscalité",
+      "numérique",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -982,9 +1018,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
     "pubDate": "2026-10-12T14:00:00.000Z",
-    "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'événement TechCrunch Disrupt 2026 s'apprête à ouvrir ses portes dès demain à San Francisco. Plus de dix mille acteurs de l'écosystème technologique sont attendus pour trois jours de conférences et de networking. Les participants disposent des dernières vingt-quatre heures pour bénéficier d'une réduction tarifaire sur leurs billets.",
+    "keywords": [
+      "techcrunch disrupt",
+      "san francisco",
+      "evenement tech",
+      "startup",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -995,9 +1037,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/actualite-633766-droiddeck-l-app-android-qui-lance-steam-les-jeux-pc-windows-et-l-emulation-dans-une-seule-appli.html",
     "pubDate": "2026-10-12T13:52:00.000Z",
-    "summary": "Faire tourner le client Steam et sa bibliothèque de jeux Windows sur un smartphone Android est maintenant possible. Bon, pas avec n'importe quel smartphone non plus.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La nouvelle application DroidDeck permet de lancer des jeux PC Windows et le client Steam sur certains smartphones Android. Cet outil prend également en charge l'émulation de jeux vidéo. L'utilisation de cette solution nécessite cependant un appareil mobile compatible et suffisamment puissant.",
+    "keywords": [
+      "droiddeck",
+      "android",
+      "steam",
+      "jeux pc",
+      "emulation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1008,9 +1056,14 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/google/3281443_gemini-live-va-bientot-pouvoir-se-taire-quand-vous-le-souhaitez",
     "pubDate": "2026-10-12T13:47:57.000Z",
-    "summary": "Google prépare une nouvelle interface pour Gemini Live, son assistant vocal. Parmi les changements repérés, un bouton permettrait de couper la voix de l’assistant sans toucher au volume du smartphone.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google développe une nouvelle interface pour son assistant vocal Gemini Live. Une fonctionnalité inédite permettra de stopper la voix de l'outil sans modifier le volume global de l'appareil. Cette mise à jour offre ainsi un meilleur contrôle aux utilisateurs de cet assistant.",
+    "keywords": [
+      "gemini live",
+      "google",
+      "assistant vocal",
+      "interface"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1021,9 +1074,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2351471-one-punch-man-tome-35-ou-precommander-ledition-collector.html",
     "pubDate": "2026-10-12T13:42:52.000Z",
-    "summary": "[Précommande] Le manga One-Punch Man accueille son 35e tome en France le 15 octobre 2026, avec une édition collector vendue 12,95 €. Au programme : une jaquette alternative, des cartes holographiques…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le trente-cinquième tome du manga One-Punch Man sortira en France le 15 octobre 2026. Une édition collector sera proposée au tarif de 12,95 euros avec plusieurs bonus exclusifs. Cette version spéciale comprend notamment une jaquette alternative, des cartes holographiques et un artbook.",
+    "keywords": [
+      "one-punch man",
+      "manga",
+      "tome 35",
+      "edition collector",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1034,9 +1093,15 @@
     "category": "culture",
     "url": "https://www.frandroid.com/marques/nintendo/3281815_aucun-projet-dabandonner-le-physique-nintendo-prend-le-contre-pied-de-sony-pour-linstant",
     "pubDate": "2026-10-12T13:33:05.000Z",
-    "summary": "Bill van Zyll, vice-président de Nintendo pour l'Amérique latine, a assuré ce week-end que l'entreprise n'a « aucun projet » d'abandonner les jeux physiques sur Switch 2. La déclaration arrive trois…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Nintendo contredit la tendance actuelle du marché en confirmant son attachement au format physique. Bill van Zyll a affirmé que l'entreprise n'envisage pas de supprimer les cartouches pour la future Switch 2. Cette position diverge nettement de la stratégie adoptée récemment par son concurrent direct, Sony.",
+    "keywords": [
+      "nintendo",
+      "switch 2",
+      "jeux physiques",
+      "sony",
+      "bill van zyll"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1047,9 +1112,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/comment-faire/tutoriaux/1881107_whatsapp-comment-quitter-un-groupe-sans-etre-decouvert",
     "pubDate": "2026-10-12T13:30:00.000Z",
-    "summary": "Vous avez envie de quitter une conversation WhatsApp sans que ses membres le sachent ? Voici une méthode simple pour y parvenir en toute discrétion.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "WhatsApp propose une astuce pour quitter une conversation de groupe sans éveiller de soupçons. Cette méthode discrète permet de partir d'un échange sans que les autres participants ne reçoivent de notification. Les utilisateurs disposent ainsi d'une solution simple pour préserver leur tranquillité sur la messagerie.",
+    "keywords": [
+      "whatsapp",
+      "groupe",
+      "messagerie",
+      "astuce"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1060,9 +1130,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3281785_ce-chauffage-dappoint-dreo-en-promo-a-moins-de-50-e-est-ideal-pour-affronter-les-froides-journees-automnales",
     "pubDate": "2026-10-12T13:29:12.000Z",
-    "summary": "Compact et capable de réchauffer rapidement une petite pièce, le Dreo Atom One pourrait bien vous rendre service cet automne. Actuellement, Amazon affiche ce chauffage d'appoint à 47,49 euros au lieu…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site e-commerce Amazon propose actuellement une réduction sur le chauffage d'appoint Dreo Atom One. Cet appareil compact permet de réchauffer rapidement les petites pièces durant la saison fraîche. Il est affiché au tarif promotionnel de 47,49 euros.",
+    "keywords": [
+      "dreo",
+      "chauffage",
+      "amazon",
+      "promo",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1073,9 +1149,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633769-en-pleine-traque-de-shinyhunters-le-fbi-arrete-un-specialiste-des-negociations-avec-les-cybercriminels.html",
     "pubDate": "2026-10-12T13:22:00.000Z",
-    "summary": "Un professionnel canadien de la cybersécurité, habitué à négocier avec les groupes de ransomware, a été arrêté aux États-Unis pour des faits présumés d'extorsion. Son interpellation serait liée à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un expert en cybersécurité basé au Canada a été appréhendé par les autorités américaines. L'homme est soupçonné d'implication dans des affaires d'extorsion et de négociation avec des rançongiciels. Cette arrestation s'inscrit dans le cadre de l'enquête visant le groupe de cybercriminels ShinyHunters.",
+    "keywords": [
+      "fbi",
+      "shinyhunters",
+      "cybercriminalite",
+      "ransomware",
+      "canada"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1086,9 +1168,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633748-sans-piste-ni-pilote-le-drone-de-combat-valkyrie-d-airbus-a-pris-son-envol-en-europe.html",
     "pubDate": "2026-10-12T13:08:00.000Z",
-    "summary": "Airbus et Kratos ont réussi le premier vol en Europe du U740 Valkyrie, un drone de combat collaboratif. L’appareil, qui recevra un système de mission européen dopé à l’intelligence artificielle, doit…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Airbus et Kratos ont mené à bien le premier vol en Europe du drone de combat U740 Valkyrie. Cet appareil sans pilote fonctionnera prochainement avec un système de mission européen doté d'intelligence artificielle. Cette collaboration marque une étape importante dans le développement des drones militaires coopératifs.",
+    "keywords": [
+      "airbus",
+      "valkyrie",
+      "drone",
+      "kratos",
+      "europe"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1099,9 +1187,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633778-le-composant-le-plus-cher-de-votre-tv-n-est-peut-etre-plus-son-ecran.html",
     "pubDate": "2026-10-12T13:05:00.000Z",
-    "summary": "La flambée du prix de la mémoire et des semi-conducteurs bouleverse la structure de coût des téléviseurs. Sur les petits modèles LCD, la carte électronique principale coûte désormais plus cher que la…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La hausse des prix des semi-conducteurs et de la mémoire modifie les coûts de fabrication des téléviseurs. Sur certains petits modèles LCD, la carte électronique principale dépasse désormais le prix de l'écran. Cette situation inédite bouleverse la structure économique traditionnelle de l'industrie des téléviseurs.",
+    "keywords": [
+      "téléviseur",
+      "semi-conducteurs",
+      "mémoire",
+      "lcd",
+      "écran"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1112,9 +1206,14 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2351503-google-lance-un-nouveau-bracelet-pour-suivre-sa-sante-cette-fois-ci-avec-un-ecran.html",
     "pubDate": "2026-10-12T13:01:17.000Z",
-    "summary": "Le Google Fitbit Edge, est un bracelet doté d'un écran OLED de 34 mm, d'un GPS et d'une batterie remplaçable. À 179,99 euros, contre 99 euros pour le Fitbit Air, il règle plusieurs problèmes du…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google dévoile le Fitbit Edge, un nouveau bracelet connecté équipé d'un écran OLED. Ce modèle intègre un GPS ainsi qu'une batterie remplaçable pour un tarif fixé à 179,99 euros. Il vient ainsi corriger les principales limites du Fitbit Air commercialisé au printemps.",
+    "keywords": [
+      "google",
+      "fitbit edge",
+      "bracelet connecte",
+      "sante"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1249,6 +1348,19 @@
     "also": []
   },
   {
+    "id": "52610429a0a1",
+    "title": "Togo : la Chine inspire de nouvelles pistes pour numériser l’agriculture",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/actualites/tech/togo-la-chine-inspire-de-nouvelles-pistes-pour-numeriser-l-agriculture",
+    "pubDate": "2026-10-12T12:04:07.000Z",
+    "summary": "Written by: Samira Njoya Dans un secteur exposé aux aléas climatiques et aux contraintes de gestion de l’eau, les outils numériques offrent de nouvelles possibilités pour adapter les pratiques…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "8f634860deb7",
     "title": "Quand l’IA disparaît, les résultats s’effondrent : ce que révèle une étude sur ChatGPT et la persévérance",
     "source": "Numerama",
@@ -1295,32 +1407,6 @@
     "url": "https://www.numerama.com/pop-culture/2351143-vous-ne-revez-pas-dark-vador-va-affronter-hulk-dans-un-crossover-pour-marvel.html",
     "pubDate": "2026-10-12T11:40:00.000Z",
     "summary": "Ça fait presque 50 ans que certains en rêvaient, et Disney a enfin décidé d'appuyer sur le bouton rouge. Un crossover comics Star Wars/Marvel: Hope Assembles se prépare pour janvier 2027 (pour fêter…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6ef3d2e036ac",
-    "title": "L’étrange paradoxe : comment une IA chinoise d’Alibaba permet à Microsoft de casser ses prix",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633751-l-etrange-paradoxe-comment-une-ia-chinoise-d-alibaba-permet-a-microsoft-de-casser-ses-prix.html",
-    "pubDate": "2026-10-12T11:31:00.000Z",
-    "summary": "Avec Microsoft-Decision-1, le géant américain veut réduire le coût des petits arbitrages qui font tourner les applications. Ce modèle bâti sur une IA chinoise vise les développeurs et les entreprises…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b442bb58af3c",
-    "title": "Apple Silicon : ce moddeur réussit à lancer GoogleBook OS... sur son Mac",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633745-apple-silicon-ce-moddeur-reussit-a-lancer-googlebook-os-sur-son-mac.html",
-    "pubDate": "2026-10-12T11:21:00.000Z",
-    "summary": "Lancé la semaine dernière, ChromeOS n’est pour l’instant disponible que sur la poignée d’ordinateurs portables Chromebook lancés chez HP, Dell, Lenovo, Acer et ASUS. Un développeur a toutefois estimé…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
