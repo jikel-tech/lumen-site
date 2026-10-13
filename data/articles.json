@@ -1,5 +1,44 @@
 [
   {
+    "id": "c06a934276cf",
+    "title": "Facebook is giving users more control over their algorithm",
+    "source": "TechCrunch",
+    "category": "culture",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "pubDate": "2026-10-13T18:05:24.000Z",
+    "summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature,…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5411e4c5998a",
+    "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+    "pubDate": "2026-10-13T18:05:00.000Z",
+    "summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "8652c8c29d5a",
+    "title": "PAVS 2026 : Clubic vous offre vos places pour le salon !",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634027-paris-audio-video-show-2026-clubic-vous-offre-vos-places-pour-le-salon.html",
+    "pubDate": "2026-10-13T17:45:00.000Z",
+    "summary": "Le Paris Audio Video Show revient au Palais des Congrès de Paris les 24 et 25 octobre 2026. Deux jours pour découvrir les dernières nouveautés en matière de hi-fi, de home cinéma et de technologies…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "477eb20b57dd",
     "title": "CashAfrica brings mobile tap-to-pay to Chicken Republic outlets",
     "source": "TechCabal",
@@ -110,9 +149,9 @@
   },
   {
     "id": "5b75b71a6459",
-    "title": "Google Play now supports private, vibe-coded apps built just for you",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
     "source": "TechCrunch",
-    "category": "logiciels",
+    "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
     "pubDate": "2026-10-13T17:00:00.000Z",
     "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
@@ -162,9 +201,9 @@
   },
   {
     "id": "950fd49d85d3",
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
     "source": "TechCrunch",
-    "category": "ia",
+    "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
     "pubDate": "2026-10-13T16:30:00.000Z",
     "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
@@ -1091,62 +1130,6 @@
     "summary": "Apple lance sa première gamme d'accessoires domotiques, conçue avec LG et le français Schneider Electric. Caméras, serrure et thermostats se pilotent sans autre appli que Maison, mais aucun n'est…",
     "keywords": [],
     "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b1a1cc062d1a",
-    "title": "Apple présente HomeView, son premier écran connecté intelligent qui boude l’Europe",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3283265_apple-presente-homeview-son-premier-ecran-connecte-intelligent-qui-boude-leurope",
-    "pubDate": "2026-10-13T13:13:41.000Z",
-    "summary": "Apple a dévoilé son tout premier écran connecté intelligent nommé HomeView. Cet appareil domotique sera commercialisé aux États-Unis pour un tarif fixé à 299 dollars. Il ne sera toutefois pas disponible à la vente au sein de l'Union européenne.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "écran connecté",
-      "domotique",
-      "siri"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "cca3cdfa1ee1",
-    "title": "HomePod mini 2 officiel : Siri AI, puce S10 et son surround à quatre enceintes",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/apple/3283253_homepod-mini-2-officiel-siri-ai-puce-s10-et-son-surround-a-quatre-enceintes",
-    "pubDate": "2026-10-13T13:13:09.000Z",
-    "summary": "Apple a officialisé le HomePod mini 2 le 13 octobre 2026. Cette nouvelle enceinte connectée compacte intègre la future intelligence artificielle Siri AI. Elle propose également la fonction Sound Glow ainsi qu'un mode surround à quatre haut-parleurs.",
-    "keywords": [
-      "apple",
-      "homepod mini 2",
-      "siri ai",
-      "enceinte connectée"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0603638708af",
-    "title": "ColorOS 17 arrive dès la semaine prochaine : le calendrier complet du déploiement dévoilé",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633997-coloros-17-arrive-des-la-semaine-prochaine-le-calendrier-complet-du-deploiement-devoile.html",
-    "pubDate": "2026-10-13T13:11:00.000Z",
-    "summary": "Le constructeur chinois s'apprête à lancer la nouvelle version de son interface logicielle dès la semaine prochaine. Le calendrier officiel précise l'ordre de déploiement pour les récents smartphones de la marque. Cette mise à jour apporte plusieurs modifications sur les mobiles compatibles.",
-    "keywords": [
-      "coloros 17",
-      "smartphone",
-      "deploiement",
-      "mise a jour",
-      "chine"
-    ],
-    "aiDone": true,
     "coverage": 1,
     "also": []
   }
