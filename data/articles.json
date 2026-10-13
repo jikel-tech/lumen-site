@@ -1,5 +1,61 @@
 [
   {
+    "id": "db6179234a05",
+    "title": "On est montés à bord du BYD Atto 8 : 775 ch, 650 km, charge en 5 min, de folles promesses",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3282521_on-est-montes-a-bord-du-byd-atto-8-775-ch-650-km-charge-en-5-min-de-folles-promesses",
+    "pubDate": "2026-10-13T04:41:00.000Z",
+    "summary": "Au Mondial de l'Auto, BYD a officialisé l'Atto 8, un imposant SUV électrique familial de sept places. Ce véhicule affiche des caractéristiques impressionnantes avec 775 chevaux et une autonomie atteignant 650 kilomètres. La marque promet également une recharge ultra-rapide, bien que son efficacité réelle dépende des infrastructures disponibles.",
+    "keywords": [
+      "byd",
+      "atto 8",
+      "suv electrique",
+      "mondial de l'auto"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ee306d975865",
+    "title": "Meta dévoile Muse & Wonder, ses premiers modèles d’IA « frontier »",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-633859-meta-devoile-muse-wonder-ses-premiers-modeles-d-ia-frontier.html",
+    "pubDate": "2026-10-13T04:39:00.000Z",
+    "summary": "Le laboratoire d'intelligence artificielle de Meta a dévoilé ses nouveaux modèles hautement performants nommés Muse et Wonder. L'entreprise technologique américaine a confronté ces innovations aux solutions de ses principaux concurrents sur le marché. Ces outils intègrent une capacité de mémorisation prolongée sur plusieurs mois afin de s'adapter aux besoins des utilisateurs.",
+    "keywords": [
+      "meta",
+      "muse et wonder",
+      "intelligence artificielle",
+      "modele frontier",
+      "memoire"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5a0a7fdf06a0",
+    "title": "Comment suivre la conférence Apple du 13 octobre sur le HomeView et l’Apple TV en direct ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2351095-comment-suivre-la-conference-apple-du-13-octobre-sur-le-homeview-et-lapple-tv-en-direct.html",
+    "pubDate": "2026-10-13T04:15:00.000Z",
+    "summary": "Apple organise une conférence le 13 octobre pour présenter de nouveaux produits dédiés à la maison connectée. L'événement, qualifié d'expérience par la marque, se concentrera notamment sur le HomeView et l'Apple TV. Aucune annonce n'a précédé cette présentation, contrairement à celle du MacBook Neo en mars 2026.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "apple tv",
+      "conference",
+      "maison connectee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "2dcb49d5116c",
     "title": "Plus de 200 gigaoctets pour GTA 6 ? Pourquoi ce chiffre pourrait être faux",
     "source": "Frandroid",
@@ -1437,63 +1493,6 @@
       "etude",
       "cognition",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "68a5e4ea7dc0",
-    "title": "Comment activer la transcription des messages vocaux sur WhatsApp ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/comment-faire/tutoriaux/2413910_comment-activer-la-transcription-des-messages-vocaux-sur-whatsapp",
-    "pubDate": "2026-10-12T11:45:06.000Z",
-    "summary": "WhatsApp propose désormais une fonctionnalité officielle pour transformer les messages audio en texte. Cette option bien pratique se trouve désactivée à l'origine dans les réglages de l'application. Les utilisateurs doivent ainsi effectuer une manipulation spécifique pour en profiter au quotidien.",
-    "keywords": [
-      "whatsapp",
-      "transcription",
-      "messages vocaux",
-      "audio",
-      "tutoriel"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "886ef5ed3e0b",
-    "title": "La prochaine Apple TV 4K pourrait bien vous faire oublier sa télécommande",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633739-la-prochaine-apple-tv-4k-pourrait-bien-vous-faire-oublier-sa-telecommande.html",
-    "pubDate": "2026-10-12T11:43:00.000Z",
-    "summary": "Apple prépare le lancement d'une nouvelle version de son boîtier multimédia Apple TV 4K. Ce futur modèle devrait intégrer des améliorations majeures destinées à simplifier l'utilisation quotidienne. Les utilisateurs pourraient ainsi découvrir des fonctionnalités inédites remplaçant l'usage de la télécommande classique.",
-    "keywords": [
-      "apple",
-      "apple tv",
-      "apple tv 4k",
-      "streaming",
-      "high-tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "32e4e081deb6",
-    "title": "Dark Vador contre Hulk, c’est ce que nous prépare Marvel pour janvier 2027",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351143-vous-ne-revez-pas-dark-vador-va-affronter-hulk-dans-un-crossover-pour-marvel.html",
-    "pubDate": "2026-10-12T11:40:00.000Z",
-    "summary": "Marvel et Disney préparent un crossover inédit entre Star Wars et l'univers Marvel pour janvier 2027. Cette bande dessinée événement, intitulée Hope Assembles, célébrera le cinquantième anniversaire de la célèbre franchise galactique. Les premiers visuels officiels mettent notamment en scène la confrontation entre Dark Vador et Hulk.",
-    "keywords": [
-      "marvel",
-      "star wars",
-      "dark vador",
-      "hulk",
-      "disney"
     ],
     "aiDone": true,
     "coverage": 1,
