@@ -1,5 +1,216 @@
 [
   {
+    "id": "48866c22a637",
+    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "pubDate": "2026-10-13T13:50:19.000Z",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "45d5e4849c59",
+    "title": "Suivez toutes les annonces Apple : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
+    "pubDate": "2026-10-13T13:45:55.000Z",
+    "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "apple tv 4k",
+      "homepod mini",
+      "maison connectee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b64c605e5e54",
+    "title": "Apple TV 4K : Siri devient plus intelligent, les nouveautés s'accumulent… et la facture s'envole",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633967-apple-tv-4k-siri-devient-plus-intelligent-les-nouveautes-s-accumulent-et-la-facture-s-envole.html",
+    "pubDate": "2026-10-13T13:44:00.000Z",
+    "summary": "Après quatre ans d’attente, Apple vient enfin de présenter une nouvelle génération de son Apple TV 4K. Plus puissant et désormais équipé pour Siri AI, le petit boîtier noir veut aussi devenir un…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6f75b61a4489",
+    "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+    "pubDate": "2026-10-13T13:38:03.000Z",
+    "summary": "Apple renouvelle son enceinte connectée HomePod mini avec une puce inédite et de nouvelles fonctionnalités. L'appareil intègre l'intelligence artificielle Siri ainsi qu'un affichage lumineux baptisé SoundGlow. Cette nouvelle version sera commercialisée au tarif de 149 dollars dès le 30 octobre.",
+    "keywords": [
+      "apple",
+      "homepod mini",
+      "enceinte connectee",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fc720fa6668d",
+    "title": "Ces chercheurs croient tellement en l'IA qu'ils se mettent à faire n'importe quoi",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634003-ces-chercheurs-croient-tellement-en-l-ia-qu-ils-se-mettent-a-faire-n-importe-quoi.html",
+    "pubDate": "2026-10-13T13:38:00.000Z",
+    "summary": "\"Merci, j'essaie de commencer\" dirait OSS 117 quand on lui tend une cigarette. C'est exactement ce que font des chercheurs, prétendant dur comme fer que l'intelligence artificielle leur permettra de…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "1e8cc563edf0",
+    "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+    "pubDate": "2026-10-13T13:37:19.000Z",
+    "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a88947d5567e",
+    "title": "Cyberattaque des supermarchés : une autre attaque d'ampleur aux Pays-Bas le même jour",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633991-cyberattaque-des-supermarches-une-autre-attaque-d-ampleur-aux-pays-bas-le-meme-jour.html",
+    "pubDate": "2026-10-13T13:29:00.000Z",
+    "summary": "La cyberattaque choquante contre les frigos des supermarchés français n'est pas la seule attaque inquiétante. Car le même jour aux Pays-Bas, un autre géant de la distribution a été attaqué.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "161d38a5133d",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "pubDate": "2026-10-13T13:28:06.000Z",
+    "summary": "La programmation complète de la scène principale de l'événement TechCrunch Disrupt 2026 vient d'être dévoilée. Les participants pourront assister à des échanges exclusifs menés par des personnalités telles que Max Hodak et Mark Wahlberg. Des réductions tarifaires sont actuellement proposées pour l'achat de pass.",
+    "keywords": [
+      "techcrunch",
+      "disrupt",
+      "conference",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b5a2e7af4967",
+    "title": "India delays digital payments fee rollout amid retailer pushback",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+    "pubDate": "2026-10-13T13:25:05.000Z",
+    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "77ede2d780f6",
+    "title": "Apple TV et HomePod mini : après 4 ans et 6 ans d’attente, Apple dévoile enfin de nouvelles versions (sans Siri AI en France)",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/tech/2351795-apple-tv-et-homepod-mini-apres-4-ans-et-6-ans-dattente-apple-devoile-enfin-de-nouvelles-versions-sans-siri-ai-en-france.html",
+    "pubDate": "2026-10-13T13:24:58.000Z",
+    "summary": "Apple dévoile de nouvelles versions de ses deux produits les plus populaires pour la maison connectée : l'Apple TV et le HomePod mini. Au programme : des puces plus puissantes, mais pas de Siri AI en…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "860f34c5a4cb",
+    "title": "Algérie : AirCrop associe drones et IA pour surveiller les cultures",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/solutions/algerie-aircrop-associe-drones-et-ia-pour-surveiller-les-cultures",
+    "pubDate": "2026-10-13T13:22:15.000Z",
+    "summary": "Written by: Adoni Conrad Quenum En Algérie, une start-up a développé une solution d’agriculture de précision qui combine imagerie aérienne, intelligence artificielle et services par drone. Elle…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b5dc6be36ece",
+    "title": "HomeView : Apple dévoile son écran connecté pour la maison, mais la France reste à la porte",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633964-homeview-apple-devoile-son-ecran-connecte-pour-la-maison-mais-la-france-reste-a-la-porte.html",
+    "pubDate": "2026-10-13T13:22:00.000Z",
+    "summary": "Apple présente HomeView, un écran connecté de 7 pouces qui réunit divertissement, appels vidéo et commandes domotiques. Proposé à 299 dollars aux États-Unis, il ne sera pas commercialisé dans l’Union…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "709d8e2fad3f",
+    "title": "Siri AI bloqué en France : les indices qui laissent espérer une arrivée",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3283359_siri-ai-bloque-en-france-les-indices-qui-laissent-esperer-une-arrivee",
+    "pubDate": "2026-10-13T13:21:52.000Z",
+    "summary": "Apple a présenté ce mardi une maison entière bâtie autour de Siri AI. En France, l'assistant reste bloqué sur iPhone comme dans le salon, mais les communiqués du jour glissent quelques signaux plutôt…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "16d06cabf9dc",
+    "title": "Le nouveau jeu du créateur de Dragon Quest a été conçu avec l’IA en 30 minutes",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/tech/2352151-le-nouveau-jeu-du-createur-de-dragon-quest-a-ete-concu-avec-lia-en-30-minutes.html",
+    "pubDate": "2026-10-13T13:21:03.000Z",
+    "summary": "Yuji Horii est l'un des co-créateurs de Dragon Quest, tout de même l'une des sagas de JRPG les plus importantes de l'histoire. Le 11 octobre, il a publié gratuitement un petit jeu d'enquête qu'il dit…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "98a5596ab7a7",
+    "title": "Apple TV 4K (2026) : puce A19, micros intégrés et Siri IA, voici toutes les nouveautés",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/events/wwdc/3283289_apple-tv-4k-2026-puce-a19-micros-integres-et-siri-ia-voici-toutes-les-nouveautes",
+    "pubDate": "2026-10-13T13:19:28.000Z",
+    "summary": "Apple lance sa nouvelle Apple TV 4K de quatrième génération. Le boîtier multimédia intègre une puce A19, un décodage matériel AV1 et trois microphones pour un contrôle vocal sans télécommande.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "dab63a9f7a06",
     "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
     "source": "TechCrunch",
@@ -46,7 +257,7 @@
   },
   {
     "id": "2b88aa0fe0a7",
-    "title": "Apple lance ses caméras et sa serrure avec LG : Home Collection, 9 accessoires, 0 en France",
+    "title": "Apple lance ses caméras et sa serrure avec LG et Schneider : Home Collection, 9 accessoires, 0 en France",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/apple/3283311_apple-lance-ses-cameras-et-sa-serrure-avec-lg-home-collection-9-accessoires-0-en-france",
@@ -136,25 +347,6 @@
     "summary": "Après des années de rumeurs et de reports, Apple dévoile enfin son premier écran pour la maison : le HomeView. Apple le présente comme le centre de pilotage ultime pour la maison connectée, avec Siri…",
     "keywords": [],
     "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "45d5e4849c59",
-    "title": "Suivez toutes les annonces Apple : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
-    "pubDate": "2026-10-13T13:06:05.000Z",
-    "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "apple tv 4k",
-      "homepod mini",
-      "maison connectee"
-    ],
-    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -649,7 +841,7 @@
   },
   {
     "id": "5a0a7fdf06a0",
-    "title": "Apple va faire des annonces à 15 heures : comment suivre la « keynote » en direct ?",
+    "title": "Apple fait des annonces à 15 heures : comment suivre la « keynote » en direct ?",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2351095-comment-suivre-la-conference-apple-du-13-octobre-sur-le-homeview-et-lapple-tv-en-direct.html",
@@ -1170,269 +1362,6 @@
       "jeremy renner",
       "paul bettany",
       "cinema"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b82951bbc77e",
-    "title": "Epic confie tout le code de son jeu pour Disney à l'IA : un virage inédit pour un grand studio",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633892-epic-confie-tout-le-developpement-de-son-jeu-pour-disney-a-l-ia-une-premiere-pour-un-grand-studio.html",
-    "pubDate": "2026-10-13T08:24:00.000Z",
-    "summary": "Epic Games repousse le lancement de son prochain jeu sur le thème de Disney. L'entreprise adopte une stratégie novatrice en abandonnant le codage manuel. Désormais, l'intégralité du code source sera générée par intelligence artificielle.",
-    "keywords": [
-      "epic games",
-      "disney",
-      "intelligence artificielle",
-      "jeu video",
-      "ia"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f56d4d7319d9",
-    "title": "Pourquoi la 5e place de la BYD Dolphin Surf pourrait la rendre plusieurs milliers d’euros moins chère en France",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/byd/3282455_pourquoi-la-5e-place-de-la-byd-dolphin-surf-pourrait-la-rendre-plusieurs-milliers-deuros-moins-chere-en-france",
-    "pubDate": "2026-10-13T08:22:39.000Z",
-    "summary": "La citadine électrique BYD Dolphin Surf bénéficie d'une mise à jour de mi-carrière prévue pour l'été 2025. Cette version actualisée intègre notamment une troisième place à l'arrière ainsi qu'un habitacle repensé. Le tarif de base de ce véhicule reste particulièrement abordable, sous la barre des 21 000 euros en France.",
-    "keywords": [
-      "byd",
-      "dolphin surf",
-      "voiture electrique",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "7e2500f6e378",
-    "title": "Amsterdam lance le « P+R Bike » : c’est quoi cette nouvelle solution vélo pour en finir avec la galère des voitures en ville ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/velo-electrique/3282733_amsterdam-lance-le-pr-bike-cest-quoi-cette-nouvelle-solution-velo-pour-en-finir-avec-la-galere-des-voitures-en-ville",
-    "pubDate": "2026-10-13T08:20:04.000Z",
-    "summary": "La ville d'Amsterdam et Mobian ont introduit le service P+R Bike le 9 octobre dernier. Cette offre permet aux automobilistes de stationner en périphérie pour terminer leur trajet en deux-roues. Les usagers peuvent ainsi louer un vélo classique pour huit euros par jour ou un modèle électrique pour quatorze euros cinquante.",
-    "keywords": [
-      "amsterdam",
-      "p+r bike",
-      "mobian",
-      "velo",
-      "mobilite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0b9dc0f2bb4f",
-    "title": "Samsung Art Store : 38 images cultes de films A24 débarquent sur The Frame et les TV OLED",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/samsung/3282741_samsung-art-store-accueille-38-images-de-films-a24",
-    "pubDate": "2026-10-13T08:18:03.000Z",
-    "summary": "La boutique d'art de Samsung accueille une nouvelle collection cinématographique. Cette mise à jour intègre trente-huit clichés produits par le studio indépendant A24. Les abonnés peuvent désormais admirer ces visuels sur les téléviseurs compatibles The Frame et OLED.",
-    "keywords": [
-      "samsung",
-      "art store",
-      "a24",
-      "the frame",
-      "tv oled"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "709f11b24eb9",
-    "title": "Un clavier pour travailler sur plusieurs appareils : le Logitech MX Keys S à moins de 80€ chez Amazon",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633889-un-clavier-pour-travailler-sur-plusieurs-appareils-le-logitech-mx-keys-s-a-moins-de-80-chez-amazon.html",
-    "pubDate": "2026-10-13T08:17:00.000Z",
-    "summary": "Le géant de l'accessoire informatique Logitech propose le modèle MX Keys S à un tarif réduit sur Amazon. Ce périphérique sans fil intègre des touches silencieuses, un rétroéclairage intelligent et une fonction multi-appareil. Les utilisateurs peuvent ainsi acquérir ce clavier pour moins de 80 euros.",
-    "keywords": [
-      "logitech",
-      "mx keys s",
-      "clavier",
-      "amazon",
-      "bon plan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "13f81d2aeb6f",
-    "title": "Le créateur de Linux a utilisé Claude Code pour modifier son propre noyau… et c'est une petite révolution",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633871-le-createur-de-linux-a-utilise-claude-code-pour-modifier-son-propre-noyau-et-c-est-une-petite-revolution.html",
-    "pubDate": "2026-10-13T08:16:00.000Z",
-    "summary": "Linus Torvalds a intégré des modifications dans le noyau Linux en utilisant l'outil Claude Code. Cette contribution représente une étape marquante pour le développement de ce système d'exploitation. Le dépôt officiel contient désormais huit patchs conçus grâce à cette technologie.",
-    "keywords": [
-      "linux",
-      "claude code",
-      "linus torvalds",
-      "intelligence artificielle",
-      "noyau"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0a8cc5a63ecf",
-    "title": "Votre téléphone va sonner ce mardi même en silencieux : pas de panique, c’est un test FR-Alert",
-    "source": "Numerama",
-    "category": "smartphones",
-    "url": "https://www.numerama.com/tech/2351873-votre-telephone-va-sonner-ce-mardi-meme-en-silencieux-pas-de-panique-cest-un-test-fr-alert.html",
-    "pubDate": "2026-10-13T08:13:48.000Z",
-    "summary": "Les préfectures de Seine-et-Marne et du Lot procèdent à un test grandeur nature du dispositif FR-Alert ce mardi. Cet exercice national permet de vérifier la diffusion rapide de messages d'urgence sur les smartphones, y compris ceux réglés en mode silencieux. Les habitants concernés recevront une notification spécifique entre neuf heures et midi selon leur département.",
-    "keywords": [
-      "fr-alert",
-      "seine-et-marne",
-      "lot",
-      "smartphone",
-      "alerte"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "df7c8d4d1cf2",
-    "title": "Google transforme Gemini : la nouvelle interface accueille Spark, l’agent IA qui travaille pour vous 24h/24",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3282659_google-transforme-gemini-la-nouvelle-interface-accueille-spark-lagent-ia-qui-travaille-pour-vous-24h-24",
-    "pubDate": "2026-10-13T08:13:46.000Z",
-    "summary": "Google fait évoluer l'interface de Gemini avec l'intégration directe de Spark. Ce nouvel agent intelligent assure l'exécution de tâches en arrière-plan en continu. Les utilisateurs disposent désormais d'une page dédiée pour suivre l'avancement de leurs requêtes.",
-    "keywords": [
-      "google",
-      "gemini",
-      "spark",
-      "intelligence artificielle",
-      "agent ia"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2d70cba9bfbb",
-    "title": "Avec ses 7 places et une recharge en 9 minutes, ce SUV chinois bouscule les constructeurs européens",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633901-avec-ses-7-places-et-une-recharge-en-9-minutes-ce-suv-chinois-bouscule-les-constructeurs-europeens.html",
-    "pubDate": "2026-10-13T08:13:00.000Z",
-    "summary": "Le constructeur chinois BYD lance l'Atto 8, un nouveau grand SUV électrique doté de sept places. Ce véhicule propose une autonomie pouvant atteindre 653 kilomètres selon les configurations. Il intègre également une technologie de recharge ultrarapide en neuf minutes pour les longs trajets.",
-    "keywords": [
-      "byd",
-      "suv",
-      "electrique",
-      "chine",
-      "atto 8"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "26bd15368aff",
-    "title": "Votre téléviseur pourrait bientôt héberger une IA malveillante, et ce n'est pas de la science-fiction",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633898-votre-televiseur-pourrait-bientot-heberger-une-ia-malveillante-et-ce-n-est-pas-de-la-science-fiction.html",
-    "pubDate": "2026-10-13T08:09:00.000Z",
-    "summary": "Des chercheurs de l'entreprise Anthropic ont mis en évidence un nouveau risque technologique majeur. Ils démontrent qu'une intelligence artificielle malveillante pourrait s'installer à l'insu des utilisateurs dans des appareils connectés. Cette menace potentielle concerne notamment les téléviseurs et les aspirateurs robots.",
-    "keywords": [
-      "anthropic",
-      "intelligence artificielle",
-      "securite",
-      "objets connectes"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4550253996e0",
-    "title": "Ça y est, YouTube déploie « Ask YouTube » sur smartphone, mais la France devra patienter",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3282587_ca-y-est-youtube-deploie-ask-youtube-sur-smartphone-mais-la-france-devra-patienter",
-    "pubDate": "2026-10-13T08:06:19.000Z",
-    "summary": "Google lance l'outil de recherche conversationnelle Ask YouTube sur les smartphones. Cette nouveauté intègre de l'intelligence artificielle générative pour faciliter la découverte de vidéos. Pour l'instant, le déploiement de cette fonctionnalité est strictement réservé aux utilisateurs situés aux États-Unis.",
-    "keywords": [
-      "youtube",
-      "google",
-      "ia generative",
-      "smartphone",
-      "etats-unis"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d4ab85ee2801",
-    "title": "Vélos électriques Bosch : cette nouvelle mise à jour gratuite apporte une fonction de charge bien pratique",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/bosch/3282725_velos-electriques-bosch-cette-nouvelle-mise-a-jour-gratuite-apporte-une-fonction-de-charge-bien-pratique",
-    "pubDate": "2026-10-13T08:00:00.000Z",
-    "summary": "La marque Bosch déploie la mise à jour 1.38 de son application mobile dédiée. Cette nouvelle version gratuite introduit notamment un affichage du temps de charge restant pour les vélos électriques. Les utilisateurs bénéficient aussi d'un contrôle de traction réglable et d'un tendeur de chaîne activable à la demande.",
-    "keywords": [
-      "bosch",
-      "ebike flow",
-      "vélo électrique",
-      "mise à jour"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "63db99205f7b",
-    "title": "Avis aux sportifs, cette ceinture cardio Garmin de référence est bradée à -28 % sur Amazon",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-28-pourcents-sur-amazon",
-    "pubDate": "2026-10-13T07:59:00.000Z",
-    "summary": "Le site e-commerce Amazon propose actuellement une réduction notable sur un accessoire de sport populaire. La ceinture cardio Garmin HRM 200 bénéficie d'une baisse de prix de vingt-huit pour cent. Ce modèle est notamment apprécié pour sa conception pratique dotée d'un module amovible.",
-    "keywords": [
-      "garmin",
-      "hrm 200",
-      "ceinture cardio",
-      "amazon",
-      "bon plan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d66b9bb8c72f",
-    "title": "Fitbit : Google met fin au sursis des anciennes versions de l’appli",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633877-fitbit-google-met-fin-au-sursis-des-anciennes-versions-de-l-appli.html",
-    "pubDate": "2026-10-13T07:56:00.000Z",
-    "summary": "Google met définitivement un terme à l'ancienne application mobile de Fitbit. Une récente mise à jour oblige désormais les utilisateurs à basculer vers Google Health. Cette transition marque la fin définitive du sursis accordé aux irréductibles de l'ancienne interface.",
-    "keywords": [
-      "fitbit",
-      "google",
-      "google health",
-      "application",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
