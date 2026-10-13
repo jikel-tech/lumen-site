@@ -474,9 +474,15 @@
     "category": "ia",
     "url": "https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html",
     "pubDate": "2026-10-13T16:00:00.000Z",
-    "summary": "Google déploie dans le monde entier Gemini 4 Argon, son nouveau modèle d'IA haut de gamme, moins de deux semaines après l'avoir présenté le 30 septembre 2026.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google lance mondialement son nouveau modèle d'intelligence artificielle haut de gamme nommé Gemini 4 Argon. Cette sortie intervient peu de temps après son officialisation fin septembre 2026. Le géant de la tech cherche ainsi à concurrencer directement OpenAI et Anthropic sur le marché des IA.",
+    "keywords": [
+      "google",
+      "gemini 4 argon",
+      "intelligence artificielle",
+      "openai",
+      "anthropic"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -506,9 +512,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634054-alerte-maximale-chez-sap-quatre-failles-critiques-permettent-de-voler-des-identifiants-et-de-prendre-le-controle-de-serveurs.html",
     "pubDate": "2026-10-13T15:49:00.000Z",
-    "summary": "SAP vient de corriger quatre vulnérabilités critiques dans ses logiciels professionnels. La plus grave permet de détourner les demandes d’authentification d’applications pour récupérer leurs…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'éditeur SAP a récemment publié des correctifs pour contrer quatre vulnérabilités majeures touchant ses solutions professionnelles. La faille la plus sévère permet aux attaquants de intercepter les authentifications afin de dérober des identifiants confidentiels. Cette brèche expose directement les serveurs d'entreprise à un risque de piratage et de prise de contrôle totale.",
+    "keywords": [
+      "sap",
+      "cybersecurite",
+      "vulnerabilite",
+      "logiciel",
+      "serveur"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -519,9 +531,14 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/13/startup-map-hub-to-help-founders-raise/",
     "pubDate": "2026-10-13T15:45:49.000Z",
-    "summary": "Launched in October 2025, Startup Map Hub helps founders find funding opportunities, check their eligibility, and prepare applications.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un entrepreneur kenyan a développé une nouvelle plateforme numérique pour simplifier la recherche de financements. Lancé en octobre 2025, cet outil baptisé Startup Map Hub permet aux fondateurs de vérifier leur éligibilité et de préparer leurs dossiers. Cette solution vise à accélérer l'accès des jeunes entreprises aux capitaux nécessaires.",
+    "keywords": [
+      "startup map hub",
+      "kenya",
+      "financement",
+      "startup"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -551,9 +568,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/guide-dachat/1711769_les-meilleures-multiprises-connectees-pour-rendre-vos-objets-connectes-notre-selection",
     "pubDate": "2026-10-13T15:40:20.000Z",
-    "summary": "La multiprise connectée est une solution maligne pour apporter un peu d'intelligence à vos objets électriques non connectés, tout en vous aidant à réaliser des économies d’énergie.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les multiprises connectées permettent de rendre intelligents des équipements électriques ordinaires. Cet accessoire aide les utilisateurs à réduire leur consommation d'énergie au quotidien. Le choix de ce type de matériel dépend des besoins spécifiques de chaque foyer.",
+    "keywords": [
+      "multiprise connectée",
+      "economie d energie",
+      "domotique",
+      "objets connectes"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -564,9 +586,14 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/13/africa-bitcoin-corporation-boardroom-war/",
     "pubDate": "2026-10-13T15:36:21.000Z",
-    "summary": "Africa Bitcoin Corporation is left with two directors after four resign amid a shareholder dispute over board appointments, while regulatory findings continue to cloud the company’s leadership.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Africa Bitcoin Corporation traverse une crise de gouvernance majeure suite au départ de quatre administrateurs. Ce conflit entre actionnaires concerne directement la nomination des membres du conseil d'administration. De plus, des enquêtes réglementaires continuent de peser lourdement sur la direction de l'entreprise.",
+    "keywords": [
+      "africa bitcoin corporation",
+      "bitcoin",
+      "gouvernance",
+      "afrique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -577,9 +604,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3283117_la-nouvelle-samsung-galaxy-tab-s12-est-deja-vendue-en-pack-avec-pres-de-200-e-de-remise",
     "pubDate": "2026-10-13T15:32:00.000Z",
-    "summary": "La Samsung Galaxy Tab S12+ est la dernière tablette tactile en date de la marque coréenne, qui se retrouve en pack sur Boulanger avec un étui et une offre de reprise qui la fait passer à 1 169 euros…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La tablette tactile Samsung Galaxy Tab S12+ fait l'objet d'une promotion groupée chez le distributeur Boulanger. Cette offre combine un étui de protection et une remise financière globale. Le prix de l'appareil diminue ainsi de près de deux cents euros pour atteindre 1 169 euros.",
+    "keywords": [
+      "samsung",
+      "galaxy tab s12+",
+      "tablette",
+      "boulanger",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -590,9 +623,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html",
     "pubDate": "2026-10-13T15:30:11.000Z",
-    "summary": "Si Citroën a semé de nombreux indices sur son 2 CV Concept, rien n’a filtré concernant sa deuxième création : une 2 CV Fourgonnette qui a créé la surprise au Mondial de l’Automobile 2026.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Citroën a soigneusement dissimulé son nouveau modèle utilitaire avant sa présentation officielle. La marque aux chevrons a ainsi créé l'événement lors du Mondial de l'Automobile 2026. Le public a découvert cette déclinaison inédite en plus du concept initial.",
+    "keywords": [
+      "citroen",
+      "2cv fourgonnette",
+      "mondial de l'auto",
+      "automobile",
+      "concept"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -603,9 +642,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-630175-thailande-une-seule-esim-pour-bangkok-chiang-mai-et-les-iles-quelle-offre-saily-choisir.html",
     "pubDate": "2026-10-13T15:30:00.000Z",
-    "summary": "Pour voyager en Thaïlande, Saily propose une eSIM à partir de 2,49 € pour 1 Go valable 7 jours. Pour un usage intensif, le forfait illimité de 15 jours est proposé à 34,49 €, avec 5 Go quotidiens…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque Saily propose des forfaits eSIM pour les voyageurs en Thaïlande. L'offre débute à un tarif attractif de 2,49 euros pour un volume de un gigaoctet. Une formule illimitée est également disponible pour les utilisateurs aux besoins intensifs.",
+    "keywords": [
+      "saily",
+      "esim",
+      "thailande",
+      "voyage",
+      "forfait"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -635,9 +680,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html",
     "pubDate": "2026-10-13T15:17:58.000Z",
-    "summary": "Airbus et l'Américain Kratos ont fait voler pour la première fois en Europe le U740 Valkyrie, un drone de combat que l'Allemagne pourrait utiliser dès 2029. Le système de mission européen censé le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Airbus et l'entreprise américaine Kratos ont réalisé le premier vol européen du drone de combat Valkyrie. Cet appareil pourrait potentiellement entrer en service au sein de l'armée allemande d'ici l'année 2029. Toutefois, le système de pilotage souverain conçu en Europe n'était pas intégré à bord pour cet essai.",
+    "keywords": [
+      "airbus",
+      "kratos",
+      "valkyrie",
+      "drone",
+      "allemagne"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -648,9 +699,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2351913-avengers-doomsday-ce-personnage-culte-de-marvel-confirme-son-absence-du-film.html",
     "pubDate": "2026-10-13T15:15:00.000Z",
-    "summary": "Nouvelle journée, nouveau numéro de langue de bois chez Marvel Studios. Paul Bettany (Vision) plaisante en disant qu'il serait « viré » s'il révélait sa présence ou non dans Avengers: Doomsday.…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Marvel Studios maintient le mystère autour de la distribution du prochain film Avengers Doomsday. L'acteur Paul Bettany ironise sur le secret entourant son éventuelle participation en tant que Vision. De son côté, Jeremy Renner confirme officiellement l'absence de son personnage Hawkeye dans cette production.",
+    "keywords": [
+      "avengers doomsday",
+      "marvel studios",
+      "paul bettany",
+      "jeremy renner",
+      "cinema"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -661,9 +718,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/souris/3283691_logitech-prepare-une-mx-master-4-special-edition-et-seul-le-look-change",
     "pubDate": "2026-10-13T15:13:41.000Z",
-    "summary": "Logitech prépare une MX Master 4 « Special Edition », dont des visuels marketing officiels ont fuité ce mardi 13 octobre.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des images publicitaires inédites de la future souris Logitech ont récemment fait surface en ligne. Ce nouveau modèle haut de gamme sera baptisé MX Master 4 Special Edition. Seule l'apparence esthétique de ce périphérique informatique sera modifiée par rapport à la version classique.",
+    "keywords": [
+      "logitech",
+      "mx master 4",
+      "souris",
+      "tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -674,9 +736,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633874-shadow-ai-faut-il-interdire-l-ia-fantome-en-entreprise-les-experts-de-la-cyber-ne-sont-pas-d-accord.html",
     "pubDate": "2026-10-13T15:11:00.000Z",
-    "summary": "ChatGPT ouvert en douce, des agents bricolés avec Copilot et d'autres : le Shadow AI, ou IA fantôme, s'installe dans les entreprises et crée la pagaille. Six experts nous ont expliqué comment le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'utilisation non autorisée d'intelligences artificielles au travail, appelée Shadow AI, s'immisce insidieusement au sein des entreprises. Des outils comme ChatGPT ou Copilot sont ainsi manipulés en cachette par les salariés. Face à cette situation chaotique, plusieurs spécialistes de la cybersécurité partagent leurs recommandations pour canaliser ces pratiques.",
+    "keywords": [
+      "shadow ai",
+      "chatgpt",
+      "copilot",
+      "entreprise",
+      "cybersecurite"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -687,9 +755,14 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/",
     "pubDate": "2026-10-13T15:08:30.000Z",
-    "summary": "Nigerians used 90% of 2025’s internet data in eight months, putting pressure on telecom operators to expand capacity and maintain reliable connections.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Au Nigeria, la quasi-totalité du volume de données internet prévu pour l'année a été consommée en seulement huit mois. Cette forte utilisation met les opérateurs de télécommunications sous pression pour accroitre leurs capacités techniques. Le secteur doit ainsi rapidement moderniser ses infrastructures afin de garantir des connexions stables.",
+    "keywords": [
+      "nigeria",
+      "internet",
+      "telecom",
+      "donnees"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -700,9 +773,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/maison-connectee/routeur/3278531_votre-wi-fi-ralentit-loin-de-la-box-ces-nouveaux-kits-devolo-permettent-detendre-votre-reseau",
     "pubDate": "2026-10-13T15:08:00.000Z",
-    "summary": "Avec les kits Wi-Fi 7 de devolo, pas besoin de technicien pour améliorer la couverture sans fil de votre domicile. Il suffit de les brancher pour commencer à en profiter.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque devolo propose de nouveaux kits Wi-Fi 7 pour améliorer la couverture réseau à domicile. Ces équipements se branchent facilement sans l'intervention d'un technicien. Ils permettent de remédier efficacement aux problèmes de ralentissement de connexion loin de la box.",
+    "keywords": [
+      "devolo",
+      "wifi 7",
+      "reseau",
+      "domicile"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -713,9 +791,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
     "pubDate": "2026-10-13T15:06:00.000Z",
-    "summary": "Six jours après la fin des Jours Flash Prime, Amazon affiche encore des remises sur une partie de son catalogue tech, du robot laveur au téléviseur de 75 pouces. Nous avons confronté chacune à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose de nouvelles réductions sur une sélection d'appareils technologiques ce mardi. Ces offres interviennent moins d'une semaine après la clôture des Jours Flash Prime. Le site spécialisé a analysé l'historique des tarifs pour identifier les rabais les plus intéressants.",
+    "keywords": [
+      "amazon",
+      "ventes flash",
+      "tech",
+      "promotions",
+      "e-commerce"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
