@@ -17,7 +17,7 @@ const FEEDS_PATH = process.env.FEEDS_PATH || path.join(ROOT, 'scripts', 'feeds.j
 const PER_FEED = 15; // articles retenus par flux à chaque passage
 const MAX_ARTICLES = 80; // taille maximale de data/articles.json
 const KEEP_DAYS = 5; // on garde les articles plus anciens encore visibles pendant 5 jours
-const MAX_NEW_SUMMARIES = 25; // plafond d'appels IA par exécution (protège le quota gratuit)
+const MAX_NEW_SUMMARIES = 15; // plafond d'appels IA par exécution (protège le quota gratuit)
 const EXCERPT_LEN = 200; // extrait de repli : court, jamais l'article complet (droit d'auteur)
 const AI_INPUT_LEN = 600; // texte envoyé à l'IA
 const FAIL_WARN_AFTER = 6; // alerte si un flux échoue 6 fois de suite (~3 h)
@@ -353,9 +353,11 @@ async function main() {
   const hasKey = !!(process.env.GEMINI_API_KEY || process.env.ANTHROPIC_API_KEY);
   if (hasKey && todo.length) {
     let done = 0;
-    for (let i = 0; i < todo.length; i += 3) {
+    let failStreak = 0;
+    for (let i = 0; i < todo.length; i += 2) {
+      const before = done;
       await Promise.all(
-        todo.slice(i, i + 3).map(async (a) => {
+        todo.slice(i, i + 2).map(async (a) => {
           const r = await aiSummarize(a);
           if (r) {
             a.summary = r.summary;
@@ -365,7 +367,10 @@ async function main() {
           }
         })
       );
-      await sleep(400);
+      // Quota Google atteint : on s'arrête, les articles restants seront résumés au prochain passage.
+      failStreak = done === before ? failStreak + 1 : 0;
+      if (failStreak >= 2) { console.log('⏸️ Quota IA atteint : suite au prochain passage.'); break; }
+      await sleep(2500);
     }
     console.log(`🤖 ${done}/${todo.length} résumés IA générés`);
   }
