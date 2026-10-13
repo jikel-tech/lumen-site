@@ -1,5 +1,82 @@
 [
   {
+    "id": "477eb20b57dd",
+    "title": "CashAfrica brings mobile tap-to-pay to Chicken Republic outlets",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/13/cashafrica-chicken-republic-partnership/",
+    "pubDate": "2026-10-13T17:36:15.000Z",
+    "summary": "La solution CashAfrica permet désormais aux clients de payer sans contact avec leur smartphone. Ce système est déployé dans les restaurants de la chaîne Chicken Republic. L'application simplifie les transactions grâce à la technologie de paiement mobile par effleurement.",
+    "keywords": [
+      "cashafrica",
+      "chicken republic",
+      "mobile payment",
+      "tap to pay",
+      "afrique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fa1a37fdc416",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "pubDate": "2026-10-13T17:30:00.000Z",
+    "summary": "La start-up américaine Laplace Intelligence développe une solution pour tester la sécurité des robots et des véhicules autonomes. Cette jeune pousse utilise l'intelligence artificielle et des simulations interactives afin d'évaluer ces technologies avant leur lancement. L'entreprise participe actuellement au concours Startup Battlefield organisé lors de l'événement TechCrunch Disrupt.",
+    "keywords": [
+      "laplace intelligence",
+      "robots",
+      "vehicules autonomes",
+      "intelligence artificielle",
+      "startup"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4aaa9e7048ad",
+    "title": "Doctolib, Pigment, Genesis AI, Entalpic : Nvidia fait ses courses en France",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/nvidia/3283903_doctolib-pigment-genesis-ai-entalpic-nvidia-fait-ses-courses-en-france",
+    "pubDate": "2026-10-13T17:27:56.000Z",
+    "summary": "Nvidia entre au capital de Doctolib en tant qu'actionnaire minoritaire, a annoncé son CEO Jensen Huang à Paris ce mardi 13 octobre, sans dévoiler le montant. Le groupe américain investit aussi dans…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ad7d4a3fd236",
+    "title": "Un TV OLED Samsung 55 pouces de 2026 sous les 900 € ? C’est possible avec cette superbe offre",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3283679_un-tv-oled-samsung-55-pouces-de-2026-sous-les-900-e-cest-possible-avec-cette-superbe-offre",
+    "pubDate": "2026-10-13T17:23:00.000Z",
+    "summary": "Le Samsung 55S85H fait partie des derniers TV OLED 2026 de la marque. Il offre une belle qualité d'image et plaira aussi bien aux cinéastes qu'aux joueurs. En ce moment, son prix passe de 1 199 euros…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d59d959ca724",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "pubDate": "2026-10-13T17:18:25.000Z",
+    "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "27aa32eca883",
     "title": "J’ai testé l’enceinte résidentielle Marshall Acton IV : un joli caractère",
     "source": "Frandroid",
@@ -14,7 +91,7 @@
   },
   {
     "id": "7ab285947b8b",
-    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt",
+    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
     "source": "TechCrunch",
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
@@ -538,7 +615,7 @@
   },
   {
     "id": "f0f30658051c",
-    "title": "Apple s’associe à LG et Schneider pour gonfler son catalogue de produits pour la maison",
+    "title": "Apple lance une caméra, un thermostat et une serrure connectée",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2352437-apple-sassocie-a-lg-et-schneider-pour-gonfler-son-catalogue-de-produits-pour-la-maison.html",
@@ -877,9 +954,9 @@
   },
   {
     "id": "77ede2d780f6",
-    "title": "Apple TV et HomePod mini : après 4 ans et 6 ans d’attente, Apple dévoile enfin de nouvelles versions (sans Siri AI en France)",
+    "title": "Apple lance de nouveaux Apple TV et HomePod mini : voici les nouveautés",
     "source": "Numerama",
-    "category": "ia",
+    "category": "culture",
     "url": "https://www.numerama.com/tech/2351795-apple-tv-et-homepod-mini-apres-4-ans-et-6-ans-dattente-apple-devoile-enfin-de-nouvelles-versions-sans-siri-ai-en-france.html",
     "pubDate": "2026-10-13T13:24:58.000Z",
     "summary": "Apple renouvelle ses appareils pour la maison connectée avec de nouvelles éditions de l'Apple TV et du HomePod mini. Ces nouveaux modèles intègrent des puces plus performantes pour optimiser l'expérience utilisateur. Toutefois, les utilisateurs en France ne pourront pas profiter de l'intelligence artificielle Siri AI sur ces équipements.",
@@ -1070,81 +1147,6 @@
       "chine"
     ],
     "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e183ccec8b6e",
-    "title": "Marre de la musique générée par IA ? Deezer va proposer un bouton pour la faire disparaître",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633925-marre-de-la-musique-generee-par-ia-deezer-va-proposer-un-bouton-pour-la-faire-disparaitre.html",
-    "pubDate": "2026-10-13T13:08:00.000Z",
-    "summary": "Le Français Deezer prépare une sorte d'interrupteur pour bannir la musique générée par intelligence artificielle de ses résultats de recherche. L'option sera disponible partout d'ici la fin de…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "44a5b7847348",
-    "title": "Apple dévoile le HomeView, son écran pour piloter la maison (qui n’est pas disponible en Europe)",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351797-apple-devoile-le-homeview-son-ecran-pour-piloter-la-maison-qui-nest-pas-disponible-en-europe.html",
-    "pubDate": "2026-10-13T13:07:27.000Z",
-    "summary": "Après des années de rumeurs et de reports, Apple dévoile enfin son premier écran pour la maison : le HomeView. Apple le présente comme le centre de pilotage ultime pour la maison connectée, avec Siri…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b6fe5bd95351",
-    "title": "« EXERCICE » répété trois fois : ce que signifie l’alerte qui fait sonner des milliers de smartphones",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/3283217_exercice-repete-trois-fois-ce-que-signifie-lalerte-qui-fait-sonner-des-milliers-de-smartphones",
-    "pubDate": "2026-10-13T13:00:28.000Z",
-    "summary": "Des milliers de smartphones sonneront ce mardi 13 octobre dans sept départements français. Cet événement correspond à un test grandeur nature du dispositif national FR-Alert. Le message reçu affichera explicitement le mot exercice à trois reprises sans exiger d'intervention.",
-    "keywords": [
-      "fr-alerte",
-      "smartphone",
-      "france",
-      "alerte"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bc6b0eca0236",
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "pubDate": "2026-10-13T13:00:00.000Z",
-    "summary": "American Express lance un nouveau cadre de sécurité destiné aux assistants virtuels. Cette solution technique vise à garantir que les agents intelligents n'effectuent que des achats validés par leurs propriétaires. L'initiative cherche à limiter les erreurs financières et les litiges potentiels liés au commerce piloté par l'intelligence artificielle.",
-    "keywords": [
-      "american express",
-      "intelligence artificielle",
-      "achats en ligne",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2ce618a9a88b",
-    "title": "Sony lance une PS5 noire deux fois moins chère pour GTA 6 (mais pas en France)",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2352299-sony-lance-une-ps5-noire-deux-fois-moins-chere-pour-gta-6-mais-pas-en-france.html",
-    "pubDate": "2026-10-13T12:58:09.000Z",
-    "summary": "La branche japonaise de PlayStation lance un nouveau modèle de PS5. Pour 55 000 yens, soit environ 310 €, les joueurs japonais pourront s'offrir cette PS5 le 19 novembre, le jour de la sortie de GTA…",
-    "keywords": [],
-    "aiDone": false,
     "coverage": 1,
     "also": []
   }
