@@ -1,5 +1,42 @@
 [
   {
+    "id": "2d5aac8b5365",
+    "title": "La seconde va être redéfinie d’ici 2030 : pourquoi les horloges atomiques au césium ne suffisent plus",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2351941-la-seconde-va-etre-redefinie-dici-2030-pourquoi-les-horloges-atomiques-au-cesium-ne-suffisent-plus.html",
+    "pubDate": "2026-10-13T20:48:50.000Z",
+    "summary": "La Conférence générale des poids et mesures discute à Versailles de la future définition de la seconde. Les métrologues prévoient de moderniser cette mesure d'ici 2030 grâce aux progrès technologiques. Les nouvelles horloges optiques dépassent en effet la précision des traditionnelles horloges atomiques au césium.",
+    "keywords": [
+      "seconde",
+      "horloge optique",
+      "césium",
+      "metrologie",
+      "versailles"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "70093601d146",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "pubDate": "2026-10-13T20:36:44.000Z",
+    "summary": "Un juge fédéral américain a ordonné à OpenAI de fournir ses documents de recrutement dans le cadre d'un litige. Apple obtient ainsi l'accès aux dossiers d'entretien d'anciens salariés ainsi qu'à des messages privés. Cette décision intervient dans une affaire de secrets industriels opposant les deux entreprises.",
+    "keywords": [
+      "openai",
+      "apple",
+      "justice",
+      "secrets industriels"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "8fffd9ec3a9e",
     "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
     "source": "TechCrunch",
@@ -1093,9 +1130,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
     "pubDate": "2026-10-13T14:25:48.000Z",
-    "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'entreprise Bumble vient d'accepter une importante offre de rachat d'un montant de 1,3 milliard de dollars. Cette décision intervient dans un contexte difficile marqué par une baisse continue de ses abonnés. Le secteur de la rencontre en ligne traverse actuellement une période de transformation profonde.",
+    "keywords": [
+      "bumble",
+      "rachat",
+      "acquisition",
+      "rencontre en ligne",
+      "application"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1106,9 +1149,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3283231_amazon-retire-20-sur-ce-chauffage-connecte-signe-philips-juste-avant-lhiver",
     "pubDate": "2026-10-13T14:25:00.000Z",
-    "summary": "Le Philips CX5120/11 est un chauffage d'appoint connecté pensé pour les pièces jusqu'à 20 m². Il se pilote depuis l'application Philips Air+, Alexa ou Google Assistant. En ce moment, il est à 79,99…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose une réduction de vingt pour cent sur le chauffage d'appoint connecté de Philips. Cet appareil de vingt mètres carrés se contrôle via une application dédiée ou des assistants vocaux. L'offre promotionnelle affiche le modèle CX5120/11 au prix de quatre-vingt euros environ.",
+    "keywords": [
+      "amazon",
+      "philips",
+      "chauffage",
+      "maison connectee"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1119,9 +1167,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/guide-dachat/411382_notre-selection-de-cartes-microsd-performantes-et-accessibles",
     "pubDate": "2026-10-13T14:25:00.000Z",
-    "summary": "Les cartes SD et microSD rendent facile l'ajout de stockage, que ce soit pour un smartphone, une Nintendo Switch ou pour votre GoPro. Pour vous aider à trouver la meilleure carte microSD adaptée à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le choix d'une carte microSD s'avère indispensable pour étendre la capacité de stockage de vos appareils électroniques. Ce guide d'achat cible particulièrement les utilisateurs de smartphones, de consoles Nintendo Switch et de caméras GoPro. L'objectif est d'aider les consommateurs à sélectionner le modèle de carte mémoire le mieux adapté à leurs besoins.",
+    "keywords": [
+      "microsd",
+      "smartphone",
+      "nintendo switch",
+      "gopro",
+      "stockage"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1132,9 +1186,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/maison-connectee/3283571_maison-connectee-apple-4-ans-apres-matter-le-retour-du-jardin-clos",
     "pubDate": "2026-10-13T14:18:12.000Z",
-    "summary": "Les accessoires Home Collection conçus avec LG et Schneider Electric restent compatibles Matter, mais iOS leur réserve un traitement de faveur. Apple ne casse pas le standard ouvert de la maison…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple introduit de nouveaux accessoires pour la maison connectée en partenariat avec LG et Schneider Electric. Bien que ces produits conservent la compatibilité avec le standard ouvert Matter, ils bénéficient d'avantages exclusifs sous iOS. Cette stratégie marque un retour progressif d'Apple vers un écosystème plus fermé quatre ans après le lancement de Matter.",
+    "keywords": [
+      "apple",
+      "matter",
+      "maison connectée",
+      "lg",
+      "schneider electric"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1164,9 +1224,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633970-homepod-mini-2-six-ans-apres-apple-voit-plus-grand-pour-sa-petite-enceinte.html",
     "pubDate": "2026-10-13T14:07:00.000Z",
-    "summary": "Six ans après le premier modèle, Apple dévoile enfin son HomePod mini de deuxième génération. Une enceinte plus puissante, avec quelques nouveautés bienvenues, mais dont la principale attraction ne…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple vient d'officialiser la deuxième génération de son enceinte connectée HomePod mini. Ce nouvel appareil offre des performances accrues ainsi que plusieurs fonctionnalités inédites. Toutefois, la fonctionnalité principale de cette enceinte ne sera pas accessible dès son lancement.",
+    "keywords": [
+      "apple",
+      "homepod mini",
+      "enceinte connectée",
+      "tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1196,9 +1261,14 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
     "pubDate": "2026-10-13T14:00:00.000Z",
-    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'événement TechCrunch Disrupt 2026 s'ouvre ce jour à San Francisco. Cette première journée rassemble plus de dix mille professionnels du secteur technologique. Les participants se donnent rendez-vous au centre de conventions Moscone West.",
+    "keywords": [
+      "techcrunch disrupt",
+      "san francisco",
+      "technologie",
+      "evenement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1209,9 +1279,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/nvidia/3283249_nvidia-met-a-jour-le-dlss-5-moins-de-memoire-consommee-et-plus-de-fps-en-jeu",
     "pubDate": "2026-10-13T13:58:59.000Z",
-    "summary": "Nvidia a annoncé ce mardi 13 octobre un nouveau modèle pour le DLSS 5. Il est deux fois plus rapide que celui de septembre et utilise 20 % de mémoire vidéo en moins en 4K. Il arrive dans NBA 2K27 ce…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Nvidia a dévoilé une nouvelle version de sa technologie DLSS 5 ce mardi 13 octobre. Ce modèle amélioré offre des performances doublées et une baisse de vingt pour cent de la consommation en mémoire vidéo pour la résolution 4K. Cette innovation sera intégrée pour la première fois dans le jeu NBA 2K27.",
+    "keywords": [
+      "nvidia",
+      "dlss 5",
+      "jeu video",
+      "nba 2k27",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1222,9 +1298,14 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2352397-la-pochette-officielle-switch-2-des-40-ans-de-zelda-revient-en-precommande-chez-cultura.html",
     "pubDate": "2026-10-13T13:57:00.000Z",
-    "summary": "[Précommande] La pochette de transport officielle de la Nintendo Switch 2 aux couleurs des 40 ans de The Legend of Zelda est de nouveau disponible en précommande chez Cultura. Elle est affichée à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La pochette de transport officielle de la Nintendo Switch 2 aux couleurs de Zelda est de nouveau accessible en précommande chez Cultura. Cet accessoire commémorant les quarante ans de la franchise est affiché au prix de trente-neuf euros et quatre-vingt-dix-neuf centimes. Sa date de sortie officielle sur le marché est fixée au vingt-neuf octobre 2026.",
+    "keywords": [
+      "nintendo switch 2",
+      "zelda",
+      "cultura",
+      "pochette"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1273,9 +1354,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633967-apple-tv-4k-siri-devient-plus-intelligent-les-nouveautes-s-accumulent-et-la-facture-s-envole.html",
     "pubDate": "2026-10-13T13:44:00.000Z",
-    "summary": "Après quatre ans d’attente, Apple vient enfin de présenter une nouvelle génération de son Apple TV 4K. Plus puissant et désormais équipé pour Siri AI, le petit boîtier noir veut aussi devenir un…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Quatre ans après le dernier modèle, Apple a dévoilé une nouvelle version de son boîtier multimédia Apple TV 4K. Ce nouveau dispositif gagne en puissance et intègre des fonctionnalités améliorées pour l'assistant vocal Siri. Ces annonces s'accompagnent toutefois d'une hausse notable du prix de vente.",
+    "keywords": [
+      "apple",
+      "apple tv 4k",
+      "siri",
+      "streaming",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1304,9 +1391,14 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-634003-ces-chercheurs-croient-tellement-en-l-ia-qu-ils-se-mettent-a-faire-n-importe-quoi.html",
     "pubDate": "2026-10-13T13:38:00.000Z",
-    "summary": "\"Merci, j'essaie de commencer\" dirait OSS 117 quand on lui tend une cigarette. C'est exactement ce que font des chercheurs, prétendant dur comme fer que l'intelligence artificielle leur permettra de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des chercheurs affirment que l'intelligence artificielle peut tout accomplir. Leur comportement face à cette technologie est comparé à une attitude absurde. Cette situation soulève des questions sur la crédibilité des scientifiques.",
+    "keywords": [
+      "intelligence artificielle",
+      "recherche",
+      "technologie",
+      "innovation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1336,9 +1428,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633991-cyberattaque-des-supermarches-une-autre-attaque-d-ampleur-aux-pays-bas-le-meme-jour.html",
     "pubDate": "2026-10-13T13:29:00.000Z",
-    "summary": "La cyberattaque choquante contre les frigos des supermarchés français n'est pas la seule attaque inquiétante. Car le même jour aux Pays-Bas, un autre géant de la distribution a été attaqué.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Une grave cyberattaque a touché les systèmes de réfrigération de supermarchés en France. Le même jour, un important acteur de la grande distribution a également subi une attaque informatique aux Pays-Bas. Ces incidents simultanés soulignent la vulnérabilité croissante du secteur de la distribution face aux cybermenaces.",
+    "keywords": [
+      "cyberattaque",
+      "supermarché",
+      "pays-bas",
+      "france",
+      "distribution"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1367,9 +1465,14 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
     "pubDate": "2026-10-13T13:25:05.000Z",
-    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La National Payments Corporation of India a suspendu l'instauration d'une taxe sur les paiements numériques. Cette décision fait suite à l'opposition marquée des commerçants locaux. Le déploiement de cette commission de 0,4 % est ainsi repoussé en raison des fêtes.",
+    "keywords": [
+      "npci",
+      "upi",
+      "inde",
+      "paiement mobile"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1389,32 +1492,6 @@
       "france"
     ],
     "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "860f34c5a4cb",
-    "title": "Algérie : AirCrop associe drones et IA pour surveiller les cultures",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/solutions/algerie-aircrop-associe-drones-et-ia-pour-surveiller-les-cultures",
-    "pubDate": "2026-10-13T13:22:15.000Z",
-    "summary": "Written by: Adoni Conrad Quenum En Algérie, une start-up a développé une solution d’agriculture de précision qui combine imagerie aérienne, intelligence artificielle et services par drone. Elle…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b5dc6be36ece",
-    "title": "HomeView : Apple dévoile son écran connecté pour la maison, mais la France reste à la porte",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633964-homeview-apple-devoile-son-ecran-connecte-pour-la-maison-mais-la-france-reste-a-la-porte.html",
-    "pubDate": "2026-10-13T13:22:00.000Z",
-    "summary": "Apple présente HomeView, un écran connecté de 7 pouces qui réunit divertissement, appels vidéo et commandes domotiques. Proposé à 299 dollars aux États-Unis, il ne sera pas commercialisé dans l’Union…",
-    "keywords": [],
-    "aiDone": false,
     "coverage": 1,
     "also": []
   }
