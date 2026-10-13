@@ -1,24 +1,11 @@
 [
   {
-    "id": "48866c22a637",
-    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "pubDate": "2026-10-13T13:50:19.000Z",
-    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "45d5e4849c59",
-    "title": "Suivez toutes les annonces Apple : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
+    "title": "Toutes les annonces Apple « Welcome home » : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
     "source": "Frandroid",
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
-    "pubDate": "2026-10-13T13:45:55.000Z",
+    "pubDate": "2026-10-13T14:08:31.000Z",
     "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
     "keywords": [
       "apple",
@@ -26,6 +13,115 @@
       "apple tv 4k",
       "homepod mini",
       "maison connectee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "177081608400",
+    "title": "HomePod mini 2 : six ans après, Apple voit plus grand pour sa petite enceinte",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633970-homepod-mini-2-six-ans-apres-apple-voit-plus-grand-pour-sa-petite-enceinte.html",
+    "pubDate": "2026-10-13T14:07:00.000Z",
+    "summary": "Six ans après le premier modèle, Apple dévoile enfin son HomePod mini de deuxième génération. Une enceinte plus puissante, avec quelques nouveautés bienvenues, mais dont la principale attraction ne…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0da35c902b80",
+    "title": "Une fusée Falcon 9 de SpaceX a fait apparaître une « méduse » lumineuse dans le ciel (PHOTOS)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2352343-une-fusee-falcon-9-de-spacex-a-fait-apparaitre-une-meduse-lumineuse-dans-le-ciel-photos.html",
+    "pubDate": "2026-10-13T14:05:25.000Z",
+    "summary": "Une fusée Falcon 9 de SpaceX a généré un phénomène lumineux spectaculaire dans le ciel américain. Ce spectacle visuel prend la forme d'une méduse spatiale capturée en image ce 13 octobre 2026. L'événement résulte directement du décollage de l'appareil opéré en Floride le même matin.",
+    "keywords": [
+      "spacex",
+      "falcon 9",
+      "fusee",
+      "etats-unis",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "82ec47719a83",
+    "title": "TechCrunch Disrupt 2026: Day 1",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+    "pubDate": "2026-10-13T14:00:00.000Z",
+    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b4a0856f312",
+    "title": "Nvidia met à jour le DLSS 5 : moins de mémoire consommée et plus de FPS en jeu",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/nvidia/3283249_nvidia-met-a-jour-le-dlss-5-moins-de-memoire-consommee-et-plus-de-fps-en-jeu",
+    "pubDate": "2026-10-13T13:58:59.000Z",
+    "summary": "Nvidia a annoncé ce mardi 13 octobre un nouveau modèle pour le DLSS 5. Il est deux fois plus rapide que celui de septembre et utilise 20 % de mémoire vidéo en moins en 4K. Il arrive dans NBA 2K27 ce…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a8197f8de633",
+    "title": "La pochette officielle Switch 2 des 40 ans de Zelda revient en précommande chez Cultura",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2352397-la-pochette-officielle-switch-2-des-40-ans-de-zelda-revient-en-precommande-chez-cultura.html",
+    "pubDate": "2026-10-13T13:57:00.000Z",
+    "summary": "[Précommande] La pochette de transport officielle de la Nintendo Switch 2 aux couleurs des 40 ans de The Legend of Zelda est de nouveau disponible en précommande chez Cultura. Elle est affichée à…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c8ede8b3e788",
+    "title": "Kaspersky en panne : une troublante coïncidence avec les frappes contre Yandex en Russie",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3283505_antivirus-kaspersky-en-panne-pourquoi-tout-le-monde-regarde-vers-yandex",
+    "pubDate": "2026-10-13T13:53:31.000Z",
+    "summary": "Plusieurs services de la marque Kaspersky subissent des perturbations techniques depuis le week-end dernier. Cette panne survient curieusement en même temps que des attaques de drones contre des centres de données de l'entreprise Yandex en Russie. L'éditeur de l'antivirus rappelle toutefois que ses données sont hébergées en Suisse depuis huit ans.",
+    "keywords": [
+      "kaspersky",
+      "yandex",
+      "russie",
+      "panne",
+      "vpn"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "48866c22a637",
+    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "pubDate": "2026-10-13T13:50:19.000Z",
+    "summary": "SpaceXSI lance une offre groupée combinant X Premium, l'intelligence artificielle Grok et l'éditeur de code Cursor. Cette nouvelle formule d'abonnement est proposée à des tarifs variant de 8 à 200 dollars par mois. Elle rassemble ainsi plusieurs services payants de la plateforme et des outils technologiques avancés.",
+    "keywords": [
+      "spacexsi",
+      "x premium",
+      "grok",
+      "cursor",
+      "abonnement"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -82,9 +178,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
     "pubDate": "2026-10-13T13:37:19.000Z",
-    "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple prépare le lancement d'une nouvelle gamme d'appareils pour la maison connectée. Cette offre comprend notamment une serrure intelligente, un thermostat et des sonnettes vidéo. L'ensemble de ces équipements fonctionnera avec le nouveau hub HomeView de la marque.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "maison connectee",
+      "domotique",
+      "smart home"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -139,9 +241,15 @@
     "category": "ia",
     "url": "https://www.numerama.com/tech/2351795-apple-tv-et-homepod-mini-apres-4-ans-et-6-ans-dattente-apple-devoile-enfin-de-nouvelles-versions-sans-siri-ai-en-france.html",
     "pubDate": "2026-10-13T13:24:58.000Z",
-    "summary": "Apple dévoile de nouvelles versions de ses deux produits les plus populaires pour la maison connectée : l'Apple TV et le HomePod mini. Au programme : des puces plus puissantes, mais pas de Siri AI en…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple renouvelle ses appareils pour la maison connectée avec de nouvelles éditions de l'Apple TV et du HomePod mini. Ces nouveaux modèles intègrent des puces plus performantes pour optimiser l'expérience utilisateur. Toutefois, les utilisateurs en France ne pourront pas profiter de l'intelligence artificielle Siri AI sur ces équipements.",
+    "keywords": [
+      "apple",
+      "apple tv",
+      "homepod mini",
+      "maison connectee",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1248,120 +1356,6 @@
       "retro gaming",
       "ordinateur",
       "amazon"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "14503bdeabe3",
-    "title": "Des IA capables de se multiplier toutes seules sur des boîtiers TV ? Anthropic alerte sur ce risque",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/tech/2351851-des-ia-capables-de-se-multiplier-toutes-seules-sur-des-boitiers-tv-anthropic-alerte-sur-ce-risque.html",
-    "pubDate": "2026-10-13T08:42:53.000Z",
-    "summary": "L'entreprise Anthropic a réalisé une expérience inédite en faisant fonctionner une intelligence artificielle sur de simples boîtiers Android TV. Cette démarche visait à analyser la possibilité pour des modèles de se répliquer sur des objets connectés en dehors des data centers. Plusieurs étapes de ce scénario futuriste restent toutefois à prouver.",
-    "keywords": [
-      "anthropic",
-      "intelligence artificielle",
-      "android tv",
-      "objets connectes",
-      "cybersecurite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0e0c7a1483d8",
-    "title": "Cela faisait longtemps qu’on n’avait pas vu une microSD SanDisk en promo à 10 € seulement",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3282791_cela-faisait-longtemps-quon-navait-pas-vu-une-microsd-sandisk-en-promo-10-e-seulement",
-    "pubDate": "2026-10-13T08:41:22.000Z",
-    "summary": "La carte microSD SanDisk Ultra 64 Go bénéficie d'une réduction notable sur Amazon en ce début d'année 2026. Ce modèle certifié A1 atteint des vitesses de lecture allant jusqu'à 140 Mo/s. Son tarif chute ainsi exceptionnellement à seulement 10 euros au lieu de 24,99 euros.",
-    "keywords": [
-      "sandisk",
-      "microsd",
-      "amazon",
-      "stockage",
-      "bonplan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b8e942f89b0c",
-    "title": "L'américain Mozilla mise sur la souveraineté européenne : découvrez Firefox Enterprise",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633886-l-americain-mozilla-mise-sur-la-souverainete-europeenne-decouvrez-firefox-enterprise.html",
-    "pubDate": "2026-10-13T08:40:00.000Z",
-    "summary": "L'entreprise américaine Mozilla lance une nouvelle version de son navigateur web nommée Firefox Enterprise. Cette solution intègre une console de gestion que les structures professionnelles peuvent héberger directement sur leurs propres serveurs. Le déploiement de cet outil axé sur la souveraineté numérique commence en premier lieu sur le continent européen.",
-    "keywords": [
-      "mozilla",
-      "firefox enterprise",
-      "navigateur",
-      "europe",
-      "souveraineté"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ab8230394831",
-    "title": "De nouvelles stars de la jeunesse arrivent sur les Freebox avec Kidjo",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633916-de-nouvelles-stars-de-la-jeunesse-arrivent-sur-les-freebox-avec-kidjo.html",
-    "pubDate": "2026-10-13T08:36:00.000Z",
-    "summary": "La plateforme ludo-éducative sans publicité Kidjo est désormais accessible aux abonnés de Free. Ce service intègre des programmes jeunesse populaires tels que Peppa Pig et La Pat' Patrouille. Un mois d'essai gratuit est proposé pour le lancement de cette offre sur les téléviseurs.",
-    "keywords": [
-      "freebox",
-      "kidjo",
-      "peppa pig",
-      "streaming jeunesse",
-      "telecom"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "23cd9479c433",
-    "title": "Quel smartphone acheter pour jouer en 2026 ? Le guide des meilleurs smartphones gaming",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/smartphones/529525_quels-sont-les-meilleurs-smartphones-pour-jouer-a-fortnite-en-2018-notre-selection",
-    "pubDate": "2026-10-13T08:32:20.000Z",
-    "summary": "Ce guide d'achat aide les utilisateurs à identifier les meilleurs téléphones pour le jeu vidéo. Il recense les appareils capables de faire tourner des titres mobiles exigeants comme Fortnite et Genshin Impact. Cette sélection vise à orienter les consommateurs vers le smartphone gaming idéal pour 2026.",
-    "keywords": [
-      "smartphone",
-      "gaming",
-      "fortnite",
-      "genshin impact",
-      "guide"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6e22278b9f7f",
-    "title": "Avengers Doomsday : ce personnage culte de Marvel confirme son absence du film",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351913-avengers-doomsday-ce-personnage-culte-de-marvel-confirme-son-absence-du-film.html",
-    "pubDate": "2026-10-13T08:28:35.000Z",
-    "summary": "L'acteur Jeremy Renner a officiellement exclu la présence de son personnage dans le prochain long-métrage Marvel. De son côté, Paul Bettany a préféré esquiver les questions sur sa participation potentielle au projet. Ces déclarations interviennent alors que le studio maintient le secret autour de la distribution d'Avengers Doomsday.",
-    "keywords": [
-      "marvel",
-      "avengers doomsday",
-      "jeremy renner",
-      "paul bettany",
-      "cinema"
     ],
     "aiDone": true,
     "coverage": 1,
