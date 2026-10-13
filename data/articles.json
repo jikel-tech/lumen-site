@@ -1,5 +1,122 @@
 [
   {
+    "id": "f9aac11dc5a3",
+    "title": "Bonne surprise : Siri AI arrive sur les anciennes Apple TV 4K",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/events/wwdc/3283555_bonne-surprise-siri-ai-arrive-sur-les-anciennes-apple-tv-4k",
+    "pubDate": "2026-10-13T14:42:06.000Z",
+    "summary": "Apple a confirmé ce mardi 13 octobre que Siri AI fonctionnera aussi sur les Apple TV 4K de 2021 et de 2022, en plus du nouveau modèle vendu 349 euros. L'assistant démarre en bêta, en anglais, dans…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f0f30658051c",
+    "title": "Apple s’associe à LG et Schneider pour gonfler son catalogue de produits pour la maison",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2352437-apple-sassocie-a-lg-et-schneider-pour-gonfler-son-catalogue-de-produits-pour-la-maison.html",
+    "pubDate": "2026-10-13T14:36:29.000Z",
+    "summary": "Pour accompagner comme il se doit le lancement de son HomeView, véritable centre de pilotage domotique, Apple s'associe à LG et Schneider pour proposer une palanquée de produits connectés pour la…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0b4aff033fc9",
+    "title": "L’aspirateur-robot laveur Lefant M5 Pro passe sous la barre de 400€ grâce à cette petite astuce à connaître chez Amazon",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/bons-plans-633949-l-aspirateur-robot-laveur-lefant-m5-pro-passe-sous-la-barre-de-400-grace-a-cette-petite-astuce-a-connaitre-chez-amazon.html",
+    "pubDate": "2026-10-13T14:34:00.000Z",
+    "summary": "L’aspirateur robot laveur Lefant M5 Pro est un modèle adapté à l’entretien quotidien des petits logements. Sur Amazon, il est actuellement possible de l’acquérir pour 399,98 € au lieu de 999,99 €…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6e907c67909f",
+    "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+    "source": "TechCrunch",
+    "category": "smartphones",
+    "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+    "pubDate": "2026-10-13T14:30:12.000Z",
+    "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "7ce5963a6916",
+    "title": "Microsoft change la façon de créer les applications sur Windows 11",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634030-microsoft-change-la-facon-de-creer-les-applications-sur-windows-11.html",
+    "pubDate": "2026-10-13T14:26:00.000Z",
+    "summary": "Enfin, Microsoft permet plus de liberté aux développeurs avec WinUI Gallery 3.0 ! Cette nouveauté tant attendue va faciliter la création d'applications pour Windows 11.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "64c0198f92fd",
+    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+    "pubDate": "2026-10-13T14:25:48.000Z",
+    "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f019c5c0c85a",
+    "title": "Amazon retire 20 % sur ce chauffage connecté signé Philips juste avant l’hiver",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3283231_amazon-retire-20-sur-ce-chauffage-connecte-signe-philips-juste-avant-lhiver",
+    "pubDate": "2026-10-13T14:25:00.000Z",
+    "summary": "Le Philips CX5120/11 est un chauffage d'appoint connecté pensé pour les pièces jusqu'à 20 m². Il se pilote depuis l'application Philips Air+, Alexa ou Google Assistant. En ce moment, il est à 79,99…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "77008d194e84",
+    "title": "Quelle carte microSD choisir pour votre smartphone, Nintendo Switch, GoPro ou APN en 2026 ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/411382_notre-selection-de-cartes-microsd-performantes-et-accessibles",
+    "pubDate": "2026-10-13T14:25:00.000Z",
+    "summary": "Les cartes SD et microSD rendent facile l'ajout de stockage, que ce soit pour un smartphone, une Nintendo Switch ou pour votre GoPro. Pour vous aider à trouver la meilleure carte microSD adaptée à…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "75d97da8b0f7",
+    "title": "Maison connectée Apple : 4 ans après Matter, le retour du jardin clos",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/3283571_maison-connectee-apple-4-ans-apres-matter-le-retour-du-jardin-clos",
+    "pubDate": "2026-10-13T14:18:12.000Z",
+    "summary": "Les accessoires Home Collection conçus avec LG et Schneider Electric restent compatibles Matter, mais iOS leur réserve un traitement de faveur. Apple ne casse pas le standard ouvert de la maison…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "45d5e4849c59",
     "title": "Toutes les annonces Apple « Welcome home » : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
     "source": "Frandroid",
@@ -110,7 +227,7 @@
   },
   {
     "id": "48866c22a637",
-    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
     "source": "TechCrunch",
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
@@ -142,7 +259,7 @@
   },
   {
     "id": "6f75b61a4489",
-    "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
+    "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
     "source": "TechCrunch",
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
@@ -173,7 +290,7 @@
   },
   {
     "id": "1e8cc563edf0",
-    "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells",
+    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
     "source": "TechCrunch",
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
@@ -1187,175 +1304,6 @@
       "vpn",
       "cybersecurite",
       "post-quantique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "943f9b0bac37",
-    "title": "Le drone de combat d’Airbus a volé en Europe, mais son « cerveau » souverain manquait à l’appel",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351833-le-drone-de-combat-dairbus-a-vole-en-europe-mais-son-cerveau-souverain-manquait-a-lappel.html",
-    "pubDate": "2026-10-13T09:21:12.000Z",
-    "summary": "Airbus et l'entreprise américaine Kratos ont réalisé le premier vol en Europe du drone de combat U740 Valkyrie. Cet appareil sans pilote pourrait équiper l'Allemagne à l'horizon 2029. Toutefois, le système de pilotage européen souverain n'était pas intégré à l'appareil lors de cet essai.",
-    "keywords": [
-      "airbus",
-      "kratos",
-      "drone",
-      "allemagne",
-      "europe"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "955cd55c47cc",
-    "title": "Shokz OpenFit 2 AI : j’ai essayé les écouteurs ouverts qui transcrivent et traduisent",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/shokz/3282865_shokz-openfit-2-ai-jai-essaye-les-ecouteurs-ouverts-qui-transcrivent-et-traduisent",
-    "pubDate": "2026-10-13T09:20:04.000Z",
-    "summary": "Les nouveaux écouteurs ouverts Shokz OpenFit 2 AI ont été testés en avant-première alors qu'ils ne sont sortis qu'en Chine. Ce modèle intègre des fonctions avancées de transcription et de traduction instantanée des conversations. Un lancement sur d'autres marchés pourrait intervenir prochainement.",
-    "keywords": [
-      "shokz",
-      "openfit 2 ai",
-      "écouteurs",
-      "traduction",
-      "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d7bb394857a1",
-    "title": "Google Meet : une nouvelle fonction IA va vous permettre de mieux organiser votre journée",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633907-google-meet-affiche-vos-prochaines-etapes-apres-chaque-reunion-pour-mieux-organiser-votre-journee.html",
-    "pubDate": "2026-10-13T09:14:00.000Z",
-    "summary": "Google Meet integre une nouvelle fonctionnalite basee sur l'intelligence artificielle. Cet outil aide les utilisateurs a mieux structurer la suite de leur journee de travail. Cette nouveaute vise a rendre les fins de reunion beaucoup plus productives.",
-    "keywords": [
-      "google meet",
-      "intelligence artificielle",
-      "productivite",
-      "reunion",
-      "google"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ca2f261ffb09",
-    "title": "On est monté dans le Tesla Cybercab au Mondial de l’Auto : on a hâte de voir le robotaxi en Europe !",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2351841-on-est-monte-dans-le-tesla-cybercab-au-mondial-de-lauto-on-a-hate-de-voir-le-robotaxi-en-europe.html",
-    "pubDate": "2026-10-13T09:11:25.000Z",
-    "summary": "Tesla expose son nouveau robotaxi Cybercab sur un stand lors du Mondial de l'Automobile de Paris. Des journalistes de Numerama ont eu l'opportunité de découvrir l'intérieur de ce véhicule autonome. La version de série de cette voiture sans volant attise déjà la curiosité pour son arrivée future en Europe.",
-    "keywords": [
-      "tesla",
-      "cybercab",
-      "robotaxi",
-      "mondial de l auto",
-      "paris"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "42d7b34c7617",
-    "title": "Jouer aux jeux Xbox sur PS5 ? Un développeur a réussi l'impensable grâce à l'IA",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-633880-jouer-aux-jeux-xbox-sur-ps5-un-developpeur-a-reussi-l-impensable-grace-a-l-ia.html",
-    "pubDate": "2026-10-13T09:05:00.000Z",
-    "summary": "Un développeur originaire du Brésil a créé le projet PSBox Cloud Gaming. Ce logiciel permet d'exécuter le service Xbox Cloud Gaming directement sur une console PlayStation 5 modifiée. L'outil gère le streaming en haute définition ainsi que la compatibilité des manettes.",
-    "keywords": [
-      "xbox",
-      "ps5",
-      "cloud gaming",
-      "ia",
-      "bresil"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "33745232e7e2",
-    "title": "Sony sort une PS5 toute noire, mais très limitée, et réitère la fin des jeux disque en 2028",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/sony/3282925_sony-sort-une-ps5-toute-noire-mais-tres-limitee-et-reitere-la-fin-des-jeux-disque-en-2028",
-    "pubDate": "2026-10-13T09:01:39.000Z",
-    "summary": "Sony commercialisera une édition limitée de la PS5 Digital Edition noire le 19 novembre 2026 au Japon. Baptisée Midnight Black, cette console sera vendue au prix de 55 000 yens, soit environ 310 euros. L'appareil fonctionnera exclusivement avec un compte PlayStation japonais.",
-    "keywords": [
-      "sony",
-      "ps5",
-      "playstation",
-      "japon",
-      "jeux video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "94ff52d8c482",
-    "title": "Tic-tac, cette version de Windows 11 s'apprête à recevoir sa dernière mise à jour de sécurité… et après ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633910-tic-tac-cette-version-de-windows-11-s-apprete-a-recevoir-sa-derniere-mise-a-jour-de-securite-et-apres.html",
-    "pubDate": "2026-10-13T08:56:00.000Z",
-    "summary": "Microsoft s'apprête à déployer la toute dernière mise à jour de sécurité pour Windows 11 24H2. Les utilisateurs des éditions Famille et Pro doivent rapidement envisager une mise à niveau. Cette échéance marque la fin du support pour cette version spécifique du système d'exploitation.",
-    "keywords": [
-      "microsoft",
-      "windows 11",
-      "mise a jour",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fbc358626443",
-    "title": "Implants espions dans des Ledger : les détenteurs de cryptomonnaies doutent désormais de toute la chaîne de distribution",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/cyberguerre/2351867-implants-espions-dans-des-ledger-les-detenteurs-de-cryptomonnaies-doutent-desormais-de-toute-la-chaine-de-distribution.html",
-    "pubDate": "2026-10-13T08:50:00.000Z",
-    "summary": "Des implants espions ont été découverts dans des portefeuilles Ledger par l'intermédiaire du revendeur CryptoBilis. Cette situation sème le doute parmi les détenteurs de cryptomonnaies concernant la fiabilité de la chaîne d'approvisionnement. Face à l'amplification des rumeurs, l'entreprise appelle à la vigilance tandis que les utilisateurs inspectent eux-mêmes leur matériel.",
-    "keywords": [
-      "ledger",
-      "cryptomonnaies",
-      "cryptobilis",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "59613e762cc3",
-    "title": "L’Atari 800XL de 1983 revient en précommande avec un vrai clavier mécanique et 25 jeux",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351877-latari-800xl-de-1983-revient-en-precommande-avec-un-vrai-clavier-mecanique-et-25-jeux.html",
-    "pubDate": "2026-10-13T08:46:51.000Z",
-    "summary": "Atari et Retro Games Ltd relancent l'ordinateur 8 bits de 1983 sous le nom de THE 800XL. Cette réplique moderne intègre un clavier mécanique authentique ainsi qu'une sélection de vingt-cinq jeux intégrés. Les précommandes sont actuellement ouvertes au tarif de 219,99 euros en vue d'une commercialisation en avril 2027.",
-    "keywords": [
-      "atari",
-      "the 800xl",
-      "retro gaming",
-      "ordinateur",
-      "amazon"
     ],
     "aiDone": true,
     "coverage": 1,
