@@ -3,55 +3,55 @@
     "https://techcrunch.com/feed/": {
       "source": "TechCrunch",
       "ok": true,
-      "lastSuccess": "2026-10-13T00:25:12.600Z",
+      "lastSuccess": "2026-10-13T00:27:25.129Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.numerama.com/feed/": {
       "source": "Numerama",
       "ok": true,
-      "lastSuccess": "2026-10-13T00:25:12.600Z",
+      "lastSuccess": "2026-10-13T00:27:25.129Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.frandroid.com/feed": {
       "source": "Frandroid",
       "ok": true,
-      "lastSuccess": "2026-10-13T00:25:12.600Z",
+      "lastSuccess": "2026-10-13T00:27:25.129Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://www.clubic.com/feed/news.rss": {
       "source": "Clubic",
       "ok": true,
-      "lastSuccess": "2026-10-13T00:25:12.600Z",
+      "lastSuccess": "2026-10-13T00:27:25.129Z",
       "lastCount": 15,
       "consecutiveFailures": 0
     },
     "https://techcabal.com/feed/": {
       "source": "TechCabal",
       "ok": true,
-      "lastSuccess": "2026-10-13T00:25:12.600Z",
+      "lastSuccess": "2026-10-13T00:27:25.129Z",
       "lastCount": 10,
       "consecutiveFailures": 0
     },
     "https://www.wearetech.africa/feed": {
       "source": "We Are Tech Africa",
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "ok": false,
       "lastError": "HTTP 404",
-      "lastErrorAt": "2026-10-13T00:25:12.600Z"
+      "lastErrorAt": "2026-10-13T00:27:25.129Z"
     },
     "https://www.agenceecofin.com/telecom/feed": {
       "source": "Agence Ecofin",
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "ok": false,
       "lastError": "HTTP 404",
-      "lastErrorAt": "2026-10-13T00:25:12.600Z"
+      "lastErrorAt": "2026-10-13T00:27:25.129Z"
     }
   },
   "feedsOk": 5,
   "feedsTotal": 7,
-  "updatedAt": "2026-10-13T00:25:12.600Z",
+  "updatedAt": "2026-10-13T00:27:25.129Z",
   "articles": 80
 }

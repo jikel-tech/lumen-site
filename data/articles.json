@@ -285,9 +285,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/apple/3282321_no-mans-sky-arrive-sur-iphone-et-ipad-le-28-octobre-avec-tout-son-univers-ou-presque",
     "pubDate": "2026-10-12T16:17:31.000Z",
-    "summary": "No Man's Sky sortira sur iPhone et iPad le 28 octobre 2026, avec des précommandes ouvertes sur l'App Store depuis ce lundi 12 octobre. Hello Games y porte le jeu complet, dix ans de mises à jour…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le jeu vidéo No Man's Sky sera disponible sur iPhone et iPad dès le 28 octobre 2026. Le studio Hello Games propose l'intégralité du titre ainsi que dix années de mises à jour. Les précommandes sont ouvertes sur l'App Store depuis le 12 octobre.",
+    "keywords": [
+      "no man's sky",
+      "apple",
+      "iphone",
+      "ipad",
+      "hello games"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -298,9 +304,14 @@
     "category": "smartphones",
     "url": "https://www.numerama.com/tech/2350985-vous-pouvez-preparer-votre-precommande-de-liphone-duo-des-aujourdhui.html",
     "pubDate": "2026-10-12T16:13:19.000Z",
-    "summary": "Les précommandes de l’iPhone Duo ouvriront le vendredi 16 octobre, mais Apple permet déjà de préparer son achat dès ce lundi. Un moyen de gagner du temps pour celles et ceux qui comptent s’offrir le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple permet de préparer l'achat du nouvel iPhone Duo dès ce lundi. Les clients pourront ainsi valider leur précommande plus rapidement à partir du 16 octobre. Cette démarche concerne le premier smartphone pliant de la marque à la pomme.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "smartphone pliant",
+      "precommande"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -330,9 +341,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2351551-on-a-vu-below-la-meilleure-serie-horrifique-netflix-du-moment-pour-halloween-2026.html",
     "pubDate": "2026-10-12T16:00:43.000Z",
-    "summary": "Cirés de marins, accent canadien à couper au couteau... La mini-série canadienne Below débarque sur Netflix avec une promesse intrigante : marier la chronique sociale d'une communauté côtière, le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La mini-série canadienne Below est désormais disponible sur la plateforme Netflix. Cette production horrifique mêle habilement drame familial et chronique sociale d'une communauté côtière. Elle s'impose déjà comme un rendez-vous incontournable pour les amateurs de frissons.",
+    "keywords": [
+      "netflix",
+      "below",
+      "serie",
+      "horreur",
+      "canada"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -381,9 +398,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633829-un-simple-clic-permettait-d-eviter-le-compte-microsoft-sur-windows-11-l-astuce-n-a-pas-fait-long-feu.html",
     "pubDate": "2026-10-12T15:39:00.000Z",
-    "summary": "Un lien d’aide permettait de configurer Windows 11 Famille avec un compte local, sans passer par l’identification Microsoft. Découverte en septembre, l’astuce aurait déjà été neutralisée par…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Microsoft a rapidement neutralisé une astuce permettant d'installer Windows 11 Famille avec un simple compte local. Cette méthode consistait à utiliser un lien d'aide pour contourner l'obligation de connexion au service en ligne. L'éditeur a bloqué cette alternative directement à distance, sans avoir besoin de déployer une nouvelle mise à jour logicielle.",
+    "keywords": [
+      "microsoft",
+      "windows 11",
+      "compte local",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -394,9 +416,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/sony/3281941_la-ps5-peut-enfin-lancer-des-jeux-ps3-grace-a-cet-emulateur",
     "pubDate": "2026-10-12T15:33:01.000Z",
-    "summary": "Le développeur kamb205 a publié le 9 octobre 2026 KB-RPCS3, une adaptation de l'émulateur PlayStation 3 RPCS3 qui tourne directement sur les PS5 jailbreakées. Sony n'a jamais rendu la PS5 compatible…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le développeur kamb205 a lancé KB-RPCS3 pour les consoles PlayStation 5 modifiées. Cet outil adapte le célèbre émulateur RPCS3 afin de faire tourner des titres PS3. Sony ne propose pas nativement cette rétrocompatibilité sur sa machine.",
+    "keywords": [
+      "ps5",
+      "ps3",
+      "emulateur",
+      "kamb205",
+      "sony"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -407,9 +435,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3243185_les-recents-samsung-galaxy-buds-4-pro-notes-9-10-sont-a-moitie-prix-grace-a-cette-offre-amazon",
     "pubDate": "2026-10-12T15:31:46.000Z",
-    "summary": "Lancés en début d'année, les Samsung Galaxy Buds 4 Pro sont des écouteurs sans fil qui nous ont franchement bluffés. Bonne nouvelle aujourd'hui, puisque ces true wireless qui ont bénéficié de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les écouteurs sans fil Samsung Galaxy Buds 4 Pro font l'objet d'une promotion spectaculaire sur Amazon. Ce modèle true wireless, lancé au début de l'année, bénéficie d'une réduction ramenant son prix à la moitié du tarif initial grâce à une offre de remboursement. Les utilisateurs peuvent ainsi acquérir ces écouteurs haut de gamme à un coût nettement plus accessible.",
+    "keywords": [
+      "samsung",
+      "galaxy buds 4 pro",
+      "écouteurs sans fil",
+      "amazon",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -420,9 +454,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "pubDate": "2026-10-12T15:31:19.000Z",
-    "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Brad Smith, le président de Microsoft, réclame une régulation urgente de l'intelligence artificielle. Il estime que les machines à laver et le lait bénéficient d'une surveillance supérieure à celle des entreprises d'IA. Il ajoute que le Royaume-Uni dispose des meilleurs atouts pour mener à bien cette mission.",
+    "keywords": [
+      "microsoft",
+      "brad smith",
+      "intelligence artificielle",
+      "reglementation",
+      "royaume-uni"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -433,9 +473,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633802-ce-mod-apporte-le-dlss-3-7-aux-consoles-amd-sans-puce-nvidia.html",
     "pubDate": "2026-10-12T15:31:00.000Z",
-    "summary": "Le mod HelixSR fait tourner le DLSS 3.7 de NVIDIA sur du matériel AMD, ROG Ally X et Steam Deck compris. Aucune puce NVIDIA n’est requise, mais seuls les jeux DirectX 12 sont concernés. Les premiers…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un nouveau mod informatique permet d'utiliser la technologie DLSS 3.7 sur les consoles portables équipées de composants AMD. Cette solution logicielle fonctionne sans nécessiter de matériel graphique de marque NVIDIA. Les premiers essais réalisés sur le Steam Deck et la ROG Ally X s'avèrent prometteurs.",
+    "keywords": [
+      "dlss",
+      "amd",
+      "nvidia",
+      "helixsr",
+      "console"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -446,9 +492,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-631570-ces-codes-promotionnels-vous-font-beneficier-de-8-a-12-mois-de-frais-de-gestion-offerts-sur-ces-badges-de-telepeage.html",
     "pubDate": "2026-10-12T15:30:00.000Z",
-    "summary": "Plusieurs codes promotionnels sont disponibles chez Fulli. Grâce à eux, les frais de gestion de vos badges de télépéage vous sont offerts pour une durée allant de 8 mois à 12 mois.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'entreprise Fulli propose actuellement plusieurs codes promotionnels sur ses badges de télépéage. Ces offres permettent aux clients de bénéficier de huit à douze mois de frais de gestion offerts. Cette initiative réduit le coût d'utilisation de ce service de paiement autoroutier.",
+    "keywords": [
+      "fulli",
+      "telepeage",
+      "badge",
+      "code promotionnel"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -459,9 +510,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
     "pubDate": "2026-10-12T15:27:59.000Z",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La jeune pousse Blueprints AI a conçu un logiciel innovant destiné au secteur de la construction. Cette intelligence artificielle génère des plans conformes aux normes réglementaires à partir de simples documents visuels. L'outil promet de produire ces documents prêts pour les permis de construire en seulement quelques minutes.",
+    "keywords": [
+      "blueprints ai",
+      "intelligence artificielle",
+      "construction",
+      "logiciel",
+      "startup"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -472,9 +529,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/3282195_votre-box-tombe-en-panne-unifi-network-11-bascule-sur-le-partage-de-connexion-du-telephone",
     "pubDate": "2026-10-12T15:20:36.000Z",
-    "summary": "Ubiquiti a présenté ce lundi 12 octobre UniFi Network 11, une grosse mise à jour de son logiciel de gestion réseau, qui permet notamment d'utiliser le partage de connexion d'un smartphone comme accès…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Ubiquiti vient de dévoiler UniFi Network 11, une mise à jour majeure de son logiciel de gestion de réseau. Cette nouvelle version intègre la possibilité d'utiliser le partage de connexion d'un smartphone en cas de panne de la box. De plus, le système sait désormais afficher l'ensemble des objets connectés compatibles Matter.",
+    "keywords": [
+      "ubiquiti",
+      "unifi network 11",
+      "matter",
+      "reseau",
+      "smartphone"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -485,9 +548,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633814-la-voiture-la-plus-moquee-de-l-histoire-s-offre-une-revanche-inattendue-au-mondial-de-paris.html",
     "pubDate": "2026-10-12T15:17:00.000Z",
-    "summary": "Longtemps raillé pour son physique, le Multipla revient hanter les souvenirs avec un concept beaucoup plus séduisant. Présenté au Mondial de Paris, le Multiplay conserve l’idée des six places tout en…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le célèbre véhicule Fiat Multipla bénéficie d'une réhabilitation remarquée lors de l'événement automobile parisien. Le nouveau prototype présenté conserve la configuration à six sièges de son prédécesseur. Il intègre désormais une carrosserie modulable pour s'adapter aux différents besoins des conducteurs.",
+    "keywords": [
+      "fiat",
+      "multipla",
+      "mondial de paris",
+      "automobile",
+      "concept car"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -498,9 +567,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2351579-dragon-ball-super-beerus-debarque-sur-disney-le-retour-de-goku-vaut-il-le-detour.html",
     "pubDate": "2026-10-12T15:15:58.000Z",
-    "summary": "En parallèle d'une première diffusion sur Crunchyroll, Dragon Ball Super: Beerus débarque sur Disney+ le 14 octobre 2026. L’occasion de retrouver Goku et ses compagnons dans cette nouvelle version de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La série animée Dragon Ball Super: Beerus sera disponible sur la plateforme Disney+ à partir du 14 octobre 2026. Cette nouvelle version proposera des images retravaillées ainsi qu'un récit remanié pour suivre les aventures de Goku. Une première diffusion de ce programme est également prévue en parallèle sur Crunchyroll.",
+    "keywords": [
+      "dragon ball super",
+      "disney+",
+      "crunchyroll",
+      "anime",
+      "goku"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -511,9 +586,14 @@
     "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
     "pubDate": "2026-10-12T15:11:19.000Z",
-    "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google lance la montre connectée Fitbit Edge au prix de 179,99 dollars. Cet appareil se positionne entre le modèle Fitbit Air et la Pixel Watch. Il intègre un écran OLED ainsi qu'un design épuré.",
+    "keywords": [
+      "google",
+      "fitbit edge",
+      "montre connectee",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -524,9 +604,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-633418-avant-le-black-friday-20-offres-tech-jusqu-a--43-de-la-tv-mini-led-samsung-au-pc-portable-gamer.html",
     "pubDate": "2026-10-12T15:07:00.000Z",
-    "summary": "Téléviseurs, PC portables, maison connectée : les catégories qui font d’ordinaire le Black Friday ont déjà droit à des remises ce week-end. Rien ne garantit qu’elles ne baisseront pas encore fin…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des réductions atteignant 43 pour cent sont appliquées sur une sélection de produits high-tech avant le Black Friday. Cette vague de promotions concerne notamment des téléviseurs Mini LED de marque Samsung ainsi que des ordinateurs portables pour joueurs. Les prix affichés ont été comparés aux tarifs les plus bas enregistrés au cours du mois précédent.",
+    "keywords": [
+      "samsung",
+      "black friday",
+      "pc gamer",
+      "tv mini led",
+      "bons plans"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -537,9 +623,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-633763-rtx-spark-nvidia-devoile-enfin-les-prix-de-ses-nouveaux-pc-portables-et-ca-fait-tres-mal.html",
     "pubDate": "2026-10-12T15:02:00.000Z",
-    "summary": "Microsoft a profité de sa conférence Windows & Surface pour lancer les précommandes du Surface Laptop Ultra, premier portable à puce NVIDIA RTX Spark. Dans la foulée, Asus, Lenovo, MSI et HP ont à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Microsoft a ouvert les précommandes du Surface Laptop Ultra lors de sa dernière conférence. Cet ordinateur portable inaugure la nouvelle puce NVIDIA RTX Spark. D'autres fabricants majeurs comme Asus, Lenovo, MSI et HP ont immédiatement suivi en communiquant leurs tarifs pour la France.",
+    "keywords": [
+      "nvidia",
+      "rtx spark",
+      "microsoft",
+      "surface laptop ultra",
+      "pc portable"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -550,9 +642,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-633790-voitures-hybrides-chinoises-l-ue-va-plafonner-les-importations-a-350-000-vehicules-par-an.html",
     "pubDate": "2026-10-12T15:01:00.000Z",
-    "summary": "C'est une victoire pour l'industrie automobile européenne qui est annoncée aujourd'hui. Un plafond assez bas est dorénavant imposé au nombre de voitures hybrides chinois pouvant être importées en…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'Union européenne a décidé de limiter l'entrée des automobiles hybrides en provenance de Chine. Ce quota annuel est fixé à 350 000 unités afin de protéger le marché automobile européen. Cette mesure constitue un succès notable pour les constructeurs locaux face à cette concurrence.",
+    "keywords": [
+      "ue",
+      "chine",
+      "voiture hybride",
+      "automobile",
+      "importation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
