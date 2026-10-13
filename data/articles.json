@@ -1,5 +1,61 @@
 [
   {
+    "id": "8fffd9ec3a9e",
+    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+    "pubDate": "2026-10-13T20:13:53.000Z",
+    "summary": "La startup Cambridge Heavy Industries développe actuellement un petit appareil de fusion alimenté par laser. Ce réacteur compact est destiné à alimenter la future génération de centrales à fusion. L'entreprise travaille discrètement sur cette technologie innovante depuis un certain temps.",
+    "keywords": [
+      "cambridge heavy industries",
+      "fusion",
+      "energie",
+      "technologie",
+      "startup"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "3ed86866ed44",
+    "title": "Le nouveau film Street Fighter est presque aussi nul que celui avec JCVD (critique sans spoilers)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2351891-le-nouveau-film-street-fighter-est-presque-aussi-nul-que-celui-avec-jcvd-critique-sans-spoilers.html",
+    "pubDate": "2026-10-13T20:00:00.000Z",
+    "summary": "Capcom tente une nouvelle incursion cinématographique avec sa célèbre franchise vidéoludique. Malheureusement, cette adaptation récente déçoit les critiques par son ton maladroit. Le film souffre notamment d'un manque de clarté et de coupes narratives préjudiciables.",
+    "keywords": [
+      "capcom",
+      "street fighter",
+      "cinema",
+      "film",
+      "adaptation"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5e80a1d36e6d",
+    "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+    "pubDate": "2026-10-13T20:00:00.000Z",
+    "summary": "La start-up Licube ambitionne de devenir un fournisseur majeur de lithium pour le secteur de l'énergie de fusion. Cette initiative vise à répondre aux besoins considérables en carburant des futures centrales nucléaires. L'entreprise présente son projet innovant lors de l'événement TechCrunch Disrupt.",
+    "keywords": [
+      "licube",
+      "lithium",
+      "fusion",
+      "techcrunch disrupt"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "0bfd196f12cf",
     "title": "Netflix gagne les droits du Mondial 2030 en Espagne, qu’est-ce que ça change pour la diffusion en France ?",
     "source": "Clubic",
@@ -810,9 +866,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/nvidia/3283475_jusqua-35-de-performances-en-plus-nvidia-degaine-une-option-surprise-pour-ses-rtx-40-et-50",
     "pubDate": "2026-10-13T15:03:12.000Z",
-    "summary": "Nvidia lance le test d'un nouveau mode Performance pour ses cartes graphiques RTX 40 et 50. À la clé, une accélération de la génération d'images, plus ou moins élevée selon le modèle concerné.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Nvidia propose actuellement une phase de test pour un mode Performance inédit. Cette option s'adresse spécifiquement aux cartes graphiques des séries RTX 40 et 50. Elle permet d'accélérer la génération d'images avec des gains notables selon les modèles.",
+    "keywords": [
+      "nvidia",
+      "rtx 40",
+      "rtx 50",
+      "carte graphique",
+      "performance"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -823,9 +885,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2352567-la-version-pc-de-gta-6-pourrait-sortir-plus-tot-quespere.html",
     "pubDate": "2026-10-13T15:02:30.000Z",
-    "summary": "D’après le site américain GamesBeat, qui cite quatre sources de l’industrie, GTA 6 pourrait arriver sur PC dès le premier trimestre 2027, quelques mois seulement après sa sortie sur PS5 et Xbox…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Selon le média GamesBeat, le jeu GTA 6 pourrait bénéficier d'une version sur ordinateurs dès le début de l'année 2027. Cette adaptation arriverait ainsi peu de temps après le lancement initial du titre sur les consoles PlayStation 5 et Xbox Series. Quatre sources proches de l'industrie vidéoludique confirment cette information concernant le calendrier de sortie de Rockstar Games.",
+    "keywords": [
+      "gta 6",
+      "pc",
+      "jeux video",
+      "gamesbeat",
+      "rockstar games"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -836,9 +904,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
     "pubDate": "2026-10-13T15:02:00.000Z",
-    "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Vingt jeunes entreprises innovantes viennent d'être sélectionnées pour participer à la compétition majeure de TechCrunch. Ces fondateurs s'apprêtent à monter sur la scène principale pour présenter leurs projets ambitieux. Ils s'affrontent pour remporter la somme de cent mille dollars ainsi que le trophée convoqué.",
+    "keywords": [
+      "techcrunch",
+      "startup",
+      "concours",
+      "technologie",
+      "entrepreneuriat"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -849,9 +923,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-634009-puces-ia-nvidia-perd-rapidement-du-terrain-en-chine-face-a-un-huawei-conquerant.html",
     "pubDate": "2026-10-13T15:01:00.000Z",
-    "summary": "Le marché chinois des puces IA est important pour NVIDIA. Mais avec les contraintes imposées par Washington, la firme de Jensen Huang recule logiquement en 2026.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Nvidia subit un net recul sur le marché stratégique des puces pour l'intelligence artificielle en Chine. Cette baisse d'influence s'explique principalement par les restrictions géopolitiques strictes décrétées par Washington. En conséquence, l'entreprise américaine cède rapidement du terrain face à la concurrence agressive de Huawei.",
+    "keywords": [
+      "nvidia",
+      "huawei",
+      "chine",
+      "intelligence artificielle",
+      "puces"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -862,9 +942,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/actualite-634000-menacee-de-fermeture-la-celebre-plateforme-character-ai-depose-le-bilan.html",
     "pubDate": "2026-10-13T14:58:00.000Z",
-    "summary": "Character.AI s’est placé sous la protection du Chapter 11 aux États-Unis et cherche désormais un repreneur. Disney a posé une première offre à 20 millions de dollars sur certains actifs, mais la…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La plateforme Character.AI traverse de graves difficultés financières et se place sous la protection du Chapter 11 aux États-Unis. L'entreprise recherche activement un repreneur pour éviter une fermeture définitive. Le géant Disney a formulé une première offre de vingt millions de dollars afin d'acquérir certains actifs.",
+    "keywords": [
+      "character.ai",
+      "disney",
+      "intelligence artificielle",
+      "rachat",
+      "etats-unis"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -875,9 +961,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/google/3283159_marre-de-gemini-voici-lastuce-pour-forcer-votre-smartphone-android-a-reutiliser-lassistant-google",
     "pubDate": "2026-10-13T14:55:35.000Z",
-    "summary": "L'Assistant Google n'est pas (encore) mort ! Un internaute a trouvé comment l'utiliser à la place de Gemini sur un smartphone Android. De quoi ravir ceux qui trouvent la nouvelle IA en dessous de son…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un utilisateur a découvert une méthode pour rétablir l'Assistant Google sur les appareils Android. Cette astuce permet de contourner l'utilisation automatique de Gemini. Les utilisateurs déçus par les performances de la nouvelle intelligence artificielle peuvent ainsi retrouver leur ancien assistant.",
+    "keywords": [
+      "android",
+      "assistant google",
+      "gemini",
+      "smartphone",
+      "astuce"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -888,9 +980,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/3283735_gta-vi-sur-pc-rockstar-viserait-debut-2027-quelques-mois-seulement-apres-les-consoles",
     "pubDate": "2026-10-13T14:53:54.000Z",
-    "summary": "La version PC de GTA VI sortirait entre janvier et mars 2027, d'après quatre sources anonymes interrogées par GamesBeat. Le jeu arriverait ainsi sur PC quelques semaines seulement après sa sortie sur…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Rockstar envisage de lancer GTA VI sur PC au début de l'année 2027. Cette version arriverait sur les ordinateurs peu de temps après l'édition destinée aux consoles de salon. L'information a été révélée par quatre sources anonymes proches du média GamesBeat.",
+    "keywords": [
+      "gta vi",
+      "rockstar",
+      "pc",
+      "jeux vidéo"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -901,9 +998,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/events/wwdc/3283555_bonne-surprise-siri-ai-arrive-sur-les-anciennes-apple-tv-4k",
     "pubDate": "2026-10-13T14:42:06.000Z",
-    "summary": "Apple a confirmé ce mardi 13 octobre que Siri AI fonctionnera aussi sur les Apple TV 4K de 2021 et de 2022, en plus du nouveau modèle vendu 349 euros. L'assistant démarre en bêta, en anglais, dans…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple intègre son intelligence artificielle Siri sur les modèles d'Apple TV 4K sortis en 2021 et 2022. Cette fonctionnalité est également prévue pour la toute dernière version de l'appareil multimédia de la marque. Pour l'instant, l'assistant intelligent débute en version bêta et uniquement en langue anglaise.",
+    "keywords": [
+      "apple",
+      "siri",
+      "apple tv",
+      "ia",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -914,9 +1017,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2352437-apple-sassocie-a-lg-et-schneider-pour-gonfler-son-catalogue-de-produits-pour-la-maison.html",
     "pubDate": "2026-10-13T14:36:29.000Z",
-    "summary": "Pour accompagner comme il se doit le lancement de son HomeView, véritable centre de pilotage domotique, Apple s'associe à LG et Schneider pour proposer une palanquée de produits connectés pour la…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Apple diversifie son offre domotique avec le lancement de nouveaux accessoires connectés. La firme s'associe à LG et Schneider pour développer ces équipements. Une caméra, un thermostat et une serrure intelligente accompagnent ainsi la sortie du centre de pilotage HomeView.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "domotique",
+      "lg",
+      "schneider"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -927,9 +1036,15 @@
     "category": "ia",
     "url": "https://www.clubic.com/bons-plans-633949-l-aspirateur-robot-laveur-lefant-m5-pro-passe-sous-la-barre-de-400-grace-a-cette-petite-astuce-a-connaitre-chez-amazon.html",
     "pubDate": "2026-10-13T14:34:00.000Z",
-    "summary": "L’aspirateur robot laveur Lefant M5 Pro est un modèle adapté à l’entretien quotidien des petits logements. Sur Amazon, il est actuellement possible de l’acquérir pour 399,98 € au lieu de 999,99 €…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'aspirateur-robot laveur Lefant M5 Pro bénéficie d'une promotion significative chez le revendeur Amazon. Son prix chute ainsi sous le seuil des 400 euros grâce à l'application cumulée d'une réduction et d'un coupon. Cet appareil connecté cible particulièrement l'entretien régulier des logements de petite superficie.",
+    "keywords": [
+      "lefant m5 pro",
+      "aspirateur robot",
+      "amazon",
+      "bon plan",
+      "domotique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -940,9 +1055,15 @@
     "category": "smartphones",
     "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
     "pubDate": "2026-10-13T14:30:12.000Z",
-    "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les utilisateurs de Spotify sur iOS 27 peuvent désormais solliciter Siri pour lancer de la musique. L'assistant intelligent est capable d'apprendre l'application musicale favorite de chaque utilisateur. Il devient ainsi possible d'écouter des morceaux sans avoir à préciser le nom de la plateforme.",
+    "keywords": [
+      "spotify",
+      "siri",
+      "ios",
+      "apple",
+      "musique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -953,9 +1074,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634030-microsoft-change-la-facon-de-creer-les-applications-sur-windows-11.html",
     "pubDate": "2026-10-13T14:26:00.000Z",
-    "summary": "Enfin, Microsoft permet plus de liberté aux développeurs avec WinUI Gallery 3.0 ! Cette nouveauté tant attendue va faciliter la création d'applications pour Windows 11.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Microsoft lance WinUI Gallery 3.0 pour offrir davantage de liberté aux créateurs de logiciels. Cette mise à jour simplifie grandement la conception de programmes destinés au système Windows 11. Les développeurs disposent désormais d'un outil très attendu pour optimiser leur travail.",
+    "keywords": [
+      "microsoft",
+      "winui gallery",
+      "windows 11",
+      "developpeurs",
+      "applications"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1286,45 +1413,6 @@
     "url": "https://www.clubic.com/actualite-633964-homeview-apple-devoile-son-ecran-connecte-pour-la-maison-mais-la-france-reste-a-la-porte.html",
     "pubDate": "2026-10-13T13:22:00.000Z",
     "summary": "Apple présente HomeView, un écran connecté de 7 pouces qui réunit divertissement, appels vidéo et commandes domotiques. Proposé à 299 dollars aux États-Unis, il ne sera pas commercialisé dans l’Union…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "709d8e2fad3f",
-    "title": "Siri AI bloqué en France : les indices qui laissent espérer une arrivée",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3283359_siri-ai-bloque-en-france-les-indices-qui-laissent-esperer-une-arrivee",
-    "pubDate": "2026-10-13T13:21:52.000Z",
-    "summary": "Apple a présenté ce mardi une maison entière bâtie autour de Siri AI. En France, l'assistant reste bloqué sur iPhone comme dans le salon, mais les communiqués du jour glissent quelques signaux plutôt…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "16d06cabf9dc",
-    "title": "Le nouveau jeu du créateur de Dragon Quest a été conçu avec l’IA en 30 minutes",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/tech/2352151-le-nouveau-jeu-du-createur-de-dragon-quest-a-ete-concu-avec-lia-en-30-minutes.html",
-    "pubDate": "2026-10-13T13:21:03.000Z",
-    "summary": "Yuji Horii est l'un des co-créateurs de Dragon Quest, tout de même l'une des sagas de JRPG les plus importantes de l'histoire. Le 11 octobre, il a publié gratuitement un petit jeu d'enquête qu'il dit…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "98a5596ab7a7",
-    "title": "Apple TV 4K (2026) : puce A19, micros intégrés et Siri IA, voici toutes les nouveautés",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/events/wwdc/3283289_apple-tv-4k-2026-puce-a19-micros-integres-et-siri-ia-voici-toutes-les-nouveautes",
-    "pubDate": "2026-10-13T13:19:28.000Z",
-    "summary": "Apple lance sa nouvelle Apple TV 4K de quatrième génération. Le boîtier multimédia intègre une puce A19, un décodage matériel AV1 et trois microphones pour un contrôle vocal sans télécommande.",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
