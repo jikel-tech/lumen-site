@@ -6,9 +6,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
     "pubDate": "2026-10-14T01:30:42.000Z",
-    "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le département de la Justice américain signale que des pirates nord-coréens se sont introduits dans de nombreuses entreprises aux États-Unis. Ces hackers sanctionnés recrutent des complices américains pour faire le lien entre les firmes piratées et Pyongyang. Les autorités alertent sur cette menace croissante visant à exploiter des intermédiaires locaux.",
+    "keywords": [
+      "justice department",
+      "north korea",
+      "hackers",
+      "cybersecurity",
+      "united states"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
