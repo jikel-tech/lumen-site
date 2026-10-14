@@ -1,5 +1,24 @@
 [
   {
+    "id": "0a37cca837c8",
+    "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+    "pubDate": "2026-10-14T19:00:00.000Z",
+    "summary": "Des anciens ingénieurs d'Apple ont conçu un capteur biométrique innovante. Ce dispositif se fixe facilement sur n'importe quelle montre traditionnelle sans utiliser d'aimants ni d'adhésifs. L'appareil de santé nommé Hiyd permet ainsi de suivre sa condition physique directement sur sa montre actuelle.",
+    "keywords": [
+      "hiyd",
+      "apple",
+      "sante",
+      "montre",
+      "capteur"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "877cbcbdbb3b",
     "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
     "source": "TechCrunch",
@@ -1475,25 +1494,6 @@
       "imprimante",
       "amazon",
       "reduction"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c256c08edc44",
-    "title": "Une supernova presque en direct : le télescope James Webb a observé une probable explosion seulement 4 à 10 jours après la disparition de l’étoile",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2353007-une-supernova-presque-en-direct-le-telescope-james-webb-a-observe-une-probable-explosion-seulement-4-a-10-jours-apres-la-disparition-de-letoile.html",
-    "pubDate": "2026-10-14T11:01:00.000Z",
-    "summary": "Le télescope James Webb a capturé une explosion stellaire peu de temps après qu'elle se soit produite. Cet événement cosmique rare offre une opportunité unique pour analyser les supernovas distantes. Les astronomes profitent de cette observation inédite pour approfondir leur compréhension de l'Univers lointain.",
-    "keywords": [
-      "james webb",
-      "supernova",
-      "astronomie",
-      "etoile",
-      "telescope"
     ],
     "aiDone": true,
     "coverage": 1,
