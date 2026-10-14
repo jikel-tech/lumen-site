@@ -1,5 +1,62 @@
 [
   {
+    "id": "69337308554b",
+    "title": "« Où est mon colis ? » ChatGPT peut maintenant vous répondre grâce à Chronopost",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634219-ou-est-mon-colis-chatgpt-peut-maintenant-vous-repondre-grace-a-chronopost.html",
+    "pubDate": "2026-10-14T17:46:00.000Z",
+    "summary": "Chronopost intègre ses services au sein de l'intelligence artificielle ChatGPT pour la première fois en France. Les utilisateurs peuvent désormais suivre leurs envois, localiser des points relais et estimer des tarifs directement depuis l'outil conversationnel. Cette nouveauté offre un accès simplifié aux principales fonctionnalités du transporteur.",
+    "keywords": [
+      "chronopost",
+      "chatgpt",
+      "colis",
+      "transporteur",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "68ab18c11305",
+    "title": "De gros soucis de débit chez Free ? Vous n’êtes pas seul, les Freebox tournent au ralenti",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/free/3285667_de-gros-soucis-de-debit-chez-free-vous-netes-pas-seul-les-freebox-tournent-au-ralenti",
+    "pubDate": "2026-10-14T17:36:35.000Z",
+    "summary": "De nombreux utilisateurs de l'opérateur Free rencontrent actuellement des difficultés techniques. Les abonnés constatent une baisse significative du débit sur leurs Freebox. Il ne s'agit pas d'une panne totale mais d'un ralentissement généralisé du réseau.",
+    "keywords": [
+      "free",
+      "freebox",
+      "panne",
+      "debit",
+      "internet"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "374546a1d571",
+    "title": "X-Files : cette fois c’est la bonne, le reboot est lancé et a trouvé sa plateforme",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2353347-x-files-cette-fois-cest-la-bonne-le-reboot-est-lance-et-a-trouve-sa-plateforme.html",
+    "pubDate": "2026-10-14T17:30:00.000Z",
+    "summary": "La plateforme américaine Hulu a officiellement validé la production d'une première saison complète pour le reboot de la série culte X-Files. Ce projet très attendu est piloté par le réalisateur Ryan Coogler, récemment récompensé aux Oscars pour son long-métrage Sinners. Les fans de science-fiction pourront ainsi retrouver prochainement l'univers mystérieux de cette franchise télévisée.",
+    "keywords": [
+      "x-files",
+      "hulu",
+      "ryan coogler",
+      "reboot",
+      "serie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "d7909dd6ab12",
     "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
     "source": "TechCrunch",
@@ -1438,63 +1495,6 @@
       "spacex",
       "internet",
       "militaire"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "cb4a6a894c3b",
-    "title": "Pour animer vos soirées, cette sono Panasonic de 320 watts RMS perd 110 € pendant seulement 24 heures",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3284723_pour-animer-vos-soirees-cette-sono-panasonic-de-320-watts-rms-perd-110-e-pendant-seulement-24-heures",
-    "pubDate": "2026-10-14T10:27:05.000Z",
-    "summary": "Amazon propose actuellement une promotion éclair sur l'enceinte nomade Panasonic SC-BMAX30. Cet appareil audio d'une puissance de 320 watts RMS bénéficie d'une réduction de 110 euros valable durant vingt-quatre heures. L'équipement se destine aux animations extérieures grâce à une autonomie maximale de quatorze heures et un format monté sur roulettes.",
-    "keywords": [
-      "panasonic",
-      "sc-bmax30",
-      "enceinte",
-      "amazon",
-      "promo"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6b67b2e680e9",
-    "title": "1 500 kW et plein en 5 minutes : les bornes monstres de BYD débarquent en Europe",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/byd/3284683_1-500-kw-et-plein-en-5-minutes-les-bornes-monstres-de-byd-debarquent-en-europe",
-    "pubDate": "2026-10-14T10:25:24.000Z",
-    "summary": "Le constructeur BYD déploie ses nouvelles bornes ultrarapides sur le marché européen. Ces infrastructures promettent de refaire le plein des véhicules électriques en un temps record. Une centaine de stations de recharge Flash Charging doivent voir le jour d'ici fin 2026.",
-    "keywords": [
-      "byd",
-      "flash charging",
-      "europe",
-      "borne de recharge",
-      "voiture electrique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f2cfe50ce343",
-    "title": "Des pirates exploitent trois failles dans les VPN Ivanti pour voler des identifiants et cibler les clés BitLocker",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634123-des-pirates-exploitent-trois-failles-dans-les-vpn-ivanti-pour-voler-des-identifiants-et-cibler-les-cles-bitlocker.html",
-    "pubDate": "2026-10-14T10:22:00.000Z",
-    "summary": "Des cybercriminels exploitent actuellement plusieurs failles critiques affectant les solutions VPN de la marque Ivanti. Cette intrusion permet aux attaquants de dérober des identifiants et de cibler des clés de chiffrement sans laisser de traces. L'outil officiel de vérification d'intégrité proposé par l'éditeur n'a malheureusement pas réussi à détecter ces attaques.",
-    "keywords": [
-      "ivanti",
-      "vpn",
-      "cybersecurite",
-      "faille",
-      "piratage"
     ],
     "aiDone": true,
     "coverage": 1,
