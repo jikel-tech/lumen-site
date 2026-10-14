@@ -1,5 +1,61 @@
 [
   {
+    "id": "30ee9cd76683",
+    "title": "Après Photoshop, ce développeur recrée Word, Excel et PowerPoint gratuitement avec l’IA",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634075-apres-photoshop-ce-developpeur-recree-word-excel-et-powerpoint-gratuitement-avec-l-ia.html",
+    "pubDate": "2026-10-14T05:10:00.000Z",
+    "summary": "Le développeur Brandon Thomas a mis en ligne trois logiciels libres nommés WordCraft, GridCraft et DeckCraft. Ces alternatives gratuites à Word, Excel et PowerPoint ont été conçues en langage Rust grâce à l'intelligence artificielle Claude Opus 5.5. Toutefois, ces clones ne sont pas encore prêts pour un usage quotidien selon les feuilles de route disponibles sur GitHub.",
+    "keywords": [
+      "brandon thomas",
+      "wordcraft",
+      "claude opus",
+      "rust",
+      "logiciel libre"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4de37b7a8104",
+    "title": "Nvidia investit dans Doctolib pour accélérer le développement de son IA médicale",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634069-nvidia-investit-dans-doctolib-pour-accelerer-le-developpement-de-son-ia-medicale.html",
+    "pubDate": "2026-10-14T05:00:00.000Z",
+    "summary": "Nvidia réalise un investissement minoritaire dans la plateforme française Doctolib. Cet accord financier vise à stimuler la création de technologies médicales basées sur l'intelligence artificielle. La jeune pousse utilisera ces fonds pour embaucher du personnel et entraîner ses modèles en territoire européen.",
+    "keywords": [
+      "nvidia",
+      "doctolib",
+      "intelligence artificielle",
+      "sante",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "749ec8b80793",
+    "title": "Patch Tuesday d'octobre : record de 1 411 failles corrigées, dont un zero-day Windows déjà exploité",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634072-patch-tuesday-d-octobre-record-de-1-411-failles-corrigees-dont-un-zero-day-windows-deja-exploite.html",
+    "pubDate": "2026-10-14T04:45:00.000Z",
+    "summary": "Microsoft a corrigé un nombre record de failles informatiques lors de son Patch Tuesday d'octobre. Cette mise à jour corrige notamment une vulnérabilité de Windows qui était déjà exploitée par des pirates. L'entreprise américaine a utilisé l'intelligence artificielle pour identifier ces milliers de brèches de sécurité.",
+    "keywords": [
+      "microsoft",
+      "windows",
+      "patch tuesday",
+      "cybersecurite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e3b2921f72f2",
     "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
     "source": "TechCrunch",
@@ -1435,63 +1491,6 @@
       "zelda",
       "cultura",
       "pochette"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c8ede8b3e788",
-    "title": "Kaspersky en panne : une troublante coïncidence avec les frappes contre Yandex en Russie",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3283505_antivirus-kaspersky-en-panne-pourquoi-tout-le-monde-regarde-vers-yandex",
-    "pubDate": "2026-10-13T13:53:31.000Z",
-    "summary": "Plusieurs services de la marque Kaspersky subissent des perturbations techniques depuis le week-end dernier. Cette panne survient curieusement en même temps que des attaques de drones contre des centres de données de l'entreprise Yandex en Russie. L'éditeur de l'antivirus rappelle toutefois que ses données sont hébergées en Suisse depuis huit ans.",
-    "keywords": [
-      "kaspersky",
-      "yandex",
-      "russie",
-      "panne",
-      "vpn"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "48866c22a637",
-    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "pubDate": "2026-10-13T13:50:19.000Z",
-    "summary": "SpaceXSI lance une offre groupée combinant X Premium, l'intelligence artificielle Grok et l'éditeur de code Cursor. Cette nouvelle formule d'abonnement est proposée à des tarifs variant de 8 à 200 dollars par mois. Elle rassemble ainsi plusieurs services payants de la plateforme et des outils technologiques avancés.",
-    "keywords": [
-      "spacexsi",
-      "x premium",
-      "grok",
-      "cursor",
-      "abonnement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b64c605e5e54",
-    "title": "Apple TV 4K : Siri devient plus intelligent, les nouveautés s'accumulent… et la facture s'envole",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633967-apple-tv-4k-siri-devient-plus-intelligent-les-nouveautes-s-accumulent-et-la-facture-s-envole.html",
-    "pubDate": "2026-10-13T13:44:00.000Z",
-    "summary": "Quatre ans après le dernier modèle, Apple a dévoilé une nouvelle version de son boîtier multimédia Apple TV 4K. Ce nouveau dispositif gagne en puissance et intègre des fonctionnalités améliorées pour l'assistant vocal Siri. Ces annonces s'accompagnent toutefois d'une hausse notable du prix de vente.",
-    "keywords": [
-      "apple",
-      "apple tv 4k",
-      "siri",
-      "streaming",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
