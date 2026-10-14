@@ -1,5 +1,24 @@
 [
   {
+    "id": "7f74d52e19fb",
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "pubDate": "2026-10-14T19:51:34.000Z",
+    "summary": "La startup Ambrosia Energy va implanter une grande usine de batteries au Texas. Cette installation servira à alimenter en continu des centres de données hors réseau grâce à l'énergie solaire. Le projet prévoit une capacité de production totale de dix gigawattheures.",
+    "keywords": [
+      "ambrosia energy",
+      "batterie",
+      "texas",
+      "data center",
+      "energie solaire"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "0a37cca837c8",
     "title": "Hiyd is a health tracker that attaches to the watch you already wear",
     "source": "TechCrunch",
@@ -1475,25 +1494,6 @@
       "renault",
       "robot",
       "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2d74b9537cc1",
-    "title": "Cette réduction de 150€ sur l'Epson EcoTank ET-2955 permet de passer en douceur à une imprimante à réservoir",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-634096-cette-reduction-de-150-sur-l-epson-ecotank-et-2955-permet-de-passer-en-douceur-a-une-imprimante-a-reservoir.html",
-    "pubDate": "2026-10-14T11:10:00.000Z",
-    "summary": "Amazon propose actuellement une remise de 150 euros sur l'imprimante Epson EcoTank ET-2955. Ce modèle fonctionne avec des réservoirs d'encre rechargeables directement au lieu des cartouches traditionnelles. Le prix de l'appareil passe ainsi de 360 euros à 209,99 euros.",
-    "keywords": [
-      "epson",
-      "ecotank",
-      "imprimante",
-      "amazon",
-      "reduction"
     ],
     "aiDone": true,
     "coverage": 1,
