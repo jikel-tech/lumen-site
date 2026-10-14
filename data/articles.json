@@ -1,5 +1,99 @@
 [
   {
+    "id": "d7909dd6ab12",
+    "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+    "pubDate": "2026-10-14T17:00:00.000Z",
+    "summary": "L'entreprise Mosqitter transforme ses pièges à moustiques en un réseau de surveillance intelligent. Cette technologie intègre une intelligence artificielle pour identifier les espèces et analyser les populations locales. Elle permet ainsi d'anticiper plus rapidement les risques de propagation de maladies.",
+    "keywords": [
+      "mosqitter",
+      "intelligence artificielle",
+      "moustiques",
+      "sante publique",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "3e7a4a05b24c",
+    "title": "Oppo Find X10 Pro Max vs Find X9 Ultra : ses trois capteurs de 200 MP suffisent-ils à détrôner le roi de la photo ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/versus/3284855_oppo-find-x10-pro-max-vs-find-x9-ultra-ses-trois-capteurs-de-200-mp-suffisent-ils-a-detroner-le-roi-de-la-photo",
+    "pubDate": "2026-10-14T16:53:48.000Z",
+    "summary": "Le test confronte les capacités photographiques du nouveau smartphone Find X10 Pro Max de la marque Oppo à celles de ses prédécesseurs. Cet appareil intègre notamment trois capteurs photo de 200 mégapixels chacun pour capturer des images. L'analyse permet de mesurer les véritables progrès réalisés par le constructeur dans ce domaine.",
+    "keywords": [
+      "oppo",
+      "find x10 pro max",
+      "smartphone",
+      "photo",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "df14cf0c1e36",
+    "title": "Call of Duty: Modern Warfare 4, un jeu gourmand sur PC",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/3284973_call-of-duty-modern-warfare-4-un-jeu-gourmand-sur-pc",
+    "pubDate": "2026-10-14T16:45:00.000Z",
+    "summary": "La célèbre franchise Call of Duty s'enrichit d'un nouvel épisode intitule Modern Warfare. Ce titre d'action propose à la fois une campagne solo immersive et des modes multijoueur. Les joueurs pourront y jouer sur consoles ainsi que sur PC.",
+    "keywords": [
+      "call of duty",
+      "modern warfare",
+      "jeu video",
+      "pc",
+      "multijoueur"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e69852966147",
+    "title": "Nigeria’s identity agency says its database is locally hosted and managed by staff",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/",
+    "pubDate": "2026-10-14T16:39:39.000Z",
+    "summary": "L'agence d'identité nigériane affirme que sa base de données nationale est hébergée sur place et gérée par son personnel. Cependant, la multiplication des connexions d'autres agences soulève des questions sur la protection des données personnelles. La sécurité des citoyens repose désormais sur des contrôles d'accès rigoureux et une véritable responsabilisation.",
+    "keywords": [
+      "nimc",
+      "nigeria",
+      "donnees",
+      "identite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "66c125f5998a",
+    "title": "On ne les arrête plus ! Ariane 6 repart avec 36 nouveaux satellites Amazon Leo d'ici fin novembre",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634249-on-ne-les-arrete-plus-ariane-6-repart-avec-36-nouveaux-satellites-amazon-leo-d-ici-fin-novembre.html",
+    "pubDate": "2026-10-14T16:33:00.000Z",
+    "summary": "Le lanceur européen Ariane 6 s'apprête à réaliser un nouveau vol depuis Kourou. La mission consistera à transporter 36 satellites pour le compte d'Amazon Leo. Ce dixième lancement programmé pour fin novembre utilisera la version la plus puissante du lanceur.",
+    "keywords": [
+      "ariane 6",
+      "arianespace",
+      "amazon leo",
+      "kourou",
+      "spatial"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "8b508563dc83",
     "title": "Pour être en Samsung de la tête aux pieds, ce pack avec le Galaxy S26 FE et les Galaxy Buds 3 FE est à 649€",
     "source": "Clubic",
@@ -1401,98 +1495,6 @@
       "cybersecurite",
       "faille",
       "piratage"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d7ecde7babd6",
-    "title": "Sosh annonce une augmentation de prix sur un forfait : attention, vous pouvez refuser",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/orange/3284835_sosh-annonce-une-augmentation-de-prix-sur-un-forfait-attention-vous-pouvez-refuser",
-    "pubDate": "2026-10-14T10:16:24.000Z",
-    "summary": "L'opérateur Sosh informe certains abonnés d'une hausse tarifaire sur leur offre mobile actuelle. Les clients concernés ont la possibilité de s'opposer à cette modification tarifaire. Cette communication est envoyée directement par courrier électronique aux utilisateurs touchés.",
-    "keywords": [
-      "sosh",
-      "forfait mobile",
-      "augmentation de prix",
-      "telecom"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3955faea8438",
-    "title": "C'est du jamais vu : un TV Samsung 4K QLED de 65\" pour 440€, idéal pour profiter des films et séries",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/bons-plans-634111-c-est-du-jamais-vu-un-tv-samsung-4k-qled-de-65-pour-440-ideal-pour-profiter-des-films-et-series.html",
-    "pubDate": "2026-10-14T10:05:00.000Z",
-    "summary": "Le site marchand Joybuy propose actuellement une réduction sur le téléviseur Samsung QE65Q7FAAU. Ce modèle QLED d'entrée de gamme affiche une diagonale de 65 pouces et une fréquence de 60 Hz. Son prix passe ainsi exceptionnellement sous la barre des 440 euros.",
-    "keywords": [
-      "samsung",
-      "tv qled",
-      "joybuy",
-      "bon plan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a7fa6343c37b",
-    "title": "Pour défier le FSD de Tesla, BYD lance sa conduite autonome God’s Eye en Europe dès 2027",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/marques/denza/3284441_pour-defier-le-fsd-de-tesla-byd-lance-sa-conduite-autonome-gods-eye-en-europe-des-2027",
-    "pubDate": "2026-10-14T10:01:46.000Z",
-    "summary": "Le constructeur automobile BYD prévoit d'introduire son système de conduite semi-autonome God's Eye en Europe. La future Denza Z9 GT sera le premier véhicule électrique de la marque à bénéficier de cette technologie. Le lancement officiel de ce dispositif est programmé pour l'année 2027.",
-    "keywords": [
-      "byd",
-      "god's eye",
-      "denza z9 gt",
-      "europe",
-      "conduite autonome"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "7f20a7e6aaa2",
-    "title": "Écran OLED délavé sur les Googlebook : le problème vient du logiciel et Google prépare un patch",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/google/3284697_ecran-oled-delave-sur-les-googlebook-le-probleme-vient-du-logiciel-et-google-prepare-un-patch",
-    "pubDate": "2026-10-14T09:53:06.000Z",
-    "summary": "Des utilisateurs constatent que les zones noires de certains ordinateurs portables affichent une teinte gris foncé au chargement du système. Ce défaut d'affichage concerne des modèles équipés d'un écran OLED fabriqués par Acer et Lenovo. Google a identifié la cause technique de ce dysfonctionnement et annonce le déploiement prochain d'un correctif.",
-    "keywords": [
-      "google",
-      "oled",
-      "acer",
-      "lenovo",
-      "correctif"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c0e44bfd9695",
-    "title": "Volkswagen ID. Tiguan électrique : pourquoi la version 286 ch à 46 990 euros est la seule configuration à viser",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/volkswagen/3284739_volkswagen-id-tiguan-electrique-pourquoi-la-version-286-ch-a-46-990-euros-est-la-seule-configuration-a-viser",
-    "pubDate": "2026-10-14T09:53:00.000Z",
-    "summary": "Volkswagen lance officiellement les commandes de son nouveau modèle ID. Tiguan sur le marché français. La variante de 286 chevaux dotée de la grande batterie est affichée au tarif de 46 990 euros. Ce positionnement tarifaire permet à cette configuration spécifique de bénéficier de la prime écologique.",
-    "keywords": [
-      "volkswagen",
-      "id tiguan",
-      "voiture electrique",
-      "france"
     ],
     "aiDone": true,
     "coverage": 1,
