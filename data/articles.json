@@ -1,5 +1,23 @@
 [
   {
+    "id": "98efbaf49dfd",
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+    "pubDate": "2026-10-14T23:00:00.000Z",
+    "summary": "La startup Intero Biosystems commercialise des intestins humains cultivés en laboratoire destinés à l'industrie pharmaceutique. Cette technologie d'organoïdes répond aux exigences des régulateurs qui encouragent le remplacement des tests sur les animaux. L'entreprise cherche désormais à développer sa production à grande échelle.",
+    "keywords": [
+      "intero biosystems",
+      "organoides",
+      "biotechnologie",
+      "sante"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "36485a811606",
     "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
     "source": "TechCrunch",
@@ -1477,25 +1495,6 @@
       "agriculture",
       "côte d'ivoire",
       "numérique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "20040f9eda6f",
-    "title": "Valve arrête officiellement le Valve Index après 7 ans : derniers stocks en promo",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634126-valve-arrete-officiellement-le-valve-index-apres-7-ans-derniers-stocks-en-promo.html",
-    "pubDate": "2026-10-14T12:16:00.000Z",
-    "summary": "Valve officialise l'arrêt définitif de son casque de réalité virtuelle après sept ans d'existence sur le marché. La fabrication de l'appareil avait déjà été interrompue à la fin de l'année précédente. Les derniers exemplaires disponibles bénéficient actuellement de réductions tarifaires.",
-    "keywords": [
-      "valve",
-      "valve index",
-      "réalité virtuelle",
-      "casque vr",
-      "gaming"
     ],
     "aiDone": true,
     "coverage": 1,
