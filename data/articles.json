@@ -1,5 +1,98 @@
 [
   {
+    "id": "60d29122adf1",
+    "title": "Apple nous avait promis un redesign de son app Santé ... finalement, ça attendra",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634174-apple-nous-avait-promis-un-redesign-de-son-app-sante-finalement-ca-attendra.html",
+    "pubDate": "2026-10-14T12:29:00.000Z",
+    "summary": "Apple a finalement suspendu la refonte prévue de son application Santé. Ce changement esthétique devait initialement apparaître dans la mise à jour iOS 27.2. L'application conserve donc son interface visuelle d'origine pour le moment.",
+    "keywords": [
+      "apple",
+      "sante",
+      "ios",
+      "application"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "8fcab867626b",
+    "title": "En Côte d’Ivoire, Makany Touré numérise l'approvisionnement en vivres frais",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/tech-stars/en-cote-d-ivoire-makany-toure-numerise-lapprovisionnement-en-vivres-frais",
+    "pubDate": "2026-10-14T12:27:03.000Z",
+    "summary": "Makany Touré modernise la chaîne d'approvisionnement des produits frais en Côte d'Ivoire. L'entrepreneure a fondé la plateforme numérique AfterMarket pour simplifier la distribution agricole locale. Cet outil technologique relie directement les producteurs aux professionnels de la restauration.",
+    "keywords": [
+      "makany touré",
+      "aftermarket",
+      "agriculture",
+      "côte d'ivoire",
+      "numérique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "20040f9eda6f",
+    "title": "Valve arrête officiellement le Valve Index après 7 ans : derniers stocks en promo",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634126-valve-arrete-officiellement-le-valve-index-apres-7-ans-derniers-stocks-en-promo.html",
+    "pubDate": "2026-10-14T12:16:00.000Z",
+    "summary": "Valve officialise l'arrêt définitif de son casque de réalité virtuelle après sept ans d'existence sur le marché. La fabrication de l'appareil avait déjà été interrompue à la fin de l'année précédente. Les derniers exemplaires disponibles bénéficient actuellement de réductions tarifaires.",
+    "keywords": [
+      "valve",
+      "valve index",
+      "réalité virtuelle",
+      "casque vr",
+      "gaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "994a2be622f9",
+    "title": "Midea PortaSplit : le climatiseur mobile star de l’été revient en stock et même en promotion",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3256589_midea-portasplit-le-climatiseur-mobile-star-de-lete-revient-en-stock-et-meme-en-promotion",
+    "pubDate": "2026-10-14T12:08:21.000Z",
+    "summary": "Le climatiseur mobile réversible Midea PortaSplit est de nouveau disponible chez plusieurs distributeurs. Ce modèle populaire bénéficie en outre de réductions de prix temporaires selon les enseignes. Les consommateurs peuvent ainsi se procurer cet appareil très recherché pour la saison estivale.",
+    "keywords": [
+      "midea",
+      "portasplit",
+      "climatiseur",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2af9d34233eb",
+    "title": "Hausse des prix de la RAM, délais rallongés et pénurie, tout comprendre à la crise de la RAM",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/2912661_hausse-des-prix-delais-rallonges-et-penurie-tout-ce-quil-faut-comprendre-de-la-crise-de-la-ram",
+    "pubDate": "2026-10-14T12:00:01.000Z",
+    "summary": "Le marché mondial subit actuellement une importante crise de la mémoire RAM caractérisée par des hausses tarifaires. Cette situation provoque des retards de livraison notables et touche directement le secteur informatique grand public. D'autres équipements technologiques risquent également d'être impactés par cette pénurie progressive.",
+    "keywords": [
+      "ram",
+      "pénurie",
+      "composants",
+      "technologie",
+      "crise"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "713ae9542d88",
     "title": "Du neuf en matière de GPU en 2027 ? La GeForce RTX 5080 24 Go viserait début 2027",
     "source": "Clubic",
@@ -922,7 +1015,7 @@
   },
   {
     "id": "a5d43d08bc7c",
-    "title": "Remote Reaper : ce jeu de drone a été conçu avec des pilotes militaires ukrainiens, et ça se voit",
+    "title": "Ce jeu vidéo ukrainien reproduit la guerre des drones FPV avec l’aide de pilotes du front",
     "source": "Numerama",
     "category": "culture",
     "url": "https://www.numerama.com/tech/2352853-remote-reaper-ce-jeu-de-drone-a-ete-concu-avec-des-pilotes-militaires-ukrainiens-et-ca-se-voit.html",
@@ -1399,98 +1492,6 @@
       "homeview",
       "ecran connecte",
       "europe"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b3cf36cbd1e9",
-    "title": "La PS5 jailbreakée peut maintenant faire tourner le Xbox Cloud Gaming",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2352789-la-ps5-jailbreakee-peut-maintenant-faire-tourner-le-xbox-cloud-gaming.html",
-    "pubDate": "2026-10-14T07:15:25.000Z",
-    "summary": "Un développeur brésilien a créé une application permettant d'exécuter le service Xbox Cloud Gaming sur une console PlayStation 5 modifiée. Ce programme, baptisé PSBox Cloud Gaming, tire notamment parti des capacités de l'intelligence artificielle Claude. Cette prouesse technique rapproche les écosystèmes concurrents de Microsoft et de Sony.",
-    "keywords": [
-      "ps5",
-      "xbox cloud gaming",
-      "jailbreak",
-      "sony",
-      "claude"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e19f29b47aaa",
-    "title": "Street Fighter : que signifie la scène post-générique ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2352797-street-fighter-que-signifie-la-scene-post-generique.html",
-    "pubDate": "2026-10-14T07:07:41.000Z",
-    "summary": "Le long-métrage Street Fighter sort dans les salles obscures ce mercredi 14 octobre. Une scène inédite placée après le générique vient d'être dévoilée au public. Cette séquence finale suggère la possibilité d'une suite pour la franchise.",
-    "keywords": [
-      "street fighter",
-      "film",
-      "cinema",
-      "scene post generique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e486a5c028ec",
-    "title": "TF1+ sur Netflix : un partenariat déjà gagnant",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/services/svod/3283999_tf1-sur-netflix-les-heures-vues-progressent-de-30-depuis-juin",
-    "pubDate": "2026-10-14T06:54:00.000Z",
-    "summary": "Quatre mois après son lancement en juin, le partenariat entre TF1 et Netflix livre ses premiers résultats positifs. Le groupe enregistre une hausse de trente pour cent des heures de visionnage sur un an pour sa plateforme TF1+. De plus, un abonné Netflix sur deux a visionné au moins un programme du catalogue.",
-    "keywords": [
-      "tf1",
-      "netflix",
-      "streaming",
-      "partenariat"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ee69c6c5b0f1",
-    "title": "100 euros par an : Withings verrouille l’export vers Apple Santé et Google derrière son abonnement Withings+",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3283957_100-euros-par-an-withings-verrouille-lexport-vers-apple-sante-et-google-derriere-son-abonnement-withings",
-    "pubDate": "2026-10-14T06:46:41.000Z",
-    "summary": "La marque Withings impose désormais un abonnement payant pour synchroniser les données de santé. Cette option concerne uniquement la transmission vers Apple Santé et Google Santé Connect pour les nouveaux utilisateurs. Les anciens clients conservent toutefois un accès gratuit à cette fonctionnalité.",
-    "keywords": [
-      "withings",
-      "apple sante",
-      "google sante connect",
-      "abonnement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "90595d41c5b4",
-    "title": "L'IA va-t-elle faire grimper la facture d'électricité en Europe ?",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634015-l-ia-va-t-elle-faire-grimper-la-facture-d-electricite-en-europe.html",
-    "pubDate": "2026-10-14T06:42:00.000Z",
-    "summary": "Le développement massif de l'intelligence artificielle risque d'alourdir significativement la facture d'électricité en Europe. Aux Pays-Bas et en Irlande, les centres de données pourraient absorber respectivement jusqu'à 17 et 30 pour cent de l'énergie totale d'ici 2035. Les investissements colossaux requis pour développer les infrastructures électriques nécessaires seront probablement répercutés sur les consommateurs.",
-    "keywords": [
-      "intelligence artificielle",
-      "datacenter",
-      "electricite",
-      "europe",
-      "energie"
     ],
     "aiDone": true,
     "coverage": 1,
