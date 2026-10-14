@@ -1,5 +1,61 @@
 [
   {
+    "id": "9465f3c2879e",
+    "title": "Fairbuds 2 : des écouteurs avec batterie facilement remplaçable",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/fairphone/3284289_fairbuds-2-des-ecouteurs-avec-batterie-facilement-remplacable",
+    "pubDate": "2026-10-14T11:00:00.000Z",
+    "summary": "Fairphone officialise les Fairbuds 2, des écouteurs sans fil affichés à un prix plus accessible que la version précédente. Ce modèle intègre sept composants remplaçables pour favoriser la durabilité ainsi qu'une autonomie globale de quarante heures. Les utilisateurs profitent également de technologies modernes telles que le Bluetooth 6.0 et le codec LDAC.",
+    "keywords": [
+      "fairphone",
+      "fairbuds 2",
+      "ecouteurs sans fil",
+      "audio"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "9931ca009c40",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "pubDate": "2026-10-14T11:00:00.000Z",
+    "summary": "La start-up Scimplify vient de lever 25 millions de dollars pour concurrencer la Chine sur le marché des matériaux critiques. Grâce à l'intelligence artificielle, l'entreprise ambitionne de renforcer sa position tout en préparant son expansion aux États-Unis. Ses revenus annualisés ont ainsi triplé pour atteindre 200 millions de dollars.",
+    "keywords": [
+      "scimplify",
+      "intelligence artificielle",
+      "materiaux critiques",
+      "chine",
+      "etats-unis"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "bf265c02cb21",
+    "title": "Amazon veut aussi défier Starlink sur le terrain militaire, et teste son Internet satellitaire avec l’armée US",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634114-amazon-veut-aussi-defier-starlink-sur-le-terrain-militaire-et-teste-son-internet-satellitaire-avec-l-armee-us.html",
+    "pubDate": "2026-10-14T10:45:00.000Z",
+    "summary": "Amazon a récemment évalué son service d'Internet par satellite en collaboration avec les forces armées américaines. Cette initiative marque l'entrée du géant technologique sur le marché de la défense militaire. L'entreprise cherche ainsi à concurrencer SpaceX, qui occupe déjà une place importante dans ce secteur.",
+    "keywords": [
+      "amazon",
+      "starlink",
+      "spacex",
+      "internet",
+      "militaire"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "cb4a6a894c3b",
     "title": "Pour animer vos soirées, cette sono Panasonic de 320 watts RMS perd 110 € pendant seulement 24 heures",
     "source": "Frandroid",
@@ -850,9 +906,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/google/3284165_les-pixel-vont-bientot-pouvoir-reparer-leurs-pannes-de-wi-fi-et-de-reseau-tout-seuls",
     "pubDate": "2026-10-14T08:18:58.000Z",
-    "summary": "Google teste sur ses Pixel de nouveaux outils de diagnostic pour les appels, le Wi-Fi et les données mobiles, cachés dans la première bêta d'Android 17 QPR3. Selon le problème, le téléphone tente de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google intègre de nouveaux outils de diagnostic dans la première bêta d'Android 17 QPR3 pour les smartphones Pixel. Ces fonctionnalités permettent aux appareils de détecter et de corriger de manière autonome les pannes de Wi-Fi, de réseau et d'appels. Cette innovation vise à simplifier la résolution des problèmes de connectivité directement sur le téléphone.",
+    "keywords": [
+      "google",
+      "pixel",
+      "android",
+      "wifi",
+      "diagnostic"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -863,9 +925,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634084-withings-fait-payer-une-fonction-essentielle-de-ses-objets-connectes-et-ca-risque-de-faire-grincer-des-dents.html",
     "pubDate": "2026-10-14T08:14:00.000Z",
-    "summary": "Withings vient de modifier les règles de synchronisation de ses données de santé avec les applications tierces. Une fonction jusqu’ici gratuite passe désormais par un abonnement, mais tous les…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La marque Withings a décidé de rendre payante une option de synchronisation de données pour certains de ses appareils connectés. Cette nouveauté impose désormais un abonnement pour lier ces informations à des plateformes tierces. Cette transition tarifaire suscite des inquiétudes et pourrait mécontenter une partie de sa communauté.",
+    "keywords": [
+      "withings",
+      "objet connecté",
+      "abonnement",
+      "santé"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -876,9 +943,14 @@
     "category": "culture",
     "url": "https://www.clubic.com/actualite-634081-plus-besoin-de-dire-sur-spotify-a-siri-avec-ios-27-sauf-dans-l-union-europeenne.html",
     "pubDate": "2026-10-14T08:11:00.000Z",
-    "summary": "Avec iOS 27, demander à Siri de mettre de la musique sur Spotify est plus fluide que jamais. Une fonctionnalité très utile dont les citoyens de l’Union européenne (UE) vont encore devoir se passer.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La mise à jour iOS 27 améliore nettement l'intégration de Spotify avec l'assistant vocal Siri. Cette nouvelle fonctionnalité facilite grandement la lecture de musique en arrière-plan. Malheureusement, les utilisateurs résidant dans l'Union européenne ne pourront pas en profiter.",
+    "keywords": [
+      "ios 27",
+      "siri",
+      "spotify",
+      "union europeenne"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -889,9 +961,14 @@
     "category": "ia",
     "url": "https://www.numerama.com/tech/2352825-un-micro-cache-dans-du-papier-toilette-chez-openai-un-ingenieur-saoudien-arrete-par-le-fbi.html",
     "pubDate": "2026-10-14T08:05:30.000Z",
-    "summary": "Un ingénieur d’OpenAI a été arrêté après la découverte d’un dispositif d’écoute dans une salle de réunion de la direction. L’entreprise affirme que ses propres modèles ont contribué à l’identifier,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un ingénieur saoudien travaillant chez OpenAI a été appréhendé par le FBI. Un appareil d'écoute avait été dissimulé dans du papier toilette au sein d'une salle de réunion. Les technologies de l'entreprise ont permis d'aider à identifier le suspect.",
+    "keywords": [
+      "openai",
+      "fbi",
+      "espionnage",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -902,9 +979,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2352849-ce-chauffage-connecte-philips-perd-20-sur-amazon-avant-les-premiers-froids.html",
     "pubDate": "2026-10-14T08:03:59.000Z",
-    "summary": "[Deal du jour] Les matinées fraîchissent et le chauffage central n'est pas toujours rallumé. Amazon fait passer le chauffage d'appoint connecté Philips CX5120/11, qui monte jusqu'à 2 000 watts, à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose une réduction sur le chauffage d'appoint connecté de la marque Philips. L'appareil atteint une puissance maximale de deux mille watts. Son prix passe ainsi sous la barre des quatre-vingts euros pour anticiper les premiers froids.",
+    "keywords": [
+      "philips",
+      "chauffage",
+      "amazon",
+      "deal",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -915,9 +998,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3243359_le-prix-de-cet-ecran-pc-gamer-oled-240-hz-signe-lg-degringole-de-42-pourcents-sur-amazon",
     "pubDate": "2026-10-14T07:59:00.000Z",
-    "summary": "Fluidité maximale, temps de réponse réduit, noirs profonds... L'écran PC gamer OLED LG UltraGear 27GX704A-B s'adresse aux gamers les plus exigeants. Mais aussi à celles et ceux qui ont un budget…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site Amazon propose actuellement une réduction importante sur un moniteur pour joueurs de la marque LG. Cet affichage OLED à haute fréquence bénéficie en effet d'une baisse tarifaire notable atteignant quarante-deux pour cent. Ce modèle UltraGear cible principalement les utilisateurs recherchant de la fluidité et des contrastes marqués.",
+    "keywords": [
+      "lg",
+      "ultragear",
+      "oled",
+      "amazon",
+      "ecran gamer"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1403,63 +1492,6 @@
       "one ui",
       "confidentialite",
       "smartphone"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "adbda2b7b2d3",
-    "title": "Les jaquettes iconiques de GTA sont nées à cause du 11 septembre",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2352785-les-jaquettes-iconiques-de-gta-sont-nees-a-cause-du-11-septembre.html",
-    "pubDate": "2026-10-14T06:20:11.000Z",
-    "summary": "Dan Houser de Rockstar Games s'est récemment confié à IGN sur l'histoire de Grand Theft Auto. L'ancien dirigeant a révélé que les attaques du 11 septembre 2001 ont directement influencé la création de la célèbre jaquette de GTA III. Cet entretien rare met en lumière les répercussions de cet événement historique sur la conception visuelle du jeu vidéo.",
-    "keywords": [
-      "rockstar games",
-      "gta",
-      "dan houser",
-      "11 septembre",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e2397755c967",
-    "title": "👨🏿‍🚀TechCabal Daily – Microsoft closes a Window in Nairobi",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/14/techcabal-daily-microsoft-closes-a-window-in-nairobi/",
-    "pubDate": "2026-10-14T06:15:15.000Z",
-    "summary": "Le géant de la technologie Microsoft a décidé de fermer son centre de développement situé à Nairobi. Cette décision marque un tournant pour les activités de l'entreprise américaine sur le continent africain. Les détails concernant les répercussions de cette fermeture sur les employés locaux n'ont pas été précisés.",
-    "keywords": [
-      "microsoft",
-      "nairobi",
-      "techcabal",
-      "afrique",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a32709f72c4b",
-    "title": "Le programme Her Startup lance les candidatures pour sa deuxième promotion",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-une/le-programme-her-startup-lance-les-candidatures-pour-sa-deuxieme-promotion",
-    "pubDate": "2026-10-14T06:09:29.000Z",
-    "summary": "Le programme Her Startup ouvre les candidatures pour recruter sa deuxième promotion de jeunes entreprises. Cette initiative accompagne dix fondatrices en Afrique à travers des formations et des financements. Le projet cible les femmes de 18 à 35 ans afin de réduire les inégalités d'accès au capital.",
-    "keywords": [
-      "her startup",
-      "afrique",
-      "entrepreneuriat",
-      "femmes",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
