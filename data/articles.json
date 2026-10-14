@@ -1,5 +1,42 @@
 [
   {
+    "id": "75a64d3caa0e",
+    "title": "Electric vehicle sales in the U.S. are showing signs of life",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "pubDate": "2026-10-14T20:12:07.000Z",
+    "summary": "Le marché américain des véhicules électriques montre des signes encourageants de reprise. Les ventes de voitures propres progressent régulièrement depuis trois trimestres consécutifs aux États-Unis. Cette dynamique positive témoigne d'un intérêt grandissant des automobilistes pour la mobilité électrique.",
+    "keywords": [
+      "vehicules electriques",
+      "marche automobile",
+      "etats-unis",
+      "ventes"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d7d6b3ea0de5",
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+    "pubDate": "2026-10-14T20:00:00.000Z",
+    "summary": "La startup allemande TimeTeller a conçu un kit de test salivaire permettant d'analyser le rythme circadien de chaque individu. Ce dispositif innovant a pour objectif principal de limiter les effets secondaires indésirables des traitements anticancéreux. Cette solution médicale personnalisée s'appuie sur une meilleure compréhension de notre horloge biologique interne.",
+    "keywords": [
+      "timeteller",
+      "sante",
+      "cancer",
+      "medecine personnalisee",
+      "allemagne"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "7f74d52e19fb",
     "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
     "source": "TechCrunch",
@@ -1456,44 +1493,6 @@
       "switch 2",
       "jeux physiques",
       "sony"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "1ee3244ace6b",
-    "title": "Orange baisse le prix de ce forfait mobile avec 200 Go de 5G, mais pas pour tout le monde",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3281687_orange-baisse-le-prix-de-ce-forfait-mobile-avec-200-go-de-5g-mais-pas-pour-tout-le-monde",
-    "pubDate": "2026-10-14T11:18:00.000Z",
-    "summary": "L'opérateur Orange réduit le tarif de son abonnement mobile 5G doté d'une enveloppe de 200 Go. Cette offre promotionnelle à 15,99 euros par mois est exclusivement réservée aux jeunes âgés de 18 à 26 ans. La réduction tarifaire s'applique automatiquement jusqu'à la date du vingt-septième anniversaire de l'abonné.",
-    "keywords": [
-      "orange",
-      "forfait mobile",
-      "5g",
-      "cheat code",
-      "telephonie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "03d5c13db956",
-    "title": "Wandercraft ouvre son usine de robots humanoïdes en plein Paris et dévoile ses folles ambitions",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634144-wandercraft-ouvre-son-usine-de-robots-humanoides-en-plein-paris-et-devoiles-ses-folles-ambitions.html",
-    "pubDate": "2026-10-14T11:12:00.000Z",
-    "summary": "La société française Wandercraft a inauguré son nouveau siège parisien dédié à la fabrication de robots humanoïdes. L'usine produira notamment le modèle Calvin, dont plusieurs centaines d'exemplaires sont commandés par Renault pour l'horizon 2027. La start-up affiche ainsi clairement son ambition de s'imposer comme le leader mondial de cette industrie technologique.",
-    "keywords": [
-      "wandercraft",
-      "calvin",
-      "renault",
-      "robot",
-      "france"
     ],
     "aiDone": true,
     "coverage": 1,
