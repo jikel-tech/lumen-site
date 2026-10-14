@@ -1,5 +1,287 @@
 [
   {
+    "id": "a37a809042f9",
+    "title": "Withings fait payer l’accès à vos propres données : une décision incompréhensible à la limite de la légalité",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2352859-withings-fait-payer-lacces-a-vos-propres-donnees-une-decision-incomprehensible-a-la-limite-de-la-legalite.html",
+    "pubDate": "2026-10-14T07:56:02.000Z",
+    "summary": "La marque française Withings impose un abonnement payant pour synchroniser les données de santé des nouveaux clients. Cette option nommée Withings+ est facturée 9,99 euros par mois pour l'export vers des plateformes tierces. Les utilisateurs historiques échappent pour l'instant à cette mesure jugée très contestable.",
+    "keywords": [
+      "withings",
+      "withings+",
+      "sante",
+      "montre connectee",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "9a736b497a94",
+    "title": "Paris Audio Video Show 2026 : Frandroid vous offre vos billets pour le grand salon hi-fi et home cinéma",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/produits-android/tv-connectee-produits/3284101_paris-audio-video-show-2026-frandroid-vous-offre-vos-billets-pour-le-grand-salon-hi-fi-et-home-cinema",
+    "pubDate": "2026-10-14T07:55:53.000Z",
+    "summary": "Le Paris Audio Video Show se tiendra les 24 et 25 octobre 2026 pour présenter les dernières innovations en matière d'image et de son. De nombreuses marques y exposeront leurs nouveautés technologiques en première mondiale. Le média Frandroid propose à ses lecteurs de remporter des places gratuites pour assister à cet événement.",
+    "keywords": [
+      "paris audio video show",
+      "frandroid",
+      "hi-fi",
+      "home cinema",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4aaa9e7048ad",
+    "title": "Doctolib fait entrer Nvidia à son capital, pour un montant tenu secret",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/nvidia/3283903_doctolib-pigment-genesis-ai-entalpic-nvidia-fait-ses-courses-en-france",
+    "pubDate": "2026-10-14T07:55:17.000Z",
+    "summary": "Le géant américain Nvidia a pris une participation minoritaire au capital de Doctolib. Le PDG Jensen Huang a officialisé cette implantation lors de son passage à Paris. L'entreprise investit également dans trois autres startups françaises spécialisées dans l'intelligence artificielle.",
+    "keywords": [
+      "nvidia",
+      "doctolib",
+      "intelligence artificielle",
+      "france",
+      "investissement"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c87dcc238ffa",
+    "title": "Android Auto change (bientôt) de look : ce que l'on sait de la nouvelle interface « Cielo »",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-634080-android-auto-change-bientot-de-look-ce-que-l-on-sait-de-la-nouvelle-interface-cielo.html",
+    "pubDate": "2026-10-14T07:53:00.000Z",
+    "summary": "La version bêta 18.9 d'Android Auto prépare l'arrivée d'une interface inédite. Baptisée Cielo, cette nouveauté met l'accent sur les options de personnalisation. Les utilisateurs découvrent ainsi les premiers indices de ce changement visuel majeur.",
+    "keywords": [
+      "android auto",
+      "cielo",
+      "interface",
+      "google"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f549d90ed087",
+    "title": "« Le navigateur le plus rapide du monde ». Après Microsoft, c’est au tour d’Apple de s’en prendre à Chrome",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/apple/3284167_le-navigateur-le-plus-rapide-du-monde-apres-microsoft-cest-au-tour-dapple-de-sen-prendre-a-chrome",
+    "pubDate": "2026-10-14T07:49:53.000Z",
+    "summary": "Apple critique directement le navigateur Chrome de Google dans le cadre d'une nouvelle campagne promotionnelle. La firme cherche à valoriser son propre outil Safari face au leader incontournable du marché. Microsoft avait également mené des attaques similaires par le passé pour concurrencer ce géant du web.",
+    "keywords": [
+      "apple",
+      "google",
+      "chrome",
+      "safari",
+      "navigateur"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "156f0fffc7eb",
+    "title": "3 batteries, 7 places et 1 500 watts : ce tricycle électrique est dans la démesure totale",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/3284105_3-batteries-7-places-et-1-500-watts-ce-tricycle-electrique-est-dans-la-demesure-totale",
+    "pubDate": "2026-10-14T07:45:45.000Z",
+    "summary": "La marque SixThreeZero commercialise aux États-Unis un tricycle électrique baptisé Long Range Luxury Rickshaw. Ce véhicule hors norme peut transporter jusqu'à sept personnes grâce à l'ajout de remorques. Il intègre également trois batteries totalisant une capacité de 7 296 Wh.",
+    "keywords": [
+      "sixthreezero",
+      "tricycle électrique",
+      "long range luxury rickshaw",
+      "mobilité",
+      "états-unis"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b6cbc92e4219",
+    "title": "Un ingénieur d'OpenAI arrêté pour avoir caché un mouchard dans une salle de réunion de la direction",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634087-un-ingenieur-d-openai-arrete-pour-avoir-cache-un-mouchard-dans-une-salle-de-reunion-de-la-direction.html",
+    "pubDate": "2026-10-14T07:44:00.000Z",
+    "summary": "Un ingénieur d'OpenAI a été interpellé aux États-Unis après avoir dissimulé un dispositif d'enregistrement audio à San Francisco. Cet appareil espion était placé dans une salle de réunion réservée à la direction de l'entreprise. L'organisation technologique précise que ses propres intelligences artificielles ont contribué à démasquer le suspect.",
+    "keywords": [
+      "openai",
+      "espionnage",
+      "intelligence artificielle",
+      "etats-unis",
+      "san francisco"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "69893652a250",
+    "title": "Outlook : Microsoft fait marche arrière sur les thèmes générés par Copilot",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634036-outlook-microsoft-fait-marche-arriere-sur-les-themes-generes-par-copilot.html",
+    "pubDate": "2026-10-14T07:41:00.000Z",
+    "summary": "Microsoft annonce le retrait prochain de la fonctionnalité Themes by Copilot dans sa messagerie Outlook. Cette option d'intelligence artificielle permettait de personnaliser automatiquement l'interface utilisateur. La suppression définitive de cet outil est programmée pour la seconde moitié du mois d'octobre 2026.",
+    "keywords": [
+      "microsoft",
+      "outlook",
+      "copilot",
+      "intelligence artificielle",
+      "themes"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e03463720750",
+    "title": "Google ouvre le Play Store aux apps vibe-codées privées : pourquoi c’est différent des applications IA qui inondent déjà le store",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/android/developpement/3284029_google-ouvre-le-play-store-aux-apps-vibe-codees-privees-pourquoi-cest-different-des-applications-ia-qui-inondent-deja-le-store",
+    "pubDate": "2026-10-14T07:32:48.000Z",
+    "summary": "Google permet désormais de distribuer des applications privées générées par intelligence artificielle directement sur le Play Store. Cette nouvelle voie d'accès via AI Studio s'affranchit des traditionnelles procédures de validation et de création de compte développeur. L'initiative intervient alors que la boutique en ligne fait déjà face à une forte augmentation d'outils logiciels conçus par IA.",
+    "keywords": [
+      "google",
+      "play store",
+      "intelligence artificielle",
+      "ai studio",
+      "developpement"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "bf3dec79ea49",
+    "title": "Tesla Roadster : à quelle heure et où suivre la présentation en direct depuis la France ?",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/marques/tesla/3284091_tesla-roadster-a-quelle-heure-et-ou-suivre-la-presentation-en-direct-depuis-la-france",
+    "pubDate": "2026-10-14T07:26:17.000Z",
+    "summary": "Le constructeur Tesla s'apprête à dévoiler en direct sur la plateforme X son tout nouveau modèle de supercar. Cette présentation officielle du Roadster a été exceptionnellement décalée de deux semaines en raison de conditions météorologiques défavorables. Les passionnés de la marque devront veiller tard pour suivre l'événement en direct depuis la France métropolitaine.",
+    "keywords": [
+      "tesla",
+      "roadster",
+      "supercar",
+      "x",
+      "presentation"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2169d941c472",
+    "title": "OpenAI dit avoir démasqué avec sa propre IA un employé accusé d’avoir caché un micro",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/3283959_openai-dit-avoir-demasque-avec-sa-propre-ia-un-employe-accuse-davoir-cache-un-micro",
+    "pubDate": "2026-10-14T07:18:47.000Z",
+    "summary": "Le FBI a interpellé le 9 octobre 2026 un ingénieur de l'entreprise OpenAI. Ce dernier est soupçonné d'avoir dissimulé un micro espion dans une salle de réunion des dirigeants. L'organisation a déclaré avoir employé ses propres technologies d'intelligence artificielle pour identifier le suspect.",
+    "keywords": [
+      "openai",
+      "fbi",
+      "intelligence artificielle",
+      "espionnage industriel",
+      "etats-unis"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4b828bde9c40",
+    "title": "Google Photos veut mettre fin au casse-tête pour récupérer les photos de soirée",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/google/3283935_google-photos-veut-mettre-fin-au-casse-tete-pour-recuperer-les-photos-de-soiree",
+    "pubDate": "2026-10-14T07:17:40.000Z",
+    "summary": "Google Photos développe actuellement une nouvelle option pour simplifier le partage de clichés entre amis lors d'événements. Cette application intégrera un appareil photo éphémère relié à un album commun accessible à tous les participants. Les utilisateurs pourront ainsi centraliser plus facilement les différents points de vue d'une même soirée.",
+    "keywords": [
+      "google photos",
+      "application",
+      "partage",
+      "photo",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "1b330986c36f",
+    "title": "Pas d’écran, 2 Go de mémoire et Gemini dans l’oreille : on connaît les lunettes de Samsung",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3284053_pas-decran-2-go-de-memoire-et-gemini-dans-loreille-on-connait-les-lunettes-de-samsung",
+    "pubDate": "2026-10-14T07:16:54.000Z",
+    "summary": "Des fuites d'informations révèlent les caractéristiques techniques des prochaines lunettes connectées de Samsung sous Android XR. Ce modèle pèse 41 grammes, ne possède pas d'écran et intègre l'intelligence artificielle Gemini. L'appareil offre également une autonomie atteignant soixante-douze heures grâce à son boîtier de charge.",
+    "keywords": [
+      "samsung",
+      "android xr",
+      "gemini",
+      "lunettes connectees"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d6701656d331",
+    "title": "Apple HomeView : pourquoi le nouvel écran d’Apple s’annonce décevant (vidéo)",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/video/3284047_apple-homeview-pourquoi-le-nouvel-ecran-dapple-sannonce-decevant-video",
+    "pubDate": "2026-10-14T07:16:18.000Z",
+    "summary": "Apple présente l'HomeView, son tout premier écran connecté combinant les fonctionnalités d'un iPad, d'un HomePod et d'une Apple Watch. Ce nouvel appareil suscite toutefois des inquiétudes en raison d'un manque notable d'innovations technologiques. De surcroît, le produit fait face à des blocages géopolitiques majeurs sur le marché européen.",
+    "keywords": [
+      "apple",
+      "homeview",
+      "ecran connecte",
+      "europe"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b3cf36cbd1e9",
+    "title": "La PS5 jailbreakée peut maintenant faire tourner le Xbox Cloud Gaming",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/tech/2352789-la-ps5-jailbreakee-peut-maintenant-faire-tourner-le-xbox-cloud-gaming.html",
+    "pubDate": "2026-10-14T07:15:25.000Z",
+    "summary": "Un développeur brésilien a créé une application permettant d'exécuter le service Xbox Cloud Gaming sur une console PlayStation 5 modifiée. Ce programme, baptisé PSBox Cloud Gaming, tire notamment parti des capacités de l'intelligence artificielle Claude. Cette prouesse technique rapproche les écosystèmes concurrents de Microsoft et de Sony.",
+    "keywords": [
+      "ps5",
+      "xbox cloud gaming",
+      "jailbreak",
+      "sony",
+      "claude"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e19f29b47aaa",
     "title": "Street Fighter : que signifie la scène post-générique ?",
     "source": "Numerama",
@@ -262,25 +544,6 @@
     "also": []
   },
   {
-    "id": "a8d85d1bc00f",
-    "title": "« 250 € d’économies par an sur les dépenses du quotidien » : Bouygues Telecom lance Cashback avec plus de 100 enseignes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/bouygues-telecom/3283233_250-e-deconomies-par-an-sur-les-depenses-du-quotidien-bouygues-telecom-lance-cashback-avec-plus-de-100-enseignes",
-    "pubDate": "2026-10-14T06:00:00.000Z",
-    "summary": "Bouygues Telecom introduit un nouveau programme de fidélité baptisé Cashback en partenariat avec Younited. Ce service permet aux usagers de réaliser des économies substantielles sur leurs achats réguliers auprès de nombreux commerçants partenaires. L'opérateur téléphonique ambitionne ainsi de renforcer l'engagement de sa clientèle grâce à cette offre inédite.",
-    "keywords": [
-      "bouygues telecom",
-      "cashback",
-      "younited",
-      "fidelite",
-      "economies"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "c73fc870f153",
     "title": "Bouygues Telecom est le premier opérateur à lancer un cashback gratuit pour redonner du pouvoir d'achat à ses abonnés",
     "source": "Clubic",
@@ -300,6 +563,25 @@
     "also": []
   },
   {
+    "id": "a8d85d1bc00f",
+    "title": "« 250 € d’économies par an sur les dépenses du quotidien » : Bouygues Telecom lance Cashback avec plus de 100 enseignes",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/bouygues-telecom/3283233_250-e-deconomies-par-an-sur-les-depenses-du-quotidien-bouygues-telecom-lance-cashback-avec-plus-de-100-enseignes",
+    "pubDate": "2026-10-14T06:00:00.000Z",
+    "summary": "Bouygues Telecom introduit un nouveau programme de fidélité baptisé Cashback en partenariat avec Younited. Ce service permet aux usagers de réaliser des économies substantielles sur leurs achats réguliers auprès de nombreux commerçants partenaires. L'opérateur téléphonique ambitionne ainsi de renforcer l'engagement de sa clientèle grâce à cette offre inédite.",
+    "keywords": [
+      "bouygues telecom",
+      "cashback",
+      "younited",
+      "fidelite",
+      "economies"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e23658a77d0c",
     "title": "Le sommet WISE lance son programme d'accélération pour les start-up edtech",
     "source": "We Are Tech Africa",
@@ -313,6 +595,24 @@
       "start-up",
       "qatar",
       "acceleration"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "cc0c74203ae4",
+    "title": "Airtel’s virtual card will test Safaricom’s grip on Kenya’s online payments",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/",
+    "pubDate": "2026-10-14T05:59:00.000Z",
+    "summary": "Airtel Mobile Commerce s'apprête à lancer une carte de paiement virtuelle au Kenya. Cette nouvelle offre vise à concurrencer directement Safaricom sur le marché des dépenses en ligne internationales. Le service intensifie la rivalité entre les deux acteurs majeurs des télécommunications dans le pays.",
+    "keywords": [
+      "airtel",
+      "safaricom",
+      "kenya",
+      "paiement en ligne"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -917,25 +1217,6 @@
     "also": []
   },
   {
-    "id": "4aaa9e7048ad",
-    "title": "Doctolib, Pigment, Genesis AI, Entalpic : Nvidia fait ses courses en France",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/nvidia/3283903_doctolib-pigment-genesis-ai-entalpic-nvidia-fait-ses-courses-en-france",
-    "pubDate": "2026-10-13T17:27:56.000Z",
-    "summary": "Le géant américain Nvidia a pris une participation minoritaire au capital de Doctolib. Le PDG Jensen Huang a officialisé cette implantation lors de son passage à Paris. L'entreprise investit également dans trois autres startups françaises spécialisées dans l'intelligence artificielle.",
-    "keywords": [
-      "nvidia",
-      "doctolib",
-      "intelligence artificielle",
-      "france",
-      "investissement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "ad7d4a3fd236",
     "title": "Un TV OLED Samsung 55 pouces de 2026 sous les 900 € ? C’est possible avec cette superbe offre",
     "source": "Frandroid",
@@ -1210,286 +1491,6 @@
       "gemini",
       "intelligence artificielle",
       "deploiement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0434185eb138",
-    "title": "Mini LED et 144 Hz : cette TV Haier de 55 pouces s’affiche à moins de 630€ chez Boulanger",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633988-mini-led-et-144-hz-cette-tv-haier-de-55-pouces-s-affiche-a-moins-de-630-chez-boulanger.html",
-    "pubDate": "2026-10-13T15:57:00.000Z",
-    "summary": "Le distributeur Boulanger propose actuellement une réduction sur le téléviseur Haier H55M90EUX. Cet écran de 55 pouces intègre les technologies Mini LED, 4K et l'interface Google TV. L'appareil est ainsi vendu au prix de 628,34 euros au lieu de son tarif habituel.",
-    "keywords": [
-      "haier",
-      "boulanger",
-      "televiseur",
-      "mini led",
-      "google tv"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e74c1d058259",
-    "title": "Alerte maximale chez SAP : quatre failles critiques permettent de voler des identifiants et de prendre le contrôle de serveurs",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634054-alerte-maximale-chez-sap-quatre-failles-critiques-permettent-de-voler-des-identifiants-et-de-prendre-le-controle-de-serveurs.html",
-    "pubDate": "2026-10-13T15:49:00.000Z",
-    "summary": "L'éditeur SAP a récemment publié des correctifs pour contrer quatre vulnérabilités majeures touchant ses solutions professionnelles. La faille la plus sévère permet aux attaquants de intercepter les authentifications afin de dérober des identifiants confidentiels. Cette brèche expose directement les serveurs d'entreprise à un risque de piratage et de prise de contrôle totale.",
-    "keywords": [
-      "sap",
-      "cybersecurite",
-      "vulnerabilite",
-      "logiciel",
-      "serveur"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3f53a318dbbd",
-    "title": "This Kenyan founder built a tool to help startups find funding faster",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/startup-map-hub-to-help-founders-raise/",
-    "pubDate": "2026-10-13T15:45:49.000Z",
-    "summary": "Un entrepreneur kenyan a développé une nouvelle plateforme numérique pour simplifier la recherche de financements. Lancé en octobre 2025, cet outil baptisé Startup Map Hub permet aux fondateurs de vérifier leur éligibilité et de préparer leurs dossiers. Cette solution vise à accélérer l'accès des jeunes entreprises aux capitaux nécessaires.",
-    "keywords": [
-      "startup map hub",
-      "kenya",
-      "financement",
-      "startup"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fd315a69b50e",
-    "title": "Avec ou sans Huawei ? Les SUV électriques chinois d’Aito arrivent enfin en Europe, mais plusieurs mystères demeurent",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/aito/3281721_avec-ou-sans-huawei-les-suv-electriques-chinois-daito-arrivent-enfin-en-europe-mais-plusieurs-mysteres-demeurent",
-    "pubDate": "2026-10-13T15:42:50.000Z",
-    "summary": "La marque chinoise Aito officialise son expansion sur le marché européen pour l'année 2027. Ces nouveaux SUV électriques et hybrides, conçus en partenariat avec Seres et Huawei, se dévoilent lors des salons parisiens et munichois. Des zones d'ombre subsistent toutefois concernant les spécificités de ces véhicules par rapport aux versions asiatiques.",
-    "keywords": [
-      "aito",
-      "huawei",
-      "suv electrique",
-      "seres",
-      "europe"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "978ba431f935",
-    "title": "Quelle multiprise connectée choisir en 2026 ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/guide-dachat/1711769_les-meilleures-multiprises-connectees-pour-rendre-vos-objets-connectes-notre-selection",
-    "pubDate": "2026-10-13T15:40:20.000Z",
-    "summary": "Les multiprises connectées permettent de rendre intelligents des équipements électriques ordinaires. Cet accessoire aide les utilisateurs à réduire leur consommation d'énergie au quotidien. Le choix de ce type de matériel dépend des besoins spécifiques de chaque foyer.",
-    "keywords": [
-      "multiprise connectée",
-      "economie d energie",
-      "domotique",
-      "objets connectes"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c6aa1887393d",
-    "title": "Africa Bitcoin Corporation’s boardroom battle leaves just two directors standing",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/africa-bitcoin-corporation-boardroom-war/",
-    "pubDate": "2026-10-13T15:36:21.000Z",
-    "summary": "Africa Bitcoin Corporation traverse une crise de gouvernance majeure suite au départ de quatre administrateurs. Ce conflit entre actionnaires concerne directement la nomination des membres du conseil d'administration. De plus, des enquêtes réglementaires continuent de peser lourdement sur la direction de l'entreprise.",
-    "keywords": [
-      "africa bitcoin corporation",
-      "bitcoin",
-      "gouvernance",
-      "afrique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8ec73c1e10f0",
-    "title": "La nouvelle Samsung Galaxy Tab S12+ est déjà vendue en pack avec près de 200 € de remise",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3283117_la-nouvelle-samsung-galaxy-tab-s12-est-deja-vendue-en-pack-avec-pres-de-200-e-de-remise",
-    "pubDate": "2026-10-13T15:32:00.000Z",
-    "summary": "La tablette tactile Samsung Galaxy Tab S12+ fait l'objet d'une promotion groupée chez le distributeur Boulanger. Cette offre combine un étui de protection et une remise financière globale. Le prix de l'appareil diminue ainsi de près de deux cents euros pour atteindre 1 169 euros.",
-    "keywords": [
-      "samsung",
-      "galaxy tab s12+",
-      "tablette",
-      "boulanger",
-      "promotion"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "04fadf51d822",
-    "title": "« Oui, c’est une bonne idée ! » : comment Citroën a gardé la surprise de la 2 CV Fourgonnette au Mondial de l’Auto",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html",
-    "pubDate": "2026-10-13T15:30:11.000Z",
-    "summary": "Citroën a soigneusement dissimulé son nouveau modèle utilitaire avant sa présentation officielle. La marque aux chevrons a ainsi créé l'événement lors du Mondial de l'Automobile 2026. Le public a découvert cette déclinaison inédite en plus du concept initial.",
-    "keywords": [
-      "citroen",
-      "2cv fourgonnette",
-      "mondial de l'auto",
-      "automobile",
-      "concept"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "15d5038c6b54",
-    "title": "Thaïlande : une seule eSIM pour Bangkok, Chiang Mai et les îles, quelle offre Saily choisir ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-630175-thailande-une-seule-esim-pour-bangkok-chiang-mai-et-les-iles-quelle-offre-saily-choisir.html",
-    "pubDate": "2026-10-13T15:30:00.000Z",
-    "summary": "La marque Saily propose des forfaits eSIM pour les voyageurs en Thaïlande. L'offre débute à un tarif attractif de 2,49 euros pour un volume de un gigaoctet. Une formule illimitée est également disponible pour les utilisateurs aux besoins intensifs.",
-    "keywords": [
-      "saily",
-      "esim",
-      "thailande",
-      "voyage",
-      "forfait"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0960b3b7b2d5",
-    "title": "Star Wars: Galactic Racer possède un subtil (et savoureux) clin d’oeil à Dark Vador",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2352081-sebulba-clashe-anakin-dans-star-wars-galactic-racer-sans-savoir-quil-parle-de-dark-vador.html",
-    "pubDate": "2026-10-13T15:25:00.000Z",
-    "summary": "Le jeu vidéo Star Wars: Galactic Racer est disponible depuis le 6 octobre dernier. Développé par Fuse Games, ce titre met en scène une réplique amusante de Sebulba adressée à Anakin Skywalker. Le personnage ignore toutefois qu'il s'adresse en réalité au futur Dark Vador.",
-    "keywords": [
-      "star wars galactic racer",
-      "fuse games",
-      "sebulba",
-      "anakin skywalker",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "9c5078c03410",
-    "title": "Airbus fait voler son drone de combat Valkyrie en Europe, mais son « cerveau » souverain attendra avant d’embarquer",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html",
-    "pubDate": "2026-10-13T15:17:58.000Z",
-    "summary": "Airbus et l'entreprise américaine Kratos ont réalisé le premier vol européen du drone de combat Valkyrie. Cet appareil pourrait potentiellement entrer en service au sein de l'armée allemande d'ici l'année 2029. Toutefois, le système de pilotage souverain conçu en Europe n'était pas intégré à bord pour cet essai.",
-    "keywords": [
-      "airbus",
-      "kratos",
-      "valkyrie",
-      "drone",
-      "allemagne"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6e22278b9f7f",
-    "title": "Avengers Doomsday : il manquera bien un autre membre des avengers dans le film",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351913-avengers-doomsday-ce-personnage-culte-de-marvel-confirme-son-absence-du-film.html",
-    "pubDate": "2026-10-13T15:15:00.000Z",
-    "summary": "Marvel Studios maintient le mystère autour de la distribution du prochain film Avengers Doomsday. L'acteur Paul Bettany ironise sur le secret entourant son éventuelle participation en tant que Vision. De son côté, Jeremy Renner confirme officiellement l'absence de son personnage Hawkeye dans cette production.",
-    "keywords": [
-      "avengers doomsday",
-      "marvel studios",
-      "paul bettany",
-      "jeremy renner",
-      "cinema"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e1b0d4a129e9",
-    "title": "Logitech prépare une MX Master 4 Special Edition, et seul le look change",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/souris/3283691_logitech-prepare-une-mx-master-4-special-edition-et-seul-le-look-change",
-    "pubDate": "2026-10-13T15:13:41.000Z",
-    "summary": "Des images publicitaires inédites de la future souris Logitech ont récemment fait surface en ligne. Ce nouveau modèle haut de gamme sera baptisé MX Master 4 Special Edition. Seule l'apparence esthétique de ce périphérique informatique sera modifiée par rapport à la version classique.",
-    "keywords": [
-      "logitech",
-      "mx master 4",
-      "souris",
-      "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ae360ed50ece",
-    "title": "Shadow AI : faut-il interdire l'IA fantôme en entreprise ? Les experts de la cyber ne sont pas d'accord",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-633874-shadow-ai-faut-il-interdire-l-ia-fantome-en-entreprise-les-experts-de-la-cyber-ne-sont-pas-d-accord.html",
-    "pubDate": "2026-10-13T15:11:00.000Z",
-    "summary": "L'utilisation non autorisée d'intelligences artificielles au travail, appelée Shadow AI, s'immisce insidieusement au sein des entreprises. Des outils comme ChatGPT ou Copilot sont ainsi manipulés en cachette par les salariés. Face à cette situation chaotique, plusieurs spécialistes de la cybersécurité partagent leurs recommandations pour canaliser ces pratiques.",
-    "keywords": [
-      "shadow ai",
-      "chatgpt",
-      "copilot",
-      "entreprise",
-      "cybersecurite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "af152f245558",
-    "title": "Nigerians used 90% of 2025’s internet data volume in eight months",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/",
-    "pubDate": "2026-10-13T15:08:30.000Z",
-    "summary": "Au Nigeria, la quasi-totalité du volume de données internet prévu pour l'année a été consommée en seulement huit mois. Cette forte utilisation met les opérateurs de télécommunications sous pression pour accroitre leurs capacités techniques. Le secteur doit ainsi rapidement moderniser ses infrastructures afin de garantir des connexions stables.",
-    "keywords": [
-      "nigeria",
-      "internet",
-      "telecom",
-      "donnees"
     ],
     "aiDone": true,
     "coverage": 1,
