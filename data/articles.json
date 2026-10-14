@@ -1,5 +1,326 @@
 [
   {
+    "id": "7f20a7e6aaa2",
+    "title": "Écran OLED délavé sur les Googlebook : le problème vient du logiciel et Google prépare un patch",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/google/3284697_ecran-oled-delave-sur-les-googlebook-le-probleme-vient-du-logiciel-et-google-prepare-un-patch",
+    "pubDate": "2026-10-14T09:53:06.000Z",
+    "summary": "Des utilisateurs constatent que les zones noires de certains ordinateurs portables affichent une teinte gris foncé au chargement du système. Ce défaut d'affichage concerne des modèles équipés d'un écran OLED fabriqués par Acer et Lenovo. Google a identifié la cause technique de ce dysfonctionnement et annonce le déploiement prochain d'un correctif.",
+    "keywords": [
+      "google",
+      "oled",
+      "acer",
+      "lenovo",
+      "correctif"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c0e44bfd9695",
+    "title": "Volkswagen ID. Tiguan électrique : pourquoi la version 286 ch à 46 990 euros est la seule configuration à viser",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/volkswagen/3284739_volkswagen-id-tiguan-electrique-pourquoi-la-version-286-ch-a-46-990-euros-est-la-seule-configuration-a-viser",
+    "pubDate": "2026-10-14T09:53:00.000Z",
+    "summary": "Volkswagen lance officiellement les commandes de son nouveau modèle ID. Tiguan sur le marché français. La variante de 286 chevaux dotée de la grande batterie est affichée au tarif de 46 990 euros. Ce positionnement tarifaire permet à cette configuration spécifique de bénéficier de la prime écologique.",
+    "keywords": [
+      "volkswagen",
+      "id tiguan",
+      "voiture electrique",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a3490fd55195",
+    "title": "Sur Googlebook, n’importe quel site web peut enfin devenir une vraie application",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/google/3284649_sur-googlebook-nimporte-quel-site-web-peut-enfin-devenir-une-vraie-application",
+    "pubDate": "2026-10-14T09:49:04.000Z",
+    "summary": "Google déploie la version 155 de son navigateur Chrome sur les ordinateurs Googlebook. Cette mise à jour permet à n'importe quel site web de s'installer directement comme une application à part entière. Les utilisateurs bénéficient ainsi d'une navigation en dehors des simples onglets classiques.",
+    "keywords": [
+      "google",
+      "chrome",
+      "googlebook",
+      "application",
+      "web"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "8ff7b972ca4e",
+    "title": "ColorOS 17 : Oppo lance sa mise à jour, mais l’Europe est privée de plusieurs fonctions",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3284413_coloros-17-oppo-lance-sa-mise-a-jour-mais-leurope-est-privee-de-plusieurs-fonctions",
+    "pubDate": "2026-10-14T09:44:45.000Z",
+    "summary": "La marque Oppo officialise le déploiement de sa nouvelle mise à jour logicielle ColorOS 17 à partir du 29 octobre. Les utilisateurs européens devront toutefois patienter pour découvrir certaines fonctionnalités d'intelligence artificielle. Celles-ci arriveront en effet avec du retard sur le continent, voire ne seront pas du tout intégrées.",
+    "keywords": [
+      "oppo",
+      "coloros 17",
+      "mise a jour",
+      "intelligence artificielle",
+      "europe"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "48305d848f12",
+    "title": "Seulement 11 mètres de haut : le premier vol de la fusée réutilisable japonaise est aussi le dernier",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/sciences/2352999-seulement-11-metres-de-haut-le-premier-vol-de-la-fusee-reutilisable-japonaise-est-aussi-le-dernier.html",
+    "pubDate": "2026-10-14T09:42:39.000Z",
+    "summary": "L'agence spatiale japonaise a mené avec succès un vol d'essai de courte durée pour son démonstrateur RV-X. Ce prototype miniature de fusée réutilisable s'est élevé à onze mètres d'altitude avant de se poser. Les données recueillies doivent contribuer au développement du projet Callisto, désormais reporté à l'année prochaine.",
+    "keywords": [
+      "jaxa",
+      "rv-x",
+      "fusee",
+      "japon",
+      "callisto"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "db1557521fc4",
+    "title": "La France se hisse au 3e rang mondial pour l'IA, mais 12e en sécurité numérique",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634051-la-france-se-hisse-au-3e-rang-mondial-pour-l-ia-mais-12e-en-securite-numerique.html",
+    "pubDate": "2026-10-14T09:42:00.000Z",
+    "summary": "Selon le rapport 2026 de Surfshark, la France progresse à la troisième place mondiale en intelligence artificielle. Le pays recule en revanche de deux rangs en matière de sécurité numérique. Au classement général du Digital Quality of Life Index, l'Hexagone chute de la cinquième à la huitième position.",
+    "keywords": [
+      "france",
+      "surfshark",
+      "intelligence artificielle",
+      "securite numerique",
+      "classement"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "436196e78199",
+    "title": "Votre Livret A finance déjà le nucléaire des EPR2, et c’est l’État qui paie les intérêts",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/survoltes/energie/3280769_votre-livret-a-finance-deja-le-nucleaire-des-epr2-et-cest-letat-qui-paie-les-interets",
+    "pubDate": "2026-10-14T09:38:05.000Z",
+    "summary": "Le projet de construction des réacteurs nucléaires EPR2 en France bénéficie déjà de financements publics anticipés. L'État français prévoit d'inscrire une somme de 137,8 millions d'euros dans son budget pour honorer ces charges financières. Cette enveloppe budgétaire servira spécifiquement à régler les intérêts du prêt destiné à ce chantier d'EDF.",
+    "keywords": [
+      "epr2",
+      "edf",
+      "livret a",
+      "nucleaire",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "182b01dabc64",
+    "title": "Avec Decathlon, ce drôle de buggy électrique français se transforme en mini camping-car",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2352851-avec-decathlon-ce-drole-de-buggy-electrique-francais-se-transforme-en-mini-camping-car.html",
+    "pubDate": "2026-10-14T09:36:42.000Z",
+    "summary": "Au Mondial de l'Auto 2026, l'entreprise Kilow a présenté une déclinaison inédite de son véhicule électrique baptisé la Bagnole. Ce quadricycle français se mue désormais en mini camping-car grâce à l'intégration d'une tente de toit. Cet amovible équipement a été développé en partenariat direct avec la marque Decathlon.",
+    "keywords": [
+      "kilow",
+      "decathlon",
+      "voiture electrique",
+      "camping-car",
+      "mondial de l'auto"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ef99b8dcceb6",
+    "title": "200 Go de data dont la moitié à l’étranger : ce forfait SFR est un bon compagnon de voyage [Sponso]",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/forfait-mobile/3282365_200-go-de-data-dont-la-moitie-a-letranger-ce-forfait-sfr-est-un-bon-compagnon-de-voyage",
+    "pubDate": "2026-10-14T09:34:48.000Z",
+    "summary": "SFR lance une nouvelle offre mobile dotée de deux cents gigaoctets de données pour un tarif mensuel de dix-neuf euros et quatre-vingt-dix-neuf centimes. Cette proposition inclut une enveloppe internet utilisable hors de France métropolitaine. Ce forfait se positionne ainsi comme une solution adaptée aux déplacements internationaux.",
+    "keywords": [
+      "sfr",
+      "forfait mobile",
+      "roaming",
+      "data"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "7dea53292530",
+    "title": "1 000 km d’autonomie pour moins de 35 000 € en Chine : le coup de massue de BYD avec la Da Han",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3284261_1-000-km-dautonomie-pour-moins-de-35-000-e-en-chine-le-coup-de-massue-de-byd-avec-la-da-han",
+    "pubDate": "2026-10-14T09:34:04.000Z",
+    "summary": "Le constructeur BYD commercialise officiellement sa nouvelle berline électrique nommée Da Han sur le marché chinois. Ce véhicule affiche une autonomie exceptionnelle pouvant atteindre 1 008 kilomètres selon le cycle d'homologation CLTC. Proposée à un tarif inférieur à 35 000 euros, cette voiture intègre également une technologie de recharge ultra-rapide en cinq minutes.",
+    "keywords": [
+      "byd",
+      "da han",
+      "voiture electrique",
+      "chine",
+      "autonomie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b6f18d824634",
+    "title": "Free n’est plus le roi de la fibre, Orange et Bouygues Telecom lui ont pris sa couronne",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634105-free-n-est-plus-le-roi-de-la-fibre-orange-et-bouygues-telecom-lui-ont-pris-sa-couronne.html",
+    "pubDate": "2026-10-14T09:32:00.000Z",
+    "summary": "Free perd sa première place au classement des débits fibre publié par Zone ADSL et Fibre. Orange domine désormais le classement pour le téléchargement en France. Bouygues Telecom s'empare quant à lui de la première position concernant l'envoi de données.",
+    "keywords": [
+      "free",
+      "orange",
+      "bouygues telecom",
+      "fibre",
+      "france"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c45043a4278c",
+    "title": "Le nouveau Samsung The Freestyle+ (2026), plus lumineux et dopé à l’IA, perd déjà 200 €",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/bons-plans/3284299_le-nouveau-samsung-the-freestyle-2026-plus-lumineux-et-dope-a-lia-perd-deja-200-e",
+    "pubDate": "2026-10-14T09:31:47.000Z",
+    "summary": "Le vidéoprojecteur nomade Samsung The Freestyle+ 2026 bénéficie d'une luminosité accrue et de fonctionnalités d'intelligence artificielle. Ce modèle récent voit son prix baisser de deux cents euros sur la plateforme Joybuy. L'appareil est ainsi proposé à neuf cent quatre-vingt-dix-neuf euros au lieu de son tarif initial.",
+    "keywords": [
+      "samsung",
+      "the freestyle",
+      "videoprojecteur",
+      "ia",
+      "joybuy"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4fc4c75bc009",
+    "title": "Valve abandonne définitivement Valve Index, mais des promotions jusqu’à épuisement des derniers stocks",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/realite-virtuelle/3284275_valve-abandonne-definitivement-valve-index-mais-des-promotions-jusqua-epuisement-des-derniers-stocks",
+    "pubDate": "2026-10-14T09:28:56.000Z",
+    "summary": "La marque Valve met définitivement un terme à la commercialisation de son casque de réalité virtuelle Valve Index. Cet appareil quitte le catalogue de l'entreprise après sept années d'existence sur le marché. Des réductions sont actuellement appliquées sur les derniers stocks disponibles avant le remplacement complet par le Steam Frame.",
+    "keywords": [
+      "valve",
+      "valve index",
+      "casque vr",
+      "realite virtuelle",
+      "steam frame"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "55b7f6e1c93d",
+    "title": "Fini les « envoie-moi tes photos » : Google Photos prépare une fonction qui pourrait tout changer",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634090-fini-les-envoie-moi-tes-photos-google-photos-prepare-une-fonction-qui-pourrait-tout-changer.html",
+    "pubDate": "2026-10-14T09:28:00.000Z",
+    "summary": "Google Photos développe actuellement une nouvelle option pour simplifier le partage de souvenirs visuels. Cette fonctionnalité inédite permettra de regrouper les images de ses proches au sein d'un album unique. L'objectif est d'éviter les transferts individuels fastidieux entre utilisateurs.",
+    "keywords": [
+      "google photos",
+      "application",
+      "partage",
+      "album",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "19bf4eb10e30",
+    "title": "Samsung Health se rapproche de Strava et veut simplifier le suivi de votre sommeil",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3284027_samsung-health-se-rapproche-de-strava-et-veut-simplifier-le-suivi-de-votre-sommeil",
+    "pubDate": "2026-10-14T09:12:17.000Z",
+    "summary": "L'application de santé du géant coréen améliore la connectivité avec la plateforme sportive populaire. Les utilisateurs peuvent désormais bénéficier de conseils personnalisés sur leur sommeil plus rapidement qu'auparavant. Il suffit désormais de trois nuits d'enregistrement pour recevoir des recommandations adaptées.",
+    "keywords": [
+      "samsung health",
+      "strava",
+      "sommeil",
+      "application"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "87f15c0ff459",
+    "title": "The Next Wave: The unfinished business of a startup’s collapse",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/14/the-unfinished-business-of-a-startups-collapse-koko-copia/",
+    "pubDate": "2026-10-14T09:10:46.000Z",
+    "summary": "Copia and Koko expose distinct weaknesses in businesses built to solve costly problems, from Copia's need for sufficient margins and working capital to Koko's dependence on carbon-credit revenue and…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fba8ab3e270b",
+    "title": "En France, 1 attaque par ransomware sur 5 aurait exploité les systèmes d’IA des entreprises victimes",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634120-en-france-1-attaque-par-ransomware-sur-5-aurait-exploite-les-systemes-d-ia-des-entreprises-victimes.html",
+    "pubDate": "2026-10-14T09:08:00.000Z",
+    "summary": "Dans les attaques par ransomware, l’intelligence artificielle joue désormais sur les deux tableaux. Elle peut servir les cybercriminels, mais aussi se retourner contre les entreprises qui…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "81071bb6ca35",
+    "title": "BYD dévoile à Paris son nouveau SUV qui se charge en 5 minutes : l’Atto 8 et son autonomie XXL",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/byd/3284107_byd-devoile-a-paris-son-nouveau-suv-qui-se-charge-en-5-minutes-latto-8-et-son-autonomie-xxl",
+    "pubDate": "2026-10-14T09:04:00.000Z",
+    "summary": "BYD a profité du Mondial de l’auto de Paris pour lever le voile sur son Atto 8. Rivale de la Peugeot e-5008, cette voiture électrique sept places peut se recharger de 10 à 97 % en neuf minutes sur…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "ad22884a5507",
     "title": "De la RAM DDR5 en promo pour les joueurs : Corsair Vengeance RGB 16 Go à 249,99€ aujourd'hui",
     "source": "Clubic",
@@ -1090,342 +1411,6 @@
       "afrique du sud",
       "intelligence artificielle",
       "startups"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fd9652aff62c",
-    "title": "Paiement : la plateforme OneDosh active les retraits par carte aux distributeurs",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/paiement-la-plateforme-onedosh-active-les-retraits-par-carte-aux-distributeurs",
-    "pubDate": "2026-10-14T05:42:01.000Z",
-    "summary": "La fintech OneDosh permet désormais les retraits d'espèces via sa carte Visa sur le réseau mondial de distributeurs. Cette solution s'adresse particulièrement aux professionnels et voyageurs percevant des fonds en dollars ou en cryptomonnaies. Le service de conversion en devises locales est ouvert dans tous les pays ne faisant pas l'objet de sanctions.",
-    "keywords": [
-      "onedosh",
-      "visa",
-      "paiement",
-      "fintech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "82b8a9f1dbce",
-    "title": "Google va accueillir vos applications vibe-codées sur le Play Store (en privé d’abord)",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/google/3283937_google-va-accueillir-vos-applications-vibe-codees-sur-le-play-store-en-prive-dabord",
-    "pubDate": "2026-10-14T05:31:42.000Z",
-    "summary": "Google prépare l'intégration d'une nouvelle section sur le Play Store pour héberger des applications créées par intelligence artificielle. Cette initiative permettra aux utilisateurs de concevoir et de tester leurs propres logiciels de manière privée. Le géant technologique cherche ainsi à démocratiser le développement d'applications pour l'ensemble du grand public.",
-    "keywords": [
-      "google",
-      "play store",
-      "intelligence artificielle",
-      "developpement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "21e35b16e9d2",
-    "title": "Wi-Fi lent, coupures et zones blanches ? devolo mise sur le Wi-Fi 7 pour ses nouveaux routeurs BE9300 et BE6500",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633508-wi-fi-lent-coupures-et-zones-blanches-devolo-mise-sur-le-wi-fi-7-pour-ses-nouveaux-routeurs-be9300-et-be6500.html",
-    "pubDate": "2026-10-14T05:30:00.000Z",
-    "summary": "La marque devolo commercialise de nouveaux routeurs compatibles avec la norme Wi-Fi 7. Les modèles BE9300 et BE6500 visent à éliminer les zones blanches et les baisses de débit. Ces équipements sont vendus à l'unité ou intégrés dans des kits mesh.",
-    "keywords": [
-      "devolo",
-      "wifi 7",
-      "routeur",
-      "be9300",
-      "be6500"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b6f91fcb09a",
-    "title": "Ventes Flash Amazon : 10 produits tech voient leur prix baisser après le Prime Day, jusqu’à -31 %",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
-    "pubDate": "2026-10-14T05:30:00.000Z",
-    "summary": "Amazon propose de nouvelles réductions sur une sélection d'appareils technologiques ce mardi. Ces offres interviennent moins d'une semaine après la clôture des Jours Flash Prime. Le site spécialisé a analysé l'historique des tarifs pour identifier les rabais les plus intéressants.",
-    "keywords": [
-      "amazon",
-      "ventes flash",
-      "tech",
-      "promotions",
-      "e-commerce"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f87193b1e3c0",
-    "title": "Haibike AllMtn 2 : ce nouveau VTT électrique tout-suspendu à moteur Bosch 120 Nm perd déjà 1 500 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3283191_haibike-allmtn-2-ce-nouveau-vtt-electrique-tout-suspendu-a-moteur-bosch-120-nm-perd-deja-1-500-e",
-    "pubDate": "2026-10-14T05:22:00.000Z",
-    "summary": "Le site Alltricks propose actuellement une importante réduction sur le VTT électrique tout-suspendu Haibike AllMtn 2. Ce modèle destiné à la montagne est équipé d'un performant moteur Bosch de 120 Nm. Son prix chute ainsi de 4 299 euros à 2 799,99 euros.",
-    "keywords": [
-      "haibike",
-      "vtt électrique",
-      "bosch",
-      "alltricks",
-      "mobilité"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "30ee9cd76683",
-    "title": "Après Photoshop, ce développeur recrée Word, Excel et PowerPoint gratuitement avec l’IA",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634075-apres-photoshop-ce-developpeur-recree-word-excel-et-powerpoint-gratuitement-avec-l-ia.html",
-    "pubDate": "2026-10-14T05:10:00.000Z",
-    "summary": "Le développeur Brandon Thomas a mis en ligne trois logiciels libres nommés WordCraft, GridCraft et DeckCraft. Ces alternatives gratuites à Word, Excel et PowerPoint ont été conçues en langage Rust grâce à l'intelligence artificielle Claude Opus 5.5. Toutefois, ces clones ne sont pas encore prêts pour un usage quotidien selon les feuilles de route disponibles sur GitHub.",
-    "keywords": [
-      "brandon thomas",
-      "wordcraft",
-      "claude opus",
-      "rust",
-      "logiciel libre"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4de37b7a8104",
-    "title": "Nvidia investit dans Doctolib pour accélérer le développement de son IA médicale",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634069-nvidia-investit-dans-doctolib-pour-accelerer-le-developpement-de-son-ia-medicale.html",
-    "pubDate": "2026-10-14T05:00:00.000Z",
-    "summary": "Nvidia réalise un investissement minoritaire dans la plateforme française Doctolib. Cet accord financier vise à stimuler la création de technologies médicales basées sur l'intelligence artificielle. La jeune pousse utilisera ces fonds pour embaucher du personnel et entraîner ses modèles en territoire européen.",
-    "keywords": [
-      "nvidia",
-      "doctolib",
-      "intelligence artificielle",
-      "sante",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "749ec8b80793",
-    "title": "Patch Tuesday d'octobre : record de 1 411 failles corrigées, dont un zero-day Windows déjà exploité",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634072-patch-tuesday-d-octobre-record-de-1-411-failles-corrigees-dont-un-zero-day-windows-deja-exploite.html",
-    "pubDate": "2026-10-14T04:45:00.000Z",
-    "summary": "Microsoft a corrigé un nombre record de failles informatiques lors de son Patch Tuesday d'octobre. Cette mise à jour corrige notamment une vulnérabilité de Windows qui était déjà exploitée par des pirates. L'entreprise américaine a utilisé l'intelligence artificielle pour identifier ces milliers de brèches de sécurité.",
-    "keywords": [
-      "microsoft",
-      "windows",
-      "patch tuesday",
-      "cybersecurite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e3b2921f72f2",
-    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-    "pubDate": "2026-10-14T01:30:42.000Z",
-    "summary": "Le département de la Justice américain signale que des pirates nord-coréens se sont introduits dans de nombreuses entreprises aux États-Unis. Ces hackers sanctionnés recrutent des complices américains pour faire le lien entre les firmes piratées et Pyongyang. Les autorités alertent sur cette menace croissante visant à exploiter des intermédiaires locaux.",
-    "keywords": [
-      "justice department",
-      "north korea",
-      "hackers",
-      "cybersecurity",
-      "united states"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2ce212c19db2",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "pubDate": "2026-10-13T23:13:31.000Z",
-    "summary": "Science Corporation a posé son implant visuel Prima sur un premier patient atteint de la maladie de Stargardt. Cet exploit a été révélé par Max Hodak, cofondateur et ancien dirigeant de Neuralink, lors de la conférence TechCrunch Disrupt. Cette avancée technologique s'inscrit dans la stratégie de l'entreprise pour développer de nouvelles interfaces cerveau-machine.",
-    "keywords": [
-      "science corporation",
-      "prima",
-      "implant visuel",
-      "maladie de stargardt",
-      "max hodak"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "14cee17a15e6",
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "pubDate": "2026-10-13T23:05:34.000Z",
-    "summary": "Andrew Feldman anticipe une démocratisation rapide des assistants intelligents personnels à domicile. Le dirigeant de Cerebras estime que ces technologies fonctionneront grâce à une architecture hybride mêlant cloud et appareils locaux. Cette vision rapproche l'utilisation de l'intelligence artificielle des équipements électroménagers du quotidien.",
-    "keywords": [
-      "cerebras",
-      "andrew feldman",
-      "intelligence artificielle",
-      "assistant personnel"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f267b0c17dba",
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "pubDate": "2026-10-13T23:00:00.000Z",
-    "summary": "La startup Industrial Next développe des solutions pour automatiser des tâches complexes traditionnellement réservées aux humains. Sa technologie permet aux robots industriels de changer de mission en quelques minutes seulement. Cette innovation vise à transformer radicalement la flexibilité des chaînes de production.",
-    "keywords": [
-      "industrial next",
-      "robots",
-      "usine",
-      "automatisation",
-      "industrie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f2fb2747c1a4",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "pubDate": "2026-10-13T22:36:59.000Z",
-    "summary": "Andrew Feldman, le dirigeant de Cerebras, critique publiquement les discours alarmistes sur l'intelligence artificielle. Lors de l'événement TechCrunch Disrupt, il estime que ces mises en garde occultent les véritables avantages de la technologie. Il invite ainsi les acteurs du secteur à cesser de propager des scénarios de fin du monde.",
-    "keywords": [
-      "cerebras",
-      "andrew feldman",
-      "intelligence artificielle",
-      "techcrunch disrupt"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "dfcf317d924a",
-    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-    "pubDate": "2026-10-13T21:15:00.000Z",
-    "summary": "L'entreprise Helix Carbon propose de valoriser les rejets polluants des hauts Fourneaux sidérurgiques. Cette technologie innovante vise à réduire simultanément les émissions polluantes et les coûts de production du fer. Cette solution permet d'améliorer les marges financières du secteur tout en agissant pour l'environnement.",
-    "keywords": [
-      "helix carbon",
-      "fer",
-      "acier",
-      "pollution",
-      "recyclage"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "96f2aead784a",
-    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-    "pubDate": "2026-10-13T20:59:11.000Z",
-    "summary": "Le FBI a appréhendé un collaborateur d'OpenAI pour avoir installé un appareil d'enregistrement secret dans une salle de réunion. Cet équipement visait à intercepter des discussions confidentielles concernant les technologies de super intelligence de l'entreprise. Les motivations exactes de cet acte d'espionnage restent pour l'instant indéterminées.",
-    "keywords": [
-      "openai",
-      "fbi",
-      "espionnage",
-      "intelligence artificielle",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2d5aac8b5365",
-    "title": "La seconde va être redéfinie d’ici 2030 : pourquoi les horloges atomiques au césium ne suffisent plus",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2351941-la-seconde-va-etre-redefinie-dici-2030-pourquoi-les-horloges-atomiques-au-cesium-ne-suffisent-plus.html",
-    "pubDate": "2026-10-13T20:48:50.000Z",
-    "summary": "La Conférence générale des poids et mesures discute à Versailles de la future définition de la seconde. Les métrologues prévoient de moderniser cette mesure d'ici 2030 grâce aux progrès technologiques. Les nouvelles horloges optiques dépassent en effet la précision des traditionnelles horloges atomiques au césium.",
-    "keywords": [
-      "seconde",
-      "horloge optique",
-      "césium",
-      "metrologie",
-      "versailles"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "70093601d146",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "pubDate": "2026-10-13T20:36:44.000Z",
-    "summary": "Un juge fédéral américain a ordonné à OpenAI de fournir ses documents de recrutement dans le cadre d'un litige. Apple obtient ainsi l'accès aux dossiers d'entretien d'anciens salariés ainsi qu'à des messages privés. Cette décision intervient dans une affaire de secrets industriels opposant les deux entreprises.",
-    "keywords": [
-      "openai",
-      "apple",
-      "justice",
-      "secrets industriels"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8fffd9ec3a9e",
-    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-    "pubDate": "2026-10-13T20:13:53.000Z",
-    "summary": "La startup Cambridge Heavy Industries développe actuellement un petit appareil de fusion alimenté par laser. Ce réacteur compact est destiné à alimenter la future génération de centrales à fusion. L'entreprise travaille discrètement sur cette technologie innovante depuis un certain temps.",
-    "keywords": [
-      "cambridge heavy industries",
-      "fusion",
-      "energie",
-      "technologie",
-      "startup"
     ],
     "aiDone": true,
     "coverage": 1,
