@@ -1,5 +1,172 @@
 [
   {
+    "id": "0b2458eff31d",
+    "title": "OPay’s $1.28 lending problem in Nigeria",
+    "source": "TechCabal",
+    "category": "afrique",
+    "url": "https://techcabal.com/2026/10/14/opay-1-28-lending-problem-nigeria/",
+    "pubDate": "2026-10-14T15:31:31.000Z",
+    "summary": "Au cours du premier semestre 2026, la fintech OPay a généré d'importants revenus grâce à son activité de crédit au Nigeria. Chaque tranche de dix dollars empruntée a rapporté plus de deux dollars de recettes incluant les pénalités de retard. Ces données illustrent les marges nécessaires pour couvrir les risques de non-remboursement dans cette région.",
+    "keywords": [
+      "opay",
+      "nigeria",
+      "fintech",
+      "pret"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "8b958e5e261c",
+    "title": "ArtCraft : sept alternatives gratuites aux logiciels Adobe développées avec l’IA",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634102-artcraft-sept-alternatives-gratuites-aux-logiciels-adobe-developpees-avec-l-ia.html",
+    "pubDate": "2026-10-14T15:30:00.000Z",
+    "summary": "La nouvelle suite ArtCraft propose sept alternatives gratuites et libres aux logiciels de la marque Adobe. Ces applications open source intègrent l'intelligence artificielle pour la retouche photo, le montage vidéo et la gestion de PDF. Les premières versions de ces outils demeurent toutefois à un stade très expérimental.",
+    "keywords": [
+      "artcraft",
+      "adobe",
+      "intelligence artificielle",
+      "logiciel libre",
+      "retouche photo"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "156e72bc1b4e",
+    "title": "Cette imprimante 3D XXL et multicolore voit son prix chuter de 400 €",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3285025_cette-imprimante-3d-xxl-et-multicolore-voit-son-prix-chuter-de-400-e",
+    "pubDate": "2026-10-14T15:19:00.000Z",
+    "summary": "Le site marchand Joybuy propose une réduction importante sur l'imprimante 3D Creality K2 Plus Combo. Cet appareil grand format intègre le système CFS pour réaliser des impressions en plusieurs couleurs. Son tarif passe ainsi de 1 249 euros à 849,15 euros.",
+    "keywords": [
+      "creality",
+      "imprimante 3d",
+      "joybuy",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f1c8e20f7598",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "pubDate": "2026-10-14T15:16:04.000Z",
+    "summary": "La plateforme musicale Deezer développe une fonctionnalité permettant d'exclure les morceaux générés par intelligence artificielle. Cette option de filtrage inédite sera accessible aux utilisateurs d'ici la fin de l'année en cours. L'annonce a été officialisée par la direction du service de streaming.",
+    "keywords": [
+      "deezer",
+      "musique",
+      "intelligence artificielle",
+      "streaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2e447a71d8fc",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "pubDate": "2026-10-14T15:13:24.000Z",
+    "summary": "TechCrunch propose une réduction de moitié sur le tarif des billets pour son événement Disrupt 2026. Cette offre permet aux participants de rejoindre les deux derniers jours de la conférence à San Francisco. Les discussions se concentrent principalement sur l'intelligence artificielle matérielle et logicielle.",
+    "keywords": [
+      "techcrunch disrupt",
+      "san francisco",
+      "intelligence artificielle",
+      "conference tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "88518a254bc6",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "pubDate": "2026-10-14T15:08:00.000Z",
+    "summary": "La jeune pousse Zenzap vient de lever 44 millions de dollars pour développer son application de messagerie intelligente. Cet outil dopé à l'intelligence artificielle ambitionne de concurrencer directement WhatsApp au sein des entreprises. Des enseignes majeures comme Starbucks et Taco Bell utilisent déjà cette solution pour leurs communications professionnelles.",
+    "keywords": [
+      "zenzap",
+      "intelligence artificielle",
+      "whatsapp",
+      "application",
+      "levée de fonds"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b6f91fcb09a",
+    "title": "Ventes Flash Amazon : 10 produits tech voient leur prix baisser après le Prime Day, jusqu’à -31 %",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
+    "pubDate": "2026-10-14T15:05:00.000Z",
+    "summary": "Amazon propose de nouvelles réductions sur une sélection de dix produits technologiques quelques jours après le Prime Day. Les remises atteignent jusqu'à moins trente et un pour cent sur les articles concernés. Chaque offre a été comparée aux tarifs les plus bas pratiqués au cours des trente derniers jours.",
+    "keywords": [
+      "amazon",
+      "prime day",
+      "ventes flash",
+      "tech",
+      "reduction"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0c150c264964",
+    "title": "Starlink : coup de pression de Donald Trump ? SpaceX a imposé une limitation de vitesse en Ukraine",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-634228-starlink-coup-de-pression-de-donald-trump-spacex-a-impose-une-limitation-de-vitesse-en-ukraine.html",
+    "pubDate": "2026-10-14T15:03:00.000Z",
+    "summary": "Starlink a récemment appliqué une limitation de vitesse sur ses services en Ukraine. Cette mesure intervient alors que des interrogations subsistent sur une potentielle pression exercée par Donald Trump. Pour l'instant, les détails précis entourant ce bridage nocturne opéré par SpaceX restent limités.",
+    "keywords": [
+      "starlink",
+      "spacex",
+      "ukraine",
+      "donald trump",
+      "internet"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "cef3a61011ee",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "pubDate": "2026-10-14T15:00:00.000Z",
+    "summary": "La jeune pousse Floqer développe une plateforme d'intelligence artificielle autonome destinée aux équipes commerciales B2B. Cet outil intelligent automatise la recherche et la mise à jour des prospects grâce à une base de données actualisée en continu. L'entreprise présente officiellement sa solution lors de l'événement TechCrunch Disrupt 2026.",
+    "keywords": [
+      "floqer",
+      "intelligence artificielle",
+      "vente b2b",
+      "techcrunch disrupt",
+      "prospection"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "f195e4408599",
     "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
     "source": "TechCrunch",
@@ -188,7 +355,7 @@
   },
   {
     "id": "6b53e7eec40e",
-    "title": "Google saborde un peu plus les Googlebooks : l’une des meilleures fonctions arrive sur Mac gratuitement",
+    "title": "Google saborde un peu plus les Googlebook : l’une des meilleures fonctions arrive sur Mac gratuitement",
     "source": "Frandroid",
     "category": "logiciels",
     "url": "https://www.frandroid.com/marques/google/3285063_google-saborde-un-peu-plus-les-googlebooks-lune-des-meilleures-fonctions-arrive-sur-mac-gratuitement",
@@ -670,25 +837,6 @@
       "intelligence artificielle",
       "senegal",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b6f91fcb09a",
-    "title": "Ventes Flash Amazon : 10 produits tech voient leur prix baisser après le Prime Day, jusqu’à -31 %",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
-    "pubDate": "2026-10-14T12:31:00.000Z",
-    "summary": "Amazon propose de nouvelles réductions sur une sélection de dix produits technologiques quelques jours après le Prime Day. Les remises atteignent jusqu'à moins trente et un pour cent sur les articles concernés. Chaque offre a été comparée aux tarifs les plus bas pratiqués au cours des trente derniers jours.",
-    "keywords": [
-      "amazon",
-      "prime day",
-      "ventes flash",
-      "tech",
-      "reduction"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1345,156 +1493,6 @@
       "partage",
       "album",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "19bf4eb10e30",
-    "title": "Samsung Health se rapproche de Strava et veut simplifier le suivi de votre sommeil",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/samsung/3284027_samsung-health-se-rapproche-de-strava-et-veut-simplifier-le-suivi-de-votre-sommeil",
-    "pubDate": "2026-10-14T09:12:17.000Z",
-    "summary": "L'application de santé du géant coréen améliore la connectivité avec la plateforme sportive populaire. Les utilisateurs peuvent désormais bénéficier de conseils personnalisés sur leur sommeil plus rapidement qu'auparavant. Il suffit désormais de trois nuits d'enregistrement pour recevoir des recommandations adaptées.",
-    "keywords": [
-      "samsung health",
-      "strava",
-      "sommeil",
-      "application"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "87f15c0ff459",
-    "title": "The Next Wave: The unfinished business of a startup’s collapse",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/14/the-unfinished-business-of-a-startups-collapse-koko-copia/",
-    "pubDate": "2026-10-14T09:10:46.000Z",
-    "summary": "Les difficultés des jeunes entreprises Copia et Koko révèlent les fragilités des modèles économiques axés sur des résolutions de problèmes complexes. Copia peine notamment à maintenir des marges suffisantes et un fonds de roulement adéquat. De son côté, Koko reste vulnérable face à sa dépendance envers les crédits carbone et les approbations réglementaires.",
-    "keywords": [
-      "copia",
-      "koko",
-      "startup",
-      "afrique",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fba8ab3e270b",
-    "title": "En France, 1 attaque par ransomware sur 5 aurait exploité les systèmes d’IA des entreprises victimes",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634120-en-france-1-attaque-par-ransomware-sur-5-aurait-exploite-les-systemes-d-ia-des-entreprises-victimes.html",
-    "pubDate": "2026-10-14T09:08:00.000Z",
-    "summary": "Une nouvelle étude révèle que l'intelligence artificielle est impliquée dans une proportion significative des attaques par ransomware en France. Les infrastructures numériques des entreprises victimes sont directement ciblées par ces modes opératoires. Ce phénomène met en lumière la double vulnérabilité liée à l'adoption de ces technologies.",
-    "keywords": [
-      "ransomware",
-      "intelligence artificielle",
-      "cybersecurite",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "81071bb6ca35",
-    "title": "BYD dévoile à Paris son nouveau SUV qui se charge en 5 minutes : l’Atto 8 et son autonomie XXL",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/byd/3284107_byd-devoile-a-paris-son-nouveau-suv-qui-se-charge-en-5-minutes-latto-8-et-son-autonomie-xxl",
-    "pubDate": "2026-10-14T09:04:00.000Z",
-    "summary": "Le constructeur BYD a présenté son tout nouveau SUV électrique lors du Mondial de l'auto de Paris. Baptisé Atto 8, ce véhicule familial à sept places se positionne comme un concurrent direct du Peugeot e-5008. L'automobile intègre une technologie de recharge rapide permettant de passer de dix à quatre-vingt-dix-sept pour cent de batterie en neuf minutes.",
-    "keywords": [
-      "byd",
-      "atto 8",
-      "suv electrique",
-      "mondial de l'auto",
-      "peugeot"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ad22884a5507",
-    "title": "De la RAM DDR5 en promo pour les joueurs : Corsair Vengeance RGB 16 Go à 249,99€ aujourd'hui",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-634117-de-la-ram-ddr5-en-promo-pour-les-joueurs-corsair-vengeance-rgb-16-go-a-249-99-aujourd-hui.html",
-    "pubDate": "2026-10-14T08:57:00.000Z",
-    "summary": "Amazon propose actuellement la barrette de RAM Corsair Vengeance RGB 16 Go DDR5 au prix réduit de 249,99 euros. Le tarif conseillé initial pour ce matériel informatique était fixé à 337,99 euros. Les analystes de TrendForce prévoient toutefois de nouvelles augmentations des prix de la mémoire sur le marché pour le trimestre à venir.",
-    "keywords": [
-      "corsair",
-      "ram",
-      "ddr5",
-      "amazon",
-      "hardware"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "13af044b6464",
-    "title": "1 600 jeux PS5 gratuits : Overdrive fermé, Overdrive copié en quelques heures",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/produits-android/console/console-de-jeux/3284443_1-600-jeux-ps5-gratuits-overdrive-ferme-overdrive-copie-en-quelques-heures",
-    "pubDate": "2026-10-14T08:56:46.000Z",
-    "summary": "La boutique pirate Overdrive a récemment cessé ses activités sur les consoles PlayStation jailbreakées. Cette plateforme permettait d'accéder sans frais à un large catalogue de titres pour PS4 et PS5. Malgré cette intervention attribuée à Sony, des copies de l'application sont rapidement réapparues en ligne.",
-    "keywords": [
-      "sony",
-      "playstation",
-      "overdrive",
-      "jeux video",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b63d82f0b2aa",
-    "title": "Aviation : le Gabon déploie un système numérique d'analyse anticipée des passagers",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/actualites/tech/aviation-le-gabon-deploie-un-systeme-numerique-danalyse-anticipee-des-passagers",
-    "pubDate": "2026-10-14T08:54:45.000Z",
-    "summary": "Le Gabon renforce la sécurité de ses aéroports internationaux grâce à une solution numérique. Ce dispositif permet d'analyser les données des voyageurs avant leur arrivée sur le territoire. Le ministre des Transports a inspecté les équipements de l'entreprise américaine Securiport LLC.",
-    "keywords": [
-      "gabon",
-      "aviation",
-      "securiport",
-      "securite aeroportuaire",
-      "numerique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "9bfa649f7b67",
-    "title": "HP lance son nouveau EliteBoard G2a : un PC tout entier… logé dans un clavier",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/ordinateurs/3284013_hp-lance-son-nouveau-eliteboard-g2a-un-pc-tout-entier-loge-dans-un-clavier",
-    "pubDate": "2026-10-14T08:54:40.000Z",
-    "summary": "HP commercialise enfin l'EliteBoard G2a, un ordinateur complet intégré directement dans un clavier. Présenté lors du CES 2026, cet appareil novateur est pour l'instant disponible exclusivement aux États-Unis. Les consommateurs français devront patienter avant son arrivée sur le marché local, avec des prix particulièrement élevés.",
-    "keywords": [
-      "hp",
-      "eliteboard g2a",
-      "pc clavier",
-      "ces 2026",
-      "hardware"
     ],
     "aiDone": true,
     "coverage": 1,
