@@ -1,5 +1,18 @@
 [
   {
+    "id": "e3b2921f72f2",
+    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+    "pubDate": "2026-10-14T01:30:42.000Z",
+    "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "2ce212c19db2",
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "source": "TechCrunch",
@@ -1472,24 +1485,6 @@
       "apple tv 4k",
       "siri",
       "streaming",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6f75b61a4489",
-    "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-    "pubDate": "2026-10-13T13:38:03.000Z",
-    "summary": "Apple renouvelle son enceinte connectée HomePod mini avec une puce inédite et de nouvelles fonctionnalités. L'appareil intègre l'intelligence artificielle Siri ainsi qu'un affichage lumineux baptisé SoundGlow. Cette nouvelle version sera commercialisée au tarif de 149 dollars dès le 30 octobre.",
-    "keywords": [
-      "apple",
-      "homepod mini",
-      "enceinte connectee",
       "technologie"
     ],
     "aiDone": true,
