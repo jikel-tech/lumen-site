@@ -1,5 +1,24 @@
 [
   {
+    "id": "36485a811606",
+    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "pubDate": "2026-10-14T22:00:00.000Z",
+    "summary": "Le moteur de base de données CedarDB est capable de gérer simultanément les transactions et les analyses. Cette double capacité répond aux nouveaux besoins générés par l'essor des agents IA. L'entreprise propose ainsi une solution unifiée face aux architectures traditionnellement séparées.",
+    "keywords": [
+      "cedardb",
+      "base de donnees",
+      "intelligence artificielle",
+      "analytique",
+      "transactions"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "6774638fdc19",
     "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
     "source": "TechCrunch",
@@ -1477,24 +1496,6 @@
       "réalité virtuelle",
       "casque vr",
       "gaming"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "994a2be622f9",
-    "title": "Midea PortaSplit : le climatiseur mobile star de l’été revient en stock et même en promotion",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3256589_midea-portasplit-le-climatiseur-mobile-star-de-lete-revient-en-stock-et-meme-en-promotion",
-    "pubDate": "2026-10-14T12:08:21.000Z",
-    "summary": "Le climatiseur mobile réversible Midea PortaSplit est de nouveau disponible chez plusieurs distributeurs. Ce modèle populaire bénéficie en outre de réductions de prix temporaires selon les enseignes. Les consommateurs peuvent ainsi se procurer cet appareil très recherché pour la saison estivale.",
-    "keywords": [
-      "midea",
-      "portasplit",
-      "climatiseur",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
