@@ -1,5 +1,135 @@
 [
   {
+    "id": "ba5aa6174204",
+    "title": "Afrique du Sud : Kuunda réalise une vente d'actions de 5 millions de dollars",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-kuunda-realise-une-vente-dactions-de-5-millions-de-dollars",
+    "pubDate": "2026-10-14T05:53:13.000Z",
+    "summary": "La start-up sud-africaine Kuunda vient de finaliser une vente secondaire d'actions évaluée à cinq millions de dollars. Cette opération financière, pilotée par E4E Africa, vise à rémunérer les investisseurs historiques de la firme. L'entreprise spécialisée dans le crédit numérique consolide ainsi sa position sur son marché.",
+    "keywords": [
+      "kuunda",
+      "afrique du sud",
+      "e4e africa",
+      "credit numerique",
+      "fintech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a64b2b43ef74",
+    "title": "Google sélectionne 15 jeunes pousses sud-africaines spécialisées dans l'IA",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/tech-stars/google-selectionne-15-jeunes-pousses-sud-africaines-specialisees-dans-lia",
+    "pubDate": "2026-10-14T05:46:30.000Z",
+    "summary": "Google a choisi quinze jeunes pousses sud-africaines pour participer à son nouveau programme d'accélération dédié à l'intelligence artificielle. Les entreprises sélectionnées obtiendront chacune une aide financière de 60 000 dollars sans céder de parts au géant américain. Elles bénéficieront également d'un soutien technique personnalisé et d'un accès privilégié aux outils technologiques de la firme.",
+    "keywords": [
+      "google",
+      "afrique du sud",
+      "intelligence artificielle",
+      "startups"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "fd9652aff62c",
+    "title": "Paiement : la plateforme OneDosh active les retraits par carte aux distributeurs",
+    "source": "We Are Tech Africa",
+    "category": "afrique",
+    "url": "http://www.wearetech.africa/fr/fils/breves/breves-simple/paiement-la-plateforme-onedosh-active-les-retraits-par-carte-aux-distributeurs",
+    "pubDate": "2026-10-14T05:42:01.000Z",
+    "summary": "La fintech OneDosh permet désormais les retraits d'espèces via sa carte Visa sur le réseau mondial de distributeurs. Cette solution s'adresse particulièrement aux professionnels et voyageurs percevant des fonds en dollars ou en cryptomonnaies. Le service de conversion en devises locales est ouvert dans tous les pays ne faisant pas l'objet de sanctions.",
+    "keywords": [
+      "onedosh",
+      "visa",
+      "paiement",
+      "fintech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "82b8a9f1dbce",
+    "title": "Google va accueillir vos applications vibe-codées sur le Play Store (en privé d’abord)",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/google/3283937_google-va-accueillir-vos-applications-vibe-codees-sur-le-play-store-en-prive-dabord",
+    "pubDate": "2026-10-14T05:31:42.000Z",
+    "summary": "Google prépare l'intégration d'une nouvelle section sur le Play Store pour héberger des applications créées par intelligence artificielle. Cette initiative permettra aux utilisateurs de concevoir et de tester leurs propres logiciels de manière privée. Le géant technologique cherche ainsi à démocratiser le développement d'applications pour l'ensemble du grand public.",
+    "keywords": [
+      "google",
+      "play store",
+      "intelligence artificielle",
+      "developpement"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "21e35b16e9d2",
+    "title": "Wi-Fi lent, coupures et zones blanches ? devolo mise sur le Wi-Fi 7 pour ses nouveaux routeurs BE9300 et BE6500",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633508-wi-fi-lent-coupures-et-zones-blanches-devolo-mise-sur-le-wi-fi-7-pour-ses-nouveaux-routeurs-be9300-et-be6500.html",
+    "pubDate": "2026-10-14T05:30:00.000Z",
+    "summary": "La marque devolo commercialise de nouveaux routeurs compatibles avec la norme Wi-Fi 7. Les modèles BE9300 et BE6500 visent à éliminer les zones blanches et les baisses de débit. Ces équipements sont vendus à l'unité ou intégrés dans des kits mesh.",
+    "keywords": [
+      "devolo",
+      "wifi 7",
+      "routeur",
+      "be9300",
+      "be6500"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b6f91fcb09a",
+    "title": "Ventes Flash Amazon : 10 produits tech voient leur prix baisser après le Prime Day, jusqu’à -31 %",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
+    "pubDate": "2026-10-14T05:30:00.000Z",
+    "summary": "Amazon propose de nouvelles réductions sur une sélection d'appareils technologiques ce mardi. Ces offres interviennent moins d'une semaine après la clôture des Jours Flash Prime. Le site spécialisé a analysé l'historique des tarifs pour identifier les rabais les plus intéressants.",
+    "keywords": [
+      "amazon",
+      "ventes flash",
+      "tech",
+      "promotions",
+      "e-commerce"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f87193b1e3c0",
+    "title": "Haibike AllMtn 2 : ce nouveau VTT électrique tout-suspendu à moteur Bosch 120 Nm perd déjà 1 500 €",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3283191_haibike-allmtn-2-ce-nouveau-vtt-electrique-tout-suspendu-a-moteur-bosch-120-nm-perd-deja-1-500-e",
+    "pubDate": "2026-10-14T05:22:00.000Z",
+    "summary": "Le site Alltricks propose actuellement une importante réduction sur le VTT électrique tout-suspendu Haibike AllMtn 2. Ce modèle destiné à la montagne est équipé d'un performant moteur Bosch de 120 Nm. Son prix chute ainsi de 4 299 euros à 2 799,99 euros.",
+    "keywords": [
+      "haibike",
+      "vtt électrique",
+      "bosch",
+      "alltricks",
+      "mobilité"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "30ee9cd76683",
     "title": "Après Photoshop, ce développeur recrée Word, Excel et PowerPoint gratuitement avec l’IA",
     "source": "Clubic",
@@ -1065,25 +1195,6 @@
     "also": []
   },
   {
-    "id": "2b6f91fcb09a",
-    "title": "Ventes Flash Amazon : jusqu’à -31 % sur 10 produits tech ce mardi",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
-    "pubDate": "2026-10-13T15:06:00.000Z",
-    "summary": "Amazon propose de nouvelles réductions sur une sélection d'appareils technologiques ce mardi. Ces offres interviennent moins d'une semaine après la clôture des Jours Flash Prime. Le site spécialisé a analysé l'historique des tarifs pour identifier les rabais les plus intéressants.",
-    "keywords": [
-      "amazon",
-      "ventes flash",
-      "tech",
-      "promotions",
-      "e-commerce"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "66192e946d95",
     "title": "Jusqu’à 35 % de performances en plus : Nvidia dégaine une option surprise pour ses RTX 40 et 50",
     "source": "Frandroid",
@@ -1380,117 +1491,6 @@
       "maison connectée",
       "lg",
       "schneider electric"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "45d5e4849c59",
-    "title": "Toutes les annonces Apple « Welcome home » : Apple HomeView, Apple TV 4K (2026) et HomePod mini 2",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3282897_quand-et-comment-suivre-les-annonces-dapple-homeview-apple-tv-4k-homepod-mini-2",
-    "pubDate": "2026-10-13T14:08:31.000Z",
-    "summary": "Apple prépare sa conférence intitulée « Welcome home » pour présenter ses nouveautés dédiées à la maison connectée. L'entreprise américaine devrait officialiser le HomeView ainsi que de nouvelles versions de l'Apple TV 4K et du HomePod mini. Cependant, les clients français ne pourront pas profiter de l'assistant Siri AI intégré à ces équipements.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "apple tv 4k",
-      "homepod mini",
-      "maison connectee"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "177081608400",
-    "title": "HomePod mini 2 : six ans après, Apple voit plus grand pour sa petite enceinte",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-633970-homepod-mini-2-six-ans-apres-apple-voit-plus-grand-pour-sa-petite-enceinte.html",
-    "pubDate": "2026-10-13T14:07:00.000Z",
-    "summary": "Apple vient d'officialiser la deuxième génération de son enceinte connectée HomePod mini. Ce nouvel appareil offre des performances accrues ainsi que plusieurs fonctionnalités inédites. Toutefois, la fonctionnalité principale de cette enceinte ne sera pas accessible dès son lancement.",
-    "keywords": [
-      "apple",
-      "homepod mini",
-      "enceinte connectée",
-      "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0da35c902b80",
-    "title": "Le dernier tir de SpaceX a fait flotter une immense méduse lumineuse dans le ciel, voici les photos les plus incroyables",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2352343-une-fusee-falcon-9-de-spacex-a-fait-apparaitre-une-meduse-lumineuse-dans-le-ciel-photos.html",
-    "pubDate": "2026-10-13T14:05:25.000Z",
-    "summary": "Une fusée Falcon 9 de SpaceX a généré un phénomène lumineux spectaculaire dans le ciel américain. Ce spectacle visuel prend la forme d'une méduse spatiale capturée en image ce 13 octobre 2026. L'événement résulte directement du décollage de l'appareil opéré en Floride le même matin.",
-    "keywords": [
-      "spacex",
-      "falcon 9",
-      "fusee",
-      "etats-unis",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "82ec47719a83",
-    "title": "TechCrunch Disrupt 2026: Day 1",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "pubDate": "2026-10-13T14:00:00.000Z",
-    "summary": "L'événement TechCrunch Disrupt 2026 s'ouvre ce jour à San Francisco. Cette première journée rassemble plus de dix mille professionnels du secteur technologique. Les participants se donnent rendez-vous au centre de conventions Moscone West.",
-    "keywords": [
-      "techcrunch disrupt",
-      "san francisco",
-      "technologie",
-      "evenement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2b4a0856f312",
-    "title": "Nvidia met à jour le DLSS 5 : moins de mémoire consommée et plus de FPS en jeu",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/nvidia/3283249_nvidia-met-a-jour-le-dlss-5-moins-de-memoire-consommee-et-plus-de-fps-en-jeu",
-    "pubDate": "2026-10-13T13:58:59.000Z",
-    "summary": "Nvidia a dévoilé une nouvelle version de sa technologie DLSS 5 ce mardi 13 octobre. Ce modèle amélioré offre des performances doublées et une baisse de vingt pour cent de la consommation en mémoire vidéo pour la résolution 4K. Cette innovation sera intégrée pour la première fois dans le jeu NBA 2K27.",
-    "keywords": [
-      "nvidia",
-      "dlss 5",
-      "jeu video",
-      "nba 2k27",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a8197f8de633",
-    "title": "La pochette officielle Switch 2 des 40 ans de Zelda revient en précommande chez Cultura",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2352397-la-pochette-officielle-switch-2-des-40-ans-de-zelda-revient-en-precommande-chez-cultura.html",
-    "pubDate": "2026-10-13T13:57:00.000Z",
-    "summary": "La pochette de transport officielle de la Nintendo Switch 2 aux couleurs de Zelda est de nouveau accessible en précommande chez Cultura. Cet accessoire commémorant les quarante ans de la franchise est affiché au prix de trente-neuf euros et quatre-vingt-dix-neuf centimes. Sa date de sortie officielle sur le marché est fixée au vingt-neuf octobre 2026.",
-    "keywords": [
-      "nintendo switch 2",
-      "zelda",
-      "cultura",
-      "pochette"
     ],
     "aiDone": true,
     "coverage": 1,
