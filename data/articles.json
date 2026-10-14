@@ -1,5 +1,24 @@
 [
   {
+    "id": "1339a48cc831",
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "pubDate": "2026-10-14T21:00:00.000Z",
+    "summary": "L'entreprise Colossal Biosciences dévoile une nouvelle plateforme d'intelligence artificielle pour accélérer ses travaux de résurrection d'espèces disparues. Cet outil technologique inédit doit permettre d'optimiser les recherches en cours sur la dé-extinction. Par ailleurs, Peter Diamandis lance un fonds d'investissement spécialement dédié aux jeunes pousses qui utiliseront cette innovation.",
+    "keywords": [
+      "colossal biosciences",
+      "intelligence artificielle",
+      "de-extinction",
+      "peter diamandis",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "2269f740f410",
     "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
     "source": "TechCrunch",
@@ -1475,25 +1494,6 @@
       "geforce rtx 5080",
       "gpu",
       "carte graphique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ee60c7c9b09f",
-    "title": "Cascador and Sterling launch $200 million fund to derisk startup loans",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/14/cascador-sterling-startup-loans/",
-    "pubDate": "2026-10-14T11:41:44.000Z",
-    "summary": "Cascador et Sterling Bank s'associent pour lancer un fonds d'investissement de 200 millions de dollars. Cette initiative vise à faciliter l'accès des jeunes entreprises nigérianes aux prêts bancaires. Le dispositif permet de partager le risque lié au défaut de paiement des emprunteurs.",
-    "keywords": [
-      "cascador",
-      "sterling bank",
-      "nigeria",
-      "startups",
-      "financement"
     ],
     "aiDone": true,
     "coverage": 1,
