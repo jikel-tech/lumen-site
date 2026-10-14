@@ -1,5 +1,211 @@
 [
   {
+    "id": "6b53e7eec40e",
+    "title": "Google saborde un peu plus les Googlebooks : l’une des meilleures fonctions arrive sur Mac gratuitement",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/google/3285063_google-saborde-un-peu-plus-les-googlebooks-lune-des-meilleures-fonctions-arrive-sur-mac-gratuitement",
+    "pubDate": "2026-10-14T14:00:02.000Z",
+    "summary": "Google met en avant l'application gratuite et open source DigUp sur macOS. Ce logiciel intègre la recherche sémantique de fichiers grâce au modèle EmbeddingGemma 2. Cette fonctionnalité innovante était auparavant l'un des atouts majeurs des Googlebooks.",
+    "keywords": [
+      "google",
+      "digup",
+      "macos",
+      "embeddinggemma",
+      "logiciel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "525e577cb03c",
+    "title": "Pourquoi Apple veut-elle absolument mettre un iPhone au cœur de votre maison ?",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/dossier-634048-pourquoi-apple-veut-elle-absolument-mettre-un-iphone-au-c-ur-de-votre-maison.html",
+    "pubDate": "2026-10-14T14:00:00.000Z",
+    "summary": "Apple lance de nouveaux équipements dédiés à la maison connectée. La firme américaine souhaite positionner l'iPhone au centre de l'écosystème domestique numérique. Cette stratégie confirme l'ambition ancienne du constructeur pour le logement intelligent.",
+    "keywords": [
+      "apple",
+      "iphone",
+      "maison connectee",
+      "domotique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "922ac5cc473c",
+    "title": "NTangible bets it can predict how athletes will perform under pressure",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+    "pubDate": "2026-10-14T14:00:00.000Z",
+    "summary": "La startup NTangible développe une plateforme d'analyse destinée aux clubs et aux organisations sportives universitaires. Cet outil technologique vise à évaluer la capacité des athlètes à gérer la pression lors des moments décisifs. Grâce à ces données prédictives, les structures sportives peuvent mieux anticiper les performances de leurs joueurs.",
+    "keywords": [
+      "ntangible",
+      "sport",
+      "analytics",
+      "performance",
+      "ia"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b8352ff8f0cc",
+    "title": "Espionnage chez OpenAI : le « dispositif sophistiqué » était un micro chinois à 14 dollars",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/openai/3284943_espionnage-chez-openai-le-dispositif-sophistique-etait-un-micro-chinois-a-14-dollars",
+    "pubDate": "2026-10-14T13:56:31.000Z",
+    "summary": "Une plainte pénale publiée ce mardi 13 octobre révèle la nature exacte du matériel d'espionnage découvert chez OpenAI. Le prétendu dispositif sophistiqué dissimulé dans une salle de réunion est en réalité un simple produit chinois bon marché. Cette carte électronique Seeed Studio s'avère être un enregistreur vendu pour un montant de quatorze dollars.",
+    "keywords": [
+      "openai",
+      "espionnage",
+      "seeed studio",
+      "securite",
+      "chine"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b536ed6608c7",
+    "title": "On a vu VisionQuest : la vision de la série Marvel est bancale (critique sans spoilers)",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2353121-on-a-vu-visionquest-la-vision-de-la-serie-marvel-est-bancale-critique-sans-spoilers.html",
+    "pubDate": "2026-10-14T13:56:17.000Z",
+    "summary": "Disney dévoile enfin VisionQuest, la conclusion de la trilogie conceptuelle centrée sur le célèbre synthézoïde des studios Marvel. Cette nouvelle série télévisée tente de s'inscrire dans la lignée du succès de WandaVision malgré une fatigue industrielle persistante. Notre critique sans spoilers qualifie toutefois la vision artistique de cette production de bancale.",
+    "keywords": [
+      "visionquest",
+      "marvel",
+      "serie",
+      "disney",
+      "critique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "199721722e83",
+    "title": "Introuvable cet été, le Midea PortaSplit est de nouveau disponible chez Amazon",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-634222-introuvable-cet-ete-le-midea-portasplit-est-de-nouveau-disponible-chez-amazon.html",
+    "pubDate": "2026-10-14T13:56:00.000Z",
+    "summary": "Le climatiseur Midea PortaSplit est à nouveau proposé à la vente sur Amazon. Cet appareil réversible de 12 000 BTU revient à son prix conseillé de 999 euros. Il était devenu introuvable durant la période estivale sur cette même plateforme.",
+    "keywords": [
+      "midea",
+      "portasplit",
+      "amazon",
+      "climatiseur",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5da11f1b0b85",
+    "title": "Ambulances connectées et kiné à distance, l'Europe teste la 6G avec de vrais patients",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634168-ambulances-connectees-et-kine-a-distance-l-europe-teste-la-6g-avec-de-vrais-patients.html",
+    "pubDate": "2026-10-14T13:52:00.000Z",
+    "summary": "Le projet européen baptisé 6G-CARE expérimente la technologie mobile de sixième génération dans le secteur de la santé. Des essais cliniques se déroulent dans six pays européens pendant une période de trois ans. Les tests portent notamment sur des ambulances connectées et des services de kinésithérapie à distance.",
+    "keywords": [
+      "6g",
+      "6g-care",
+      "sante",
+      "europe",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0d925bed8a0d",
+    "title": "Le prochain jeu de Rockstar Games ne sortira pas huit ans après GTA 6",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/pop-culture/2353201-le-prochain-jeu-de-rockstar-games-ne-sortira-pas-huit-ans-apres-gta-6.html",
+    "pubDate": "2026-10-14T13:47:03.000Z",
+    "summary": "Rockstar Games a mis huit années pour concevoir GTA 6 après le lancement de Red Dead Redemption 2. Le studio de développement promet que son futur projet ne nécessitera pas un tel délai de fabrication. Cette annonce rassure la communauté de joueurs sur le rythme des prochaines sorties.",
+    "keywords": [
+      "rockstar games",
+      "gta 6",
+      "red dead redemption 2",
+      "jeu video"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "3875b4714b33",
+    "title": "Google teste une IA capable de repérer les arnaques avant même qu'on vous demande de l'argent",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634210-google-teste-une-ia-capable-de-reperer-les-arnaques-avant-meme-qu-on-vous-demande-de-l-argent.html",
+    "pubDate": "2026-10-14T13:45:00.000Z",
+    "summary": "Google DeepMind et les autorités de Singapour développent une intelligence artificielle expérimentale pour lutter contre les escroqueries en ligne. Cet outil innovant analyse les conversations sur smartphone afin de détecter les manipulations psychologiques avant toute demande d'argent. Le système fonctionne localement sur l'appareil pour protéger la confidentialité des échanges sans les transférer dans le cloud.",
+    "keywords": [
+      "google",
+      "intelligence artificielle",
+      "escroquerie",
+      "singapour",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e1716212a307",
+    "title": "AMD préparerait le lancement des GPU RDNA 5 pour fin 2027",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634159-amd-preparerait-le-lancement-des-gpu-rdna-5-pour-fin-2027.html",
+    "pubDate": "2026-10-14T13:38:00.000Z",
+    "summary": "Le fabricant AMD envisage d'avancer la commercialisation de sa nouvelle architecture graphique RDNA 5 à la fin de l'année 2027. La marque intègrera cette technologie de manière discrète sur le marché en proposant un unique modèle de processeur graphique. Cette stratégie permettra à l'entreprise de surprendre ses concurrents avant la date initialement prévue pour 2028.",
+    "keywords": [
+      "amd",
+      "rdna 5",
+      "gpu",
+      "carte graphique"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f759370828e9",
+    "title": "Tesla Roadster : où et comment suivre la présentation en direct si vous êtes en France ?",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-634204-tesla-roadster-ou-et-comment-suivre-la-presentation-en-direct-depuis-la-france.html",
+    "pubDate": "2026-10-14T13:32:00.000Z",
+    "summary": "Le nouveau véhicule très attendu de Tesla sera officiellement dévoilé ce vendredi lors d'une conférence aux États-Unis. En raison du décalage horaire, les passionnés français devront veiller tard en soirée pour assister à l'événement en direct. Cet article détaille les différentes modalités pratiques pour suivre cette présentation très médiatisée depuis la France.",
+    "keywords": [
+      "tesla",
+      "tesla roadster",
+      "voiture electrique",
+      "france",
+      "streaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "0e0b8cb8471f",
     "title": "L’après GTA 6 : Rockstar Games promet de sortir des jeux plus vite, mais pas d’éviter les licenciements massifs",
     "source": "Frandroid",
@@ -1291,208 +1497,6 @@
       "claude",
       "bureautique",
       "open source"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a5d43d08bc7c",
-    "title": "Ce jeu vidéo ukrainien reproduit la guerre des drones FPV avec l’aide de pilotes du front",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2352853-remote-reaper-ce-jeu-de-drone-a-ete-concu-avec-des-pilotes-militaires-ukrainiens-et-ca-se-voit.html",
-    "pubDate": "2026-10-14T08:28:27.000Z",
-    "summary": "Le simulateur de combat de drones FPV Remote Reaper vient de quitter sa phase d'accès anticipé ce mercredi. Ce jeu vidéo a été développé par un studio ukrainien en collaboration directe avec des pilotes militaires actifs. Le titre propose une expérience immersive inspirée des opérations de drones sur le terrain.",
-    "keywords": [
-      "remote reaper",
-      "drone",
-      "ukraine",
-      "jeu video",
-      "militaire"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "fd953cd7ad17",
-    "title": "Alfa Romeo Cuorerosso : on a vu la voiture du Mondial qui refuse d’enterrer le thermique",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/voitures-electriques/3282085_alfa-romeo-cuorerosso-on-a-vu-la-voiture-du-mondial-qui-refuse-denterrer-le-thermique",
-    "pubDate": "2026-10-14T08:27:50.000Z",
-    "summary": "La marque italienne Alfa Romeo a présenté son nouveau concept de véhicule au Mondial de l'auto. Ce prototype inédit, baptisé Cuorerosso, fait le choix de maintenir la motorisation thermique. Le constructeur cherche ainsi à raviver l'intérêt des passionnés pour les voitures traditionnelles.",
-    "keywords": [
-      "alfa romeo",
-      "cuorerosso",
-      "mondial de l'auto",
-      "voiture thermique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8e0c0b54022b",
-    "title": "Casque obligatoire à vélo : l’Espagne supprime toutes les dérogations et décide de mieux protéger les cyclistes",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/velo-electrique/3284229_casque-obligatoire-a-velo-lespagne-supprime-toutes-les-derogations-et-decide-de-mieux-proteger-les-cyclistes",
-    "pubDate": "2026-10-14T08:26:43.000Z",
-    "summary": "L'Espagne renforce la sécurité routière en rendant le port du casque obligatoire pour l'ensemble des cyclistes hors agglomération. Cette mesure supprime toutes les dérogations qui existaient auparavant pour cette catégorie d'usagers. De plus, les automobilistes doivent désormais réduire leur vitesse de vingt kilomètres-heure minimum lorsqu'ils croisent des vélos.",
-    "keywords": [
-      "espagne",
-      "velo",
-      "casque",
-      "securite routiere"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ed6145b75c10",
-    "title": "Galaxy A58 : inutile d’attendre 2027 si vous espérez de meilleures photos sur ce Samsung",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3284227_galaxy-a58-inutile-dattendre-2027-si-vous-esperez-de-meilleures-photos-sur-ce-samsung",
-    "pubDate": "2026-10-14T08:25:36.000Z",
-    "summary": "Le futur smartphone Galaxy A58 de Samsung est pressenti pour conserver la configuration photo de son prédécesseur. Les informations proviennent du média néerlandais spécialisé Galaxy Club. La présentation officielle de cet appareil est planifiée pour le printemps 2027.",
-    "keywords": [
-      "samsung",
-      "galaxy a58",
-      "smartphone",
-      "photo"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "405a684ed698",
-    "title": "Google ouvre Gemini 4 Argon à ses abonnés AI Pro : ce qui change pour vos requêtes",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634099-google-ouvre-gemini-4-argon-a-ses-abonnes-ai-pro-ce-qui-change-pour-vos-requetes.html",
-    "pubDate": "2026-10-14T08:24:00.000Z",
-    "summary": "Google étend la disponibilité de son modèle Gemini 4 Argon aux utilisateurs de la formule AI Pro. Cette nouveauté concerne les applications Gemini ainsi que la fonctionnalité AI Mode. Toutefois, les fonctionnalités les plus avancées de l'intelligence artificielle restent exclusives à l'abonnement Ultra.",
-    "keywords": [
-      "google",
-      "gemini",
-      "intelligence artificielle",
-      "ai pro"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a9de30cec967",
-    "title": "Présidentielle 2027 : où consulter les sondages de l’élection en ligne et comment les vérifier ?",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/politique/2351909-presidentielle-2027-ou-consulter-les-sondages-de-lelection-en-ligne-et-comment-les-verifier.html",
-    "pubDate": "2026-10-14T08:20:00.000Z",
-    "summary": "À l'approche de l'élection présidentielle de 2027, les sondages d'opinion se multiplient sur les réseaux sociaux et dans les médias. Cet article indique où trouver les enquêtes originales en ligne et comment analyser leur fiabilité. Ces informations permettent aux citoyens de consulter les données électorales avec discernement.",
-    "keywords": [
-      "sondages",
-      "election",
-      "2027",
-      "politique",
-      "france"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "65e25e180da5",
-    "title": "Les Pixel vont bientôt pouvoir réparer leurs pannes de Wi-Fi et de réseau tout seuls",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/google/3284165_les-pixel-vont-bientot-pouvoir-reparer-leurs-pannes-de-wi-fi-et-de-reseau-tout-seuls",
-    "pubDate": "2026-10-14T08:18:58.000Z",
-    "summary": "Google intègre de nouveaux outils de diagnostic dans la première bêta d'Android 17 QPR3 pour les smartphones Pixel. Ces fonctionnalités permettent aux appareils de détecter et de corriger de manière autonome les pannes de Wi-Fi, de réseau et d'appels. Cette innovation vise à simplifier la résolution des problèmes de connectivité directement sur le téléphone.",
-    "keywords": [
-      "google",
-      "pixel",
-      "android",
-      "wifi",
-      "diagnostic"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f8a61f752f52",
-    "title": "Withings fait payer une fonction essentielle de ses objets connectés, et ça risque de faire grincer des dents",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634084-withings-fait-payer-une-fonction-essentielle-de-ses-objets-connectes-et-ca-risque-de-faire-grincer-des-dents.html",
-    "pubDate": "2026-10-14T08:14:00.000Z",
-    "summary": "La marque Withings a décidé de rendre payante une option de synchronisation de données pour certains de ses appareils connectés. Cette nouveauté impose désormais un abonnement pour lier ces informations à des plateformes tierces. Cette transition tarifaire suscite des inquiétudes et pourrait mécontenter une partie de sa communauté.",
-    "keywords": [
-      "withings",
-      "objet connecté",
-      "abonnement",
-      "santé"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "60b734b1e319",
-    "title": "iOS 27 rend Siri bien plus pratique avec Spotify, sauf dans l’Union européenne",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-634081-plus-besoin-de-dire-sur-spotify-a-siri-avec-ios-27-sauf-dans-l-union-europeenne.html",
-    "pubDate": "2026-10-14T08:11:00.000Z",
-    "summary": "La mise à jour iOS 27 améliore nettement l'intégration de Spotify avec l'assistant vocal Siri. Cette nouvelle fonctionnalité facilite grandement la lecture de musique en arrière-plan. Malheureusement, les utilisateurs résidant dans l'Union européenne ne pourront pas en profiter.",
-    "keywords": [
-      "ios 27",
-      "siri",
-      "spotify",
-      "union europeenne"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "5c6fe49f7566",
-    "title": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/tech/2352825-un-micro-cache-dans-du-papier-toilette-chez-openai-un-ingenieur-saoudien-arrete-par-le-fbi.html",
-    "pubDate": "2026-10-14T08:05:30.000Z",
-    "summary": "Un ingénieur saoudien travaillant chez OpenAI a été appréhendé par le FBI. Un appareil d'écoute avait été dissimulé dans du papier toilette au sein d'une salle de réunion. Les technologies de l'entreprise ont permis d'aider à identifier le suspect.",
-    "keywords": [
-      "openai",
-      "fbi",
-      "espionnage",
-      "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "316a28b823da",
-    "title": "Ce chauffage connecté Philips perd 20 % sur Amazon, avant les premiers froids",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/tech/2352849-ce-chauffage-connecte-philips-perd-20-sur-amazon-avant-les-premiers-froids.html",
-    "pubDate": "2026-10-14T08:03:59.000Z",
-    "summary": "Amazon propose une réduction sur le chauffage d'appoint connecté de la marque Philips. L'appareil atteint une puissance maximale de deux mille watts. Son prix passe ainsi sous la barre des quatre-vingts euros pour anticiper les premiers froids.",
-    "keywords": [
-      "philips",
-      "chauffage",
-      "amazon",
-      "deal",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
