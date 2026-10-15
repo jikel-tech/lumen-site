@@ -1,5 +1,61 @@
 [
   {
+    "id": "f0fe7c9aa7b8",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "pubDate": "2026-10-15T01:01:32.000Z",
+    "summary": "La start-up Ricursive Intelligence mise sur l'intelligence artificielle pour concevoir des puces électroniques. Ses technologies apprennent de chaque itération pour améliorer les versions suivantes des semi-conducteurs. L'objectif principal de cette démarche est d'automatiser et d'accélérer la fabrication de puces pour répondre à la crise des calculs.",
+    "keywords": [
+      "ricursive intelligence",
+      "intelligence artificielle",
+      "puces",
+      "semi-conducteurs",
+      "startup"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "27dfbec59703",
+    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+    "pubDate": "2026-10-15T00:49:31.000Z",
+    "summary": "Le dirigeant de Flock, Garrett Langley, a défendu la technologie de surveillance de son entreprise lors de la conférence TechCrunch Disrupt. Il estime que les avantages de ces outils pour lutter contre la criminalité surpassent largement les risques liés aux atteintes à la vie privée. Cette prise de position intervient alors que l'entreprise fait face à une vive contestation nationale.",
+    "keywords": [
+      "flock",
+      "garrett langley",
+      "surveillance",
+      "technologie",
+      "vie privee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "80e59efbfa32",
+    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+    "pubDate": "2026-10-15T00:30:00.000Z",
+    "summary": "Cinq jeunes entreprises ont été sélectionnées pour participer à la finale du Startup Battlefield. Cet événement prestigieux se déroule lors de la compétition Disrupt 2026. Ces finalistes s'affrontent pour remporter le titre suprême de cette édition.",
+    "keywords": [
+      "startup battlefield",
+      "disrupt 2026",
+      "technologie",
+      "innovation"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "d3bb9ef55af6",
     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
     "source": "TechCrunch",
@@ -1439,62 +1495,6 @@
       "chine",
       "automobile",
       "importations"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "32fca6cba258",
-    "title": "Il utilisait l'IA pour pirater des banques, mais ses conversations avec Claude ont fini par le trahir",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634162-il-utilisait-l-ia-pour-pirater-des-banques-mais-ses-conversations-avec-claude-ont-fini-par-le-trahir.html",
-    "pubDate": "2026-10-14T12:37:00.000Z",
-    "summary": "Un cybercriminel a utilisé l'intelligence artificielle pour cibler plusieurs établissements bancaires en Corée du Sud. Ses échanges avec l'assistant Claude ont été trouvés en ligne, facilitant le travail d'enquête des experts en cybersécurité. Les chercheurs de CrowdStrike ont ainsi pu reconstituer l'ensemble de ses agissements malveillants.",
-    "keywords": [
-      "claude",
-      "crowdstrike",
-      "intelligence artificielle",
-      "piratage",
-      "coree du sud"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "630c07bec7d4",
-    "title": "Abdou Aziz Ba lance une IA pour transformer toute idée en plan de travail",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/tech-stars/abdou-aziz-ba-lance-une-ia-pour-transformer-toute-idee-en-plan-de-travail",
-    "pubDate": "2026-10-14T12:33:44.000Z",
-    "summary": "L'entrepreneur technologique sénégalais Abdou Aziz Ba a lancé Kitia en septembre 2026. Cette plateforme numérique utilise l'intelligence artificielle pour concevoir des plans de travail. L'outil aide ainsi à transformer rapidement un besoin exprimé en un projet structuré.",
-    "keywords": [
-      "abdou aziz ba",
-      "kitia",
-      "intelligence artificielle",
-      "senegal",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "60d29122adf1",
-    "title": "Apple nous avait promis un redesign de son app Santé ... finalement, ça attendra",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634174-apple-nous-avait-promis-un-redesign-de-son-app-sante-finalement-ca-attendra.html",
-    "pubDate": "2026-10-14T12:29:00.000Z",
-    "summary": "Apple a finalement suspendu la refonte prévue de son application Santé. Ce changement esthétique devait initialement apparaître dans la mise à jour iOS 27.2. L'application conserve donc son interface visuelle d'origine pour le moment.",
-    "keywords": [
-      "apple",
-      "sante",
-      "ios",
-      "application"
     ],
     "aiDone": true,
     "coverage": 1,
