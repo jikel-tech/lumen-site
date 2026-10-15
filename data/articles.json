@@ -1,5 +1,136 @@
 [
   {
+    "id": "e4d0b990619a",
+    "title": "Microsoft rétrécit sa manette Xbox pour les petites mains et les poches",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/marques/microsoft/3285675_microsoft-retrecit-sa-manette-xbox-pour-les-petites-mains-et-les-poches",
+    "pubDate": "2026-10-15T05:54:58.000Z",
+    "summary": "Microsoft vient d'officialiser la sortie prochaine de la Xbox Nano Controller sur le marché français. Ce nouveau modèle réduit mesure treize centimètres tout en intégrant l'intégralité des fonctionnalités classiques. Les utilisateurs peuvent déjà réserver cet accessoire compact affiché au prix de 49,99 euros.",
+    "keywords": [
+      "microsoft",
+      "xbox",
+      "manette",
+      "france",
+      "gaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "af5cddb32793",
+    "title": "Tiny11 se refait une beauté pour installer Windows 11 26H2 sur les PC recalés par Microsoft",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/os/windows/3285759_tiny11-se-refait-une-beaute-pour-installer-windows-11-26h2-sur-les-pc-recales-par-microsoft",
+    "pubDate": "2026-10-15T05:53:12.000Z",
+    "summary": "Le développeur NTDEV a lancé une version modernisée de Tiny11 Builder pour concevoir des images ISO allégées de Windows 11 26H2. Ce nouvel outil prend la forme d'une application intégrée dotée d'options personnalisées et d'un mode Turbo. Il permet aux ordinateurs non pris en charge par Microsoft d'installer cette mise à jour du système d'exploitation.",
+    "keywords": [
+      "tiny11",
+      "windows 11",
+      "ntdev",
+      "microsoft",
+      "pc"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "eef84ef37a68",
+    "title": "Un jour sans fin : Intel augmente encore le prix de ses processeurs pour PC portables",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/3285751_troisieme-hausse-depuis-fin-2025-intel-augmente-encore-ses-processeurs-pour-pc-portables",
+    "pubDate": "2026-10-15T05:45:56.000Z",
+    "summary": "Intel applique une augmentation tarifaire atteignant vingt pour cent sur ses processeurs mobiles les plus performants. Cette décision impacte directement les fabricants de ordinateurs portables depuis le premier septembre deux mille vingt-six. Il s'agit de la troisième revalorisation des prix initiée par la marque depuis la fin de l'année précédente.",
+    "keywords": [
+      "intel",
+      "panther lake",
+      "processeur",
+      "pc portable",
+      "hausse de prix"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "7d571810e87b",
+    "title": "Google Play veut mettre la création d’applications à la portée de tous grâce à l’IA",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634267-google-play-veut-mettre-la-creation-d-applications-a-la-portee-de-tous-grace-a-l-ia.html",
+    "pubDate": "2026-10-15T05:42:00.000Z",
+    "summary": "Google Play intègre l'intelligence artificielle pour simplifier la conception de logiciels par les utilisateurs. Cette initiative capitalise sur la popularité croissante du vibe coding. Chacun pourra ainsi concevoir et déployer ses propres programmes sur son smartphone.",
+    "keywords": [
+      "google play",
+      "intelligence artificielle",
+      "vibe coding",
+      "application"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "25bd6010329b",
+    "title": "CyberGhost VPN à 1,99 € par mois : voici 3 bonnes raisons de choisir ce VPN",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-633961-cyberghost-vpn-a-1-99-par-mois-voici-3-bonnes-raisons-de-choisir-ce-vpn.html",
+    "pubDate": "2026-10-15T05:30:00.000Z",
+    "summary": "Le service de réseau virtuel CyberGhost VPN est actuellement proposé au tarif mensuel de 1,99 euro. Cette solution payante permet d'améliorer sa sécurité numérique par rapport aux offres gratuites. L'entreprise se positionne ainsi comme une option de choix sur le marché des VPN.",
+    "keywords": [
+      "cyberghost",
+      "vpn",
+      "cybersecurite",
+      "logiciel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "bf3dec79ea49",
+    "title": "Tesla Roadster : à quelle heure et où suivre la présentation en direct depuis la France ?",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/marques/tesla/3284091_tesla-roadster-a-quelle-heure-et-ou-suivre-la-presentation-en-direct-depuis-la-france",
+    "pubDate": "2026-10-15T05:26:47.000Z",
+    "summary": "Le constructeur Tesla s'apprête à dévoiler en direct sur la plateforme X son tout nouveau modèle de Roadster. La retransmission de cet événement automobile très attendu débutera dans la nuit de jeudi à vendredi pour les spectateurs français. Cette présentation officielle intervient près de neuf ans après la première apparition publique du prototype de la supercar.",
+    "keywords": [
+      "tesla",
+      "roadster",
+      "voiture electrique",
+      "supercar",
+      "x"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "cbb6023675c7",
+    "title": "iPhone Duo : changer l’écran pliable coûte plus cher qu’un iPhone 17 neuf",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/smartphone/3285745_iphone-duo-changer-lecran-pliable-coute-plus-cher-quun-iphone-17-neuf",
+    "pubDate": "2026-10-15T05:25:58.000Z",
+    "summary": "Apple dévoile le coût exorbitant des réparations pour l'iPhone Duo sans souscrire à la formule AppleCare+. Remplacer l'écran pliable de ce smartphone revient à débourser 1 149 euros. Cette somme dépasse le prix d'achat d'un iPhone 17 neuf.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "iphone 17",
+      "ecran pliable",
+      "reparation"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "ed7fdd9c4f01",
     "title": "La toute nouvelle montre Huawei Watch 6 est déjà en promotion sur AMazon",
     "source": "Frandroid",
@@ -424,25 +555,6 @@
       "intelligence artificielle",
       "streaming musical",
       "musique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e4d0b990619a",
-    "title": "Microsoft rétrécit sa manette Xbox pour les petites mains et les poches",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/microsoft/3285675_microsoft-retrecit-sa-manette-xbox-pour-les-petites-mains-et-les-poches",
-    "pubDate": "2026-10-14T18:07:24.000Z",
-    "summary": "Microsoft vient d'officialiser la sortie prochaine de la Xbox Nano Controller sur le marché français. Ce nouveau modèle réduit mesure treize centimètres tout en intégrant l'intégralité des fonctionnalités classiques. Les utilisateurs peuvent déjà réserver cet accessoire compact affiché au prix de 49,99 euros.",
-    "keywords": [
-      "microsoft",
-      "xbox",
-      "manette",
-      "france",
-      "gaming"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1380,120 +1492,6 @@
       "rdna 5",
       "gpu",
       "carte graphique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "f759370828e9",
-    "title": "Tesla Roadster : où et comment suivre la présentation en direct si vous êtes en France ?",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-634204-tesla-roadster-ou-et-comment-suivre-la-presentation-en-direct-depuis-la-france.html",
-    "pubDate": "2026-10-14T13:32:00.000Z",
-    "summary": "Le nouveau véhicule très attendu de Tesla sera officiellement dévoilé ce vendredi lors d'une conférence aux États-Unis. En raison du décalage horaire, les passionnés français devront veiller tard en soirée pour assister à l'événement en direct. Cet article détaille les différentes modalités pratiques pour suivre cette présentation très médiatisée depuis la France.",
-    "keywords": [
-      "tesla",
-      "tesla roadster",
-      "voiture electrique",
-      "france",
-      "streaming"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0e0b8cb8471f",
-    "title": "L’après GTA 6 : Rockstar Games promet de sortir des jeux plus vite, mais pas d’éviter les licenciements massifs",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/console/3284997_lapres-gta-6-rockstar-games-promet-de-sortir-des-jeux-plus-vite-mais-pas-deviter-les-licenciements-massifs",
-    "pubDate": "2026-10-14T13:25:14.000Z",
-    "summary": "Le studio Rockstar Games envisage d'accélérer le rythme de production de ses futurs titres après la sortie de GTA 6. Cette stratégie de développement plus rapide a été révélée dans un récent portrait publié par Bloomberg. L'entreprise n'a toutefois pas garanti la protection des emplois de ses salariés face à ces changements.",
-    "keywords": [
-      "rockstar games",
-      "gta 6",
-      "jeux vidéo",
-      "licenciements",
-      "bloomberg"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ef4310dff113",
-    "title": "Pendant ces prochaines 24h, ce nouveau casque sans fil Sony est vendu pour moins de 100 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3284925_pendant-ces-prochaines-24h-ce-nouveau-casque-sans-fil-sony-est-vendu-pour-moins-de-100-e",
-    "pubDate": "2026-10-14T13:21:00.000Z",
-    "summary": "Amazon propose actuellement une promotion exceptionnelle sur le marché français concernant un périphérique audio récent. Le casque sans fil Sony WH-CH730N voit ainsi son prix baisser de manière significative pour atteindre 99 euros. Cette réduction tarifaire temporaire, valable durant vingt-quatre heures, permet d'acquérir l'appareil avec une remise de 17 %.",
-    "keywords": [
-      "sony",
-      "casque",
-      "amazon",
-      "audio",
-      "reduction"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bf744bb47708",
-    "title": "Piratage des frigos de supermarché : des cyberattaques facilement évitables ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634177-piratage-des-frigos-de-supermarche-des-cyberattaques-facilement-evitables.html",
-    "pubDate": "2026-10-14T13:17:00.000Z",
-    "summary": "Des experts se sont penchés sur les récentes cyberattaques visant les réfrigérateurs de supermarchés en France. Selon les spécialistes, ces incidents de piratage ne relèvent pas d'opérations informatiques d'une grande complexité. Il apparaît ainsi que ces intrusions malveillantes auraient pu être évitées assez facilement.",
-    "keywords": [
-      "cyberattaque",
-      "piratage",
-      "supermarche",
-      "france",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c10d3f65fc28",
-    "title": "Google Gemini : alors que les concurrents avancent vite, les nouvelles versions seraient \"mauvaises\" selon les utilisateurs",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634186-google-gemini-alors-que-les-concurrents-avancent-vite-les-nouvelles-versions-seraient-mauvaises-selon-les-utilisateurs.html",
-    "pubDate": "2026-10-14T13:12:00.000Z",
-    "summary": "Face à une concurrence agressive menée par OpenAI et Anthropic, les dernières itérations de l'intelligence artificielle de Google déçoivent de nombreux utilisateurs. Les retours négatifs s'accumulent concernant les performances actuelles du modèle de la firme de Mountain View. Google peine ainsi à maintenir son avance sur le marché en pleine expansion des technologies conversationnelles.",
-    "keywords": [
-      "google gemini",
-      "intelligence artificielle",
-      "openai",
-      "anthropic",
-      "google"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "cc2f76dbacbd",
-    "title": "Le projet géant d'Elon Musk : lancer Starship 456 fois par an... Rien que depuis le Texas !",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634156-le-projet-geant-d-elon-musk-lancer-starship-456-fois-par-an-rien-que-depuis-le-texas.html",
-    "pubDate": "2026-10-14T13:04:00.000Z",
-    "summary": "L'entreprise SpaceX envisage d'effectuer jusqu'à quatre cent cinquante-six tirs annuels de sa fusée Starship depuis le Texas. Ce projet spatial d'envergure nécessite une autorisation minutieuse de la part des régulateurs américains. Cette cadence ambitieuse dépasse largement les quelques vols annuels réalisés jusqu'à présent par le lanceur.",
-    "keywords": [
-      "spacex",
-      "starship",
-      "elon musk",
-      "texas",
-      "spatial"
     ],
     "aiDone": true,
     "coverage": 1,
