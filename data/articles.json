@@ -1,5 +1,116 @@
 [
   {
+    "id": "ed7fdd9c4f01",
+    "title": "La toute nouvelle montre Huawei Watch 6 est déjà en promotion sur AMazon",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3284247_la-toute-nouvelle-montre-huawei-watch-6-est-deja-en-promotion-sur-amazon",
+    "pubDate": "2026-10-15T05:23:00.000Z",
+    "summary": "La montre connectée Huawei Watch 6 bénéficie déjà d'une réduction de dix pour cent sur la plateforme Amazon. Ce nouveau modèle se distingue par un design discret et un écran lumineux atteignant trois mille nits. Cette luminosité élevée garantit une excellente visibilité de l'appareil lors des activités sportives en extérieur.",
+    "keywords": [
+      "huawei watch 6",
+      "amazon",
+      "montre connectee",
+      "promotion"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "df4901dc551a",
+    "title": "WhatsApp permet désormais d’appeler quelqu’un qui n’a pas WhatsApp : voici comment ça marche",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/android/3285739_whatsapp-permet-desormais-dappeler-quelquun-qui-na-pas-whatsapp-voici-comment-ca-marche",
+    "pubDate": "2026-10-15T05:16:51.000Z",
+    "summary": "La messagerie WhatsApp introduit une fonctionnalité permettant de joindre des personnes ne possédant pas l'application. Cette innovation repose sur l'utilisation d'un lien d'invitation accessible directement depuis un navigateur web. Auparavant, la possession d'un compte était obligatoire pour participer à un appel audio ou vidéo sur la plateforme.",
+    "keywords": [
+      "whatsapp",
+      "appel",
+      "navigateur",
+      "lien",
+      "communication"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "44d6fd5521c4",
+    "title": "RMC Sport s’ouvre à de nouveaux opérateurs et veut peser dans le streaming sportif",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-634261-rmc-sport-s-ouvre-a-de-nouveaux-operateurs-et-veut-peser-dans-le-streaming-sportif.html",
+    "pubDate": "2026-10-15T05:15:00.000Z",
+    "summary": "CMA Media permet désormais aux abonnés Freebox d'accéder directement à RMC Sport sur leur décodeur. Le groupe propriétaire de la chaîne propose une offre incluant une chaîne gratuite et une option payante. Cette stratégie vise à renforcer la position de la marque sur le marché du streaming sportif.",
+    "keywords": [
+      "rmc sport",
+      "freebox",
+      "cma media",
+      "streaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "67a49a0dd83f",
+    "title": "MacBook tactiles, iPad mini OLED et Mac M6 : Apple convierait la presse le 28 octobre à Los Angeles",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3285735_macbook-tactiles-ipad-mini-oled-et-mac-m6-apple-convierait-la-presse-le-28-octobre-a-los-angeles",
+    "pubDate": "2026-10-15T05:14:25.000Z",
+    "summary": "Apple préparerait un événement médiatique majeur prévu le 28 octobre prochain à Los Angeles. Le journaliste Mark Gurman évoque la présentation de futurs MacBook tactiles et d'un iPad mini doté d'un écran OLED. De nouveaux Mac équipés de puces M6 pourraient également être dévoilés lors de cette journée.",
+    "keywords": [
+      "apple",
+      "macbook",
+      "ipad mini",
+      "mac m6",
+      "los angeles"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c5a41ee7c9d7",
+    "title": "Qui est Meowan, l’« OVNI des MVNO » qui loue le réseau Orange ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/forfait-mobile/3285729_qui-est-meowan-l-ovni-des-mvno-qui-loue-le-reseau-orange",
+    "pubDate": "2026-10-15T05:10:47.000Z",
+    "summary": "L'opérateur français Meowan commercialise de nouvelles offres mobiles sans engagement. Ces abonnements exploitent les infrastructures réseau de l'entreprise Orange. La gamme tarifaire s'échelonne entre 3,99 et 24,99 euros mensuels.",
+    "keywords": [
+      "meowan",
+      "orange",
+      "mvno",
+      "forfait mobile"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5cd61c59f66d",
+    "title": "Google a laissé une fausse application Chrome se hisser en tête du Play Store",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634258-google-a-laisse-une-fausse-application-chrome-se-hisser-en-tete-du-play-store.html",
+    "pubDate": "2026-10-15T05:00:00.000Z",
+    "summary": "Le développeur Hizbartech a piégé le Play Store en proposant une fausse application Google Chrome. L'éditeur a financé de la publicité pour positionner son logiciel frauduleux au sommet des résultats. Google a finalement supprimé cette contrefaçon le 14 octobre après plus de cent mille téléchargements.",
+    "keywords": [
+      "google",
+      "chrome",
+      "play store",
+      "hizbartech",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "fa03ef9bc667",
     "title": "Emmanuel Macron place l’IA au rang du nucléaire et de l’espace dans un conseil de défense",
     "source": "Clubic",
@@ -1383,118 +1494,6 @@
       "elon musk",
       "texas",
       "spatial"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "111879ffab49",
-    "title": "iPhone Duo pre-order opens Friday, October 16: What you should know",
-    "source": "TechCabal",
-    "category": "afrique",
-    "url": "https://techcabal.com/2026/10/14/iphone-duo-pre-order-october-16/",
-    "pubDate": "2026-10-14T13:03:57.000Z",
-    "summary": "Apple annonce l'ouverture des précommandes pour son tout premier iPhone pliable, baptisé iPhone Duo. Le prix de base de cet appareil est fixé à 1 999 dollars aux États-Unis. Enfin, la livraison des premiers exemplaires aux acheteurs débutera le vendredi 23 octobre.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "smartphone",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "915643856fc7",
-    "title": "On a joué au remake de The Legend of Zelda: Ocarina of Time, féérique et intemporel",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2353005-on-a-joue-au-remake-de-the-legend-of-zelda-ocarina-of-time-feerique-et-intemporel.html",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "summary": "Le remake de The Legend of Zelda: Ocarina of Time arrive sur la Nintendo Switch 2 avec une refonte graphique flamboyante. Le titre conserve le gameplay original tout en offrant une expérience intemporelle pour les nouveaux joueurs. Cette nouvelle version promet de procurer un grand moment de nostalgie aux fans de la franchise.",
-    "keywords": [
-      "zelda",
-      "nintendo",
-      "switch 2",
-      "remake",
-      "jeux video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a86b3aba5bb8",
-    "title": "De 300 à 2 000 €, voici les meilleurs smartphones en 2026",
-    "source": "Numerama",
-    "category": "smartphones",
-    "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "summary": "Apple, Samsung et Google proposent de nouveaux smartphones en 2026. Les gammes se renouvellent chaque année avec des améliorations parfois minimes. Ce guide aide à choisir le meilleur appareil selon son budget.",
-    "keywords": [
-      "smartphone",
-      "apple",
-      "samsung",
-      "google",
-      "2026"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "7198f5eee43e",
-    "title": "Le home cinéma selon Apple : quatre HomePod, plus de 1 000 € et quelques compromis",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-634147-quatre-homepod-pour-le-home-cinema-la-nouvelle-formule-d-apple-vaut-elle-vraiment-son-prix.html",
-    "pubDate": "2026-10-14T12:55:00.000Z",
-    "summary": "Apple propose une nouvelle configuration home cinéma permettant d'associer quatre enceintes HomePod à son boîtier Apple TV 4K. Cette installation acoustique surround se distingue par sa grande simplicité d'utilisation au quotidien. Elle représente toutefois un investissement financier important dépassant les mille euros.",
-    "keywords": [
-      "apple",
-      "homepod",
-      "home cinema",
-      "apple tv 4k",
-      "audio"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0a9105bfb8f1",
-    "title": "Le Bénin lance un prix pour faire émerger de nouvelles solutions d’administration numérique",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-benin-lance-un-prix-pour-faire-emerger-de-nouvelles-solutions-d-administration-numerique",
-    "pubDate": "2026-10-14T12:53:45.000Z",
-    "summary": "Le gouvernement béninois cherche à simplifier ses services publics face aux difficultés persistantes des démarches administratives. Il a officialisé le lancement du Prix national de la simplification administrative le lundi 12 octobre. Cette initiative invite citoyens, entreprises et fonctionnaires à proposer des solutions numériques innovantes.",
-    "keywords": [
-      "benin",
-      "administration numerique",
-      "services publics",
-      "innovation"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "523c6cbd831f",
-    "title": "Réparer l'Apple HomeView coûterait presque aussi cher qu'en racheter un nouveau",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634183-reparer-l-apple-homeview-couterait-presque-aussi-cher-qu-en-racheter-un-nouveau.html",
-    "pubDate": "2026-10-14T12:51:00.000Z",
-    "summary": "Apple a dévoilé la grille tarifaire pour la réparation de son nouvel assistant domestique, le HomeView. Cette tarification unique s'applique à l'ensemble des interventions possibles sur l'appareil. Toutefois, le coût de ces réparations s'avère particulièrement élevé par rapport au prix d'achat d'un produit neuf.",
-    "keywords": [
-      "apple",
-      "homeview",
-      "assistant",
-      "reparation",
-      "tech"
     ],
     "aiDone": true,
     "coverage": 1,
