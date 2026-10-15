@@ -1,5 +1,115 @@
 [
   {
+    "id": "b9acdf970d15",
+    "title": "Faire tourner une IA en local sur PC en un clic sous Windows 11",
+    "source": "Frandroid",
+    "category": "logiciels",
+    "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3285903_faire-tourner-une-ia-en-local-sur-pc-en-un-clic-sous-windows-11",
+    "pubDate": "2026-10-15T08:00:41.000Z",
+    "summary": "Hugging Face a introduit l'application gratuite Llama Windows destinée aux utilisateurs de Windows 11. Ce logiciel permet d'exécuter des modèles d'intelligence artificielle en local sur PC sans utiliser de lignes de commande. Cette nouveauté reprend le concept de l'application équivalente déjà disponible sur Mac.",
+    "keywords": [
+      "hugging face",
+      "llama windows",
+      "intelligence artificielle",
+      "windows 11"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0117b84848fe",
+    "title": "Nous avons testé le Xiaomi Robot Vacuum 6 Max : un vrai bond en avant",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/3227711_test-xiaomi-robot-vacuum-6-max-un-produit-quasiment-abouti",
+    "pubDate": "2026-10-15T08:00:00.000Z",
+    "summary": "Le média LUMen a évalué les performances du Xiaomi Robot Vacuum 6 Max. Cet appareil représente le nouveau modèle phare de la marque sur le marché. Malgré sa discrétion dans ce domaine, le fabricant chinois confirme son rôle d'acteur majeur.",
+    "keywords": [
+      "xiaomi",
+      "robot vacuum 6 max",
+      "aspirateur robot",
+      "test"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "f0fc15a9bf13",
+    "title": "DJI Osmo Pocket 4 : cette excellente caméra de poche coûte 150 € de moins aujourd’hui",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3124595_dji-osmo-pocket-4-cette-excellente-camera-de-poche-coute-150-euros-de-moins-aujourdhui",
+    "pubDate": "2026-10-15T07:53:05.000Z",
+    "summary": "La caméra de poche DJI Osmo Pocket 4 bénéficie d'une baisse de prix notable sur une plateforme e-commerce. Le tarif de cet appareil passe ainsi sous la barre des 350 euros grâce à l'utilisation d'un code promotionnel. Cette réduction représente une économie d'environ 150 euros par rapport au montant initial demandé lors de sa sortie.",
+    "keywords": [
+      "dji",
+      "osmo pocket 4",
+      "camera",
+      "aliexpress",
+      "bon plan"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a151314f702b",
+    "title": "Tesla Roadster : comment suivre la présentation de la nouvelle voiture électrique ?",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2353449-tesla-roadster-comment-suivre-la-presentation-de-la-nouvelle-voiture-electrique.html",
+    "pubDate": "2026-10-15T07:40:00.000Z",
+    "summary": "La version définitive de la supercar électrique de Tesla est dévoilée ce jeudi 15 octobre 2026. Cette présentation très attendue se déroule sous la forme d'une démonstration en plein air. Les passionnés d'automobile peuvent suivre cet événement marquant pour la marque américaine.",
+    "keywords": [
+      "tesla",
+      "tesla roadster",
+      "voiture electrique",
+      "supercar",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "7b3b38bf706a",
+    "title": "WhatsApp ouvre ses appels aux invités sans compte, avec Meet et Teams en ligne de mire",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634252-whatsapp-ouvre-ses-appels-aux-invites-sans-compte-bientot-dans-votre-calendrier.html",
+    "pubDate": "2026-10-15T07:38:00.000Z",
+    "summary": "La messagerie WhatsApp permet désormais aux utilisateurs de participer à des appels sans posséder de compte. Cette nouveauté rend l'accès possible directement depuis un navigateur web et sans aucune limite de durée. Meta positionne ainsi son service pour concurrencer des solutions comme Meet et Teams.",
+    "keywords": [
+      "whatsapp",
+      "meta",
+      "appels",
+      "visioconférence"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5a756ddf40fd",
+    "title": "Climb Up visé par une fuite de données, un pirate prétend vendre les informations de 151 000 clients",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634276-climb-up-vise-par-une-fuite-de-donnees-un-pirate-pretend-vendre-les-informations-de-151-000-clients.html",
+    "pubDate": "2026-10-15T07:21:00.000Z",
+    "summary": "Le réseau de salles d'escalade Climb Up fait face à une cyberattaque majeure. Un pirate informatique revend en ligne les données personnelles de plus de 150 000 clients. Cet incident expose également des informations sensibles sur des mineurs et leurs familles.",
+    "keywords": [
+      "climb up",
+      "fuite de donnees",
+      "cybersecurite",
+      "piratage"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "7dbf91735bf0",
     "title": "Tesla et SpaceX : une fusion historique est probable dès cette année, la naissance d'un mastodonte de l'IA ?",
     "source": "Clubic",
@@ -311,6 +421,25 @@
       "intelligence artificielle",
       "vibe coding",
       "application"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "13ed1efbe6d1",
+    "title": "Les meilleures prises connectées en 2026",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/guide-dachat/1458810_prise-connectee-quel-est-le-meilleur-modele",
+    "pubDate": "2026-10-15T05:30:53.000Z",
+    "summary": "Le site LUMen propose un guide d'achat complet pour identifier les meilleures prises connectées de l'année 2026. Ces accessoires permettent de transformer n'importe quel équipement domestique en un appareil intelligent. L'article aide les utilisateurs à sélectionner le modèle idéal selon leurs besoins.",
+    "keywords": [
+      "prise connectée",
+      "maison intelligente",
+      "guide d'achat",
+      "domotique",
+      "lumen"
     ],
     "aiDone": true,
     "coverage": 1,
@@ -1359,137 +1488,6 @@
       "licenciement",
       "streaming",
       "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2ed41885423f",
-    "title": "Ne jetez pas votre souris : Microsoft corrige enfin ce bug agaçant sur Windows 11",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/marques/microsoft/3284407_ne-jetez-pas-votre-souris-microsoft-corrige-enfin-ce-bug-agacant-sur-windows-11",
-    "pubDate": "2026-10-14T14:47:10.000Z",
-    "summary": "Microsoft a admis l'existence d'un problème sur Windows 11 impactant les mouvements de la souris pendant les parties. Les utilisateurs n'ont pas besoin de racheter de matériel informatique pour résoudre ce souci technique. La mise à jour d'octobre du système d'exploitation déploie enfin le correctif nécessaire.",
-    "keywords": [
-      "microsoft",
-      "windows 11",
-      "souris",
-      "bug",
-      "jeu"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a770709953dd",
-    "title": "Piratage des frigos de supermarchés : qui est responsable à la fin ?",
-    "source": "Frandroid",
-    "category": "logiciels",
-    "url": "https://www.frandroid.com/culture-tech/securite-applications/3285079_piratage-des-frigos-de-supermarches-qui-est-responsable-a-la-fin",
-    "pubDate": "2026-10-14T14:39:29.000Z",
-    "summary": "Coopérative U se dédouane de toute responsabilité directe dans le piratage informatique des systèmes de réfrigération. Son président, Dominique Schelcher, précise que l'enseigne n'est pas cliente de l'équipementier Danfoss. Cette affaire met en lumière le rôle central des installateurs frigoristes dans la sécurisation des infrastructures.",
-    "keywords": [
-      "coopérative u",
-      "danfoss",
-      "piratage",
-      "supermarché",
-      "cybersécurité"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b17d9cc55c78",
-    "title": "Pokemon 30 ans : un service propose de louer une personne qui fera la queue à votre place !",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634207-pokemon-30-ans-un-service-propose-de-louer-une-personne-qui-fera-la-queue-a-votre-place.html",
-    "pubDate": "2026-10-14T14:34:00.000Z",
-    "summary": "À l'approche des trente ans de la franchise Pokemon, une immense affluence est constatée devant les magasins de jouets. Des files d'attente record se forment à cette occasion dans les points de vente physiques. Un service insolite émerge sur les réseaux sociaux pour permettre de déléguer cette attente.",
-    "keywords": [
-      "pokemon",
-      "anniversaire",
-      "magasin de jouets",
-      "file d'attente",
-      "reseaux sociaux"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "da6f3d025d0c",
-    "title": "Philips Baristina : cette petite machine expresso à grain toute mignonne est à -28 %",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3284931_philips-baristina-cette-petite-machine-expresso-a-grain-toute-mignonne-est-a-28",
-    "pubDate": "2026-10-14T14:30:00.000Z",
-    "summary": "La machine à café Philips Baristina profite actuellement d'une réduction importante de prix. Cet appareil compact permet de préparer facilement du café en grain sans configuration compliquée. L'offre promotionnelle est proposée par le revendeur Boulanger.",
-    "keywords": [
-      "philips baristina",
-      "machine a cafe",
-      "boulanger",
-      "bon plan"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "613feca97589",
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "pubDate": "2026-10-14T14:30:00.000Z",
-    "summary": "La deuxième journée de TechCrunch Disrupt 2026 aborde l'ensemble des thématiques liées à l'intelligence artificielle. Cet événement propose également des sessions réservées aux investisseurs ainsi que de multiples tables rondes. Les participants peuvent s'inscrire dès maintenant pour bénéficier d'une réduction sur leur pass.",
-    "keywords": [
-      "techcrunch disrupt",
-      "intelligence artificielle",
-      "evenement tech",
-      "investissement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3e5057af62f3",
-    "title": "Starlink bridé en Ukraine, un ministre polonais tance Elon Musk : « Mon grand, tu fais encore de la politique avec tes produits ? »",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/politique/2353269-starlink-bride-en-ukraine-un-ministre-polonais-tance-elon-musk-mon-grand-tu-fais-encore-de-la-politique-avec-tes-produits.html",
-    "pubDate": "2026-10-14T14:29:10.000Z",
-    "summary": "Le ministre polonais des Affaires étrangères a publiquement interpellé le dirigeant de SpaceX Elon Musk. Cette réaction fait suite au bridage à 160 km/h des terminaux Starlink utilisés par l'armée ukrainienne. Ce nouvel accrochage s'inscrit dans une série de tensions publiques récurrentes entre les deux personnalités depuis plusieurs années.",
-    "keywords": [
-      "starlink",
-      "elon musk",
-      "ukraine",
-      "pologne",
-      "spacex"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "7efb5b41d59f",
-    "title": "Les écouteurs Samsung Galaxy Buds 4 à -28% vont ravir les audiophiles en quête de confort",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/bons-plans-634132-les-ecouteurs-samsung-galaxy-buds-4-a--28-vont-ravir-les-audiophiles-en-quete-de-confort.html",
-    "pubDate": "2026-10-14T14:16:00.000Z",
-    "summary": "Amazon propose actuellement une promotion intéressante sur les écouteurs haut de gamme de la marque coréenne. Le modèle Samsung Galaxy Buds 4 bénéficie d'une réduction de vingt-huit pour cent sur sa plateforme. Ces appareils audio semi-ouverts intègrent une réduction de bruit active pour un prix abaissé à 129,99 euros.",
-    "keywords": [
-      "samsung",
-      "galaxy buds 4",
-      "écouteurs",
-      "amazon",
-      "promotion"
     ],
     "aiDone": true,
     "coverage": 1,
