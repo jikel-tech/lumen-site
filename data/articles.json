@@ -1,5 +1,80 @@
 [
   {
+    "id": "e7e6983dee36",
+    "title": "Microsoft lance une nouvelle manette Xbox, et elle est étonnante",
+    "source": "Numerama",
+    "category": "logiciels",
+    "url": "https://www.numerama.com/tech/2353429-microsoft-lance-une-nouvelle-manette-xbox-et-elle-est-etonnante.html",
+    "pubDate": "2026-10-15T06:24:24.000Z",
+    "summary": "Microsoft surprend les joueurs en dévoilant la Nano, une manette Xbox aux dimensions particulièrement réduites. Ce nouveau modèle d'entrée de gamme sera commercialisé au tarif de 50 euros. Sa sortie officielle est programmée pour le 4 novembre prochain.",
+    "keywords": [
+      "microsoft",
+      "xbox",
+      "nano",
+      "manette",
+      "jeux video"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "d2a79035caac",
+    "title": "« Ça ne demande pas de technicité supplémentaire », comment des pirates ont fait chauffer les frigos de centaines de supermarchés",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634255-ca-ne-demande-pas-de-technicite-supplementaire-comment-des-pirates-ont-fait-chauffer-les-frigos-de-centaines-de-supermarches.html",
+    "pubDate": "2026-10-15T06:12:00.000Z",
+    "summary": "Une récente cyberattaque a provoqué un dysfonctionnement thermique des réfrigérateurs de nombreux supermarchés français. Des experts soulignent que cet incident implique des failles de sécurité liées à des mises à jour logicielles négligées chez Danfoss. Cette situation met en lumière les incertitudes concernant les responsabilités et l'application de la directive NIS 2.",
+    "keywords": [
+      "danfoss",
+      "cyberattaque",
+      "supermarches",
+      "france",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "41be7e1c684b",
+    "title": "iPhone 18 : Apple miserait gros sur son futur modèle",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/actualite-634237-iphone-18-apple-miserait-gros-sur-son-futur-modele.html",
+    "pubDate": "2026-10-15T06:02:00.000Z",
+    "summary": "Apple prévoit le lancement de l'iPhone 18 pour l'année 2027. La marque américaine anticipe une production massive de ce futur téléphone grand public. Le début de la fabrication de l'appareil est programmé pour la fin du mois de novembre.",
+    "keywords": [
+      "apple",
+      "iphone 18",
+      "smartphone",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "2b6f91fcb09a",
+    "title": "Ventes Flash Amazon : jusqu’à -31 % sur 10 produits tech ce jeudi",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
+    "pubDate": "2026-10-15T06:00:00.000Z",
+    "summary": "Amazon propose de nouvelles réductions sur une sélection de dix produits technologiques quelques jours après le Prime Day. Les remises atteignent jusqu'à moins trente et un pour cent sur les articles concernés. Chaque offre a été comparée aux tarifs les plus bas pratiqués au cours des trente derniers jours.",
+    "keywords": [
+      "amazon",
+      "prime day",
+      "ventes flash",
+      "tech",
+      "reduction"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "e4d0b990619a",
     "title": "Microsoft rétrécit sa manette Xbox pour les petites mains et les poches",
     "source": "Frandroid",
@@ -1067,25 +1142,6 @@
     "also": []
   },
   {
-    "id": "2b6f91fcb09a",
-    "title": "Ventes Flash Amazon : 10 produits tech voient leur prix baisser après le Prime Day, jusqu’à -31 %",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633832-ventes-flash-amazon-10-offres-tech-jusqu-a--31-du-robot-roborock-a-la-tv-lg-de-75.html",
-    "pubDate": "2026-10-14T15:05:00.000Z",
-    "summary": "Amazon propose de nouvelles réductions sur une sélection de dix produits technologiques quelques jours après le Prime Day. Les remises atteignent jusqu'à moins trente et un pour cent sur les articles concernés. Chaque offre a été comparée aux tarifs les plus bas pratiqués au cours des trente derniers jours.",
-    "keywords": [
-      "amazon",
-      "prime day",
-      "ventes flash",
-      "tech",
-      "reduction"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "0c150c264964",
     "title": "Starlink : coup de pression de Donald Trump ? SpaceX a imposé une limitation de vitesse en Ukraine",
     "source": "Clubic",
@@ -1437,61 +1493,6 @@
       "sante",
       "europe",
       "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0d925bed8a0d",
-    "title": "Le prochain jeu de Rockstar Games ne sortira pas huit ans après GTA 6",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2353201-le-prochain-jeu-de-rockstar-games-ne-sortira-pas-huit-ans-apres-gta-6.html",
-    "pubDate": "2026-10-14T13:47:03.000Z",
-    "summary": "Rockstar Games a mis huit années pour concevoir GTA 6 après le lancement de Red Dead Redemption 2. Le studio de développement promet que son futur projet ne nécessitera pas un tel délai de fabrication. Cette annonce rassure la communauté de joueurs sur le rythme des prochaines sorties.",
-    "keywords": [
-      "rockstar games",
-      "gta 6",
-      "red dead redemption 2",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "3875b4714b33",
-    "title": "Google teste une IA capable de démasquer les escrocs au fil de vos conversations",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634210-google-teste-une-ia-capable-de-reperer-les-arnaques-avant-meme-qu-on-vous-demande-de-l-argent.html",
-    "pubDate": "2026-10-14T13:45:00.000Z",
-    "summary": "Google DeepMind et les autorités de Singapour développent une intelligence artificielle expérimentale pour lutter contre les escroqueries en ligne. Cet outil innovant analyse les conversations sur smartphone afin de détecter les manipulations psychologiques avant toute demande d'argent. Le système fonctionne localement sur l'appareil pour protéger la confidentialité des échanges sans les transférer dans le cloud.",
-    "keywords": [
-      "google",
-      "intelligence artificielle",
-      "escroquerie",
-      "singapour",
-      "securite"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "e1716212a307",
-    "title": "AMD préparerait le lancement des GPU RDNA 5 pour fin 2027",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634159-amd-preparerait-le-lancement-des-gpu-rdna-5-pour-fin-2027.html",
-    "pubDate": "2026-10-14T13:38:00.000Z",
-    "summary": "Le fabricant AMD envisage d'avancer la commercialisation de sa nouvelle architecture graphique RDNA 5 à la fin de l'année 2027. La marque intègrera cette technologie de manière discrète sur le marché en proposant un unique modèle de processeur graphique. Cette stratégie permettra à l'entreprise de surprendre ses concurrents avant la date initialement prévue pour 2028.",
-    "keywords": [
-      "amd",
-      "rdna 5",
-      "gpu",
-      "carte graphique"
     ],
     "aiDone": true,
     "coverage": 1,
