@@ -1,5 +1,43 @@
 [
   {
+    "id": "fa03ef9bc667",
+    "title": "Emmanuel Macron place l’IA au rang du nucléaire et de l’espace dans un conseil de défense",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634273-emmanuel-macron-place-l-ia-au-rang-du-nucleaire-et-de-l-espace-dans-un-conseil-de-defense.html",
+    "pubDate": "2026-10-15T04:50:00.000Z",
+    "summary": "Emmanuel Macron a réuni un conseil de défense consacré exclusivement à l'intelligence artificielle. Le chef de l'État élève cette technologie au même niveau stratégique que le nucléaire et l'espace. Les entreprises attendent toutefois l'examen d'une loi de cybersécurité par l'Assemblée nationale pour connaître leurs obligations.",
+    "keywords": [
+      "emmanuel macron",
+      "intelligence artificielle",
+      "france",
+      "cybersécurité",
+      "conseil de défense"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b4c333a1fc01",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "pubDate": "2026-10-15T04:30:00.000Z",
+    "summary": "La plateforme Figma a dévoilé de nouvelles fonctionnalités pour encadrer l'activité des agents autonomes. L'entreprise déploie également ses couches de code en version bêta ouverte. Ces innovations visent à transformer la conception et le développement numérique.",
+    "keywords": [
+      "figma",
+      "design",
+      "developpement",
+      "intelligence artificielle",
+      "beta"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "f0fe7c9aa7b8",
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "source": "TechCrunch",
@@ -1457,44 +1495,6 @@
       "assistant",
       "reparation",
       "tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0d9a8f423ec9",
-    "title": "Le double vinyle Zelda Ocarina of Time est en précommande : prix, date de sortie et contenu de cette édition collector",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2352987-le-double-vinyle-zelda-ocarina-of-time-est-en-precommande-prix-date-de-sortie-et-contenu-de-cette-edition-collector.html",
-    "pubDate": "2026-10-14T12:45:00.000Z",
-    "summary": "Les sociétés iam8bit et Materia Collective lancent une nouvelle édition collector de l'album orchestral Hero of Time. Ce double vinyle bleu Navi célèbre l'anniversaire de la célèbre franchise vidéoludique. Les amateurs de la série peuvent dès à présent réserver cet objet physique.",
-    "keywords": [
-      "zelda",
-      "vinyle",
-      "iam8bit",
-      "musique",
-      "jeu video"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "177feb4b5caa",
-    "title": "Renault, Dacia et Toyota respirent : l’Europe met enfin un frein aux hybrides chinoises",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/voitures-electriques/voitures-hybrides/3284879_800-000-prevues-350-000-autorisees-leurope-bride-fortement-les-hybrides-chinoises",
-    "pubDate": "2026-10-14T12:40:26.000Z",
-    "summary": "L'Union européenne envisage de limiter drastiquement les importations de voitures hybrides chinoises. Ce quota annuel serait fixé à 350 000 véhicules sur une période de quatre ans dès décembre prochain. Cette décision vise à freiner l'afflux massif de ces automobiles qui menacent le marché automobile européen.",
-    "keywords": [
-      "union européenne",
-      "voitures hybrides",
-      "chine",
-      "automobile",
-      "importations"
     ],
     "aiDone": true,
     "coverage": 1,
