@@ -1,5 +1,24 @@
 [
   {
+    "id": "8c627613fda6",
+    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+    "pubDate": "2026-10-15T23:33:45.000Z",
+    "summary": "La jeune pousse Intero Biosystems s'est démarquée de 199 concurrents lors de la compétition internationale. L'entreprise a remporté le prestigieux premier prix de cent mille dollars. Cette victoire s'est déroulée lors du prestigieux événement TechCrunch Disrupt 2026.",
+    "keywords": [
+      "intero biosystems",
+      "startup battlefield",
+      "techcrunch disrupt",
+      "concours",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "0d1018897dde",
     "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
     "source": "TechCrunch",
@@ -548,9 +567,15 @@
     "category": "culture",
     "url": "https://www.clubic.com/actualite-634399-faux-netflix-faux-roblox-faux-siri-des-centaines-d-applis-pieges-reperees-en-france-sur-le-google-play-store.html",
     "pubDate": "2026-10-15T16:23:00.000Z",
-    "summary": "Plus de 1 900 fausses applications, publiées pour l'essentiel sur le Google Play Store, ont usurpé des marques connues. 450 repérées ont été repérées en France. Retirés de la boutique de Google, les…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des centaines d'applications contrefaites ont été identifiées sur le Google Play Store en France. Ces clones malveillants imitaient des marques populaires comme Netflix, Roblox ou Siri. Ils piégeaient les internautes en les redirigeant vers des régies publicitaires et des abonnements payants.",
+    "keywords": [
+      "google play store",
+      "applications",
+      "france",
+      "fraude",
+      "android"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -561,9 +586,14 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-634387-la-nouvelle-huawei-gt-7-pro-est-deja-disponible-a-moins-de-350-euros.html",
     "pubDate": "2026-10-15T16:21:00.000Z",
-    "summary": "Avec son écran AMOLED de 3 000 nits, la Huawei Watch GT 7 Pro propose une luminosité à toute épreuve. Pour déjà préparer le retour des journées ensoleillées, direction Amazon où la montre est…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La nouvelle montre connectée Huawei Watch GT 7 Pro est commercialisée à un tarif inférieur à 350 euros sur Amazon. Cet appareil intègre un affichage AMOLED lumineux atteignant 3 000 nits pour une excellente lisibilité en plein soleil. Une remise promotionnelle immédiate de 100 euros accompagne son lancement sur la plateforme marchande.",
+    "keywords": [
+      "huawei",
+      "watch gt 7 pro",
+      "montre connectee",
+      "amazon"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -574,9 +604,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/google/3286863_le-google-play-store-se-met-a-vendre-des-produits-pixel",
     "pubDate": "2026-10-15T16:19:27.000Z",
-    "summary": "Un nouveau menu dans le Google Play Store permet d'acheter des smartphones Pixel, mais aussi des Pixel Watch, des écouteurs ou un bracelet Fitbit. Aux États-Unis, il est même possible d'acheter des…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Google intègre désormais la vente de ses propres matériels directement au sein de sa boutique d'applications. Les utilisateurs américains peuvent ainsi acquérir des smartphones Pixel, des montres connectées ainsi que des produits Samsung. Cette nouveauté offre un accès facilité à divers appareils technologiques depuis l'interface du Google Play Store.",
+    "keywords": [
+      "google play store",
+      "google pixel",
+      "samsung",
+      "smartphone",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -587,9 +623,15 @@
     "category": "culture",
     "url": "https://www.frandroid.com/marques/valve/3287465_plus-rapide-que-steam-vraiment-le-nouveau-launcher-depic-games-se-ferait-deja-doubler-par-valve",
     "pubDate": "2026-10-15T16:15:28.000Z",
-    "summary": "Après sa mise à jour du 13 octobre 2026, Steam a démarré en 5,23 secondes dans un test publié sur X. Epic annonçait 5,47 secondes pour son nouveau launcher et le disait presque deux fois plus rapide…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Valve a mis à jour sa plateforme Steam le 13 octobre 2026 afin d'améliorer ses performances globales. Un test récent publié sur le réseau social X montre que Steam démarre désormais en un peu plus de cinq secondes. Cette performance contredit les promesses d'Epic Games, qui présentait son nouveau lanceur comme étant beaucoup plus rapide.",
+    "keywords": [
+      "epic games",
+      "steam",
+      "valve",
+      "launcher",
+      "jeu video"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -600,9 +642,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2353875-a-24-heures-pres-gta-6-pourra-participer-in-extremis-pour-les-game-awards-2026.html",
     "pubDate": "2026-10-15T16:13:22.000Z",
-    "summary": "GTA VI pourra concourir aux Game Awards 2026. Le règlement de la cérémonie fixe la date limite de sortie des jeux éligibles au 20 novembre 2026, au lendemain du lancement du jeu de Rockstar, qui…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le jeu vidéo GTA 6 sera finalement éligible pour participer aux Game Awards 2026. Cette participation est rendue possible grâce au calendrier du règlement de la célèbre cérémonie. Le titre de Rockstar entre ainsi officiellement dans la course pour remporter le prix du jeu de l'année.",
+    "keywords": [
+      "gta 6",
+      "rockstar",
+      "game awards",
+      "jeu video",
+      "goty"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -613,9 +661,15 @@
     "category": "logiciels",
     "url": "https://www.frandroid.com/marques/3286585_messages-prives-deuropeens-les-signalements-passent-tous-par-le-logiciel-americain-de-palantir",
     "pubDate": "2026-10-15T16:08:25.000Z",
-    "summary": "Les signalements de contenus pédocriminels repérés dans les messages privés d’Européens sont tous analysés avec Foundry, le logiciel de l'américain Palantir, a révélé ce mardi 13 octobre le quotidien…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les signalements de contenus pédocriminels détectés dans les messages privés des citoyens européens sont examinés par un outil informatique. Ce traitement de données repose exclusivement sur le logiciel Foundry, conçu par l'entreprise américaine Palantir. Cette information a été dévoilée par un quotidien dans le cadre de la surveillance des communications.",
+    "keywords": [
+      "palantir",
+      "foundry",
+      "europe",
+      "messagerie",
+      "logiciel"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -626,9 +680,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2354109-a-2-200-c-en-rentree-terrestre-le-bouclier-dorion-separait-les-astronautes-dartemis-ii-de-la-desintegration-il-na-eu-que-9-zones-abimees-contre-103-lors-dartemis-i.html",
     "pubDate": "2026-10-15T16:08:00.000Z",
-    "summary": "La NASA a publié son analyse détaillée du bouclier thermique d'Orion après la mission Artémis II. Elle y relève neuf zones de perte de matière, contre 103 après le vol inhabité d'Artémis I en 2022.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La NASA a rendu public le bilan complet concernant la protection thermique du vaisseau Orion après Artémis II. Ce bouclier a présenté seulement neuf secteurs endommagés lors de sa rentrée atmosphérique à haute température. Ce résultat marque une nette amélioration par rapport aux 103 zones détériorées constatées lors du premier vol test.",
+    "keywords": [
+      "nasa",
+      "artemis ii",
+      "orion",
+      "bouclier thermique",
+      "espace"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -639,9 +699,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/amazon/3287401_ces-micros-ia-damazon-vous-ecoutent-h24-pour-remplir-votre-panier-et-vous-faire-raquer",
     "pubDate": "2026-10-15T15:57:25.000Z",
-    "summary": "Amazon a lancé ce jeudi 15 octobre Bee Frontier et Bee Eclipse, deux petits appareils à IA qui résument vos conversations, vendus 74,99 et 99,99 dollars (environ 67 et 89 € HT) aux États-Unis. Ce…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon a commercialisé jeudi 15 octobre deux nouveaux assistants dotés d'intelligence artificielle aux États-Unis. Nommés Bee Frontier et Bee Eclipse, ces appareils écoutent et résument les conversations des utilisateurs. Ils sont vendus respectivement au prix de 74,99 et 99,99 dollars.",
+    "keywords": [
+      "amazon",
+      "bee frontier",
+      "bee eclipse",
+      "intelligence artificielle",
+      "etats-unis"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -652,9 +718,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/bons-plans-634375-euros-de-moins-pour-ce-laptop-hp-dedie-a-la-bureautique-snapdragon-x-8-go-de-ram.html",
     "pubDate": "2026-10-15T15:54:00.000Z",
-    "summary": "Le HP 16-bz0043nfx fera le bonheur des professionnels souvent en déplacement puisque la marque annonce que l’ordinateur peut tenir 23 heures avec une seule charge. En ce moment, il est disponible…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le fabricant HP propose son ordinateur portable bureautique avec une réduction de trois cents euros. Ce modèle intègre un processeur Snapdragon X et huit gigaoctets de mémoire vive. La marque annonce une impressionnante autonomie atteignant vingt-trois heures avec une seule charge.",
+    "keywords": [
+      "hp",
+      "snapdragon x",
+      "pc portable",
+      "ordinateur",
+      "bureautique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -665,9 +737,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/guide-dachat/1661013_meilleurs-pc-ultraportables-quel-modele-de-pc-nomade-choisir",
     "pubDate": "2026-10-15T15:47:13.000Z",
-    "summary": "Vous êtes à la recherche d’un ordinateur portable à la fois léger, compact et performant ? Les ultraportables, aussi appelés « ultrabooks », sont faits pour vous. Voici notre sélection des meilleurs…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site LUMen propose une sélection actualisée des meilleurs ordinateurs portables compacts pour l'année 2026. Ces machines à la fois légères et performantes répondent aux besoins des utilisateurs mobiles. Ce guide d'achat met en avant les ultrabooks favoris de la rédaction.",
+    "keywords": [
+      "ultraportable",
+      "ultrabook",
+      "ordinateur",
+      "lumen",
+      "tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -678,9 +756,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3263101_le-google-pixel-11-associe-a-une-enceinte-jbl-grip-cest-le-pack-a-300-chez-darty",
     "pubDate": "2026-10-15T15:40:06.000Z",
-    "summary": "Darty met les Pixel 11 à toutes les sauces avec différents packs, dont celui-ci avec une enceinte JBL Grip à 799 euros, après ODR, au lieu de 1 098,99 euros.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'enseigne Darty propose une offre promotionnelle sur le smartphone Google Pixel 11. Ce pack inclut également une enceinte JBL Grip pour un tarif réduit de 300 euros. Le prix final s'établit à 799 euros après application d'une offre de remboursement.",
+    "keywords": [
+      "google pixel 11",
+      "jbl grip",
+      "darty",
+      "smartphone",
+      "promotion"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -691,9 +775,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634231-sihoo-doro-c300-pro-v2-en-promo-cette-chaise-ergonomique-s-adapte-a-vos-mouvements.html",
     "pubDate": "2026-10-15T15:30:00.000Z",
-    "summary": "Une chaise ergonomique qui suit vos mouvements, se calibre toute seule et s’adapte à votre morphologie, c’est ce que propose l’excellente Sihoo Doro C300 Pro V2. En ce moment, elle bénéficie d’une…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le modèle SIHOO Doro C300 Pro V2 bénéficie actuellement d'une réduction promotionnelle grâce à un code exclusif. Cette chaise ergonomique ajuste son calibrage de manière autonome selon la morphologie de l'utilisateur. Le siège est conçu pour suivre précisément tous les mouvements du corps.",
+    "keywords": [
+      "sihoo",
+      "doro c300 pro v2",
+      "chaise ergonomique",
+      "promotion",
+      "bureau"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -704,9 +794,14 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
     "pubDate": "2026-10-15T15:02:36.000Z",
-    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le constructeur automobile Rivian s'apprête à intégrer des agents d'intelligence artificielle dans ses véhicules. Les détails de ce déploiement technologique seront présentés lors de l'événement de décembre. Cette journée thématique sera consacrée aux innovations en matière d'intelligence artificielle et d'autonomie.",
+    "keywords": [
+      "rivian",
+      "intelligence artificielle",
+      "vehicule",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -717,9 +812,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2354075-world-of-warcraft-forever-sera-bientot-jouable-gratuitement-en-beta-mais-ca-sera-tres-bref.html",
     "pubDate": "2026-10-15T15:02:07.000Z",
-    "summary": "Un « Stress Test » de World of Warcraft: Forever est apparu dans le launcher Battle.net. Il est daté du lundi 19 octobre. Blizzard avait promis d'ouvrir sa bêta à tout le monde pendant quelques…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Un test de charge pour World of Warcraft: Forever a été repéré sur la plateforme Battle.net. Cette phase de bêta ouverte se déroulera le lundi 19 octobre pour une durée très limitée. L'éditeur Blizzard permet ainsi aux joueurs de découvrir le titre brièvement avant sa sortie officielle.",
+    "keywords": [
+      "world of warcraft",
+      "blizzard",
+      "beta",
+      "jeu video",
+      "tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1269,19 +1370,6 @@
     "url": "https://www.clubic.com/actualite-634360-apple-intelligence-arrive-enfin-en-chine-mais-il-lui-manquera-une-fonctionnalite-cruciale.html",
     "pubDate": "2026-10-15T11:45:00.000Z",
     "summary": "Enfin, la marque à la pomme va pouvoir proposer Apple Intelligence en Chine. Mais attention, la rivalité avec les États-Unis n'est jamais loin. Que les utilisateurs ne comptent pas sur Gemini ou…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "80b444064058",
-    "title": "Idéal pour les têtes en l’air, ce pack de 4 trackers Bluetooth Ugreen compatibles iOS et Android est à -30 %",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3286323_ideal-pour-les-tetes-en-lair-ce-pack-de-4-trackers-bluetooth-ugreen-compatibles-ios-et-android-est-a-30",
-    "pubDate": "2026-10-15T11:36:00.000Z",
-    "summary": "Le FineTrack Duo 2 d'Ugreen est une balise de tracking Bluetooth compacte, robuste et surtout compatible avec Apple Find My et Google Find Hub. Aujourd'hui, Amazon en propose quatre à 37,75 euros au…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
