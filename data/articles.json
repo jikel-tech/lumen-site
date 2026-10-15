@@ -1,5 +1,24 @@
 [
   {
+    "id": "d3bb9ef55af6",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "pubDate": "2026-10-15T00:00:00.000Z",
+    "summary": "La société Gudea déploie une solution innovante pour anticiper les polémiques en ligne. Cet outil utilise l'intelligence artificielle pour surveiller la propagation des rumeurs et des fausses informations. Les organisations peuvent ainsi prévenir les crises sur les réseaux sociaux avant qu'elles ne s'amplifient.",
+    "keywords": [
+      "gudea",
+      "intelligence artificielle",
+      "reseaux sociaux",
+      "crise",
+      "veille"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "98efbaf49dfd",
     "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
     "source": "TechCrunch",
@@ -1476,25 +1495,6 @@
       "sante",
       "ios",
       "application"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8fcab867626b",
-    "title": "En Côte d’Ivoire, Makany Touré numérise l'approvisionnement en vivres frais",
-    "source": "We Are Tech Africa",
-    "category": "afrique",
-    "url": "http://www.wearetech.africa/fr/fils/tech-stars/en-cote-d-ivoire-makany-toure-numerise-lapprovisionnement-en-vivres-frais",
-    "pubDate": "2026-10-14T12:27:03.000Z",
-    "summary": "Makany Touré modernise la chaîne d'approvisionnement des produits frais en Côte d'Ivoire. L'entrepreneure a fondé la plateforme numérique AfterMarket pour simplifier la distribution agricole locale. Cet outil technologique relie directement les producteurs aux professionnels de la restauration.",
-    "keywords": [
-      "makany touré",
-      "aftermarket",
-      "agriculture",
-      "côte d'ivoire",
-      "numérique"
     ],
     "aiDone": true,
     "coverage": 1,
