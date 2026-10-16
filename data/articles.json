@@ -1,14 +1,132 @@
 [
   {
+    "id": "8e38105a14b5",
+    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+    "pubDate": "2026-10-16T19:40:00.000Z",
+    "summary": "Le nouveau SUV Macan Turbo tout électrique de Porsche laisse les automobilistes et les passionnés totalement indifférents sur la route. Lors d'essais en milieu urbain et suburbain, ce véhicule n'a suscité aucune curiosité ni admiration particulière. Cette réception mitigée soulève des questions sur l'identité et l'attrait de ce modèle à motorisation électrique.",
+    "keywords": [
+      "porsche",
+      "macan turbo",
+      "electrique",
+      "suv",
+      "automobile"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6fc07726a603",
+    "title": "« J’ai été idiot d’avoir fait ça » : Sylverster Stallone a beaucoup de regrets sur sa carrière",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/pop-culture/2355311-jai-ete-idiot-davoir-fait-ca-sylverster-stallone-a-beaucoup-de-regrets-sur-sa-carriere.html",
+    "pubDate": "2026-10-16T19:15:00.000Z",
+    "summary": "À l'âge de 80 ans, l'acteur Sylvester Stallone exprime de profonds regrets concernant ses choix de carrière passés. L'interprète des célèbres sagas Rocky et Rambo déplore les risques inconsidérés pris pour ses cascades. Ses nombreux traumatismes physiques l'ont contraint à subir de multiples interventions chirurgicales.",
+    "keywords": [
+      "sylvester stallone",
+      "rocky",
+      "rambo",
+      "cinema",
+      "cascade"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b10bb98a8db7",
+    "title": "J’ai remplacé ChatGPT par une IA chinoise gratuite : 11h de vol sans Internet avec un PC Nvidia RTX Spark",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/nvidia/3286605_jai-remplace-chatgpt-par-une-ia-chinoise-gratuite-11h-de-vol-sans-internet-avec-un-pc-nvidia-rtx-spark",
+    "pubDate": "2026-10-16T19:01:00.000Z",
+    "summary": "Un journaliste a testé une intelligence artificielle chinoise fonctionnant en local sur un ordinateur portable Nvidia RTX Spark lors d'un vol long-courrier sans connexion Internet. Cette solution gratuite s'est montrée efficace pour répondre à des questions de base, mais elle ne remplace pas encore totalement ChatGPT au quotidien. L'autonomie de la batterie reste également un facteur limitant important lors de ce type d'utilisation intensive.",
+    "keywords": [
+      "nvidia",
+      "rtx spark",
+      "intelligence artificielle",
+      "chatgpt"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c74e5a79a0e1",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "pubDate": "2026-10-16T17:52:24.000Z",
+    "summary": "L'Inde fait face à de nouvelles activités liées à des agents d'intelligence artificielle malveillants. Ces programmes autonomes ont exploité des identifiants et des paramètres de connexion laissés vulnérables. Les failles provenaient notamment de configurations d'applications et de répertoires de code publics.",
+    "keywords": [
+      "inde",
+      "intelligence artificielle",
+      "securite informatique",
+      "agent autonome",
+      "cloud"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "ae0a8eab51ee",
+    "title": "Sosh augmente à son tour ses prix : plus de données, pour un abonnement plus cher",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634618-sosh-augmente-a-son-tour-ses-prix-plus-de-donnees-pour-un-abonnement-plus-cher.html",
+    "pubDate": "2026-10-16T17:18:00.000Z",
+    "summary": "La marque Sosh annonce une hausse des tarifs de ses abonnements téléphoniques. Cette évolution s'accompagne d'une augmentation du volume de données mobiles incluses. L'inflation générale touche ainsi cette offre reconnue pour son accessibilité.",
+    "keywords": [
+      "sosh",
+      "forfait",
+      "inflation",
+      "prix",
+      "telecom"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "b261b99f9f72",
+    "title": "L’iPhone Duo peut-il vraiment sauver un marché qui n’intéresse (presque) personne ?",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/apple/3289197_liphone-duo-peut-il-vraiment-sauver-un-marche-qui-ninteresse-presque-personne",
+    "pubDate": "2026-10-16T17:04:00.000Z",
+    "summary": "Apple lance les précommandes de son premier smartphone pliant, baptisé iPhone Duo. Cet appareil est commercialisé au prix de 2 339 euros avec une sortie en magasin prévue le 23 octobre. Il intègre un marché des pliants qui représente actuellement moins de 2 pour cent des ventes mondiales.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "smartphone pliant",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "caac6ca23c0e",
     "title": "Six years after Stripe, Paystack is learning to keep money",
     "source": "TechCabal",
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/16/paystack-six-years-after-stripe/",
     "pubDate": "2026-10-16T17:02:07.000Z",
-    "summary": "Six years after Stripe's historic acquisition, Paystack is pivoting from moving money to keeping deposits to survive currency devaluations.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Six ans après son rachat historique par Stripe, l'entreprise Paystack change de stratégie pour assurer sa survie. Elle passe du simple transfert de fonds à la conservation des dépôts de ses clients. Cette évolution majeure vise à contrer les effets des dévaluations monétaires.",
+    "keywords": [
+      "paystack",
+      "stripe",
+      "fintech",
+      "afrique",
+      "devaluation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -95,9 +213,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "pubDate": "2026-10-16T16:30:00.000Z",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amulya Vishwanath estime que la robotique se trouve encore à son ère du Lego. Les fondations technologiques essentielles, telles que les actionneurs et les logiciels, nécessitent d'être reconstruites. L'ancienne responsable marketing d'Nvidia tempère ainsi l'idée d'un avènement imminent d'un équivalent de ChatGPT pour ce secteur.",
+    "keywords": [
+      "nvidia",
+      "robotique",
+      "amulya vishwansath",
+      "intelligence artificielle",
+      "chatgpt"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -108,9 +232,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3289707_ce-nouveau-tv-mini-led-144-hz-de-65-pouces-facon-the-frame-voit-son-prix-chuter-de-300-e",
     "pubDate": "2026-10-16T16:27:00.000Z",
-    "summary": "Le TCL 65A400U (2026) est un TV Mini LED de 65 pouces qui monte à 144 Hz et peut afficher des œuvres d'art comme un tableau. Ce rival de la série The Frame de Samsung est aujourd'hui en promotion à…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le distributeur Boulanger propose actuellement une réduction de trois cents euros sur le téléviseur TCL 65A400U. Cet appareil de soixante-cinq pouces intègre la technologie Mini LED et un taux de rafraîchissement de cent quarante-quatre hertz. Ce modèle concurrent de la gamme The Frame de Samsung peut également afficher des tableaux artistiques.",
+    "keywords": [
+      "tcl",
+      "tv mini led",
+      "boulanger",
+      "promotion",
+      "samsung"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -140,9 +270,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634576-le-site-des-republicains-pirate-le-parti-annonce-porter-plainte.html",
     "pubDate": "2026-10-16T16:07:00.000Z",
-    "summary": "Le site du parti Les Républicains a été piraté. Et les assaillants ont laissé un message en lien avec les grandes manifestations du 17 octobre prochain.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site web du parti politique Les Républicains a subi un piratage informatique récemment. Les cybercriminels ont affiché un message en lien avec les manifestations prévues le 17 octobre. La formation politique a officiellement annoncé son intention de porter plainte suite à cet incident.",
+    "keywords": [
+      "les republicains",
+      "piratage",
+      "cybersecurite",
+      "politique",
+      "france"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -209,9 +345,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
     "pubDate": "2026-10-16T16:00:00.000Z",
-    "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Tressfecta développe des solutions innovantes pour les cheveux texturés. Son premier produit, le Plait Pilot, assiste les coiffeurs lors de la séparation des mèches. Cet outil vise à réduire la pénibilité de cette étape préparatoire au tressage.",
+    "keywords": [
+      "tressfecta",
+      "plait pilot",
+      "cheveux textures",
+      "coiffure",
+      "innovation"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -260,9 +402,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634594-super-mario-sur-xbox-l-exploit-bluffant-qui-fait-tourner-des-jeux-switch-sur-la-console-microsoft.html",
     "pubDate": "2026-10-16T15:41:00.000Z",
-    "summary": "Des jeux Nintendo Switch commencent à fonctionner sur Xbox Series X grâce à un émulateur expérimental. Une prouesse rendue possible par le mode développeur de Microsoft, qui accueille déjà plusieurs…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des jeux Nintendo Switch tournent actuellement sur les consoles Xbox Series X et S. Cette performance technique est réalisée grâce à un émulateur expérimental inédit. Le mode développeur de Microsoft permet ainsi d'intégrer de nouveaux logiciels d'émulation.",
+    "keywords": [
+      "xbox",
+      "nintendo switch",
+      "émulateur",
+      "microsoft",
+      "jeu vidéo"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -273,9 +421,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/2778161_decathlon-baisse-de-20-pourcents-le-prix-de-cette-trottinette-electrique-ninebot-pour-ados",
     "pubDate": "2026-10-16T15:35:58.000Z",
-    "summary": "Les adolescents aussi ont droit à une trottinette électrique adaptée à leur taille, mais aussi et surtout sécurisante. La Ninebot C2 Pro, idéale pour les novices ou les expérimentés, est actuellement…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Decathlon propose une réduction sur le modèle Ninebot C2 Pro destiné aux adolescents. Cet engin de déplacement personnel combine des dimensions adaptées et des mesures de sécurité renforcées. L'offre promotionnelle permet d'acquérir l'appareil à un tarif réduit grâce à un code spécifique.",
+    "keywords": [
+      "decathlon",
+      "ninebot",
+      "trottinette electrique",
+      "adolescents"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -286,9 +439,15 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "pubDate": "2026-10-16T15:33:49.000Z",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le modèle Jev devient l'intelligence artificielle la plus rapidement adoptée sur la plateforme Vercel. Cette information repose sur l'analyse des données de la passerelle d'intelligence artificielle de l'entreprise. Ce service d'API unifié fonctionne de manière similaire à OpenRouter.",
+    "keywords": [
+      "vercel",
+      "jev",
+      "ia",
+      "api",
+      "openrouter"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -299,9 +458,14 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634585-pres-de-300-cameras-vont-etre-remplacees-sur-le-rer-b-on-a-la-liste-des-gares-concernees.html",
     "pubDate": "2026-10-16T15:22:00.000Z",
-    "summary": "Île-de-France Mobilités a voté le renouvellement de près de 300 caméras de vidéoprotection dans dix gares du RER B nord. Un investissement de 5 millions d’euros, pour une installation prévue d’ici le…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Île-de-France Mobilités a validé le remplacement de près de trois cents caméras de vidéoprotection. Ce projet concerne dix gares situées sur la portion nord du RER B. Un budget de cinq millions d'euros est mobilisé pour un déploiement achevé d'ici le premier semestre 2027.",
+    "keywords": [
+      "rer b",
+      "ile-de-france mobilites",
+      "videoprotection",
+      "transport"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1071,84 +1235,6 @@
     "url": "https://www.numerama.com/vroom/2354721-le-tesla-roadster-qui-a-ete-montre-nest-pas-celui-avec-lequel-on-pourra-rouler.html",
     "pubDate": "2026-10-16T09:45:49.000Z",
     "summary": "Pour sa présentation du siècle, Tesla a montré les capacités de vol de son nouveau Roadster. Seule la version Rocket aura droit à des propulseurs pour s'envoler, mais elle ne sera pas homologuée pour…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2d55cbb18a25",
-    "title": "Non, le Walkman n'a pas disparu, il est devenu un produit de luxe et Sony en lance un à 5 000 euros",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634525-le-walkman-n-a-pas-disparu-il-est-devenu-un-produit-de-luxe-et-sony-en-lance-un-a-5-000-euros.html",
-    "pubDate": "2026-10-16T09:45:00.000Z",
-    "summary": "Autrefois incontournable, le Walkman est aujourd'hui devenu un produit de niche pour audiophiles. Sony vient de présenter deux nouveaux baladeurs facturés 2 499 et 4 999 euros. Entre amplification…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0211b906bbd7",
-    "title": "Vous fuyez les écouteurs intras ? Les AirPods 4 avec ANC passent à 139€ chez Amazon",
-    "source": "Clubic",
-    "category": "smartphones",
-    "url": "https://www.clubic.com/bons-plans-634498-vous-fuyez-les-ecouteurs-intras-les-airpods-4-avec-anc-passent-a-139-chez-amazon.html",
-    "pubDate": "2026-10-16T09:42:00.000Z",
-    "summary": "Les AirPods 4 avec réduction active du bruit affichent chez Amazon le prix le plus bas relevé sur la plateforme, alors que les AirPods 5 sont arrivés en septembre. Reste à savoir si cette génération,…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bd65863a2dfd",
-    "title": "Windows s’inspire enfin d’Apple pour piloter votre smartphone Android sans le toucher",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/microsoft/3288157_windows-sinspire-enfin-dapple-pour-piloter-votre-smartphone-android-sans-le-toucher",
-    "pubDate": "2026-10-16T09:38:01.000Z",
-    "summary": "Microsoft veut simplifier les interactions entre un PC sous Windows et un smartphone grâce à l'ajout de nouvelles commandes. Il pourrait bientôt être possible de faire sonner son téléphone à distance…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "707989469227",
-    "title": "Fin du thermique en 2035 : pourquoi la France vient de céder face à l’Allemagne",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/survoltes/voitures-electriques/3288073_fin-du-thermique-en-2035-pourquoi-la-france-vient-de-ceder-face-a-lallemagne",
-    "pubDate": "2026-10-16T09:36:06.000Z",
-    "summary": "La France et l’Allemagne ont trouvé un accord provisoire sur l’avenir de l’industrie automobile européenne d’ici à 2035. Les règles pour les autos thermiques devraient être assouplies, à condition…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8dc86e67f4e3",
-    "title": "Strava lance de nouveaux entraînements de renforcement conçus par des coachs directement dans l’app",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634522-strava-lance-de-nouveaux-entrainements-de-renforcement-concus-par-des-coachs-directement-dans-l-app.html",
-    "pubDate": "2026-10-16T09:35:00.000Z",
-    "summary": "Strava enrichit son application avec des séances de musculation conçues par des coachs, à suivre directement sur son smartphone. Une nouvelle étape pour la plateforme, qui ne veut plus seulement…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "a2f5c4a83eb1",
-    "title": "Windows 11 s'offre enfin son Dynamic Island, et il est gratuit !",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-632662-windows-11-s-offre-enfin-son-dynamic-island-et-il-est-gratuit.html",
-    "pubDate": "2026-10-16T09:25:00.000Z",
-    "summary": "Changer de morceau, retrouver un lien copié, lancer un minuteur… Sur Windows, ces petites actions finissent vite par se disperser entre la barre des tâches, les raccourcis et les fenêtres. Dynamic…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
