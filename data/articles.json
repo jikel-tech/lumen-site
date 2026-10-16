@@ -1,5 +1,23 @@
 [
   {
+    "id": "18f9fd010555",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "pubDate": "2026-10-16T21:22:28.000Z",
+    "summary": "L'entreprise Replit a mis un terme à sa collaboration avec la firme Anthropic. Le directeur général Amjad Masad a invoqué plusieurs motifs pour justifier ce choix, notamment les coûts financiers. Cette décision intervient quelques mois après l'annonce d'un partenariat entre Replit et OpenAI.",
+    "keywords": [
+      "replit",
+      "anthropic",
+      "openai",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "8e38105a14b5",
     "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
     "source": "TechCrunch",
@@ -476,9 +494,14 @@
     "category": "culture",
     "url": "https://www.frandroid.com/guide-dachat/2371546_quelles-sont-les-installations-home-cinema-compatibles-dolby-atmos-recommandees",
     "pubDate": "2026-10-16T15:18:09.000Z",
-    "summary": "Doter votre installation Home Cinéma d'un système de hauteur Dolby Atmos peut vous permettre de renforcer l'immersion, grâce à un rendu plus fidèle et surtout tridimensionnel de la bande-son. Voici…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site LUMen propose une sélection d'installations Home Cinéma compatibles avec le format Dolby Atmos. Ces systèmes intègrent un système de hauteur pour offrir une immersion sonore tridimensionnelle. Cette configuration permet d'obtenir un rendu plus fidèle des pistes audio de vos films.",
+    "keywords": [
+      "home cinema",
+      "dolby atmos",
+      "audio",
+      "lumen"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -489,9 +512,14 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/produits-android/photo/appareil-photo/894453_tout-comprendre-des-capteurs-de-vos-appareils-photo-et-smartphones",
     "pubDate": "2026-10-16T15:15:43.000Z",
-    "summary": "De tous les composants d'un appareil photo, le capteur photo est sans conteste celui qui semble le plus magique. Mais avoir le plus grand, le plus défini, le plus sensible, le plus tout est-il…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le choix d'un capteur photo performant pour les appareils et smartphones suscite de nombreuses interrogations techniques. Les utilisateurs cherchent à savoir si posséder le plus grand ou le plus défini est réellement avantageux. Ce dossier complet de LUMen aide à mieux comprendre ces composants essentiels pour faire le bon choix.",
+    "keywords": [
+      "smartphone",
+      "appareil photo",
+      "capteur",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -502,9 +530,15 @@
     "category": "smartphones",
     "url": "https://www.clubic.com/actualite-634588-sony-se-dedit-le-xperia-10-vi-n-aura-pas-droit-aux-mises-a-jour-promises.html",
     "pubDate": "2026-10-16T15:05:00.000Z",
-    "summary": "Lancé il y a un peu plus de deux ans, le milieu de gamme de Sony n'aura pas droit à la troisième et dernière mise à jour d'Android qui lui était pourtant promise. En cause ? La mémoire du téléphone.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le constructeur Sony revient sur sa promesse initiale concernant son smartphone Xperia 10 VI. Ce modèle de milieu de gamme ne recevra finalement pas sa troisième mise à jour majeure d'Android. La marque justifie cette décision technique par des limitations liées à la mémoire interne de l'appareil.",
+    "keywords": [
+      "sony",
+      "xperia 10 vi",
+      "android",
+      "smartphone",
+      "mise a jour"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -515,9 +549,14 @@
     "category": "culture",
     "url": "https://www.frandroid.com/services/svod/3289133_netflix-en-crise-la-plateforme-licencie-6-de-ses-employes-dun-coup-un-record",
     "pubDate": "2026-10-16T14:55:40.000Z",
-    "summary": "Ça ne va pas fort au sein de Netflix. Le service de streaming annonce se séparer d'environ 1 000 de ses employés. La plus grande vague de licenciements au sein de la plateforme, justifiée par un…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le géant du streaming Netflix fait face à une période difficile sur le plan financier. L'entreprise procède au licenciement d'environ un millier de collaborateurs. Cette décision majeure vise à mieux répartir et prioriser les ressources internes de la plateforme.",
+    "keywords": [
+      "netflix",
+      "licenciement",
+      "streaming",
+      "entreprise"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -528,9 +567,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2355219-la-femme-de-menage-2-la-suite-du-film-phenomene-avec-sydney-sweeney-arrive-vite.html",
     "pubDate": "2026-10-16T14:55:34.000Z",
-    "summary": "Après le braquage financier du premier opus au box-office, Lionsgate rouvre le dossier. La suite très attendue du thriller psychologique La Femme de ménage arrive avec Sydney Sweeney.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le studio Lionsgate prépare officiellement la suite du thriller psychologique à succès La Femme de ménage. Ce second volet mettra à nouveau en vedette l'actrice Sydney Sweeney dans le rôle principal. Le projet fait suite aux excellents résultats financiers enregistrés par le premier film au box-office.",
+    "keywords": [
+      "la femme de ménage",
+      "sydney sweeney",
+      "lionsgate",
+      "cinéma",
+      "thriller"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -541,9 +586,14 @@
     "category": "culture",
     "url": "https://www.frandroid.com/marques/tesla/3288465_tesla-roadster-la-seule-technologie-qui-va-vraiment-changer-votre-future-model-y",
     "pubDate": "2026-10-16T14:54:48.000Z",
-    "summary": "Derrière les propulseurs et les cabrioles, le nouveau Tesla Roadster embarque des technologies plus terre à terre : une direction sans colonne, des pédales électroniques, des ventilateurs…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le futur Tesla Roadster intègre des innovations techniques inédites qui pourraient transformer les prochains véhicules de la marque. Parmi ces équipements figurent notamment une direction sans colonne et des batteries optimisées pour la recharge rapide. Ces nouveautés soulèvent des questions quant à leur intégration future dans des modèles plus accessibles comme la Model Y.",
+    "keywords": [
+      "tesla",
+      "roadster",
+      "model y",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -554,9 +604,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/meta/3289251_tes-ou-whatsapp-simplifie-enfin-le-partage-de-localisation-en-un-clic",
     "pubDate": "2026-10-16T14:47:37.000Z",
-    "summary": "La version bêta 2.26.41.11 de WhatsApp sur Android dévoile la présence d'une nouvelle option pour demander la position de son interlocuteur. En phase de test, on peut déjà avoir un aperçu de son…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "WhatsApp teste actuellement une fonctionnalité simplifiée de partage de position pour ses utilisateurs sur Android. La mise en bêta 2.26.41.11 intègre une option inédite permettant de réclamer directement la localisation de son contact. Cette nouveauté vise à rendre les échanges de coordonnées géographiques beaucoup plus rapides au quotidien.",
+    "keywords": [
+      "whatsapp",
+      "android",
+      "localisation",
+      "beta",
+      "application"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -567,9 +623,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/bons-plans/3289271_la-carte-microsd-samsung-aux-couleurs-de-knuckles-est-a-40-sur-amazon",
     "pubDate": "2026-10-16T14:40:45.000Z",
-    "summary": "La carte mémoire Samsung Sonic Pro Plus est un accessoire pratique qui permet d'avoir 128 Go de rab sur vos appareils et vous l'avez en promo à 36,54 euros au lieu de 61,20 euros sur Amazon.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Amazon propose actuellement une réduction importante sur la carte mémoire Samsung Sonic Pro Plus. Cet accessoire arbore les couleurs de Knuckles et offre une capacité de stockage de 128 Go. Le prix de ce produit passe ainsi de 61,20 euros à 36,54 euros.",
+    "keywords": [
+      "samsung",
+      "knuckles",
+      "amazon",
+      "carte micro sd",
+      "bon plan"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -580,9 +642,15 @@
     "category": "culture",
     "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/3285033_du-1080p-a-la-4k-combien-faut-il-depenser-pour-un-pc-gaming-bien-equipe-chez-pccomponentes",
     "pubDate": "2026-10-16T14:30:00.000Z",
-    "summary": "Il n’est pas nécessaire de se ruiner pour jouer sur PC dans de bonnes conditions. La preuve avec PcComponentes, qui propose de nombreuses configurations gaming à prix justes.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site e-commerce PcComponentes propose différentes configurations de PC adaptés pour le jeu vidéo. Ces ordinateurs visent à offrir de bonnes performances d'affichage, allant de la haute définition standard à la ultra haute définition. L'enseigne met en avant des tarifs accessibles pour équiper les joueurs sans dépenses excessives.",
+    "keywords": [
+      "pccomponentes",
+      "pc gaming",
+      "4k",
+      "1080p",
+      "materiel informatique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -593,9 +661,14 @@
     "category": "ia",
     "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
     "pubDate": "2026-10-16T14:26:51.000Z",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "L'acteur Mark Wahlberg soutient l'utilisation de l'intelligence artificielle dans le cinéma si elle sert à améliorer le travail en cours. L'investisseur se montre également favorable à l'idée qu'un clone numérique prolonge sa carrière après lui. Cette prise de position relance le débat sur l'intégration éthique des technologies de synthèse dans l'industrie cinématographique.",
+    "keywords": [
+      "mark wahlberg",
+      "intelligence artificielle",
+      "cinema",
+      "clone numerique"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -606,9 +679,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2355069-la-nasa-offre-150-000-dollars-pour-resoudre-ce-probleme-electrique-sur-la-lune.html",
     "pubDate": "2026-10-16T14:25:13.000Z",
-    "summary": "Sur la Lune, l’électricité statique pourrait rendre dangereux le simple contact avec un vaisseau. La NASA propose jusqu’à 150 000 dollars de récompense pour trouver comment décharger les combinaisons…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La NASA lance un appel à projets doté de 150 000 dollars pour contrer l'électricité statique lunaire. Cette charge accumulée sur les combinaisons spatiales représente un danger lors des contacts avec les vaisseaux. Les inventeurs ont jusqu'au 15 janvier 2027 pour soumettre leurs solutions de décharge sécurisées.",
+    "keywords": [
+      "nasa",
+      "lune",
+      "electricite",
+      "concourse",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -619,9 +698,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/guide-dachat/3196713_quel-modele-de-macbook-reconditionne-choisir-pour-la-rentree-nos-conseils-et-recommandations",
     "pubDate": "2026-10-16T14:17:34.000Z",
-    "summary": "Vous n'avez pas le budget pour un MacBook neuf ? Ou bien vous préférez éviter le neuf par conviction écologique ? Acheter un ordinateur portable reconditionné est moins courant qu'un smartphone, mais…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "LUMen propose une sélection de MacBook reconditionnés adaptés aux besoins des étudiants. Cette alternative permet de s'équiper à moindres frais tout en adoptant une démarche écologique. L'achat d'un ordinateur portable reconditionné reste cependant moins répandu que celui d'un smartphone.",
+    "keywords": [
+      "macbook",
+      "reconditionne",
+      "etudiant",
+      "ordinateur",
+      "apple"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -632,9 +717,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634552-evacues-de-nuit-300-voyageurs-d-un-train-transdev-ont-attendu-des-heures-retour-sur-un-incident-rarissime.html",
     "pubDate": "2026-10-16T14:11:00.000Z",
-    "summary": "Le 9 octobre, une panne électrique près de Fréjus a stoppé plusieurs trains sur la ligne Marseille-Nice, dont deux exploités par Transdev. Au Dramont, environ 300 voyageurs ont été évacués de nuit,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Une panne électrique survenue près de Fréjus a immobilisé des trains sur la ligne Marseille-Nice le 9 octobre. Près de 300 passagers d'une rame exploitée par Transdev ont dû être évacués de nuit au Dramont. Les voyageurs ont ensuite patienté de longues heures avant de pouvoir enfin regagner leur domicile.",
+    "keywords": [
+      "transdev",
+      "train",
+      "panne electrique",
+      "frejus",
+      "transport"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -645,9 +736,15 @@
     "category": "smartphones",
     "url": "https://www.numerama.com/tech/2355131-le-midea-portasplit-climatiseur-mobile-et-chauffage-dappoint-revient-en-stock-pour-passer-lhiver.html",
     "pubDate": "2026-10-16T14:09:17.000Z",
-    "summary": "[Deal du jour] Le Midea PortaSplit, climatiseur mobile star de l'été, est de nouveau disponible chez Leroy Merlin. Il est affiché à 969 €, avec un mode chauffage qui sert dès les premiers froids.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le climatiseur mobile Midea PortaSplit revient en promotion chez Leroy Merlin pour la saison hivernale. Cet appareil polyvalent propose également une fonction de chauffage d'appoint face aux températures fraîches. Il est actuellement commercialisé au tarif de 969 euros.",
+    "keywords": [
+      "midea portasplit",
+      "leroy merlin",
+      "climatiseur",
+      "chauffage",
+      "bon plan"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1222,19 +1319,6 @@
     "url": "https://www.frandroid.com/marques/gac/3288281_gac-aion-ut-cross-ce-nouveau-suv-electrique-chinois-pense-pour-leurope-arrive-face-aux-renault-4-et-peugeot-e-2008",
     "pubDate": "2026-10-16T09:47:14.000Z",
     "summary": "Présentée au Mondial de Paris, la GAC AION UT Cross arrivera en France début 2027. Entre break et SUV, elle mise sur l’espace et le côté pratique, avec une autonomie annoncée de 400 km. Reste à…",
-    "keywords": [],
-    "aiDone": false,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "065fa5675ca6",
-    "title": "Le Tesla Roadster qui a été montré n’est pas celui avec lequel on pourra rouler",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2354721-le-tesla-roadster-qui-a-ete-montre-nest-pas-celui-avec-lequel-on-pourra-rouler.html",
-    "pubDate": "2026-10-16T09:45:49.000Z",
-    "summary": "Pour sa présentation du siècle, Tesla a montré les capacités de vol de son nouveau Roadster. Seule la version Rocket aura droit à des propulseurs pour s'envoler, mais elle ne sera pas homologuée pour…",
     "keywords": [],
     "aiDone": false,
     "coverage": 1,
