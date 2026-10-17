@@ -773,9 +773,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/tech/2354599-cest-quoi-freyja-ce-projet-de-bouclier-antimissile-que-macron-et-zelensky-veulent-pour-fin-2026.html",
     "pubDate": "2026-10-16T14:00:11.000Z",
-    "summary": "Emmanuel Macron et Volodymyr Zelensky ont discuté, le 15 octobre 2026, de l’accélération de FREYJA. Ce projet ukrainien et européen doit permettre d’intercepter des missiles balistiques, avec un…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Emmanuel Macron et Volodymyr Zelensky ont échangé le 15 octobre 2026 sur le projet de défense antimissile FREYJA. Cette initiative européenne et ukrainienne vise à intercepter les missiles balistiques. Kiev ambitionne de rendre ce bouclier opérationnel d'ici la fin de l'année 2026.",
+    "keywords": [
+      "freyja",
+      "emmanuel macron",
+      "volodymyr zelensky",
+      "missile",
+      "ukraine"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -786,9 +792,15 @@
     "category": "logiciels",
     "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
     "pubDate": "2026-10-16T14:00:00.000Z",
-    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La startup Veritas développe une puce innovante pour lutter contre la prolifération des contrefaçons. Ce dispositif de vérification s'adresse désormais aux bijoux, aux trophées et aux flacons de parfum. L'entreprise entend ainsi contrer l'essor des imitations haut de gamme qui envahissent le marché.",
+    "keywords": [
+      "veritas",
+      "contrefacon",
+      "securite",
+      "luxe",
+      "technologie"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -799,9 +811,15 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/16/onafriq-shuts-down-nigeria-agent-banking/",
     "pubDate": "2026-10-16T13:45:55.000Z",
-    "summary": "Baxi was one of Onafriq's large bets on Nigeria's offline payments economy, built around the idea that a vast network of agents could bring financial services to customers who still relied heavily on…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La fintech Onafriq met un terme à ses activités d'agent bancaire au Nigeria après cinq années d'exercice. Cette décision concerne directement sa filiale Baxi, initialement acquise pour s'implanter dans le secteur des paiements hors ligne. Le service visait à étendre l'accès aux services financiers pour les populations utilisant principalement les espèces.",
+    "keywords": [
+      "onafriq",
+      "baxi",
+      "nigeria",
+      "fintech",
+      "paiement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -812,9 +830,15 @@
     "category": "smartphones",
     "url": "https://www.numerama.com/tech/2350985-precommandes-iphone-duo-en-direct.html",
     "pubDate": "2026-10-16T13:20:24.000Z",
-    "summary": "Plus d’un mois après sa présentation, l’iPhone Duo ouvre ses précommandes ce vendredi 16 octobre. Premières remises, offres des opérateurs et délais de livraison : nous traquons en direct les…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Les précommandes du nouvel iPhone Duo ont débuté ce vendredi 16 octobre. Cette ouverture s'accompagne rapidement de ruptures de stock sur certaines configurations. La marque Apple prévient ainsi que des livraisons sont reportées au mois de janvier.",
+    "keywords": [
+      "apple",
+      "iphone duo",
+      "smartphone",
+      "precommande",
+      "rupture de stock"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -825,9 +849,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634564-ca-fait-beaucoup-neutron-la-fusee-de-rocket-lab-qui-doit-faire-de-l-ombre-au-falcon-9-prend-encore-du-retard.html",
     "pubDate": "2026-10-16T13:16:00.000Z",
-    "summary": "Neutron, fusée très attendue de Rocket Lab, ne volera finalement pas cette année comme c’était initialement prévu. Un nouveau coup de frein qui tombe très mal, alors que le secteur s’inquiète de la…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le premier vol de la fusée Neutron développée par Rocket Lab est une nouvelle fois reporté. Ce retard survient alors que l'industrie spatiale anticipe déjà la fin de vie du Falcon 9 de SpaceX. L'appareil ne décollera finalement pas en 2024 comme cela avait été initialement annoncé.",
+    "keywords": [
+      "rocket lab",
+      "neutron",
+      "spacex",
+      "falcon 9",
+      "fusée"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -838,9 +868,15 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/16/mytherapist-ng-launches-bnpl-for-therapy/",
     "pubDate": "2026-10-16T13:04:10.000Z",
-    "summary": "The offering is part of a relaunch the company calls Mytherapist.ng 2.0, which also introduces in-person sessions at Café One, a co-working network with more than 30 locations across Nigeria.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La plateforme Mytherapist.ng lance une nouvelle offre de financement pour faciliter l'accès aux soins psychologiques. Cette mise à jour majeure intègre également des consultations physiques dans les espaces Café One au Nigeria. L'entreprise renforce ainsi sa présence sur le marché de la santé mentale grâce à cette refonte stratégique.",
+    "keywords": [
+      "mytherapist.ng",
+      "sante mentale",
+      "financement",
+      "nigeria",
+      "cafe one"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -851,9 +887,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2354713-tesla-roadster-a-quoi-ressemble-linterface-a-linterieur.html",
     "pubDate": "2026-10-16T13:02:00.000Z",
-    "summary": "Le site officiel de Tesla ne montre aucune image de l'interface du Roadster. Mais des personnes présentes sur place lors de la présentation ont pu découvrir et utiliser l'écran d'infodivertissement.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site web officiel de Tesla ne dévoile aucun visuel de l'intérieur du modèle Roadster. Néanmoins, des participants à l'événement de présentation ont eu l'opportunité de manipuler l'écran d'infodivertissement. Cette prise en main en direct a permis de découvrir le design de la future interface du véhicule.",
+    "keywords": [
+      "tesla",
+      "roadster",
+      "interface",
+      "ecran",
+      "infodivertissement"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -938,9 +980,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/pop-culture/2354627-un-nouveau-realisateur-debarque-en-urgence-sur-the-batman-2-pour-sauver-le-film.html",
     "pubDate": "2026-10-16T12:29:00.000Z",
-    "summary": "Nouveau rebondissement majeur pour The Batman: Part II : alors que le tournage était stoppé en raison d'un problème familial touchant Matt Reeves, Steven Soderbergh débarque en urgence sur le plateau…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Steven Soderbergh remplace temporairement Matt Reeves sur le tournage de The Batman 2. Cette décision intervient suite à un problème familial rencontré par le réalisateur initial. Soderbergh dirige ainsi les dernières semaines de prises de vues du film.",
+    "keywords": [
+      "the batman 2",
+      "steven soderbergh",
+      "matt reeves",
+      "cinema",
+      "tournage"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -970,9 +1018,15 @@
     "category": "culture",
     "url": "https://www.numerama.com/vroom/2354963-quadricycles-electriques-le-gouvernement-degaine-une-prime-de-2-000-e-mais-tout-le-monde-ny-aura-pas-droit.html",
     "pubDate": "2026-10-16T12:15:32.000Z",
-    "summary": "Dans le cadre de son nouveau plan d’électrification, le gouvernement renforce son soutien aux quadricycles électriques avec une aide pouvant atteindre 2 000 euros. Mais les critères d’éligibilité…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le gouvernement met en place une aide financière de deux mille euros pour l'achat de quadricycles électriques. Cette mesure s'inscrit au cœur d'un nouveau plan national d'électrification des transports. Cependant, les conditions d'attribution strictes écarteront plusieurs véhicules très appréciés du public.",
+    "keywords": [
+      "quadricycle electrique",
+      "gouvernement",
+      "prime",
+      "electrification",
+      "mobilite"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1020,9 +1074,15 @@
     "category": "ia",
     "url": "https://www.frandroid.com/marques/asus/3288997_test-de-lasus-proart-p16-jai-vecu-une-semaine-avec-le-premier-pc-portable-arm-de-nvidia",
     "pubDate": "2026-10-16T12:00:00.000Z",
-    "summary": "Après avoir passé la puce RTX Spark au crible, place à la machine qui l'accueille. L'Asus ProArt P16 associe un superbe écran OLED 4K, des finitions haut de gamme et jusqu'à 128 Go de mémoire, mais…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site LUMen a testé pendant une semaine l'ordinateur portable Asus ProArt P16. Cette machine haut de gamme intègre une puce RTX Spark et un écran OLED 4K. L'appareil se distingue également par sa capacité mémoire pouvant atteindre 128 Go.",
+    "keywords": [
+      "asus",
+      "proart p16",
+      "pc portable",
+      "nvidia",
+      "oled"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1033,9 +1093,14 @@
     "category": "afrique",
     "url": "https://techcabal.com/2026/10/16/hurdles-facing-contactless-payments/",
     "pubDate": "2026-10-16T11:33:05.000Z",
-    "summary": "Nigeria has the technology for contactless payment, yet it remains underused as consumers stick with cash, cards, and transfers.",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le Nigeria dispose déjà des infrastructures nécessaires pour le paiement sans contact. Malgré cette disponibilité technologique, les consommateurs privilégient toujours les espèces, les cartes et les virements traditionnels. Cette préférence locale freine considérablement l'adoption généralisée de cette méthode de paiement dans le pays.",
+    "keywords": [
+      "nigeria",
+      "paiement sans contact",
+      "technologie",
+      "finance"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1084,9 +1149,14 @@
     "category": "culture",
     "url": "https://www.numerama.com/sciences/2354631-ca-a-commence-les-essais-des-satellites-miroirs-ont-apporte-la-lumiere-en-pleine-nuit.html",
     "pubDate": "2026-10-16T11:00:00.000Z",
-    "summary": "Ce qui ressemblait à un projet de science-fiction dystopique a bel et bien commencé à voir le jour. En Californie, la start-up Reflect Orbital a éclairé le désert en pleine nuit avec des projecteurs,…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "La start-up américaine Reflect Orbital a mené des essais en Californie pour simuler des satellites-miroirs. Ces tests nocturnes ont permis d'éclairer le désert à l'aide de projecteurs. Cette étape valide le début du projet visant à fournir de la lumière artificielle à la demande.",
+    "keywords": [
+      "reflect orbital",
+      "satellites miroirs",
+      "californie",
+      "innovation tech"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1097,9 +1167,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634540-rachat-geant-dans-la-cyber-proofpoint-met-6-3-milliards-de-dollars-sur-la-table-pour-racheter-varonis-dans-quel-but.html",
     "pubDate": "2026-10-16T10:54:00.000Z",
-    "summary": "Proofpoint va racheter Varonis pour environ 6,3 milliards de dollars, payés intégralement en numéraire. Le spécialiste de la sécurité des messageries veut garder un œil sur les données sensibles…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Proofpoint annonce l'acquisition prochaine de Varonis pour un montant total de 6,3 milliards de dollars en numéraire. Cette opération financière majeure vise à sécuriser les données sensibles manipulées par les agents d'intelligence artificielle. La société spécialisée en sécurité des messageries entend ainsi répondre aux nouveaux enjeux de protection numérique.",
+    "keywords": [
+      "proofpoint",
+      "varonis",
+      "cybersecurite",
+      "intelligence artificielle",
+      "rachat"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1110,9 +1186,15 @@
     "category": "smartphones",
     "url": "https://www.frandroid.com/marques/porsche/3288339_porsche-abandonne-lelectrique-pour-sa-future-voiture-star-le-retour-surprise-du-thermique-avec-la-mission-s",
     "pubDate": "2026-10-16T10:51:40.000Z",
-    "summary": "Porsche a choisi New York, et non le Mondial de l’Auto de Paris, pour dévoiler la Mission S, un concept-car doté d'un moteur en position centrale arrière et présenté comme l’amorce d’une gamme de…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le constructeur automobile allemand Porsche a choisi New York pour présenter son nouveau concept-car baptisé Mission S. Ce véhicule marque un retour inattendu vers la motorisation thermique avec un bloc placé en position centrale arrière. Cette nouveauté constitue la première étape du lancement d'une toute nouvelle gamme.",
+    "keywords": [
+      "porsche",
+      "mission s",
+      "voiture thermique",
+      "automobile",
+      "concept-car"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1123,9 +1205,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-634492-le-rowenta-x-force-flex-14-60-aqua-a-tube-pliable-perd-250-chez-darty.html",
     "pubDate": "2026-10-16T10:45:00.000Z",
-    "summary": "Tube articulé pour passer sous les meubles, tête Aqua qui humidifie les sols durs pendant l’aspiration : le Rowenta X-Force Flex 14.60 Aqua joue la polyvalence. Darty le propose 250 € sous son plus…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site marchand Darty applique une réduction significative sur le prix de l'aspirateur sans fil Rowenta X-Force Flex 14.60 Aqua. Cet appareil se distingue par son tube articulé et sa tête lavante dédiée aux sols durs. Toutefois, les résultats des tests incitent à nuancer l'efficacité réelle de la fonction de lavage.",
+    "keywords": [
+      "rowenta",
+      "darty",
+      "aspirateur",
+      "bon plan",
+      "electromenager"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
