@@ -1,5 +1,60 @@
 [
   {
+    "id": "63669a3458fe",
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "source": "TechCrunch",
+    "category": "culture",
+    "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "pubDate": "2026-10-17T20:55:52.000Z",
+    "summary": "La plateforme TikTok a définitivement banni le compte publicitaire d'un documentaire consacré à Elon Musk. Ce projet cinématographique d'une durée de quatre heures fait face à de multiples obstacles sur les réseaux sociaux. Cette décision confirme les difficultés rencontrées par les créateurs pour promouvoir cette œuvre sur le web.",
+    "keywords": [
+      "tiktok",
+      "elon musk",
+      "documentaire",
+      "reseaux sociaux",
+      "publicite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "0dabc6c10b97",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "pubDate": "2026-10-17T20:21:19.000Z",
+    "summary": "L'entreprise Anthropic constate une évolution notable dans la composition de ses équipes au cours des douze derniers mois. La proportion de collaborateurs débutants a diminué au profit de profils plus expérimentés. De plus, le personnel consacre désormais une part plus importante de son temps de travail aux réunions.",
+    "keywords": [
+      "anthropic",
+      "ia",
+      "entreprise",
+      "travail"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "6435f671229b",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "pubDate": "2026-10-17T18:48:08.000Z",
+    "summary": "La plateforme Replit adopte les modèles d'intelligence artificielle d'OpenAI par défaut. Cette décision remplace le fournisseur précédent, Anthropic, à la tête du service. Les utilisateurs conservent toutefois la possibilité d'accéder à Claude sur la plateforme.",
+    "keywords": [
+      "replit",
+      "openai",
+      "anthropic",
+      "intelligence artificielle"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "88574e91f2cd",
     "title": "« Un barbecue qui a mal tourné » : l’astronaute française Sophie Adenot nous décrit les odeurs surprenantes de l’espace",
     "source": "Numerama",
@@ -1127,9 +1182,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/bons-plans-633538-codes-promos-jusqu-a---62-de-reduction-pour-equiper-votre-ordinateur-avec-ces-logiciels-office-et-windows.html",
     "pubDate": "2026-10-17T06:30:00.000Z",
-    "summary": "En cet automne, mettez à niveau votre ordinateur tout en réalisant d’importantes économies. Keysfan vous propose de nombreux logiciels pour cela, à commencer par une suite bureautique et un système…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le site Keysfan propose des réductions importantes sur des logiciels informatiques cet automne. Les internautes peuvent ainsi économiser jusqu'à soixante-deux pour cent sur Windows et des suites bureautiques. Ces offres promotionnelles permettent d'équiper ou de mettre à niveau son ordinateur à moindre coût.",
+    "keywords": [
+      "keysfan",
+      "windows",
+      "logiciel",
+      "promotion",
+      "ordinateur"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1140,9 +1201,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634639-rubis-contre-rubis-le-nouveau-sous-marin-nucleaire-francais-va-remplacer-la-generation-dont-il-porte-le-nom.html",
     "pubDate": "2026-10-17T06:16:00.000Z",
-    "summary": "Le sous-marin nucléaire d’attaque Rubis a commencé, vendredi à Cherbourg, son transfert vers le dispositif de mise à l’eau. Cinquième des six SNA de la classe Suffren, il prépare la relève des…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Le sous-marin nucléaire d'attaque Rubis a entamé ses manœuvres de mise à l'eau à Cherbourg. Ce bâtiment de la classe Suffren constitue le cinquième exemplaire d'une série de six navires. Il est destiné à succéder aux unités de la génération précédente qui portent le même nom.",
+    "keywords": [
+      "rubis",
+      "sous-marin",
+      "naval group",
+      "defense",
+      "cherbourg"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1153,9 +1220,15 @@
     "category": "logiciels",
     "url": "https://www.clubic.com/actualite-634519-drones-contre-yandex-les-frappes-ukrainiennes-ont-elles-vraiment-paralyse-les-bots-russes.html",
     "pubDate": "2026-10-17T06:01:00.000Z",
-    "summary": "Les frappes ukrainiennes contre plusieurs centres de données de Yandex ont bien provoqué d’importantes perturbations en Russie. Mais la chute du trafic observée ne suffit pas à démontrer une…",
-    "keywords": [],
-    "aiDone": false,
+    "summary": "Des frappes de drones ukrainiens ont visé des centres de données appartenant à l'entreprise russe Yandex. Cette attaque a provoqué des perturbations notables sur le trafic en Russie. Cependant, l'ampleur exacte de la panne et son impact réel sur les services restent difficiles à confirmer.",
+    "keywords": [
+      "yandex",
+      "ukraine",
+      "russie",
+      "drones",
+      "cyberattaque"
+    ],
+    "aiDone": true,
     "coverage": 1,
     "also": []
   },
@@ -1416,63 +1489,6 @@
       "fintech",
       "afrique",
       "devaluation"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "2536b0bba9dc",
-    "title": "J’ai testé les écouteurs Nothing Ear (3a) : la transparence assumée, le grave qui frappe",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/nothing/3264895_jai-teste-les-ecouteurs-nothing-ear-3a-la-transparence-assumee-le-grave-qui-frappe",
-    "pubDate": "2026-10-16T17:00:00.000Z",
-    "summary": "Le test des écouteurs intra-auriculaires Nothing Ear (3a) révèle une volonté de se démarquer sur un segment encombré. Ce modèle se distingue par un design transparent caractéristique et une restitution sonore axée sur les basses. L'appareil est commercialisé à un tarif agressif fixé sous la barre des cent euros.",
-    "keywords": [
-      "nothing",
-      "nothing ear 3a",
-      "ecouteurs",
-      "audio",
-      "test"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "70ddf5498a16",
-    "title": "Netflix : la pub séduit 12 millions de Français, mais partager son abonnement coûte plus cher",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-634579-netflix-la-pub-seduit-12-millions-de-francais-mais-partager-son-abonnement-coute-plus-cher.html",
-    "pubDate": "2026-10-16T16:45:00.000Z",
-    "summary": "La formule publicitaire de Netflix attire à présent douze millions de personnes par mois dans l'Hexagone. Près de six nouveaux usagers sur dix optent pour cet abonnement économique au quotidien. Toutefois, cette offre bloque l'ajout d'utilisateurs situés en dehors du foyer.",
-    "keywords": [
-      "netflix",
-      "publicite",
-      "streaming",
-      "france",
-      "abonnement"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "0c26d2ce1457",
-    "title": "L’équivalent de 14 kg de TNT derrière les sièges du Tesla Roadster : pourquoi Elon Musk met lui-même en garde ses clients",
-    "source": "Frandroid",
-    "category": "culture",
-    "url": "https://www.frandroid.com/marques/tesla/3288989_lequivalent-de-14-kg-de-tnt-derriere-les-sieges-du-tesla-roadster-pourquoi-elon-musk-met-lui-meme-en-garde-ses-clients",
-    "pubDate": "2026-10-16T16:42:35.000Z",
-    "summary": "Le futur Tesla Roadster intégrera des propulseurs à azote comprimé pour améliorer ses performances d'accélération. Elon Musk prévient lui-même les futurs acheteurs des risques liés à ces réservoirs haute pression en cas de collision. Ce système embarqué génère une puissance explosive considérable située directement derrière les sièges.",
-    "keywords": [
-      "tesla",
-      "tesla roadster",
-      "elon musk",
-      "voiture electrique",
-      "securite"
     ],
     "aiDone": true,
     "coverage": 1,
