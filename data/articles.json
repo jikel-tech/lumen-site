@@ -1,5 +1,357 @@
 [
   {
+    "id": "24b6388a1277",
+    "title": "Un écran QD-OLED 280 Hz sous les 360€ : l’AOC Agon Pro est en promo ce weekend",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-634504-un-ecran-qd-oled-280-hz-sous-les-360-l-aoc-agon-pro-est-en-promo-ce-weekend.html",
+    "pubDate": "2026-10-18T08:51:00.000Z",
+    "summary": "Le moniteur AOC Agon Pro AG276QZD2 fait l'objet d'une réduction notable chez Amazon ce week-end. Cet écran QD-OLED de type QHD propose une fréquence de 280 Hz particulièrement adaptée aux jeux sur PC. Les acheteurs doivent toutefois composer avec une dalle brillante et une confusion possible liée à un ancien modèle à 240 Hz.",
+    "keywords": [
+      "aoc",
+      "agon pro",
+      "ecran",
+      "qd-oled",
+      "amazon"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/4976710/pexels-photo-4976710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Godfrey  Atima",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-codes-on-a-computer-screen-4976710/"
+  },
+  {
+    "id": "d19dceef4044",
+    "title": "eSIM de voyage : les forfaits illimités sont-ils vraiment « illimités » ? Tout ce qu’il faut savoir",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/telecom/esim-voyage/3286387_esim-de-voyage-les-forfaits-illimites-sont-ils-vraiment-illimites-tout-ce-quil-faut-savoir",
+    "pubDate": "2026-10-18T08:30:00.000Z",
+    "summary": "Les offres de données illimitées attirent de nombreux voyageurs internationaux auprès des fournisseurs d'eSIM. Derrière cette promesse séduisante se cachent souvent des conditions d'utilisation restreintes. Il est donc essentiel de décrypter les pratiques réelles de ces forfaits mobiles à l'étranger.",
+    "keywords": [
+      "esim",
+      "forfait illimite",
+      "voyage",
+      "donnees mobiles"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/5835330/pexels-photo-5835330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Tim  Samuel",
+    "imagePage": "https://www.pexels.com/photo/man-touching-screen-of-smartphone-on-street-5835330/"
+  },
+  {
+    "id": "15e70add778b",
+    "title": "Le MCP, c'est quoi ? Comment l’USB-C de l'IA lui donne enfin de vrais bras",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/dossier-632212-le-mcp-c-est-quoi-comment-l-usb-c-de-l-ia-lui-donne-enfin-de-vrais-bras.html",
+    "pubDate": "2026-10-18T08:18:00.000Z",
+    "summary": "Le protocole commun MCP permet aux intelligences artificielles de se connecter directement aux logiciels du quotidien. Grâce à cette technologie, les assistants et chatbots accèdent facilement à des données variées et utilisent différents outils. Ce système facilite notamment la recherche de documents, la consultation d'agendas et la création de tâches.",
+    "keywords": [
+      "mcp",
+      "intelligence artificielle",
+      "protocole",
+      "logiciel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/8438944/pexels-photo-8438944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/a-person-playing-chess-8438944/"
+  },
+  {
+    "id": "b6b42c388f4c",
+    "title": "« Je pense qu’il faut refuser de dépendre de solutions américaines » : avec Arcadia, la France mise sur son IA de commandement pour échapper à l’Américain Palantir",
+    "source": "Numerama",
+    "category": "ia",
+    "url": "https://www.numerama.com/tech/2351643-je-pense-quil-faut-refuser-de-dependre-de-solutions-americaines-avec-arcadia-la-france-mise-sur-son-ia-de-commandement-pour-echapper-a-lamericain-palantir.html",
+    "pubDate": "2026-10-18T08:02:00.000Z",
+    "summary": "Le Commissariat au numérique de défense a dévoilé fin septembre le logiciel militaire Arcadia. Cet outil français intègre de l'intelligence artificielle pour le commandement des armées. Il vise à concurrencer la solution américaine Palantir déjà employée par l'OTAN.",
+    "keywords": [
+      "arcadia",
+      "palantir",
+      "intelligence artificielle",
+      "france",
+      "armee"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/8294620/pexels-photo-8294620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-8294620/"
+  },
+  {
+    "id": "a98bdd9ca59b",
+    "title": "Votre smartphone Honor a-t-il droit à MagicOS 11 (Android 17) ? Voici la liste des appareils compatibles et le calendrier",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/3289993_votre-smartphone-honor-aura-t-il-droit-a-magicos-11-android-17-voici-la-liste-des-appareils-compatibles-et-le-calendrier",
+    "pubDate": "2026-10-18T08:00:00.000Z",
+    "summary": "Le constructeur Honor a dévoilé le catalogue officiel de ses équipements mobiles éligibles à la mise à jour MagicOS 11. Cette nouvelle interface, qui fonctionnera sous Android 17, sera distribuée à l'international pour cinquante-six appareils. Le calendrier de diffusion de la version stable débutera en octobre 2026 pour s'achever en mars 2027.",
+    "keywords": [
+      "honor",
+      "magicos",
+      "android",
+      "smartphone",
+      "miseajour"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/336948/pexels-photo-336948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Terje Sollie",
+    "imagePage": "https://www.pexels.com/photo/selective-focus-photography-of-person-holding-iphone-displaying-white-screen-336948/"
+  },
+  {
+    "id": "382128eb5a0c",
+    "title": "NVIDIA dément l’arrêt des RTX 5090, mais confirme des stocks très limités",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634672-nvidia-dement-l-arret-des-rtx-5090-mais-confirme-des-stocks-tres-limites.html",
+    "pubDate": "2026-10-18T08:00:00.000Z",
+    "summary": "NVIDIA a récemment retiré sa carte graphique GeForce RTX 5090 de sa boutique officielle aux États-Unis. Le distributeur Micro Center a également suspendu la commercialisation de ce produit très attendu. Malgré ces perturbations, Jeff Fisher a confirmé que le modèle n'était pas abandonné tout en restant évasif sur les stocks.",
+    "keywords": [
+      "nvidia",
+      "rtx 5090",
+      "carte graphique",
+      "hardware",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/6019019/pexels-photo-6019019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Laura Musikanski",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-a-white-robot-6019019/"
+  },
+  {
+    "id": "8686bd106100",
+    "title": "À peine en précommande, l’iPhone Duo s’offre déjà 200€ de remboursement chez RED by SFR",
+    "source": "Clubic",
+    "category": "smartphones",
+    "url": "https://www.clubic.com/bons-plans-634612-a-peine-en-precommande-l-iphone-duo-s-offre-deja-200-de-remboursement-chez-red-by-sfr.html",
+    "pubDate": "2026-10-18T07:45:00.000Z",
+    "summary": "Le tout premier iPhone pliable d'Apple est officiellement ouvert aux précommandes depuis le 16 octobre dernier. Affiché au prix initial de 2 339 euros pour la version 256 Go, il profite déjà d'une offre promotionnelle. L'opérateur RED by SFR propose en effet un remboursement de 200 euros sous forme d'avoir sur facture avec un forfait sans engagement.",
+    "keywords": [
+      "iphone duo",
+      "apple",
+      "red by sfr",
+      "smartphone pliable",
+      "precommande"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/6388/apple-iphone-smartphone-technology.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Karolina Grabowska www.kaboompics.com",
+    "imagePage": "https://www.pexels.com/photo/closeup-view-of-white-smart-phone-connectors-details-6388/"
+  },
+  {
+    "id": "4ddf9d0a1afe",
+    "title": "Canal+ régale les sérivores et les cinéphiles avec une offre streaming à moins de 25 €/mois (et Frandroid offre 50 €)",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/bons-plans/3288191_canal-regale-les-serivores-et-les-cinephiles-avec-une-offre-streaming-a-moins-de-25-e-mois-et-frandroid-offre-50-e",
+    "pubDate": "2026-10-18T07:41:00.000Z",
+    "summary": "Canal+ propose une réduction importante sur son bouquet Ciné Séries. L'abonnement mensuel passe ainsi à un tarif inférieur à vingt-cinq euros. Cette offre promotionnelle reste valable jusqu'au neuf novembre deux mille vingt-six.",
+    "keywords": [
+      "canal+",
+      "streaming",
+      "cine series",
+      "abonnement",
+      "promotion"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/35088935/pexels-photo-35088935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Mukhtar Shuaib Mukhtar",
+    "imagePage": "https://www.pexels.com/photo/young-adult-using-vr-headset-in-modern-setting-35088935/"
+  },
+  {
+    "id": "ca3b919797ff",
+    "title": "Bornes de recharge : leur taux de disponibilité ne cesse de reculer en France",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634681-bornes-de-recharge-leur-taux-de-disponibilite-ne-cesse-de-reculer-en-france.html",
+    "pubDate": "2026-10-18T07:22:00.000Z",
+    "summary": "Les ventes de voitures électriques augmentent fortement en France. Malheureusement, les infrastructures de recharge peinent à suivre cette dynamique. De ce fait, le taux de disponibilité des bornes de recharge ne cesse de reculer.",
+    "keywords": [
+      "france",
+      "voiture electrique",
+      "borne de recharge",
+      "infrastructure"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/14553707/pexels-photo-14553707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Bibek ghosh",
+    "imagePage": "https://www.pexels.com/photo/programming-data-on-a-computer-14553707/"
+  },
+  {
+    "id": "67314a55c7f0",
+    "title": "Jusqu’à 1 500 € remboursés : comment fonctionne la garantie anti-cambriolage de Verisure [Sponso]",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/3274531_jusqua-1-500-e-rembourses-comment-fonctionne-la-garantie-anti-cambriolage-de-verisure",
+    "pubDate": "2026-10-18T07:16:00.000Z",
+    "summary": "L'entreprise Verisure propose une garantie anti-cambriolage avec remboursement des frais. Cette offre couvre jusqu'à 1 500 euros pour l'installation, la mise en service et l'abonnement. Les utilisateurs doivent suivre des conditions spécifiques pour pouvoir en bénéficier.",
+    "keywords": [
+      "verisure",
+      "alarme",
+      "cambriolage",
+      "remboursement",
+      "securite"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/11633570/pexels-photo-11633570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Alexey Demidov",
+    "imagePage": "https://www.pexels.com/photo/person-holding-a-mobile-phone-11633570/"
+  },
+  {
+    "id": "468abc5b9fa3",
+    "title": "Prix d’une alarme avec télésurveillance : combien ça coûte vraiment (et est-ce que ça vaut le coup) ? [Sponso]",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/alarmes-connectees/3228525_prix-dune-alarme-avec-telesurveillance-combien-ca-coute-vraiment-et-est-ce-que-ca-vaut-le-coup",
+    "pubDate": "2026-10-18T07:10:00.000Z",
+    "summary": "Verisure propose une solution de sécurité avec des frais d'installation initiaux et un abonnement mensuel. Cette formule comprend une surveillance humaine continue ainsi qu'une assistance technique permanente. À l'inverse, les kits connectés autonomes fonctionnent via un achat unique sans frais récurrents.",
+    "keywords": [
+      "verisure",
+      "alarme",
+      "télésurveillance",
+      "sécurité"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/8989465/pexels-photo-8989465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Artem Podrez",
+    "imagePage": "https://www.pexels.com/photo/a-person-holding-a-smartphone-8989465/"
+  },
+  {
+    "id": "65e6b0d22f24",
+    "title": "« Attaque par distillation » : des pirates volent des clés API pour entraîner une autre IA",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3290055_attaque-par-distillation-des-pirates-volent-des-cles-api-pour-entrainer-une-autre-ia",
+    "pubDate": "2026-10-18T07:04:47.000Z",
+    "summary": "L'agent de programmation OpenCode a subi une cyberattaque ce samedi 17 octobre ayant compromis des données sensibles. Des pirates ont dérobé les clés API de certains utilisateurs pour entraîner d'autres intelligences artificielles grâce à une technique de distillation. Des victimes constatent déjà des préjudices financiers s'élevant à plusieurs centaines de dollars.",
+    "keywords": [
+      "opencode",
+      "openai",
+      "anthropic",
+      "securite",
+      "ia"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/30547568/pexels-photo-30547568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/abstract-digital-circuitry-with-glowing-effects-30547568/"
+  },
+  {
+    "id": "3817579c7bb9",
+    "title": "Test Hyperion 3 Ultra : Nyxi a tout corrigé et c’est la meilleure alternative aux Joy-Con de la Switch 2",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/produits-android/console/3276047_test-de-la-nyxi-hyperion-3-ultra-la-fin-definitive-des-compromis-face-aux-joy-con-2-officiels-de-la-switch-2",
+    "pubDate": "2026-10-18T07:01:00.000Z",
+    "summary": "La marque Nyxi commercialise sa nouvelle manette haut de gamme nommée Hyperion 3 Ultra. Cet accessoire se positionne comme une alternative aux manettes de la console Nintendo Switch 2. Le modèle intègre des technologies avancées comme des sticks TMR et une puce NFC.",
+    "keywords": [
+      "nyxi",
+      "hyperion 3 ultra",
+      "nintendo switch 2",
+      "joy-con",
+      "gaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/15627242/pexels-photo-15627242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Chikkku Thekkekara",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-a-man-using-a-smartphone-15627242/"
+  },
+  {
+    "id": "13bffe5ffca5",
+    "title": "Toyota veut sauver nos voitures thermiques grâce à de l’essence renouvelable (VEEF)",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/actualite-634567-toyota-veut-sauver-nos-voitures-thermiques-grace-a-de-l-essence-renouvelable-veef.html",
+    "pubDate": "2026-10-18T06:59:00.000Z",
+    "summary": "Toyota continue de défendre la création d’une catégorie dédiée aux véhicules roulant exclusivement avec des carburants renouvelables. Baptisée VEEF, cette initiative entend accélérer la décarbonation…",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/5474290/pexels-photo-5474290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "cottonbro studio",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-5474290/"
+  },
+  {
+    "id": "72820c934bd1",
+    "title": "Samsung trouverait le dernier Snapdragon trop chaud pour son Galaxy S27 Ultra, Qualcomm parle d’informations « inexactes »",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/qualcomm/3290043_samsung-trouverait-le-dernier-snapdragon-trop-chaud-pour-son-galaxy-s27-ultra-qualcomm-parle-dinformations-inexactes",
+    "pubDate": "2026-10-18T06:58:38.000Z",
+    "summary": "Des rumeurs affirment que Samsung pourrait écarter le processeur Snapdragon de Qualcomm pour équiper son futur Galaxy S27 Ultra. L'entreprise sud-coréenne jugerait cette puce trop chaude selon la presse locale. De son côté, Qualcomm qualifie ces allégations de totalement inexactes.",
+    "keywords": [
+      "samsung",
+      "qualcomm",
+      "snapdragon",
+      "galaxy s27 ultra",
+      "smartphone"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/5253002/pexels-photo-5253002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Amarnath Radhakrishnan",
+    "imagePage": "https://www.pexels.com/photo/a-phone-s-user-interface-with-applications-5253002/"
+  },
+  {
+    "id": "56a9d2104e9b",
+    "title": "Le Mondial de Paris donne tort aux oiseaux de mauvais augure",
+    "source": "Numerama",
+    "category": "culture",
+    "url": "https://www.numerama.com/vroom/2355561-le-mondial-de-paris-donne-tort-aux-oiseaux-de-mauvais-augure.html",
+    "pubDate": "2026-10-18T06:33:00.000Z",
+    "summary": "Les salons automobiles étaient condamnés. L'électrique était un repoussoir. Et si on avait enterré les deux un peu trop vite ?",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/12944732/pexels-photo-12944732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Atlantic Ambience",
+    "imagePage": "https://www.pexels.com/photo/group-of-people-using-smart-phones-on-city-street-12944732/"
+  },
+  {
+    "id": "d0a8c86f11e7",
+    "title": "Codex fonce, Claude Code hésite, Gemini CLI dit non : YesWeHack fait un test qui en dit long sur les IA !",
+    "source": "Clubic",
+    "category": "ia",
+    "url": "https://www.clubic.com/actualite-634684-codex-fonce-claude-code-hesite-gemini-cli-dit-non-yeswehack-fait-un-test-qui-en-dit-long-sur-les-ia.html",
+    "pubDate": "2026-10-18T06:29:00.000Z",
+    "summary": "YesWeHack a confronté trois agents IA, Codex, Claude Code et Gemini CLI, à des failles de sécurité cachées. Chacun excelle sur un maillon précis du bug bounty, mais aucun ne gère la chaîne complète.",
+    "keywords": [],
+    "aiDone": false,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/30547574/pexels-photo-30547574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/abstract-digital-circuitry-art-with-led-glow-30547574/"
+  },
+  {
     "id": "5ffea1ce0ddf",
     "title": "Ventes Flash Amazon : les 20 offres tech du week-end qui valent vraiment le coup",
     "source": "Clubic",
@@ -16,7 +368,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/27427258/pexels-photo-27427258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Syirwan Ainu",
+    "imagePage": "https://www.pexels.com/photo/line-of-code-on-laptop-screen-27427258/"
   },
   {
     "id": "5689f03b6c16",
@@ -35,7 +390,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/10703759/pexels-photo-10703759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Akaaljotsingh Anandpuria",
+    "imagePage": "https://www.pexels.com/photo/men-utensils-on-table-10703759/"
   },
   {
     "id": "03b0334ed912",
@@ -54,7 +412,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/4114779/pexels-photo-4114779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Castorly Stock",
+    "imagePage": "https://www.pexels.com/photo/humorous-slogan-on-smartphone-4114779/"
   },
   {
     "id": "d4d8a21bd997",
@@ -72,7 +433,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8294658/pexels-photo-8294658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-in-blue-background-8294658/"
   },
   {
     "id": "63669a3458fe",
@@ -91,7 +455,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/11002709/pexels-photo-11002709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Camilo Rico",
+    "imagePage": "https://www.pexels.com/photo/a-smartphone-with-a-white-screen-11002709/"
   },
   {
     "id": "0dabc6c10b97",
@@ -109,7 +476,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/36606029/pexels-photo-36606029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "silas tarus",
+    "imagePage": "https://www.pexels.com/photo/advanced-robotic-delivery-systems-in-modern-space-36606029/"
   },
   {
     "id": "6435f671229b",
@@ -127,7 +497,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8439093/pexels-photo-8439093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/a-robot-holding-a-cup-8439093/"
   },
   {
     "id": "88574e91f2cd",
@@ -146,7 +519,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/19228377/pexels-photo-19228377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Vladimir Srajber",
+    "imagePage": "https://www.pexels.com/photo/children-during-gaming-event-19228377/"
   },
   {
     "id": "c5fd810fb700",
@@ -165,7 +541,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/30547575/pexels-photo-30547575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/futuristic-abstract-digital-structure-30547575/"
   },
   {
     "id": "a3a43c44bf2b",
@@ -184,7 +563,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/5417844/pexels-photo-5417844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Brett Jordan",
+    "imagePage": "https://www.pexels.com/photo/iphone-smartphone-app-i-os-5417844/"
   },
   {
     "id": "49d9610adbc9",
@@ -203,7 +585,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7495198/pexels-photo-7495198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Moe Magners",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-smartphone-7495198/"
   },
   {
     "id": "ca316ecfb0cf",
@@ -221,7 +606,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/347696/pexels-photo-347696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Torsten Dettlaff",
+    "imagePage": "https://www.pexels.com/photo/closeup-photo-of-black-iphone-7-347696/"
   },
   {
     "id": "6fadb6cacd0a",
@@ -239,7 +627,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/39969404/pexels-photo-39969404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Sinan KRIYA",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-wearable-device-on-black-t-shirt-39969404/"
   },
   {
     "id": "5970cf732f48",
@@ -258,7 +649,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pixabay",
+    "imagePage": "https://www.pexels.com/photo/computer-coding-270632/"
   },
   {
     "id": "e024c10806d8",
@@ -277,7 +671,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Daniil Komov",
+    "imagePage": "https://www.pexels.com/photo/reflection-in-a-laptop-screen-showing-code-34804011/"
   },
   {
     "id": "c27315ed4f31",
@@ -296,7 +693,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/16658257/pexels-photo-16658257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "상덕 박",
+    "imagePage": "https://www.pexels.com/photo/damaged-cellphone-lying-down-on-sunlit-asphalt-16658257/"
   },
   {
     "id": "aff678f90e83",
@@ -315,7 +715,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/9833532/pexels-photo-9833532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Anastasia  Shuraeva",
+    "imagePage": "https://www.pexels.com/photo/woman-playing-on-car-machine-9833532/"
   },
   {
     "id": "3d356e648c2b",
@@ -334,7 +737,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/18799047/pexels-photo-18799047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "igovar igovar",
+    "imagePage": "https://www.pexels.com/photo/person-in-a-robot-costume-18799047/"
   },
   {
     "id": "ee14da4f5d9a",
@@ -352,7 +758,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/215367/pexels-photo-215367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "thomas vanhaecht",
+    "imagePage": "https://www.pexels.com/photo/person-using-smartphone-shallow-focus-photography-215367/"
   },
   {
     "id": "6fdd62815dfe",
@@ -371,7 +780,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/34804007/pexels-photo-34804007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Daniil Komov",
+    "imagePage": "https://www.pexels.com/photo/working-on-code-with-laptop-indoors-34804007/"
   },
   {
     "id": "8fbb39707210",
@@ -390,7 +802,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/806835/pexels-photo-806835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Andrea Piacquadio",
+    "imagePage": "https://www.pexels.com/photo/woman-in-blue-floral-top-sitting-while-using-laptop-806835/"
   },
   {
     "id": "a203ee39407c",
@@ -408,7 +823,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pixabay",
+    "imagePage": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
   },
   {
     "id": "bbf73ffd9c5f",
@@ -426,7 +844,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8294665/pexels-photo-8294665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-on-blue-background-8294665/"
   },
   {
     "id": "1e744c77a547",
@@ -445,7 +866,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/9784250/pexels-photo-9784250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Ron Lach",
+    "imagePage": "https://www.pexels.com/photo/human-hand-touching-tablet-with-green-screen-9784250/"
   },
   {
     "id": "845da0bf45e5",
@@ -463,7 +887,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/1251903/pexels-photo-1251903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "LinkedIn Sales Navigator",
+    "imagePage": "https://www.pexels.com/photo/man-sitting-on-white-chair-pointing-on-tablet-screen-inside-room-1251903/"
   },
   {
     "id": "ed37f3f05816",
@@ -482,7 +909,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/18545013/pexels-photo-18545013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/a-red-glow-is-shown-in-this-image-18545013/"
   },
   {
     "id": "11b1691d0955",
@@ -500,7 +930,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7862417/pexels-photo-7862417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Alena Darmel",
+    "imagePage": "https://www.pexels.com/photo/a-person-holding-a-game-controller-7862417/"
   },
   {
     "id": "d768f46dc03f",
@@ -518,7 +951,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7886856/pexels-photo-7886856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Mikhail Nilov",
+    "imagePage": "https://www.pexels.com/photo/a-man-and-woman-playing-games-using-console-7886856/"
   },
   {
     "id": "8b5610c5da6d",
@@ -536,7 +972,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Noah Erickson",
+    "imagePage": "https://www.pexels.com/photo/turned-on-black-samsung-android-smartphone-displaying-clock-at-12-09-404280/"
   },
   {
     "id": "a2f528656b24",
@@ -555,7 +994,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/969462/pexels-photo-969462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "FOX ^.ᆽ.^= ∫",
+    "imagePage": "https://www.pexels.com/photo/person-holding-black-android-smartphone-with-black-case-969462/"
   },
   {
     "id": "c80e4bea39c7",
@@ -574,7 +1016,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/6745619/pexels-photo-6745619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "photoGraph",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-blue-painting-6745619/"
   },
   {
     "id": "0a93c9937ff2",
@@ -593,7 +1038,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/4968506/pexels-photo-4968506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "https://kaboompics.com/",
+    "imagePage": "https://www.pexels.com/photo/little-girl-holding-a-tablet-4968506/"
   },
   {
     "id": "989ecacf3086",
@@ -611,7 +1059,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/30547596/pexels-photo-30547596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/futuristic-digital-abstract-circuitry-design-30547596/"
   },
   {
     "id": "e47e96c0ca1c",
@@ -630,7 +1081,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/9833514/pexels-photo-9833514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Justin  Brian",
+    "imagePage": "https://www.pexels.com/photo/view-of-the-uhuru-park-in-nairobi-kenya-9833514/"
   },
   {
     "id": "14543b8fdaba",
@@ -649,7 +1103,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/6699295/pexels-photo-6699295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Gustavo Fring",
+    "imagePage": "https://www.pexels.com/photo/a-man-wearing-a-suit-typing-on-a-laptop-6699295/"
   },
   {
     "id": "eed5d4ce4905",
@@ -667,7 +1124,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/5437583/pexels-photo-5437583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Brett Jordan",
+    "imagePage": "https://www.pexels.com/photo/iphone-smartphone-app-i-os-5437583/"
   },
   {
     "id": "003abd729098",
@@ -686,7 +1146,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/9071492/pexels-photo-9071492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Yan Krukau",
+    "imagePage": "https://www.pexels.com/photo/a-group-of-men-having-fun-9071492/"
   },
   {
     "id": "c5c779ea3f4f",
@@ -705,7 +1168,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/5792979/pexels-photo-5792979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Laker",
+    "imagePage": "https://www.pexels.com/photo/serious-african-american-man-with-laptop-5792979/"
   },
   {
     "id": "9dd0c55f511b",
@@ -724,7 +1190,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/16229745/pexels-photo-16229745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Sanket  Mishra",
+    "imagePage": "https://www.pexels.com/photo/social-media-apps-on-smartphone-16229745/"
   },
   {
     "id": "20551826a285",
@@ -743,7 +1212,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/97899/pexels-photo-97899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Kaique Rocha",
+    "imagePage": "https://www.pexels.com/photo/person-holding-iphone-6-outdoor-97899/"
   },
   {
     "id": "6d8a28e07d1d",
@@ -762,7 +1234,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/4559527/pexels-photo-4559527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Ketut Subiyanto",
+    "imagePage": "https://www.pexels.com/photo/laptop-and-diary-on-table-in-garden-4559527/"
   },
   {
     "id": "12846b849b20",
@@ -780,7 +1255,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/38470189/pexels-photo-38470189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Emmanuel Rejuso",
+    "imagePage": "https://www.pexels.com/photo/minimalist-close-up-of-small-music-player-with-earbuds-38470189/"
   },
   {
     "id": "b45e2c42a8c4",
@@ -799,7 +1277,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/10816120/pexels-photo-10816120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Stanislav Kondratiev",
+    "imagePage": "https://www.pexels.com/photo/screen-with-code-10816120/"
   },
   {
     "id": "c092cfdc7385",
@@ -818,7 +1299,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/225767/pexels-photo-225767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Markus Spiske",
+    "imagePage": "https://www.pexels.com/photo/macbook-air-on-brown-wooden-table-225767/"
   },
   {
     "id": "5845b6019e13",
@@ -836,7 +1320,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/4114806/pexels-photo-4114806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Castorly Stock",
+    "imagePage": "https://www.pexels.com/photo/smart-phone-with-an-inspirational-quote-4114806/"
   },
   {
     "id": "92d266f68f08",
@@ -855,7 +1342,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8762788/pexels-photo-8762788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Kevin  Malik",
+    "imagePage": "https://www.pexels.com/photo/men-playing-games-8762788/"
   },
   {
     "id": "04b826a98262",
@@ -874,7 +1364,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/6406691/pexels-photo-6406691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Tranmautritam",
+    "imagePage": "https://www.pexels.com/photo/digital-wallet-app-on-smartphone-6406691/"
   },
   {
     "id": "08630b271a95",
@@ -893,7 +1386,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/228963/pexels-photo-228963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Beata Dudová",
+    "imagePage": "https://www.pexels.com/photo/person-playing-candy-crush-on-nokia-smartphone-228963/"
   },
   {
     "id": "9d7dd76c4b46",
@@ -912,7 +1408,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8294663/pexels-photo-8294663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-on-blue-and-pink-background-8294663/"
   },
   {
     "id": "43200af604f2",
@@ -931,7 +1430,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Tara Winstead",
+    "imagePage": "https://www.pexels.com/photo/robot-pointing-on-a-wall-8386440/"
   },
   {
     "id": "2821b9bca997",
@@ -950,7 +1452,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/3623360/pexels-photo-3623360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Torsten Dettlaff",
+    "imagePage": "https://www.pexels.com/photo/a-smartphone-in-close-up-view-3623360/"
   },
   {
     "id": "d8a739915740",
@@ -969,7 +1474,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7172094/pexels-photo-7172094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "MART  PRODUCTION",
+    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-7172094/"
   },
   {
     "id": "0908a66896e9",
@@ -988,7 +1496,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "RDNE Stock project",
+    "imagePage": "https://www.pexels.com/photo/friends-having-fun-playing-an-arcade-video-game-7915382/"
   },
   {
     "id": "8cade405ca1c",
@@ -1006,7 +1517,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Tara Winstead",
+    "imagePage": "https://www.pexels.com/photo/an-artificial-intelligence-illustration-on-the-wall-8849295/"
   },
   {
     "id": "4380ff33e33d",
@@ -1025,7 +1539,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/1181207/pexels-photo-1181207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Christina Morillo",
+    "imagePage": "https://www.pexels.com/photo/person-browsing-on-black-and-blue-laptop-computer-1181207/"
   },
   {
     "id": "8917a1c24181",
@@ -1044,7 +1561,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/163042/pokemon-pokemon-go-mobile-trends-smartphone-163042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pixabay",
+    "imagePage": "https://www.pexels.com/photo/pokemon-go-application-on-smartphone-screen-163042/"
   },
   {
     "id": "8aae31917670",
@@ -1063,7 +1583,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8763262/pexels-photo-8763262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Kevin  Malik",
+    "imagePage": "https://www.pexels.com/photo/man-using-device-8763262/"
   },
   {
     "id": "a57a95449253",
@@ -1081,7 +1604,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/8762801/pexels-photo-8762801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Kevin  Malik",
+    "imagePage": "https://www.pexels.com/photo/men-sitting-holding-games-controllers-8762801/"
   },
   {
     "id": "cf246b713d0e",
@@ -1100,7 +1626,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/39903142/pexels-photo-39903142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Andrey Matveev",
+    "imagePage": "https://www.pexels.com/photo/lineup-of-modern-smartphones-on-display-39903142/"
   },
   {
     "id": "411db8b07476",
@@ -1119,7 +1648,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/19805877/pexels-photo-19805877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Naboth Otieno",
+    "imagePage": "https://www.pexels.com/photo/man-working-with-computers-19805877/"
   },
   {
     "id": "addd0f9eebb0",
@@ -1138,7 +1670,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/7776175/pexels-photo-7776175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pavel Danilyuk",
+    "imagePage": "https://www.pexels.com/photo/men-playing-a-video-game-7776175/"
   },
   {
     "id": "8d10c48beb61",
@@ -1156,7 +1691,10 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/12537428/pexels-photo-12537428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Steve A Johnson",
+    "imagePage": "https://www.pexels.com/photo/a-blue-3d-computer-art-12537428/"
   },
   {
     "id": "0a946872f9a3",
@@ -1174,324 +1712,9 @@
     ],
     "aiDone": true,
     "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "75bcc93e535a",
-    "title": "Galaxy S27 Ultra : des bordures affinées, mais un bloc photo qui prend du ventre",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/3289957_galaxy-s27-ultra-des-bordures-affinees-mais-un-bloc-photo-qui-prend-du-ventre",
-    "pubDate": "2026-10-17T07:02:56.000Z",
-    "summary": "Le futur smartphone Galaxy S27 Ultra se distingue par des bordures d'écran nettement amincies. En contrepartie, le module photo arrière de l'appareil devient un peu plus épais. Ces fuites révèlent les premiers choix de conception pour ce modèle haut de gamme.",
-    "keywords": [
-      "galaxy s27 ultra",
-      "samsung",
-      "smartphone",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4ed62f4cefdb",
-    "title": "Galaxy S23, A57, A36… : ces 28 modèles peuvent passer à Samsung One UI 9",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/samsung/3289953_galaxy-s23-a57-a36-ces-28-modeles-peuvent-passer-a-samsung-one-ui-9",
-    "pubDate": "2026-10-17T06:50:18.000Z",
-    "summary": "Le constructeur Samsung déploie actuellement la mise à jour One UI 9 sur plusieurs de ses smartphones. Cette nouvelle version logicielle, conçue sur la base d'Android 17, concerne vingt-huit modèles différents. La liste des appareils éligibles intègre notamment les gammes Galaxy S et Galaxy A.",
-    "keywords": [
-      "samsung",
-      "one ui 9",
-      "android 17",
-      "galaxy s23",
-      "smartphone"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "05d9b6af772d",
-    "title": "À contre-courant des navigateurs dopés à l'IA, Opera Air fait le pari du minimalisme",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634615-a-contre-courant-des-navigateurs-dopes-a-l-ia-opera-air-fait-le-pari-du-minimalisme.html",
-    "pubDate": "2026-10-17T06:47:00.000Z",
-    "summary": "Le navigateur Opera Air vient de bénéficier d'une refonte majeure axée sur la sobriété. Cette mise à jour propose une interface épurée et des notifications désactivées par défaut. Le logiciel se démarque ainsi des tendances actuelles en misant sur le minimalisme.",
-    "keywords": [
-      "opera air",
-      "navigateur",
-      "minimalisme",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6d0f3cf6e1fc",
-    "title": "Premier iPhone pliable : Apple parle d’une demande « extraordinaire » mais garde ses chiffres pour lui",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3289947_premier-iphone-pliable-apple-parle-dune-demande-extraordinaire-mais-garde-ses-chiffres-pour-elle",
-    "pubDate": "2026-10-17T06:44:06.000Z",
-    "summary": "Apple enregistre une demande initiale jugée extraordinaire pour son tout premier iPhone pliable, nommé iPhone Duo. Les précommandes lancées ce vendredi ont rapidement engorgé le calendrier, repoussant les livraisons prévues à la fin du mois de janvier 2027. La multinationale américaine a toutefois choisi de ne pas communiquer les chiffres précis de ces ventes.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "iphone pliable",
-      "smartphone",
-      "precommande"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "d145325d9627",
-    "title": "Codes promos : Jusqu'à - 62 % de réduction pour équiper votre ordinateur avec ces logiciels Office et Windows",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-633538-codes-promos-jusqu-a---62-de-reduction-pour-equiper-votre-ordinateur-avec-ces-logiciels-office-et-windows.html",
-    "pubDate": "2026-10-17T06:30:00.000Z",
-    "summary": "Le site Keysfan propose des réductions importantes sur des logiciels informatiques cet automne. Les internautes peuvent ainsi économiser jusqu'à soixante-deux pour cent sur Windows et des suites bureautiques. Ces offres promotionnelles permettent d'équiper ou de mettre à niveau son ordinateur à moindre coût.",
-    "keywords": [
-      "keysfan",
-      "windows",
-      "logiciel",
-      "promotion",
-      "ordinateur"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "73a7e320de2d",
-    "title": "Rubis contre Rubis, le nouveau sous-marin nucléaire français va remplacer la génération dont il porte le nom",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634639-rubis-contre-rubis-le-nouveau-sous-marin-nucleaire-francais-va-remplacer-la-generation-dont-il-porte-le-nom.html",
-    "pubDate": "2026-10-17T06:16:00.000Z",
-    "summary": "Le sous-marin nucléaire d'attaque Rubis a entamé ses manœuvres de mise à l'eau à Cherbourg. Ce bâtiment de la classe Suffren constitue le cinquième exemplaire d'une série de six navires. Il est destiné à succéder aux unités de la génération précédente qui portent le même nom.",
-    "keywords": [
-      "rubis",
-      "sous-marin",
-      "naval group",
-      "defense",
-      "cherbourg"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6d87cec5feff",
-    "title": "Drones contre Yandex : les frappes ukrainiennes ont-elles vraiment paralysé les bots russes ?",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634519-drones-contre-yandex-les-frappes-ukrainiennes-ont-elles-vraiment-paralyse-les-bots-russes.html",
-    "pubDate": "2026-10-17T06:01:00.000Z",
-    "summary": "Des frappes de drones ukrainiens ont visé des centres de données appartenant à l'entreprise russe Yandex. Cette attaque a provoqué des perturbations notables sur le trafic en Russie. Cependant, l'ampleur exacte de la panne et son impact réel sur les services restent difficiles à confirmer.",
-    "keywords": [
-      "yandex",
-      "ukraine",
-      "russie",
-      "drones",
-      "cyberattaque"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "95e600bc700b",
-    "title": "Au Mondial de l’Auto, les voitures chinoises ne font plus peur : les visiteurs viennent pour acheter",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/vroom/2354115-au-mondial-de-lauto-les-voitures-chinoises-ne-font-plus-peur-les-visiteurs-viennent-pour-acheter.html",
-    "pubDate": "2026-10-17T05:45:00.000Z",
-    "summary": "Au Mondial de l'Auto de Paris, les constructeurs chinois BYD, Zeekr, XPeng et Denza attirent de nombreux visiteurs sur leurs stands. Le public montre un vif intérêt concret pour ces véhicules, évaluant attentivement leur habitabilité et leurs finitions. La perception de ces marques a évolué, les acheteurs potentiels se comportant désormais en clients prêts à investir.",
-    "keywords": [
-      "mondial de l'auto",
-      "voitures chinoises",
-      "byd",
-      "zeekr",
-      "paris"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "990dfbc78bd9",
-    "title": "IA : en Chine aussi, on commence à détecter des agents IA hors de contrôle",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/actualite-634627-ia-en-chine-aussi-on-commence-a-detecter-des-agents-ia-hors-de-controle.html",
-    "pubDate": "2026-10-17T05:42:00.000Z",
-    "summary": "Des inquiétudes émergent en Chine concernant l'utilisation croissante des agents dotés d'intelligence artificielle. Ces technologies affichent parfois des comportements imprévisibles et difficiles à maîtriser. Cette problématique liée au contrôle des IA se manifeste désormais à la fois aux États-Unis et en Chine.",
-    "keywords": [
-      "intelligence artificielle",
-      "chine",
-      "etats-unis",
-      "agents ia"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6e465bba1970",
-    "title": "Huawei Watch 6 Pro : cette nouvelle montre connectée ultra-premium compatible eSIM s’allège déjà de 50 €",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/bons-plans/3287093_huawei-watch-6-pro-cette-nouvelle-montre-connectee-ultra-premium-compatible-esim-sallege-deja-de-50-e",
-    "pubDate": "2026-10-17T05:32:00.000Z",
-    "summary": "La montre connectée Huawei Watch 6 Pro bénéficie déjà d'une réduction de 50 euros sur le marché. Ce modèle haut de gamme intègre une compatibilité eSIM ainsi qu'un suivi complet de la santé. La version 43 millimètres de cet appareil ultra-premium est ainsi proposée à 629,99 euros.",
-    "keywords": [
-      "huawei",
-      "huawei watch 6 pro",
-      "montre connectee",
-      "esim",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6c6976a0cf20",
-    "title": "Bouclier thermique d’Artémis II, premier (et dernier) vol de la fusée réutilisable japonaise, récupération du Starship – le récap’ sciences de la semaine",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/sciences/2355149-bouclier-thermique-dartemis-ii-premier-et-dernier-vol-de-la-fusee-reutilisable-japonaise-recuperation-du-starship-le-recap-sciences-de-la-semaine.html",
-    "pubDate": "2026-10-17T05:10:00.000Z",
-    "summary": "Le bouclier thermique de la mission spatiale Artémis II présente des dommages minimes après son évaluation. La fusée réutilisable japonaise a effectué avec succès son premier et ultime vol d'essai. Enfin, l'entreprise SpaceX ambitionne de réussir la récupération intégrale de son lanceur Starship.",
-    "keywords": [
-      "artemis ii",
-      "spacex",
-      "starship",
-      "japon",
-      "fusee"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ee6f53a9b37a",
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "pubDate": "2026-10-17T02:36:18.000Z",
-    "summary": "Mark Wahlberg lance une nouvelle enseigne de fitness abordable pour concurrencer les startups de la longévité. L'acteur américain propose des services de santé et de bien-être à des tarifs accessibles sans nécessiter de grandes fortunes. Les clients pourront ainsi bénéficier de bains froids, de bilans sanguins et de collations protéinées.",
-    "keywords": [
-      "mark wahlberg",
-      "fitness",
-      "sante",
-      "longevite",
-      "gym"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "18f9fd010555",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "pubDate": "2026-10-16T21:22:28.000Z",
-    "summary": "L'entreprise Replit a mis un terme à sa collaboration avec la firme Anthropic. Le directeur général Amjad Masad a invoqué plusieurs motifs pour justifier ce choix, notamment les coûts financiers. Cette décision intervient quelques mois après l'annonce d'un partenariat entre Replit et OpenAI.",
-    "keywords": [
-      "replit",
-      "anthropic",
-      "openai",
-      "intelligence artificielle"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "8e38105a14b5",
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "source": "TechCrunch",
-    "category": "logiciels",
-    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-    "pubDate": "2026-10-16T19:40:00.000Z",
-    "summary": "Le nouveau SUV Macan Turbo tout électrique de Porsche laisse les automobilistes et les passionnés totalement indifférents sur la route. Lors d'essais en milieu urbain et suburbain, ce véhicule n'a suscité aucune curiosité ni admiration particulière. Cette réception mitigée soulève des questions sur l'identité et l'attrait de ce modèle à motorisation électrique.",
-    "keywords": [
-      "porsche",
-      "macan turbo",
-      "electrique",
-      "suv",
-      "automobile"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "6fc07726a603",
-    "title": "« J’ai été idiot d’avoir fait ça » : Sylverster Stallone a beaucoup de regrets sur sa carrière",
-    "source": "Numerama",
-    "category": "ia",
-    "url": "https://www.numerama.com/pop-culture/2355311-jai-ete-idiot-davoir-fait-ca-sylverster-stallone-a-beaucoup-de-regrets-sur-sa-carriere.html",
-    "pubDate": "2026-10-16T19:15:00.000Z",
-    "summary": "À l'âge de 80 ans, l'acteur Sylvester Stallone exprime de profonds regrets concernant ses choix de carrière passés. L'interprète des célèbres sagas Rocky et Rambo déplore les risques inconsidérés pris pour ses cascades. Ses nombreux traumatismes physiques l'ont contraint à subir de multiples interventions chirurgicales.",
-    "keywords": [
-      "sylvester stallone",
-      "rocky",
-      "rambo",
-      "cinema",
-      "cascade"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b10bb98a8db7",
-    "title": "J’ai remplacé ChatGPT par une IA chinoise gratuite : 11h de vol sans Internet avec un PC Nvidia RTX Spark",
-    "source": "Frandroid",
-    "category": "ia",
-    "url": "https://www.frandroid.com/marques/nvidia/3286605_jai-remplace-chatgpt-par-une-ia-chinoise-gratuite-11h-de-vol-sans-internet-avec-un-pc-nvidia-rtx-spark",
-    "pubDate": "2026-10-16T19:01:00.000Z",
-    "summary": "Un journaliste a testé une intelligence artificielle chinoise fonctionnant en local sur un ordinateur portable Nvidia RTX Spark lors d'un vol long-courrier sans connexion Internet. Cette solution gratuite s'est montrée efficace pour répondre à des questions de base, mais elle ne remplace pas encore totalement ChatGPT au quotidien. L'autonomie de la batterie reste également un facteur limitant important lors de ce type d'utilisation intensive.",
-    "keywords": [
-      "nvidia",
-      "rtx spark",
-      "intelligence artificielle",
-      "chatgpt"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "c74e5a79a0e1",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "source": "TechCrunch",
-    "category": "ia",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "pubDate": "2026-10-16T17:52:24.000Z",
-    "summary": "L'Inde fait face à de nouvelles activités liées à des agents d'intelligence artificielle malveillants. Ces programmes autonomes ont exploité des identifiants et des paramètres de connexion laissés vulnérables. Les failles provenaient notamment de configurations d'applications et de répertoires de code publics.",
-    "keywords": [
-      "inde",
-      "intelligence artificielle",
-      "securite informatique",
-      "agent autonome",
-      "cloud"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
+    "also": [],
+    "image": "https://images.pexels.com/photos/34803998/pexels-photo-34803998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Daniil Komov",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-computer-screen-with-code-and-reflection-34803998/"
   }
 ]
