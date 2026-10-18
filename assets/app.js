@@ -489,7 +489,8 @@
       loadJson(C.ARTICLES_URL && C.ARTICLES_URL.replace('articles.json', 'meta.json'), 'data/meta.json'),
     ]);
     const list = cleanArticles(arts);
-    const changed = JSON.stringify(list.map((a) => a.id)) !== JSON.stringify(ARTICLES.map((a) => a.id));
+    const sig = (l) => JSON.stringify(l.map((a) => [a.id, a.aiDone ? 1 : 0, a.image || '', a.coverage || 1]));
+    const changed = sig(list) !== sig(ARTICLES);
     WEEKLY = weekly && weekly.title ? weekly : WEEKLY;
     META = meta || META;
     if (list.length || first) ARTICLES = list.length ? list : ARTICLES;
@@ -500,12 +501,29 @@
     } else renderRefreshNote();
   }
 
+  let lastRefresh = Date.now();
+  const softRefresh = (minGapMs) => {
+    if (document.hidden || $('.modal-overlay.open') || Date.now() - lastRefresh < minGapMs) return;
+    lastRefresh = Date.now();
+    refresh(false).catch(() => {});
+  };
   refresh(true);
-  setInterval(() => { if (!document.hidden && !$('.modal-overlay.open')) refresh(false); }, 10 * 60 * 1000);
+  setInterval(() => softRefresh(0), 5 * 60 * 1000);
+  // L'application installée reste en mémoire : on actualise dès qu'on y revient.
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) { softRefresh(60 * 1000); navigator.serviceWorker?.getRegistration().then((r) => r && r.update()).catch(() => {}); } });
+  addEventListener('pageshow', (e) => { if (e.persisted) softRefresh(30 * 1000); });
   setInterval(renderRefreshNote, 60 * 1000);
 
   /* ---------- Service worker (PWA) ---------- */
   if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+    const hadController = !!navigator.serviceWorker.controller;
+    let reloaded = false;
+    // Nouvelle version de l'application disponible : on recharge une fois pour l'appliquer.
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!hadController || reloaded) return;
+      reloaded = true;
+      if (!$('.modal-overlay.open')) location.reload();
+    });
     addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
   }
 })();

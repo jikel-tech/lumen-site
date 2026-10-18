@@ -1,7 +1,7 @@
 /* Service worker LUMen : site installable (PWA) + lecture hors ligne de la dernière version vue.
    Il inclut aussi le worker OneSignal pour les notifications push (sans effet tant que OneSignal n'est pas configuré).
    Pense à changer VERSION quand tu modifies index.html, app.js ou style.css pour forcer la mise à jour du cache. */
-const VERSION = 'lumen-v4';
+const VERSION = 'lumen-v5';
 const SHELL = [
   './', 'index.html', 'manifest.json',
   'assets/style.css', 'assets/app.js', 'assets/config.js',
@@ -40,7 +40,17 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // Le reste : cache immédiat + mise à jour en arrière-plan
+  // Code du site (JS, CSS, JSON) : réseau d'abord, pour que l'application installée soit toujours à jour
+  if (/\.(js|css|json)$/.test(url.pathname)) {
+    event.respondWith(
+      fetch(req)
+        .then((res) => { if (res.ok) { const copy = res.clone(); caches.open(VERSION).then((c) => c.put(req, copy)); } return res; })
+        .catch(() => caches.match(req))
+    );
+    return;
+  }
+
+  // Le reste (icônes, visuels) : cache immédiat + mise à jour en arrière-plan
   event.respondWith(
     caches.match(req).then((cached) => {
       const network = fetch(req)
