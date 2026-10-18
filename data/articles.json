@@ -1,5 +1,156 @@
 [
   {
+    "id": "0716d882492d",
+    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+    "pubDate": "2026-10-18T21:00:00.000Z",
+    "summary": "Le célèbre fonds d'investissement Benchmark conserve son identité et sa structure malgré l'évolution du marché technologique. Ses cinq associés continuent de gérer l'une des entreprises les plus emblématiques de la Silicon Valley. Cette stabilité témoigne d'une approche patiente et réfléchie face aux fluctuations du secteur.",
+    "keywords": [
+      "benchmark",
+      "silicon valley",
+      "investissement",
+      "fonds"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/34804024/pexels-photo-34804024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Daniil Komov",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-computer-screen-with-code-34804024/"
+  },
+  {
+    "id": "e55c6f1628a8",
+    "title": "Samsung voudrait tout changer avec One UI 10, à commencer par le Galaxy Z Fold 9",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/marques/samsung/3290067_samsung-voudrait-tout-changer-avec-one-ui-10-a-commencer-par-le-galaxy-z-fold-9",
+    "pubDate": "2026-10-18T20:53:21.000Z",
+    "summary": "Le géant technologique Samsung envisage une refonte majeure de son interface logicielle avec le déploiement de One UI 10. Cette transformation significative pourrait être inaugurée sur le smartphone pliable Galaxy Z Fold 9. Le lancement de cette nouvelle version est anticipé entre la fin de l'année 2027 et le début de l'année 2028.",
+    "keywords": [
+      "samsung",
+      "one ui 10",
+      "galaxy z fold 9",
+      "smartphone",
+      "interface"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/8554617/pexels-photo-8554617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Liliana Drew",
+    "imagePage": "https://www.pexels.com/photo/close-up-photo-of-a-person-holding-cellphone-8554617/"
+  },
+  {
+    "id": "453d6ddb6cea",
+    "title": "Nvidia jure que la RTX 5090 n’est pas arrêtée, juste rationnée",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/marques/nvidia/3290057_nvidia-jure-que-la-rtx-5090-nest-pas-arretee-juste-rationnee",
+    "pubDate": "2026-10-18T20:47:10.000Z",
+    "summary": "Le vice-président senior de Nvidia, Jeff Fisher, a affirmé à Taipei que la carte graphique RTX 5090 n'est pas abandonnée. Il a toutefois admis que la chaîne d'approvisionnement actuelle ne parvient pas à répondre à la demande. Cette clarification intervient après la disparition soudaine du produit de la boutique en ligne américaine de la marque.",
+    "keywords": [
+      "nvidia",
+      "rtx 5090",
+      "carte graphique",
+      "jeff fisher",
+      "technologie"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/18545017/pexels-photo-18545017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/a-red-glowing-light-is-shown-in-the-dark-18545017/"
+  },
+  {
+    "id": "70b36bacef79",
+    "title": "Google TV lent et envahi par les pubs : le projet tv-vibehack corrige tout ça grâce à l’IA, j’ai tenté l’expérience",
+    "source": "Frandroid",
+    "category": "ia",
+    "url": "https://www.frandroid.com/android/google-tv/3290159_google-tv-lent-et-envahi-par-les-pubs-le-projet-tv-vibehack-corrige-tout-ca-grace-a-lia-jai-tente-lexperience",
+    "pubDate": "2026-10-18T20:43:09.000Z",
+    "summary": "Un nouveau projet open source permet de transformer l'interface des téléviseurs équipés de Google TV en quelques minutes. Cette solution utilise l'intelligence artificielle pour éliminer les publicités intempestives et fluidifier la navigation. L'expérience s'inspire du design épuré d'Apple TV, mais nécessite de solides compétences techniques pour être mise en place.",
+    "keywords": [
+      "google tv",
+      "intelligence artificielle",
+      "github",
+      "apple tv",
+      "philips"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/30547596/pexels-photo-30547596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Pachon in Motion",
+    "imagePage": "https://www.pexels.com/photo/futuristic-digital-abstract-circuitry-design-30547596/"
+  },
+  {
+    "id": "efeb3746fdd3",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "source": "TechCrunch",
+    "category": "ia",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "pubDate": "2026-10-18T20:37:40.000Z",
+    "summary": "L'entreprise Anthropic a annoncé le transfert d'une part importante de ses actions. Cinq pour cent de son capital seront ainsi versés dans un fonds d'utilité publique. Cette initiative vise à encadrer le développement responsable de ses activités technologiques.",
+    "keywords": [
+      "anthropic",
+      "intelligence artificielle",
+      "actions",
+      "fonds"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/6745619/pexels-photo-6745619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "photoGraph",
+    "imagePage": "https://www.pexels.com/photo/close-up-of-blue-painting-6745619/"
+  },
+  {
+    "id": "a650f3dc245b",
+    "title": "Super Nt+ et Mega Sg+ : Analogue relance ses consoles Super Nintendo et Mega Drive, sans fil cette fois",
+    "source": "Frandroid",
+    "category": "culture",
+    "url": "https://www.frandroid.com/produits-android/console/console-de-jeux/3289995_super-nt-et-mega-sg-analogue-relance-ses-consoles-super-nintendo-et-mega-drive-sans-fil-cette-fois",
+    "pubDate": "2026-10-18T20:15:01.000Z",
+    "summary": "Le fabricant Analogue commercialise de nouveau ses célèbres machines rétro de salon sous les noms de Super Nt+ et Mega Sg+. Ces appareils basés sur la technologie FPGA permettent de relancer les anciennes cartouches de jeux vidéo. Chaque modèle est proposé au tarif de 219,99 dollars sans inclure les taxes.",
+    "keywords": [
+      "analogue",
+      "super nt",
+      "mega sg",
+      "fpga",
+      "retro gaming"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/8885050/pexels-photo-8885050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "MART  PRODUCTION",
+    "imagePage": "https://www.pexels.com/photo/group-of-friends-playing-arcade-games-together-8885050/"
+  },
+  {
+    "id": "c40f00a6be8b",
+    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+    "pubDate": "2026-10-18T19:03:38.000Z",
+    "summary": "Le film documentaire You Can See Everything connaît un succès fulgurant lors de sa sortie. Il réalise le deuxième meilleur week-end de lancement de l'histoire pour un documentaire. Cette œuvre met en scène l'histoire d'Elizabeth Holmes et attire un public très large.",
+    "keywords": [
+      "elizabeth holmes",
+      "you can see everything",
+      "documentaire",
+      "cinema"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/36571389/pexels-photo-36571389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "César Gaviria",
+    "imagePage": "https://www.pexels.com/photo/html-code-on-computer-screen-in-dark-mode-36571389/"
+  },
+  {
     "id": "1f95e8c3a03c",
     "title": "Test de la Boox Note Air6 C : le meilleur bloc-notes numérique sous Android ?",
     "source": "Frandroid",
@@ -1585,154 +1736,5 @@
     "image": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "imageBy": "Pixabay",
     "imagePage": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
-  },
-  {
-    "id": "bbf73ffd9c5f",
-    "title": "L'aspirateur robot Lefant M210P repasse sous les 90 € chez Amazon",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/bons-plans-634603-l-aspirateur-robot-lefant-m210p-repasse-sous-les-90-chez-amazon.html",
-    "pubDate": "2026-10-17T15:08:00.000Z",
-    "summary": "Amazon propose actuellement l'aspirateur robot Lefant M210P à un tarif inférieur à 90 euros. Cet appareil au design plat de couleur champagne convient particulièrement à l'entretien quotidien des sols lisses. Toutefois, son test révèle l'absence de brosse centrale et de système de cartographie.",
-    "keywords": [
-      "lefant",
-      "aspirateur robot",
-      "amazon",
-      "maison connectee"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/8294665/pexels-photo-8294665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Pavel Danilyuk",
-    "imagePage": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-on-blue-background-8294665/"
-  },
-  {
-    "id": "1e744c77a547",
-    "title": "Les meilleurs films à montrer aux enfants pour Halloween en 2026",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2351709-les-meilleurs-films-a-montrer-aux-enfants-pour-halloween-en-2026.html",
-    "pubDate": "2026-10-17T15:01:00.000Z",
-    "summary": "Halloween approche et soulève la question des films adaptés aux plus jeunes. Les parents cherchent des alternatives effrayantes mais non traumatisantes pour les enfants. L'article propose de visionner des productions familiales idéales pour cette période d'octobre 2026.",
-    "keywords": [
-      "halloween",
-      "cinema",
-      "enfants",
-      "disney",
-      "ghibli"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/9784250/pexels-photo-9784250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Ron Lach",
-    "imagePage": "https://www.pexels.com/photo/human-hand-touching-tablet-with-green-screen-9784250/"
-  },
-  {
-    "id": "845da0bf45e5",
-    "title": "DLSS 5 : la mise à jour d'octobre le rend 30 % plus plus rapide et moins gourmand en VRAM",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634660-dlss-5-la-mise-a-jour-d-octobre-le-rend-30-plus-plus-rapide-et-moins-gourmand-en-vram.html",
-    "pubDate": "2026-10-17T14:36:00.000Z",
-    "summary": "NVIDIA déploie une mise à jour majeure pour la technologie DLSS 5. Cette nouvelle version améliore la vitesse de traitement de trente pour cent. Elle permet également de diminuer l'utilisation de la mémoire vidéo.",
-    "keywords": [
-      "nvidia",
-      "dlss",
-      "gpu",
-      "technologie"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/1251903/pexels-photo-1251903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "LinkedIn Sales Navigator",
-    "imagePage": "https://www.pexels.com/photo/man-sitting-on-white-chair-pointing-on-tablet-screen-inside-room-1251903/"
-  },
-  {
-    "id": "ed37f3f05816",
-    "title": "L’IA promet de transformer vos films et séries : verrez-vous vraiment la différence ?",
-    "source": "Clubic",
-    "category": "ia",
-    "url": "https://www.clubic.com/dossier-634543-l-ia-promet-de-transformer-vos-films-et-series-verrez-vous-vraiment-la-difference.html",
-    "pubDate": "2026-10-17T14:11:00.000Z",
-    "summary": "Les studios de cinéma intègrent l'intelligence artificielle pour réduire les coûts des effets visuels et modifier les scènes. Cette technologie permet notamment de rajeunir les comédiens et d'ajuster les décors à l'écran. Toutefois, la valeur ajoutée réelle pour les spectateurs reste encore difficile à percevoir.",
-    "keywords": [
-      "intelligence artificielle",
-      "cinema",
-      "effets visuels",
-      "studios",
-      "films"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/18545013/pexels-photo-18545013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Pachon in Motion",
-    "imagePage": "https://www.pexels.com/photo/a-red-glow-is-shown-in-this-image-18545013/"
-  },
-  {
-    "id": "11b1691d0955",
-    "title": "Prime Video : livraison de sueur froide avec le top des films d’horreur pour Halloween 2026",
-    "source": "Numerama",
-    "category": "culture",
-    "url": "https://www.numerama.com/pop-culture/2354087-prime-video-livraison-de-sueur-froide-avec-le-top-des-films-dhorreur-pour-halloween-2026.html",
-    "pubDate": "2026-10-17T13:31:00.000Z",
-    "summary": "Prime Video propose une sélection de films d'horreur pour célébrer Halloween 2026. La plateforme de streaming facilite le choix des utilisateurs face à son catalogue d'épouvante. Ce classement thématique permet de trouver rapidement un programme terrifiant.",
-    "keywords": [
-      "prime video",
-      "halloween",
-      "film d'horreur",
-      "streaming"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/7862417/pexels-photo-7862417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Alena Darmel",
-    "imagePage": "https://www.pexels.com/photo/a-person-holding-a-game-controller-7862417/"
-  },
-  {
-    "id": "d768f46dc03f",
-    "title": "Steam revoit son système de succès : voici ce qui va changer pour les joueurs",
-    "source": "Clubic",
-    "category": "culture",
-    "url": "https://www.clubic.com/actualite-634654-steam-revoit-son-systeme-de-succes-voici-ce-qui-va-changer-pour-les-joueurs.html",
-    "pubDate": "2026-10-17T13:30:00.000Z",
-    "summary": "La plateforme Steam expérimente actuellement une modification de son organisation des succès en jeu. Cette nouveauté vise à préserver les récompenses acquises malgré l'arrivée de contenus additionnels. Les utilisateurs pourront ainsi gérer plus facilement la progression de leurs trophées.",
-    "keywords": [
-      "steam",
-      "succes",
-      "jeux video",
-      "actualite tech"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/7886856/pexels-photo-7886856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Mikhail Nilov",
-    "imagePage": "https://www.pexels.com/photo/a-man-and-woman-playing-games-using-console-7886856/"
-  },
-  {
-    "id": "8b5610c5da6d",
-    "title": "Une caméra connectée est-elle vraiment efficace contre les cambriolages ? [Sponso]",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/3210979_une-camera-connectee-est-elle-vraiment-efficace-contre-les-cambriolages",
-    "pubDate": "2026-10-17T13:18:00.000Z",
-    "summary": "De nombreux foyers s'interrogent sur l'utilité réelle des caméras connectées pour contrer les intrusions. Une caméra de surveillance simple peut répondre à certains besoins spécifiques de sécurité domestique. Pour une protection optimale, il est parfois préférable d'opter pour un écosystème d'appareils plus complet.",
-    "keywords": [
-      "caméra connectée",
-      "cambriolage",
-      "sécurité",
-      "maison"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Noah Erickson",
-    "imagePage": "https://www.pexels.com/photo/turned-on-black-samsung-android-smartphone-displaying-clock-at-12-09-404280/"
   }
 ]
