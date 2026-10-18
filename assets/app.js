@@ -94,7 +94,10 @@
   }
 
   /* ---------- Gabarits ---------- */
-  const thumb = (a) => `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}"></span>`;
+  const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
+  const thumb = (a) => photoOk(a.image)
+    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="Photo d’illustration : ${esc(a.imageBy)} / Pexels"` : ''}></span>`
+    : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}"></span>`;
   const kicker = (a) => `<span class="kicker${a.category === 'afrique' ? ' k-afrique' : ''}">${esc(catLabel(a.category))}</span>`;
   const cov = (a) => ((a.coverage || 1) > 1 ? `<span class="badge-cov" title="Sujet couvert par plusieurs sources">${a.coverage} sources</span>` : '');
   const metaLine = (a) => `<div class="meta-line"><span>${esc(a.source)}</span><span>${esc(timeAgo(a.pubDate))}</span>${cov(a)}</div>`;

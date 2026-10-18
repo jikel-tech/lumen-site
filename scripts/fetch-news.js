@@ -12,6 +12,7 @@ import { createHash } from 'node:crypto';
 import { mkdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { ROOT, DATA, readJson, writeJson, safeUrl, gemini } from './lib.js';
+import { attachPhotos } from './pexels.js';
 
 const FEEDS_PATH = process.env.FEEDS_PATH || path.join(ROOT, 'scripts', 'feeds.json');
 const PER_FEED = 15; // articles retenus par flux à chaque passage
@@ -336,6 +337,7 @@ async function main() {
       summary: prev?.summary || it.excerpt,
       keywords: prev?.keywords || [],
       aiDone: !!prev?.aiDone,
+      image: prev?.image, imageBy: prev?.imageBy, imagePage: prev?.imagePage,
     };
   });
   const freshIds = new Set(fresh.map((a) => a.id));
@@ -375,9 +377,13 @@ async function main() {
     console.log(`🤖 ${done}/${todo.length} résumés IA générés`);
   }
 
+  // 3b. Photos d'illustration Pexels (facultatif, sans effet sans clé)
+  try { await attachPhotos(merged); } catch (err) { console.error('📷 Photos ignorées :', err.message); }
+
   // 4. Sortie propre (sans champs internes)
-  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, aiDone, coverage, also }) => ({
+  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, aiDone, coverage, also, image, imageBy, imagePage }) => ({
     id, title, source, category, url, pubDate, summary, keywords, aiDone, coverage, also,
+    ...(image ? { image, imageBy, imagePage } : {}),
   }));
 
   const changed = JSON.stringify(out) !== JSON.stringify(previous);

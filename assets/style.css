@@ -80,6 +80,7 @@ main.wrap{padding-top:32px; padding-bottom:40px;}
 
 /* ---------- Visuels par catégorie ---------- */
 .thumb{display:block; width:100%; aspect-ratio:16/9; background:#0F1511 url('categories/default.svg') center/cover no-repeat; border-radius:var(--radius);}
+.thumb.has-photo{background-size:cover; background-position:center;}
 .thumb.cat-smartphones{background-image:url('categories/smartphones.svg');}
 .thumb.cat-ia{background-image:url('categories/ia.svg');}
 .thumb.cat-logiciels{background-image:url('categories/logiciels.svg');}
