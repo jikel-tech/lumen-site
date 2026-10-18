@@ -11,7 +11,7 @@ window.LUMEN = {
 
   // Google Analytics 4 — remplace par ton ID de mesure (format G-XXXXXXXXXX). Tant que c'est le
   // placeholder, aucun script Google Analytics n'est chargé.
-  GA_ID: 'G-XXXXXXXXXX',
+  GA_ID: 'G-VCB11QH2MV',
 
   // Notifications push (OneSignal) — colle ton App ID. Vide = le bouton cloche reste caché.
   ONESIGNAL_APP_ID: '',
