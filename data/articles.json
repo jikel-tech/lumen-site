@@ -1,5 +1,27 @@
 [
   {
+    "id": "f0ee04a215d1",
+    "title": "Votre Plex mine de la crypto Monero à votre insu : voici comment c’est possible",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/culture-tech/securite-applications/3290191_votre-plex-mine-de-la-crypto-monero-a-votre-insu-voici-comment-cest-possible",
+    "pubDate": "2026-10-18T21:30:44.000Z",
+    "summary": "Des pirates informatiques exploitent quatre vulnérabilités cumulées du logiciel Plex pour compromettre des serveurs multimédias. Le code d'attaque est disponible en ligne depuis le vendredi 16 octobre. Cette faille permet d'installer discrètement un programme de minage de cryptomonnaie Monero à l'insu des utilisateurs.",
+    "keywords": [
+      "plex",
+      "monero",
+      "cryptomonnaie",
+      "cybersecurite",
+      "piratage"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/7411941/pexels-photo-7411941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Monstera Production",
+    "imagePage": "https://www.pexels.com/photo/person-holding-a-black-smartphone-7411941/"
+  },
+  {
     "id": "0716d882492d",
     "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
     "source": "TechCrunch",
@@ -1715,26 +1737,5 @@
     "image": "https://images.pexels.com/photos/806835/pexels-photo-806835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "imageBy": "Andrea Piacquadio",
     "imagePage": "https://www.pexels.com/photo/woman-in-blue-floral-top-sitting-while-using-laptop-806835/"
-  },
-  {
-    "id": "a203ee39407c",
-    "title": "L'ID. Buzz aura droit à une deuxième génération et Volkswagen veut corriger son principal défaut",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634666-l-id-buzz-aura-droit-a-une-deuxieme-generation-et-volkswagen-veut-corriger-son-principal-defaut.html",
-    "pubDate": "2026-10-17T15:15:00.000Z",
-    "summary": "Volkswagen prépare activement une deuxième génération de son célèbre van électrique ID. Buzz. Le patron de la marque, Thomas Schäfer, a officialisé cette nouveauté lors du Mondial de l'Auto de Paris. Le futur modèle intègrera une nouvelle plateforme et des batteries plus abordables pour réduire son prix.",
-    "keywords": [
-      "volkswagen",
-      "id. buzz",
-      "voiture electrique",
-      "mondial de l'auto"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Pixabay",
-    "imagePage": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
   }
 ]
