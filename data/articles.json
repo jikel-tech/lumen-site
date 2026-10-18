@@ -1,5 +1,62 @@
 [
   {
+    "id": "5ffea1ce0ddf",
+    "title": "Ventes Flash Amazon : les 20 offres tech du week-end qui valent vraiment le coup",
+    "source": "Clubic",
+    "category": "logiciels",
+    "url": "https://www.clubic.com/bons-plans-634591-ventes-flash-amazon-les-prix-baissent-vraiment-ce-week-end-voici-notre-tri-en-20-offres-tech.html",
+    "pubDate": "2026-10-18T06:00:00.000Z",
+    "summary": "Amazon lance un week-end de ventes flash sur une sélection de vingt produits high-tech et gaming. Les réductions concernent notamment la maison connectée, les PC portables et les consoles de jeux. Des marques comme Roborock, Ecovacs et SteelSeries font partie de cette sélection promotionnelle.",
+    "keywords": [
+      "amazon",
+      "ventes flash",
+      "roborock",
+      "ecovacs",
+      "steelseries"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5689f03b6c16",
+    "title": "Xbox Nano officielle : la nouvelle manette de poche qui veut séduire les gamers",
+    "source": "Clubic",
+    "category": "culture",
+    "url": "https://www.clubic.com/actualite-634528-xbox-nano-officielle-la-nouvelle-manette-de-poche-qui-veut-seduire-les-gamers.html",
+    "pubDate": "2026-10-18T05:58:00.000Z",
+    "summary": "Microsoft annonce la manette Xbox Nano sans fil et rechargeable. Cet accessoire compact est conçu pour les sessions rapides et les petites mains. Ce nouveau produit vise particulièrement les familles et les joueurs occasionnels.",
+    "keywords": [
+      "microsoft",
+      "xbox nano",
+      "manette",
+      "gaming",
+      "tech"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "03b0334ed912",
+    "title": "Amazon brade ce grand laptop Lenovo de 17 pouces équipé de l’Intel Core i5 pour les tâches bureautiques",
+    "source": "Frandroid",
+    "category": "smartphones",
+    "url": "https://www.frandroid.com/bons-plans/3289523_amazon-brade-ce-grand-laptop-lenovo-de-17-pouces-equipe-de-lintel-core-i5-pour-les-taches-bureautiques",
+    "pubDate": "2026-10-18T05:52:00.000Z",
+    "summary": "Amazon propose actuellement une réduction sur un ordinateur portable de la marque Lenovo. Ce modèle IdeaPad 3 possède un écran de dix-sept pouces et fonctionne avec un processeur Intel Core i5. Cet équipement informatique fin est particulièrement adapté pour accomplir des tâches de bureautique.",
+    "keywords": [
+      "amazon",
+      "lenovo",
+      "ideapad",
+      "ordinateur",
+      "intel"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "d4d8a21bd997",
     "title": "Meta removes language that raised scraping and AI training concerns",
     "source": "TechCrunch",
@@ -1307,25 +1364,6 @@
     "also": []
   },
   {
-    "id": "5ffea1ce0ddf",
-    "title": "Ventes Flash Amazon : les prix baissent vraiment ce week-end ? Voici notre tri en 20 offres tech",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/bons-plans-634591-ventes-flash-amazon-les-prix-baissent-vraiment-ce-week-end-voici-notre-tri-en-20-offres-tech.html",
-    "pubDate": "2026-10-17T05:30:00.000Z",
-    "summary": "Amazon lance un week-end de ventes flash sur une sélection de vingt produits high-tech et gaming. Les réductions concernent notamment la maison connectée, les PC portables et les consoles de jeux. Des marques comme Roborock, Ecovacs et SteelSeries font partie de cette sélection promotionnelle.",
-    "keywords": [
-      "amazon",
-      "ventes flash",
-      "roborock",
-      "ecovacs",
-      "steelseries"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
     "id": "6c6976a0cf20",
     "title": "Bouclier thermique d’Artémis II, premier (et dernier) vol de la fusée réutilisable japonaise, récupération du Starship – le récap’ sciences de la semaine",
     "source": "Numerama",
@@ -1451,43 +1489,6 @@
       "securite informatique",
       "agent autonome",
       "cloud"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "ae0a8eab51ee",
-    "title": "Sosh augmente à son tour ses prix : plus de données, pour un abonnement plus cher",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-634618-sosh-augmente-a-son-tour-ses-prix-plus-de-donnees-pour-un-abonnement-plus-cher.html",
-    "pubDate": "2026-10-16T17:18:00.000Z",
-    "summary": "La marque Sosh annonce une hausse des tarifs de ses abonnements téléphoniques. Cette évolution s'accompagne d'une augmentation du volume de données mobiles incluses. L'inflation générale touche ainsi cette offre reconnue pour son accessibilité.",
-    "keywords": [
-      "sosh",
-      "forfait",
-      "inflation",
-      "prix",
-      "telecom"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b261b99f9f72",
-    "title": "L’iPhone Duo peut-il vraiment sauver un marché qui n’intéresse (presque) personne ?",
-    "source": "Frandroid",
-    "category": "smartphones",
-    "url": "https://www.frandroid.com/marques/apple/3289197_liphone-duo-peut-il-vraiment-sauver-un-marche-qui-ninteresse-presque-personne",
-    "pubDate": "2026-10-16T17:04:00.000Z",
-    "summary": "Apple lance les précommandes de son premier smartphone pliant, baptisé iPhone Duo. Cet appareil est commercialisé au prix de 2 339 euros avec une sortie en magasin prévue le 23 octobre. Il intègre un marché des pliants qui représente actuellement moins de 2 pour cent des ventes mondiales.",
-    "keywords": [
-      "apple",
-      "iphone duo",
-      "smartphone pliant",
-      "technologie"
     ],
     "aiDone": true,
     "coverage": 1,
