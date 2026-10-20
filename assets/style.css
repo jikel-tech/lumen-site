@@ -79,7 +79,7 @@ main.wrap{padding-top:32px; padding-bottom:40px;}
 .block-title a:hover, .see-all:hover{text-decoration:underline; text-underline-offset:3px;}
 
 /* ---------- Visuels par catégorie ---------- */
-.thumb{display:block; width:100%; aspect-ratio:16/9; background:#0F1511 url('categories/default.svg') center/cover no-repeat; border-radius:var(--radius);}
+.thumb{position:relative; display:block; width:100%; aspect-ratio:16/9; background:#0F1511 url('categories/default.svg') center/cover no-repeat; border-radius:var(--radius);}
 .thumb.has-photo{background-size:cover; background-position:center;}
 .thumb.cat-smartphones{background-image:url('categories/smartphones.svg');}
 .thumb.cat-ia{background-image:url('categories/ia.svg');}
@@ -226,3 +226,12 @@ footer{padding:44px 0 36px; border-top:1px solid var(--line);}
   .nav-cta{padding:8px 12px; font-size:.8rem;}
   .logo{font-size:1.3rem;}
 }
+
+/* Favoris et "Pour toi" */
+.fav-btn{position:absolute; top:8px; right:8px; width:36px; height:36px; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(11,15,13,.62); color:#fff; font-size:1.15rem; line-height:1; cursor:pointer; backdrop-filter:blur(2px);}
+.fav-btn:hover{background:rgba(11,15,13,.85);}
+.fav-btn.on{color:var(--amber);}
+.fav-btn:focus-visible{outline:2px solid var(--phosphor); outline-offset:2px;}
+.cat-btn.cat-fav{color:var(--amber);}
+.cat-btn.cat-fav.active{border-bottom-color:var(--amber);}
+.for-you-note{color:var(--paper-dim); font-size:.85rem; margin:-4px 0 14px;}

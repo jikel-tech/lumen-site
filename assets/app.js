@@ -30,7 +30,8 @@
   const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   const snip = (s, n) => { s = String(s || '').trim(); if (s.length <= n) return s; const c = s.slice(0, n); return c.slice(0, Math.max(c.lastIndexOf(' '), n - 25)).trimEnd() + '…'; };
   const firstSentence = (s) => (String(s || '').match(/^.*?[.!?](\s|$)/) || [s || ''])[0].trim();
-  const catLabel = (c) => CATS[c] || 'Tech';
+  const catLabel = (c) => CATS[c] || (c === 'favoris' ? 'Favoris' : 'Tech');
+  const validCat = (c) => c === 'all' || c === 'favoris' || !!CATS[c];
   const catKey = (c) => (CATS[c] ? c : 'default');
   const href = (a) => '#a=' + encodeURIComponent(a.id);
 
@@ -39,6 +40,38 @@
     set(k, v) { try { localStorage.setItem(k, v); } catch { /* navigation privée : on ignore */ } },
     del(k) { try { localStorage.removeItem(k); } catch { /* idem */ } },
   };
+
+  /* ---------- Favoris et "Pour toi" (stockés uniquement sur cet appareil) ---------- */
+  const readJsonStore = (k, d) => { try { const v = JSON.parse(store.get(k)); return v ?? d; } catch { return d; } };
+  const getFavs = () => { const f = readJsonStore('lumen_favs', []); return Array.isArray(f) ? f.filter((a) => a && a.id && a.title && a.url) : []; };
+  const isFav = (id) => getFavs().some((a) => a.id === id);
+  function toggleFav(a) {
+    let favs = getFavs();
+    const was = favs.some((x) => x.id === a.id);
+    if (was) favs = favs.filter((x) => x.id !== a.id);
+    else {
+      const { id, title, source, category, url, pubDate, summary, keywords, image, imageBy, coverage, also } = a;
+      favs = [{ id, title, source, category, url, pubDate, summary, keywords, image, imageBy, coverage, also }, ...favs].slice(0, 60);
+      bumpPref(a, 2);
+    }
+    store.set('lumen_favs', JSON.stringify(favs));
+    track(was ? 'favorite_remove' : 'favorite_add', { article_id: a.id, category: a.category });
+    return !was;
+  }
+  const getPrefs = () => { const p = readJsonStore('lumen_prefs', {}); return p && typeof p === 'object' ? p : {}; };
+  function bumpPref(a, n = 1) {
+    if (!CATS[a.category]) return;
+    const p = getPrefs();
+    p[a.category] = (p[a.category] || 0) + n;
+    store.set('lumen_prefs', JSON.stringify(p));
+  }
+  const getRead = () => { const r = readJsonStore('lumen_read', []); return Array.isArray(r) ? r : []; };
+  function markRead(a) {
+    const r = getRead();
+    if (r.includes(a.id)) return;
+    store.set('lumen_read', JSON.stringify([a.id, ...r].slice(0, 200)));
+    bumpPref(a, 1);
+  }
 
   function timeAgo(iso) {
     const m = Math.floor((Date.now() - new Date(iso).getTime()) / 60000);
@@ -86,7 +119,7 @@
       .filter((a) => a && typeof a.id === 'string' && typeof a.title === 'string' && typeof a.url === 'string')
       .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  const byId = (id) => ARTICLES.find((a) => a.id === id);
+  const byId = (id) => ARTICLES.find((a) => a.id === id) || getFavs().find((a) => a.id === id);
 
   function score(a) {
     const ageH = (Date.now() - new Date(a.pubDate).getTime()) / 3600000;
@@ -95,9 +128,10 @@
 
   /* ---------- Gabarits ---------- */
   const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
+  const favBtn = (a) => { const on = isFav(a.id); return `<span class="fav-btn${on ? ' on' : ''}" role="button" tabindex="0" data-fav="${esc(a.id)}" aria-pressed="${on}" aria-label="${on ? 'Retirer des favoris' : 'Enregistrer en favori'}">${on ? '★' : '☆'}</span>`; };
   const thumb = (a) => photoOk(a.image)
-    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="Photo d’illustration : ${esc(a.imageBy)} / Pexels"` : ''}></span>`
-    : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}"></span>`;
+    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="Photo d’illustration : ${esc(a.imageBy)} / Pexels"` : ''}>${favBtn(a)}</span>`
+    : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}">${favBtn(a)}</span>`;
   const kicker = (a) => `<span class="kicker${a.category === 'afrique' ? ' k-afrique' : ''}">${esc(catLabel(a.category))}</span>`;
   const cov = (a) => ((a.coverage || 1) > 1 ? `<span class="badge-cov" title="Sujet couvert par plusieurs sources">${a.coverage} sources</span>` : '');
   const metaLine = (a) => `<div class="meta-line"><span>${esc(a.source)}</span><span>${esc(timeAgo(a.pubDate))}</span>${cov(a)}</div>`;
@@ -109,8 +143,8 @@
 
   /* ---------- Rendu ---------- */
   function filtered() {
-    let list = ARTICLES;
-    if (view.cat !== 'all') list = list.filter((a) => a.category === view.cat);
+    let list = view.cat === 'favoris' ? getFavs() : ARTICLES;
+    if (view.cat !== 'all' && view.cat !== 'favoris') list = list.filter((a) => a.category === view.cat);
     const q = norm(view.q).trim();
     if (q) {
       const words = q.split(/\s+/);
@@ -126,6 +160,7 @@
     const isHome = view.cat === 'all' && !view.q.trim();
     $('#homeView').hidden = !isHome;
     $('#listView').hidden = isHome;
+    updateFavCount();
     $$('.cat-btn').forEach((b) => {
       const on = b.dataset.cat === view.cat;
       b.classList.toggle('active', on);
@@ -159,6 +194,7 @@
     for (const a of ranked.slice(1)) if (side.length < 2 && !side.includes(a)) side.push(a);
     const heroIds = new Set([main, ...side].map((a) => a.id));
     hero.innerHTML = heroMain(main) + `<div class="hero-side">${side.map(heroSide).join('')}</div>`;
+    renderForYou(heroIds);
 
     // Sections par rubrique
     $('#catSections').innerHTML = SECTION_ORDER.map((cat) => {
@@ -177,14 +213,30 @@
     renderWeekly();
   }
 
+  // « Pour toi » : apparaît après quelques lectures, d'après les rubriques les plus lues sur CET appareil.
+  function renderForYou(heroIds) {
+    const box = $('#forYou');
+    if (!box) return;
+    const prefs = getPrefs();
+    const total = Object.values(prefs).reduce((n, v) => n + (+v || 0), 0);
+    if (total < 3) { box.innerHTML = ''; return; }
+    const top = Object.entries(prefs).sort((a, b) => b[1] - a[1]).slice(0, 2).map(([c]) => c);
+    const read = new Set(getRead());
+    const items = ARTICLES.filter((a) => top.includes(a.category) && !heroIds.has(a.id) && !read.has(a.id)).sort((a, b) => score(b) - score(a)).slice(0, 3);
+    if (!items.length) { box.innerHTML = ''; return; }
+    box.innerHTML = `<section class="block" aria-labelledby="sec-foryou"><h2 class="block-title" id="sec-foryou">Pour toi<button type="button" class="see-all" id="forYouReset">Effacer mes préférences</button></h2><p class="for-you-note">Selon ce que tu lis sur cet appareil : ${top.map((c) => esc(catLabel(c))).join(' et ')}.</p><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
+  }
+
   function renderList() {
     const list = filtered();
     const q = view.q.trim();
     $('#listTitle').textContent = q ? `Résultats pour « ${q} »` : catLabel(view.cat);
     $('#listSub').textContent = q
       ? `${list.length} actu${list.length > 1 ? 's' : ''} trouvée${list.length > 1 ? 's' : ''}${view.cat !== 'all' ? ' dans ' + catLabel(view.cat) : ''}.`
-      : `${CAT_DESC[view.cat] || ''} ${list.length} actu${list.length > 1 ? 's' : ''}.`;
-    $('#listGrid').innerHTML = list.length ? list.map(catCard).join('') : '<div class="empty-state">Aucune actu ne correspond à votre recherche.</div>';
+      : view.cat === 'favoris'
+        ? `Les actus que vous avez enregistrées, gardées sur cet appareil. ${list.length} actu${list.length > 1 ? 's' : ''}.`
+        : `${CAT_DESC[view.cat] || ''} ${list.length} actu${list.length > 1 ? 's' : ''}.`;
+    $('#listGrid').innerHTML = list.length ? list.map(catCard).join('') : `<div class="empty-state">${view.cat === 'favoris' && !q ? 'Aucun favori pour l’instant : touchez ☆ sur une actu pour la garder ici.' : 'Aucune actu ne correspond à votre recherche.'}</div>`;
   }
 
   function renderTicker() {
@@ -207,6 +259,12 @@
     box.hidden = false;
   }
 
+  function updateFavCount() {
+    const n = getFavs().length;
+    const el = $('#favCount');
+    if (el) el.textContent = n ? ` (${n})` : '';
+  }
+
   function renderRefreshNote() {
     const iso = META?.updatedAt || ARTICLES[0]?.pubDate;
     $('#refreshNote').textContent = iso ? `Mis à jour ${timeAgo(iso)} · actualisation automatique` : 'Actualisation automatique';
@@ -216,7 +274,7 @@
   const baseUrl = () => location.pathname + location.search + (view.cat !== 'all' ? '#c=' + view.cat : '');
 
   function setCategory(cat, push = true) {
-    view.cat = cat === 'all' || CATS[cat] ? cat : 'all';
+    view.cat = validCat(cat) ? cat : 'all';
     latestShown = PAGE;
     if (push) history.pushState(null, '', baseUrl());
     render();
@@ -228,7 +286,7 @@
     const aid = p.get('a');
     const cat = p.get('c');
     if (!aid) {
-      const target = cat && CATS[cat] ? cat : 'all';
+      const target = cat && validCat(cat) ? cat : 'all';
       if (target !== view.cat) { view.cat = target; render(); }
       closeModal(false);
       return;
@@ -269,8 +327,18 @@
     $('#modalSourceBtn').href = safeUrl(a.url);
     $('#modalSourceBtn').textContent = `Lire sur ${a.source} →`;
     articleOverlay.dataset.id = a.id;
+    markRead(a);
+    syncModalFav(a.id);
     if (!articleOverlay.classList.contains('open')) showOverlay(articleOverlay);
     track('article_open', { article_id: a.id, category: a.category, source: a.source });
+  }
+
+  function syncModalFav(id) {
+    const b = $('#modalFav');
+    if (!b) return;
+    const on = isFav(id);
+    b.textContent = on ? '★ Enregistré' : '☆ Enregistrer';
+    b.setAttribute('aria-pressed', String(on));
   }
 
   function closeModal(updateUrl = true) {
@@ -293,6 +361,34 @@
   [['footerAbout', 'aboutModal'], ['footerContact', 'contactModal'], ['footerPrivacy', 'privacyModal']].forEach(([t, m]) => {
     $('#' + t).addEventListener('click', (e) => { e.preventDefault(); showOverlay($('#' + m)); });
   });
+
+  /* ---------- Favoris : boutons ★ ---------- */
+  function onFavToggle(id) {
+    const a = byId(id);
+    if (!a) return;
+    toggleFav(a);
+    $$('[data-fav]').forEach((el) => {
+      if (el.dataset.fav !== id) return;
+      const on = isFav(id);
+      el.classList.toggle('on', on);
+      el.textContent = on ? '★' : '☆';
+      el.setAttribute('aria-pressed', String(on));
+      el.setAttribute('aria-label', on ? 'Retirer des favoris' : 'Enregistrer en favori');
+    });
+    syncModalFav(id);
+    updateFavCount();
+    if (view.cat === 'favoris') renderList();
+  }
+  document.addEventListener('click', (e) => {
+    const f = e.target.closest('[data-fav]');
+    if (f) { e.preventDefault(); e.stopPropagation(); onFavToggle(f.dataset.fav); return; }
+    if (e.target.closest('#forYouReset')) { store.del('lumen_prefs'); store.del('lumen_read'); render(); }
+  }, true);
+  document.addEventListener('keydown', (e) => {
+    const f = e.target.closest?.('[data-fav]');
+    if (f && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); e.stopPropagation(); onFavToggle(f.dataset.fav); }
+  }, true);
+  $('#modalFav')?.addEventListener('click', () => { const id = articleOverlay.dataset.id; if (id) onFavToggle(id); });
 
   /* ---------- Partage ---------- */
   const shareUrl = (id) => `${SITE}/#a=${encodeURIComponent(id)}`;
@@ -495,7 +591,7 @@
     META = meta || META;
     if (list.length || first) ARTICLES = list.length ? list : ARTICLES;
     if (first || changed) {
-      if (first) { const p = new URLSearchParams(location.hash.slice(1)); if (p.get('c') && CATS[p.get('c')]) view.cat = p.get('c'); }
+      if (first) { const p = new URLSearchParams(location.hash.slice(1)); if (p.get('c') && validCat(p.get('c'))) view.cat = p.get('c'); }
       render();
       if (first) applyHash();
     } else renderRefreshNote();

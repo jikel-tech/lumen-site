@@ -72,6 +72,7 @@
     <button type="button" class="cat-btn" data-cat="logiciels">Logiciels</button>
     <button type="button" class="cat-btn" data-cat="culture">Culture numérique</button>
     <button type="button" class="cat-btn cat-afrique" data-cat="afrique">Tech Afrique</button>
+    <button type="button" class="cat-btn cat-fav" data-cat="favoris">★ Favoris<span id="favCount"></span></button>
   </nav>
 </header>
 
@@ -88,6 +89,7 @@
     <div class="layout">
       <div class="primary">
         <section class="hero" id="hero" aria-label="À la une"></section>
+        <div id="forYou"></div>
         <div id="catSections"></div>
         <section class="block" aria-labelledby="latestTitle">
           <h2 class="block-title" id="latestTitle">Dernières actus</h2>
@@ -152,6 +154,7 @@
     <p class="also" id="modalAlso" hidden></p>
     <div class="modal-actions">
       <a href="#" id="modalSourceBtn" class="btn-solid" target="_blank" rel="noopener noreferrer">Lire la source →</a>
+      <button type="button" class="btn-ghost" id="modalFav" aria-pressed="false">☆ Enregistrer</button>
       <button type="button" class="btn-ghost" id="modalShare">Partager</button>
     </div>
   </div>
@@ -186,6 +189,7 @@
     <p class="summary"><strong>Newsletter :</strong> si vous vous inscrivez, votre adresse email est transmise à notre prestataire Brevo, uniquement pour vous envoyer les actus par email. Vous pouvez vous désabonner à tout moment depuis le site (bouton « Se désabonner ») ou via le lien présent dans chaque email.</p>
     <p class="summary"><strong>Statistiques de visite :</strong> LUMen peut utiliser Google Analytics pour comprendre l'audience de façon agrégée (pages vues, provenance). Le suivi n'est pas activé si votre navigateur envoie le signal « Ne pas suivre ».</p>
     <p class="summary"><strong>Notifications :</strong> si vous les activez, un identifiant technique est enregistré par notre prestataire OneSignal pour vous envoyer les alertes. Vous pouvez les désactiver à tout moment dans les réglages de votre navigateur.</p>
+    <p class="summary"><strong>Favoris et recommandations :</strong> les actus que vous enregistrez et vos rubriques préférées (« Pour toi ») sont gardées uniquement dans le stockage de votre navigateur, sur votre appareil. Elles ne sont jamais envoyées à nos serveurs. Vous pouvez les effacer à tout moment.</p>
     <p class="summary"><strong>Publicité :</strong> LUMen peut afficher des annonces Google AdSense, qui utilisent des cookies selon les règles de Google.</p>
     <p class="summary"><strong>Ce que LUMen ne fait pas :</strong> pas de revente de données personnelles, pas de reproduction intégrale des articles sources (résumés courts + lien vers l'article original uniquement).</p>
     <p class="summary">Pour toute question sur vos données, contactez <a href="mailto:arthurdjeu@gmail.com" class="link">arthurdjeu@gmail.com</a>.</p>
