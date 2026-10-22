@@ -60,6 +60,7 @@
       <input type="search" id="searchInput" placeholder="Rechercher une actu, une marque, un sujet…" aria-label="Recherche" autocomplete="off">
     </div>
     <div class="nav-right">
+      <button class="icon-btn search-toggle" id="searchToggle" type="button" aria-label="Rechercher" aria-expanded="false">⌕</button>
       <button class="icon-btn" id="pushBtn" aria-label="Activer les notifications" title="Notifications" hidden>🔔</button>
       <button class="icon-btn" id="themeToggle" aria-label="Changer de thème">☾</button>
       <button class="nav-cta" data-sub-btn type="button">S'abonner</button>
@@ -67,6 +68,7 @@
   </div>
   <nav class="wrap cats" id="catNav" aria-label="Catégories">
     <button type="button" class="cat-btn active" data-cat="all">À la une</button>
+    <button type="button" class="cat-btn cat-wanda" data-cat="wanda">🇨🇲 Wanda Info</button>
     <button type="button" class="cat-btn" data-cat="smartphones">Smartphones</button>
     <button type="button" class="cat-btn" data-cat="ia">Intelligence artificielle</button>
     <button type="button" class="cat-btn" data-cat="logiciels">Logiciels</button>
@@ -118,6 +120,7 @@
   <div id="listView" hidden>
     <h1 class="block-title" id="listTitle"></h1>
     <p class="list-sub" id="listSub"></p>
+    <div class="subnav" id="subNav" hidden></div>
     <div class="news-grid" id="listGrid"></div>
   </div>
 </main>

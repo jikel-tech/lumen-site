@@ -210,6 +210,9 @@ footer{padding:44px 0 36px; border-top:1px solid var(--line);}
 @media(max-width:860px){
   .wrap{padding:0 18px;}
   .search-box{display:none;}
+  .site-header.search-open .mainbar{flex-wrap:wrap; height:auto; padding-top:10px; padding-bottom:10px; row-gap:10px;}
+  .site-header.search-open .search-box{display:block; order:3; flex:1 1 100%; max-width:none;}
+  .site-header.search-open .search-box input{font-size:1rem;}
   .mainbar{height:60px;}
   .hero{grid-template-columns:1fr;}
   .cat-grid, .news-grid{grid-template-columns:1fr;}
@@ -235,3 +238,17 @@ footer{padding:44px 0 36px; border-top:1px solid var(--line);}
 .cat-btn.cat-fav{color:var(--amber);}
 .cat-btn.cat-fav.active{border-bottom-color:var(--amber);}
 .for-you-note{color:var(--paper-dim); font-size:.85rem; margin:-4px 0 14px;}
+
+/* Wanda Info */
+.cat-btn.cat-wanda{color:var(--phosphor);}
+.cat-btn.cat-wanda.active{border-bottom-color:var(--phosphor);}
+.subnav{display:flex; gap:8px; overflow-x:auto; scrollbar-width:none; margin:0 0 22px; padding-bottom:4px;}
+.subnav::-webkit-scrollbar{display:none;}
+.sub-btn{flex:0 0 auto; background:none; border:1px solid var(--line); color:var(--paper-dim); padding:7px 14px; border-radius:18px; font-size:.84rem; cursor:pointer; white-space:nowrap;}
+.sub-btn span{opacity:.6; font-size:.76rem; margin-left:2px;}
+.sub-btn:hover{color:var(--paper); border-color:var(--paper-dim);}
+.sub-btn.active{color:var(--ink); background:var(--phosphor); border-color:var(--phosphor);}
+.sub-btn.active span{opacity:.75;}
+
+.search-toggle{font-size:1.25rem;}
+@media(min-width:861px){.search-toggle{display:none;}}

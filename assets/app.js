@@ -18,6 +18,7 @@
     culture: 'Jeux, réseaux sociaux, streaming et société numérique.',
     afrique: 'L’actualité tech du Cameroun et du continent africain.',
   };
+  const WSUBS = { tech: 'Tech', educ: 'Éducation', finance: 'Finance', actus: 'Actus', sport: 'Sport', emploi: 'Emploi', sante: 'Santé', culture: 'Culture' };
   const SECTION_ORDER = ['afrique', 'ia', 'smartphones', 'logiciels', 'culture'];
   const PAGE = 12;
 
@@ -30,8 +31,8 @@
   const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   const snip = (s, n) => { s = String(s || '').trim(); if (s.length <= n) return s; const c = s.slice(0, n); return c.slice(0, Math.max(c.lastIndexOf(' '), n - 25)).trimEnd() + '…'; };
   const firstSentence = (s) => (String(s || '').match(/^.*?[.!?](\s|$)/) || [s || ''])[0].trim();
-  const catLabel = (c) => CATS[c] || (c === 'favoris' ? 'Favoris' : 'Tech');
-  const validCat = (c) => c === 'all' || c === 'favoris' || !!CATS[c];
+  const catLabel = (c) => CATS[c] || (c === 'favoris' ? 'Favoris' : c === 'wanda' ? 'Wanda Info' : 'Tech');
+  const validCat = (c) => c === 'all' || c === 'favoris' || c === 'wanda' || !!CATS[c];
   const catKey = (c) => (CATS[c] ? c : 'default');
   const href = (a) => '#a=' + encodeURIComponent(a.id);
 
@@ -50,8 +51,8 @@
     const was = favs.some((x) => x.id === a.id);
     if (was) favs = favs.filter((x) => x.id !== a.id);
     else {
-      const { id, title, source, category, url, pubDate, summary, keywords, image, imageBy, coverage, also } = a;
-      favs = [{ id, title, source, category, url, pubDate, summary, keywords, image, imageBy, coverage, also }, ...favs].slice(0, 60);
+      const { id, title, source, category, sub, url, pubDate, summary, keywords, image, imageBy, coverage, also } = a;
+      favs = [{ id, title, source, category, sub, url, pubDate, summary, keywords, image, imageBy, coverage, also }, ...favs].slice(0, 60);
       bumpPref(a, 2);
     }
     store.set('lumen_favs', JSON.stringify(favs));
@@ -98,9 +99,10 @@
 
   /* ---------- Données ---------- */
   let ARTICLES = [];
+  let WANDA = [];
   let WEEKLY = null;
   let META = null;
-  const view = { cat: 'all', q: '' };
+  const view = { cat: 'all', q: '', sub: 'all' };
   let latestShown = PAGE;
 
   async function loadJson(url, fallback) {
@@ -119,7 +121,9 @@
       .filter((a) => a && typeof a.id === 'string' && typeof a.title === 'string' && typeof a.url === 'string')
       .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  const byId = (id) => ARTICLES.find((a) => a.id === id) || getFavs().find((a) => a.id === id);
+  // Tout le site mélangé : actus tech + actus du Cameroun (Wanda Info), de la plus récente à la plus ancienne.
+  const allMixed = () => [...ARTICLES, ...WANDA].sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  const byId = (id) => ARTICLES.find((a) => a.id === id) || WANDA.find((a) => a.id === id) || getFavs().find((a) => a.id === id);
 
   function score(a) {
     const ageH = (Date.now() - new Date(a.pubDate).getTime()) / 3600000;
@@ -132,7 +136,8 @@
   const thumb = (a) => photoOk(a.image)
     ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="Photo d’illustration : ${esc(a.imageBy)} / Pexels"` : ''}>${favBtn(a)}</span>`
     : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}">${favBtn(a)}</span>`;
-  const kicker = (a) => `<span class="kicker${a.category === 'afrique' ? ' k-afrique' : ''}">${esc(catLabel(a.category))}</span>`;
+  const kickerText = (a) => (a.category === 'wanda' && WSUBS[a.sub] ? 'Wanda · ' + WSUBS[a.sub] : catLabel(a.category));
+  const kicker = (a) => `<span class="kicker${a.category === 'afrique' || a.category === 'wanda' ? ' k-afrique' : ''}">${esc(kickerText(a))}</span>`;
   const cov = (a) => ((a.coverage || 1) > 1 ? `<span class="badge-cov" title="Sujet couvert par plusieurs sources">${a.coverage} sources</span>` : '');
   const metaLine = (a) => `<div class="meta-line"><span>${esc(a.source)}</span><span>${esc(timeAgo(a.pubDate))}</span>${cov(a)}</div>`;
 
@@ -143,13 +148,14 @@
 
   /* ---------- Rendu ---------- */
   function filtered() {
-    let list = view.cat === 'favoris' ? getFavs() : ARTICLES;
-    if (view.cat !== 'all' && view.cat !== 'favoris') list = list.filter((a) => a.category === view.cat);
+    let list = view.cat === 'favoris' ? getFavs() : view.cat === 'wanda' ? WANDA : view.cat === 'all' ? allMixed() : ARTICLES;
+    if (view.cat === 'wanda' && view.sub !== 'all') list = list.filter((a) => a.sub === view.sub);
+    if (view.cat !== 'all' && view.cat !== 'favoris' && view.cat !== 'wanda') list = list.filter((a) => a.category === view.cat);
     const q = norm(view.q).trim();
     if (q) {
       const words = q.split(/\s+/);
       list = list.filter((a) => {
-        const hay = norm([a.title, a.source, catLabel(a.category), a.summary, (a.keywords || []).join(' ')].join(' '));
+        const hay = norm([a.title, a.source, kickerText(a), a.summary, (a.keywords || []).join(' ')].join(' '));
         return words.every((w) => hay.includes(w));
       });
     }
@@ -167,6 +173,7 @@
       if (on) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current');
     });
     document.title = view.cat === 'all' ? 'LUMen — L’actualité tech, résumée et sourcée' : `${catLabel(view.cat)} — LUMen`;
+    if (view.cat !== 'wanda') view.sub = 'all';
     if (isHome) renderHome(); else renderList();
     renderRefreshNote();
   }
@@ -196,20 +203,27 @@
     hero.innerHTML = heroMain(main) + `<div class="hero-side">${side.map(heroSide).join('')}</div>`;
     renderForYou(heroIds);
 
+    // Section Wanda Info (actus du Cameroun) juste après « À la une »
+    const wandaItems = WANDA.slice(0, 3);
+    const wandaBlock = wandaItems.length
+      ? `<section class="block" aria-labelledby="sec-wanda"><h2 class="block-title" id="sec-wanda">🇨🇲 Wanda Info<button type="button" class="see-all" data-cat="wanda">Voir tout →</button></h2><div class="cat-grid">${wandaItems.map(catCard).join('')}</div></section>`
+      : '';
+
     // Sections par rubrique
-    $('#catSections').innerHTML = SECTION_ORDER.map((cat) => {
+    $('#catSections').innerHTML = wandaBlock + SECTION_ORDER.map((cat) => {
       const items = ARTICLES.filter((a) => a.category === cat && !heroIds.has(a.id)).slice(0, 3);
       if (!items.length) return '';
       return `<section class="block" aria-labelledby="sec-${cat}"><h2 class="block-title" id="sec-${cat}">${esc(catLabel(cat))}<button type="button" class="see-all" data-cat="${cat}">Voir tout →</button></h2><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
     }).join('');
 
     // Dernières actus
-    const rest = ARTICLES.filter((a) => !heroIds.has(a.id));
+    const wandaShown = new Set(wandaItems.map((a) => a.id));
+    const rest = allMixed().filter((a) => !heroIds.has(a.id) && !wandaShown.has(a.id));
     $('#latestList').innerHTML = rest.slice(0, latestShown).map(latestItem).join('');
     $('#moreBtn').hidden = rest.length <= latestShown;
 
     // Tendances
-    $('#trending').innerHTML = ranked.slice(0, 6).map((a) => `<li><a class="card-btn" href="${href(a)}"><h3>${esc(a.title)}</h3></a></li>`).join('');
+    $('#trending').innerHTML = [...ranked, ...WANDA].sort((a, b) => score(b) - score(a)).slice(0, 6).map((a) => `<li><a class="card-btn" href="${href(a)}"><h3>${esc(a.title)}</h3></a></li>`).join('');
     renderWeekly();
   }
 
@@ -227,24 +241,43 @@
     box.innerHTML = `<section class="block" aria-labelledby="sec-foryou"><h2 class="block-title" id="sec-foryou">Pour toi<button type="button" class="see-all" id="forYouReset">Effacer mes préférences</button></h2><p class="for-you-note">Selon ce que tu lis sur cet appareil : ${top.map((c) => esc(catLabel(c))).join(' et ')}.</p><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
   }
 
+  function renderSubNav() {
+    const box = $('#subNav');
+    if (!box) return;
+    if (view.cat !== 'wanda') { box.hidden = true; box.innerHTML = ''; return; }
+    const counts = {};
+    WANDA.forEach((a) => { counts[a.sub] = (counts[a.sub] || 0) + 1; });
+    const subs = Object.keys(WSUBS).filter((k) => counts[k]);
+    if (view.sub !== 'all' && !counts[view.sub]) view.sub = 'all';
+    box.innerHTML = [['all', 'Tout', WANDA.length], ...subs.map((k) => [k, WSUBS[k], counts[k]])]
+      .map(([k, label, n]) => `<button type="button" class="sub-btn${view.sub === k ? ' active' : ''}" data-sub="${k}">${esc(label)} <span>${n}</span></button>`).join('');
+    box.hidden = WANDA.length === 0;
+  }
+
   function renderList() {
     const list = filtered();
     const q = view.q.trim();
-    $('#listTitle').textContent = q ? `Résultats pour « ${q} »` : catLabel(view.cat);
+    const isW = view.cat === 'wanda';
+    $('#listTitle').textContent = q ? `Résultats pour « ${q} »` : isW && view.sub !== 'all' ? `Wanda Info · ${WSUBS[view.sub]}` : catLabel(view.cat);
+    renderSubNav();
     $('#listSub').textContent = q
       ? `${list.length} actu${list.length > 1 ? 's' : ''} trouvée${list.length > 1 ? 's' : ''}${view.cat !== 'all' ? ' dans ' + catLabel(view.cat) : ''}.`
       : view.cat === 'favoris'
         ? `Les actus que vous avez enregistrées, gardées sur cet appareil. ${list.length} actu${list.length > 1 ? 's' : ''}.`
-        : `${CAT_DESC[view.cat] || ''} ${list.length} actu${list.length > 1 ? 's' : ''}.`;
-    $('#listGrid').innerHTML = list.length ? list.map(catCard).join('') : `<div class="empty-state">${view.cat === 'favoris' && !q ? 'Aucun favori pour l’instant : touchez ☆ sur une actu pour la garder ici.' : 'Aucune actu ne correspond à votre recherche.'}</div>`;
+        : isW
+          ? `Wanda ! L’actualité du Cameroun par rubrique. Chaque titre renvoie vers le média d’origine. ${list.length} actu${list.length > 1 ? 's' : ''}.`
+          : `${CAT_DESC[view.cat] || ''} ${list.length} actu${list.length > 1 ? 's' : ''}.`;
+    const empty = view.cat === 'favoris' && !q ? 'Aucun favori pour l’instant : touchez ☆ sur une actu pour la garder ici.'
+      : isW && !q ? 'Les actus du Cameroun arrivent très bientôt.' : 'Aucune actu ne correspond à votre recherche.';
+    $('#listGrid').innerHTML = list.length ? list.map(catCard).join('') : `<div class="empty-state">${empty}</div>`;
   }
 
   function renderTicker() {
-    const items = ARTICLES.slice(0, 8);
+    const items = allMixed().slice(0, 8);
     const box = $('#ticker');
     if (!items.length) { box.hidden = true; return; }
-    const one = items.map((a) => `<a class="ticker-item" href="${href(a)}"><b>${esc(catLabel(a.category))}</b>${esc(a.title)}</a>`).join('');
-    const two = items.map((a) => `<a class="ticker-item" href="${href(a)}" tabindex="-1" aria-hidden="true"><b>${esc(catLabel(a.category))}</b>${esc(a.title)}</a>`).join('');
+    const one = items.map((a) => `<a class="ticker-item" href="${href(a)}"><b>${esc(kickerText(a))}</b>${esc(a.title)}</a>`).join('');
+    const two = items.map((a) => `<a class="ticker-item" href="${href(a)}" tabindex="-1" aria-hidden="true"><b>${esc(kickerText(a))}</b>${esc(a.title)}</a>`).join('');
     const chars = items.reduce((n, a) => n + a.title.length + 14, 0);
     $('#tickerTrack').style.setProperty('--ticker-dur', Math.max(40, Math.round(chars * 0.22)) + 's');
     $('#tickerTrack').innerHTML = one + two;
@@ -315,7 +348,7 @@
   }
 
   function openModal(a) {
-    $('#modalMeta').textContent = `${catLabel(a.category)} · ${a.source} · ${timeAgo(a.pubDate)}`;
+    $('#modalMeta').textContent = `${kickerText(a)} · ${a.source} · ${timeAgo(a.pubDate)}`;
     $('#modalTitle').textContent = a.title;
     $('#modalSummary').textContent = a.summary || 'Pas de résumé disponible pour cet article. Lisez la source pour le détail.';
     $('#modalKeywords').innerHTML = (a.keywords || []).map((k) => `<span class="chip">${esc(k)}</span>`).join('');
@@ -360,6 +393,15 @@
 
   [['footerAbout', 'aboutModal'], ['footerContact', 'contactModal'], ['footerPrivacy', 'privacyModal']].forEach(([t, m]) => {
     $('#' + t).addEventListener('click', (e) => { e.preventDefault(); showOverlay($('#' + m)); });
+  });
+
+  /* ---------- Wanda Info : rubriques ---------- */
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest('.sub-btn');
+    if (!b) return;
+    view.sub = b.dataset.sub || 'all';
+    renderList();
+    track('wanda_sub', { sub: view.sub });
   });
 
   /* ---------- Favoris : boutons ★ ---------- */
@@ -572,6 +614,15 @@
     }, 120);
   });
 
+  // Mobile : la loupe ouvre la barre de recherche sous l'en-tête.
+  $('#searchToggle')?.addEventListener('click', () => {
+    const header = $('.site-header');
+    const open = header.classList.toggle('search-open');
+    $('#searchToggle').setAttribute('aria-expanded', String(open));
+    if (open) $('#searchInput').focus();
+    else if ($('#searchInput').value) { $('#searchInput').value = ''; view.q = ''; render(); }
+  });
+
   addEventListener('hashchange', applyHash);
 
   /* ---------- Démarrage ---------- */
@@ -579,14 +630,17 @@
   updateSubButtons();
 
   async function refresh(first) {
-    const [arts, weekly, meta] = await Promise.all([
+    const [arts, weekly, meta, wanda] = await Promise.all([
       loadJson(C.ARTICLES_URL, C.ARTICLES_FALLBACK_URL),
       loadJson(C.WEEKLY_URL, C.WEEKLY_FALLBACK_URL),
       loadJson(C.ARTICLES_URL && C.ARTICLES_URL.replace('articles.json', 'meta.json'), 'data/meta.json'),
+      loadJson(C.ARTICLES_URL && C.ARTICLES_URL.replace('articles.json', 'wanda.json'), 'data/wanda.json'),
     ]);
+    const wlist = cleanArticles(wanda).map((a) => ({ ...a, category: 'wanda' }));
     const list = cleanArticles(arts);
     const sig = (l) => JSON.stringify(l.map((a) => [a.id, a.aiDone ? 1 : 0, a.image || '', a.coverage || 1]));
-    const changed = sig(list) !== sig(ARTICLES);
+    const changed = sig(list) !== sig(ARTICLES) || sig(wlist) !== sig(WANDA);
+    WANDA = wlist;
     WEEKLY = weekly && weekly.title ? weekly : WEEKLY;
     META = meta || META;
     if (list.length || first) ARTICLES = list.length ? list : ARTICLES;
