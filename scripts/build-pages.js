@@ -8,7 +8,7 @@
 
 import { mkdir, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, dayKey, pageShell, CAT_LABELS } from './lib.js';
+import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, dayKey, pageShell, CAT_LABELS, readMixed } from './lib.js';
 
 const OUT = process.env.OUT_DIR || ROOT;
 const ORDER = ['afrique', 'ia', 'smartphones', 'logiciels', 'culture'];
@@ -68,7 +68,7 @@ ${sections}
 }
 
 async function main() {
-  const articles = await readJson(DATA('articles.json'), []);
+  const articles = await readMixed();
   const archive = await readJson(DATA('archive.json'), {});
   await mkdir(path.join(OUT, 'jour'), { recursive: true });
   await mkdir(path.join(OUT, 'hebdo'), { recursive: true });

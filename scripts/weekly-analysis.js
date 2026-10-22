@@ -9,7 +9,7 @@
 
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, isoWeek, gemini, pageShell, CAT_LABELS, score } from './lib.js';
+import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, isoWeek, gemini, pageShell, CAT_LABELS, score, readMixed } from './lib.js';
 
 const OUT = process.env.OUT_DIR || ROOT;
 const MIN_ARTICLES = 8;
@@ -55,7 +55,7 @@ ${items.map((x) => `<div class="item"><h3><a href="${h(safeUrl(x.url))}" target=
 
 async function main() {
   if (!process.env.GEMINI_API_KEY) { console.log('GEMINI_API_KEY absente : analyse hebdomadaire ignorée.'); return; }
-  const articles = await readJson(DATA('articles.json'), []);
+  const articles = await readMixed();
   const since = Date.now() - 7 * 86400_000;
   const items = articles
     .filter((a) => new Date(a.pubDate).getTime() > since)

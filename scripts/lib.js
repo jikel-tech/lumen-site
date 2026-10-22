@@ -110,7 +110,20 @@ export const CAT_LABELS = {
   logiciels: 'Logiciels',
   culture: 'Culture numérique',
   afrique: 'Tech Afrique',
+  wanda: 'Wanda Info',
 };
+
+export const WANDA_SUBS = { tech: 'Tech', educ: 'Éducation', finance: 'Finance', actus: 'Actus', sport: 'Sport', emploi: 'Emploi', sante: 'Santé', culture: 'Culture' };
+
+// Étiquette d'une actu : « Wanda · Finance » pour les actus du Cameroun, sinon la rubrique.
+export const labelOf = (a) => (a.category === 'wanda' && WANDA_SUBS[a.sub] ? `Wanda · ${WANDA_SUBS[a.sub]}` : CAT_LABELS[a.category] || 'Tech');
+
+// Actus tech + actus du Cameroun (Wanda Info) mélangées.
+export async function readMixed() {
+  const main = await readJson(DATA('articles.json'), []);
+  const wanda = await readJson(DATA('wanda.json'), []);
+  return [...main, ...wanda];
+}
 
 // Coquille HTML commune aux pages statiques (archives du jour, analyses hebdomadaires).
 export function pageShell({ title, description, path: p, body, jsonLd, noindex = false }) {

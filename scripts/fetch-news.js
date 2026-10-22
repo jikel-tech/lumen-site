@@ -292,13 +292,86 @@ async function aiSummarize(item) {
 }
 
 // -----------------------------------------------------------------------
+// Wanda Info : actus du Cameroun par rubrique (fichier séparé data/wanda.json)
+// Pas de résumé IA ni de photo : titre + court extrait du flux + lien vers le média d'origine.
+// -----------------------------------------------------------------------
+const WANDA_MAX = 150;
+const WANDA_KEEP_DAYS = 7;
+const SUB_RULES = {
+  tech: ['numérique', 'numerique', 'digital', 'internet', 'télécoms', 'telecoms', 'télécommunications', 'camtel', 'mtn', 'orange', 'nexttel', 'startup', 'start-up', 'application', 'intelligence artificielle', 'cybersécurité', 'cybercriminalité', 'fibre optique', '4g', '5g', 'technologie', 'informatique', 'data center', 'e-commerce', 'smartphone', 'réseaux sociaux'],
+  educ: ['éducation', 'education', 'école', 'ecole', 'élèves', 'eleves', 'examen', 'examens', 'baccalauréat', 'baccalaureat', 'probatoire', 'bepc', 'gce', 'concours', 'université', 'universite', 'étudiants', 'etudiants', 'enseignants', 'minesup', 'minesec', 'minedub', 'bourse', 'bourses', 'rentrée scolaire', 'lycée', 'lycee', 'collège', 'college', 'scolaire'],
+  finance: ['banque', 'banques', 'finance', 'finances', 'économie', 'economie', 'budget', 'fcfa', 'cemac', 'beac', 'impôts', 'impots', 'douane', 'douanes', 'microfinance', 'investissement', 'croissance', 'inflation', 'commerce', 'entreprise', 'entreprises', 'mobile money', 'assurance', 'cacao', 'pétrole', 'petrole', 'exportations'],
+  sport: ['football', 'lions indomptables', 'fecafoot', 'can', 'match', 'championnat', 'eto\'o', 'sport', 'basket', 'handball', 'athlétisme', 'elite one', 'ligue des champions', 'mondial', 'entraîneur', 'entraineur'],
+  emploi: ['recrutement', 'emploi', 'emplois', 'chômage', 'chomage', 'stage', 'stagiaires', 'offre d\'emploi', 'offres d\'emploi', 'formation professionnelle', 'jeunes diplômés', 'recrute', 'postes'],
+  sante: ['santé', 'sante', 'hôpital', 'hopital', 'maladie', 'paludisme', 'vaccination', 'vaccin', 'minsante', 'médecin', 'medecin', 'choléra', 'cholera', 'épidémie', 'epidemie', 'cancer', 'sida', 'hôpitaux'],
+  culture: ['musique', 'makossa', 'cinéma', 'cinema', 'festival', 'artiste', 'artistes', 'culture', 'film', 'mode', 'concert', 'album', 'danse', 'patrimoine'],
+};
+const SUB_RE = Object.fromEntries(
+  Object.entries(SUB_RULES).map(([sub, terms]) => [
+    sub,
+    terms.map((t) => new RegExp(`(?<![\\p{L}\\p{N}])${esc(t)}(?![\\p{L}\\p{N}])`, 'iu')),
+  ])
+);
+
+function classifySub(title, excerpt, feed) {
+  const scores = {};
+  for (const [sub, regs] of Object.entries(SUB_RE)) {
+    let s = 0;
+    for (const re of regs) {
+      if (re.test(title)) s += 2;
+      else if (re.test(excerpt)) s += 1;
+    }
+    scores[sub] = s;
+  }
+  const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];
+  if (best && best[1] >= 2) return best[0];
+  return feed.sub || 'actus';
+}
+
+async function collectWanda(wandaFeeds) {
+  if (!wandaFeeds.length) return;
+  const OUT = DATA('wanda.json');
+  const previous = await readJson(OUT, []);
+  const results = await Promise.all(
+    wandaFeeds.map(async (feed) => {
+      try {
+        const items = await fetchFeed(feed);
+        console.log(`🇨🇲 ${feed.source} : ${items.length} articles`);
+        return items.map((it) => ({ ...it, sub: classifySub(it.title, it.excerpt, feed) }));
+      } catch (err) {
+        console.error(`Échec du flux Wanda ${feed.source} : ${err.message}`);
+        return null;
+      }
+    })
+  );
+  const okCount = results.filter(Boolean).length;
+  console.log(`🇨🇲 Wanda Info : ${okCount}/${wandaFeeds.length} flux OK`);
+  if (okCount === 0) return; // on garde l'existant
+  const nowIso = new Date().toISOString();
+  const fresh = results.flat().filter(Boolean).map((it) => ({ ...it, pubDate: it.pubDate || nowIso }));
+  const freshIds = new Set(fresh.map((a) => a.id));
+  const cutoff = Date.now() - WANDA_KEEP_DAYS * 86400_000;
+  const kept = previous.filter((a) => !freshIds.has(a.id) && new Date(a.pubDate).getTime() > cutoff).map((a) => ({ ...a, excerpt: a.summary }));
+  const merged = dedupe([...fresh, ...kept])
+    .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+    .slice(0, WANDA_MAX);
+  const out = merged.map(({ id, title, source, sub, url, pubDate, excerpt, summary, coverage, also }) => ({
+    id, title, source, category: 'wanda', sub, url, pubDate, summary: summary || excerpt || '', coverage, also,
+  }));
+  if (JSON.stringify(out) !== JSON.stringify(previous)) await writeJson(OUT, out);
+}
+
+// -----------------------------------------------------------------------
 // Programme principal
 // -----------------------------------------------------------------------
 async function main() {
-  const feeds = JSON.parse(await readFile(FEEDS_PATH, 'utf-8'));
+  const allFeeds = JSON.parse(await readFile(FEEDS_PATH, 'utf-8'));
+  const feeds = allFeeds.filter((f) => !f.wanda);
+  const wandaFeeds = allFeeds.filter((f) => f.wanda);
   const OUT = DATA('articles.json');
   const META = DATA('meta.json');
   await mkdir(path.dirname(OUT), { recursive: true });
+  try { await collectWanda(wandaFeeds); } catch (err) { console.error('🇨🇲 Wanda Info ignoré :', err.message); }
 
   const previous = await readJson(OUT, []);
   const prevById = new Map(previous.map((a) => [a.id, a]));

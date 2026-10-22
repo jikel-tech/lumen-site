@@ -5,5 +5,9 @@
   { "url": "https://techcrunch.com/feed/", "source": "TechCrunch", "category": "logiciels" },
   { "url": "https://www.agenceecofin.com/rss", "source": "Agence Ecofin", "category": "afrique", "africa": true },
   { "url": "https://wearetech.africa/component/obrss/fluxrss", "source": "We Are Tech Africa", "category": "afrique", "africa": true },
-  { "url": "https://techcabal.com/feed/", "source": "TechCabal", "category": "afrique", "africa": true }
+  { "url": "https://techcabal.com/feed/", "source": "TechCabal", "category": "afrique", "africa": true },
+
+  { "url": "https://www.digitalbusiness.africa/feed/", "source": "Digital Business Africa", "wanda": true, "sub": "tech" },
+  { "url": "https://www.journalducameroun.com/feed/", "source": "Journal du Cameroun", "wanda": true, "sub": "actus" },
+  { "url": "https://actucameroun.com/feed/", "source": "ActuCameroun", "wanda": true, "sub": "actus" }
 ]

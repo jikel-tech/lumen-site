@@ -4,7 +4,7 @@
 // Secrets GitHub : ONESIGNAL_APP_ID, ONESIGNAL_REST_API_KEY. Sans eux, le script ne fait rien.
 // DRY_RUN=1 affiche la notification sans l'envoyer.
 
-import { DATA, SITE_URL, readJson, writeJson, score, CAT_LABELS } from './lib.js';
+import { DATA, SITE_URL, readJson, writeJson, score, readMixed, labelOf } from './lib.js';
 
 const DRY = process.env.DRY_RUN === '1';
 
@@ -13,7 +13,7 @@ async function main() {
   const apiKey = process.env.ONESIGNAL_REST_API_KEY;
   if (!appId || !apiKey) { console.log('OneSignal non configuré : aucune notification envoyée.'); return; }
 
-  const articles = await readJson(DATA('articles.json'), []);
+  const articles = await readMixed();
   const state = await readJson(DATA('pushed.json'), { ids: [] });
   const now = Date.now();
   const pick = articles
@@ -25,7 +25,7 @@ async function main() {
     app_id: appId,
     target_channel: 'push',
     included_segments: ['Total Subscriptions'],
-    headings: { fr: `LUMen · ${CAT_LABELS[pick.category] || 'Tech'}`, en: `LUMen · ${CAT_LABELS[pick.category] || 'Tech'}` },
+    headings: { fr: `LUMen · ${labelOf(pick)}`, en: `LUMen · ${labelOf(pick)}` },
     contents: { fr: pick.title, en: pick.title },
     url: `${SITE_URL}/#a=${encodeURIComponent(pick.id)}`,
   };

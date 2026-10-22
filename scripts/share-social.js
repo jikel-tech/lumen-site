@@ -9,7 +9,7 @@
 // Le lien partagé est https://…/#a=<id> : il ouvre directement le résumé de l'actu sur LUMen.
 
 import { createHmac, randomBytes } from 'node:crypto';
-import { DATA, SITE_URL, readJson, writeJson, score } from './lib.js';
+import { DATA, SITE_URL, readJson, writeJson, score, readMixed } from './lib.js';
 
 const DRY = process.env.DRY_RUN === '1';
 const MAX_AGE_H = 18;
@@ -80,7 +80,7 @@ async function postFacebook(a, link) {
 
 // ---------- Sélection ----------
 async function main() {
-  const articles = await readJson(DATA('articles.json'), []);
+  const articles = await readMixed();
   const state = await readJson(DATA('shared.json'), { ids: [], lastCategory: null, log: [] });
   const done = new Set(state.ids);
   const now = Date.now();
