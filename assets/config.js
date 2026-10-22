@@ -14,7 +14,7 @@ window.LUMEN = {
   GA_ID: 'G-VCB11QH2MV',
 
   // Notifications push (OneSignal) — colle ton App ID. Vide = le bouton cloche reste caché.
-  ONESIGNAL_APP_ID: '',
+  ONESIGNAL_APP_ID: 'eaf1bcbd-bd4d-4882-941c-0b45ef00ac7e',
 
   // Newsletter : fonction Netlify (netlify/functions/newsletter.js) + formulaire Brevo de secours.
   NEWSLETTER_API: '/.netlify/functions/newsletter',
