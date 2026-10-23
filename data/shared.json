@@ -1,10 +1,20 @@
 {
   "ids": [
+    "6cb61be1659d",
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-10-23T20:50:14.066Z",
+      "id": "6cb61be1659d",
+      "title": "SpaceX prépare la retraite de Falcon 9, un problème pour l'armée américaine",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-23T12:59:04.575Z",
       "id": "d1259963a189",
