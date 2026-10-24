@@ -1,12 +1,22 @@
 {
   "ids": [
+    "dbe76530e989",
     "e51d73487cb5",
     "6cb61be1659d",
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-10-24T20:01:06.604Z",
+      "id": "dbe76530e989",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-24T12:22:19.718Z",
       "id": "e51d73487cb5",
