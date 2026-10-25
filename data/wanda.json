@@ -1,5 +1,101 @@
 [
   {
+    "id": "deddfa40e92c",
+    "title": "Lettre ouverte à madame le ministre des enseignements secondaires",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/lettre-ouverte-a-madame-le-ministre-des-enseignements-secondaires/",
+    "pubDate": "2026-10-25T11:08:24.000Z",
+    "summary": "Le journaliste Charles Armel Mbatchou demande le sursis immédiat de la tenue du conseil de discipline extraordinaire prévu ce lundi 26 octobre 2026, le temps […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4b34c11fd165",
+    "title": "Vatican : Le Pape Léon XIV remercie chaleureusement les fidèles du Cameroun pour leurs prières",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/vatican-le-pape-leon-xiv-remercie-chaleureusement-les-fideles-du-cameroun-pour-leurs-prieres/",
+    "pubDate": "2026-10-25T10:59:48.000Z",
+    "summary": "Au cours de sa première apparition publique depuis sa sortie de l’hôpital, le Pape Léon XIV a exprimé sa profonde gratitude envers les fidèles du […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "4d4dc3890a7f",
+    "title": "Le Pape Léon XIV remercie ceux qui ont prié au Cameroun pour son rétablissement – Lettre",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/le-pape-leon-xiv-remercie-ceux-qui-ont-prie-au-cameroun-pour-son-retablissement-lettre/",
+    "pubDate": "2026-10-25T10:56:09.000Z",
+    "summary": "C’est du moins ce que révèle une lettre que le saint père a envoyé le 22 octobre 2026 au Nonce Apostolique au Cameroun et en […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "a7cccee1fd9d",
+    "title": "Burkina Faso : Une refonte historique des cours d’histoire et de géographie pour « décoloniser les savoirs »",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "educ",
+    "url": "https://actucameroun.com/2026/10/25/burkina-faso-une-refonte-historique-des-cours-dhistoire-et-de-geographie-pour-decoloniser-les-savoirs/",
+    "pubDate": "2026-10-25T10:42:23.000Z",
+    "summary": "Le Burkina Faso a franchi une étape décisive dans sa quête de souveraineté culturelle et éducative lors de la rentrée scolaire du 1er octobre 2026. […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "e170be43d304",
+    "title": "Le Ghana s’aligne sur le programme d’industrialisation de Cabral Libii",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/le-ghana-saligne-sur-le-programme-dindustrialisation-de-cabral-libii/",
+    "pubDate": "2026-10-25T10:29:31.000Z",
+    "summary": "« Or, lithium, manganèse, bauxite, diamant, fer… Le président ghanéen, John Dramani Mahama, a officiellement annoncé, au cours de la troisième semaine d’octobre 2026, que son […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "986be03443e3",
+    "title": "Coupe de la CAF : David Roy Nyengue et l’Espérance de Zarzis s’arrêtent aux portes de la phase de groupes",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/coupe-de-la-caf-david-roy-nyengue-et-lesperance-de-zarzis-sarretent-aux-portes-de-la-phase-de-groupes/",
+    "pubDate": "2026-10-25T09:11:20.000Z",
+    "summary": "Le parcours de David Roy Nyengue en Coupe de la Confédération africaine de football (CAF) s’achève prématurément. Le milieu de terrain international camerounais et son […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "1a3ed01801de",
+    "title": "CAF LDC : L’Espérance de Tunis valide son billet, Maël Fernandez Monyebe découvrira la phase de groupes",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/caf-ldc-lesperance-de-tunis-valide-son-billet-mael-fernandez-monyebe-decouvrira-la-phase-de-groupes/",
+    "pubDate": "2026-10-25T09:04:16.000Z",
+    "summary": "Maël Fernandez Monyebe s’apprête à vivre une nouvelle étape de sa carrière. Le milieu de terrain international camerounais a participé à la qualification de l’Espérance […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "eaa5dbc063e9",
+    "title": "Barça : après la claque contre le PSG, Raphinha et Rodri sonnent la révolte avant le Clásico",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/10/25/barca-apres-la-claque-contre-le-psg-raphinha-et-rodri-sonnent-la-revolte-avant-le-clasico/",
+    "pubDate": "2026-10-25T08:49:34.000Z",
+    "summary": "La première défaite de la saison face au Paris Saint-Germain a laissé des traces au FC Barcelone. Mais loin de semer le doute dans le […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "8df7f16d055e",
     "title": "Lions U20 : Yvan Kenmoe veut renforcer l’équipe avec des talents de la diaspora",
     "source": "ActuCameroun",
@@ -1436,18 +1532,6 @@
     "url": "https://www.digitalbusiness.africa/un-million-de-fcfa-distribues-aux-trois-laureats-du-hackathon-e-gova/",
     "pubDate": "2026-10-19T14:47:15.000Z",
     "summary": "[Digital Business Africa]– Organisé les 15 et 16 octobre 2026 dans la salle de conférence du ministère des Postes et Télécommunications (MINPOSTEL), sous le haut patronage du MINPOSTEL, le hackathon…",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4fc45ecb379c",
-    "title": "E-Gov’A 2026 : ICT University, l’IAI et Saint Jean Ingénieur récompensés lors de la cérémonie de clôture à Yaoundé",
-    "source": "Digital Business Africa",
-    "category": "wanda",
-    "sub": "tech",
-    "url": "https://www.digitalbusiness.africa/e-gova-2026-ict-university-liai-et-saint-jean-ingenieur-recompenses-lors-de-la-ceremonie-de-cloture-a-yaounde/",
-    "pubDate": "2026-10-18T12:08:35.000Z",
-    "summary": "[Digital Business Africa] – Le e-GOV AFRICA SUMMIT, EXPO & AWARDS 2026 a connu son épilogue le samedi 17 octobre 2026 au Palais des Congrès de Yaoundé, à l’occasion d’une cérémonie de clôture marquée…",
     "coverage": 1,
     "also": []
   }
