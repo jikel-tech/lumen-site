@@ -1,5 +1,6 @@
 {
   "ids": [
+    "2bc6d868814e",
     "52e4aa2e5df8",
     "dbe76530e989",
     "e51d73487cb5",
@@ -7,8 +8,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-10-25T20:11:48.153Z",
+      "id": "2bc6d868814e",
+      "title": "Panne géante chez Orange, failles PHP et test de l’iPhone Duo – le récap’ tech de la semaine",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-25T12:52:26.838Z",
       "id": "52e4aa2e5df8",
