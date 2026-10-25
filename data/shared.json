@@ -1,13 +1,23 @@
 {
   "ids": [
+    "52e4aa2e5df8",
     "dbe76530e989",
     "e51d73487cb5",
     "6cb61be1659d",
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-10-25T12:52:26.838Z",
+      "id": "52e4aa2e5df8",
+      "title": "On a testé le Mac Studio M5 Ultra à 14 000 € : une puissance monstrueuse, mais pour qui ?",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-24T20:01:06.604Z",
       "id": "dbe76530e989",
