@@ -1,5 +1,27 @@
 [
   {
+    "id": "7f821c661929",
+    "title": "The best apps for tracking your reading and discovering new books",
+    "source": "TechCrunch",
+    "category": "logiciels",
+    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+    "pubDate": "2026-10-26T01:10:00.000Z",
+    "summary": "De nombreuses applications mobiles permettent aujourd'hui de suivre ses lectures et de trouver de nouveaux livres. Pour aider les utilisateurs à faire un choix, une sélection des meilleures plateformes a été réalisée. Ce classement vise à simplifier la découverte littéraire grâce à des outils numériques adaptés.",
+    "keywords": [
+      "applications",
+      "lecture",
+      "livres",
+      "smartphone",
+      "decouverte"
+    ],
+    "aiDone": true,
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/18935831/pexels-photo-18935831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Cláudio Emanuel",
+    "imagePage": "https://www.pexels.com/photo/programmer-working-at-desk-18935831/"
+  },
+  {
     "id": "bf7f18e0418c",
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "source": "TechCrunch",
@@ -1713,27 +1735,5 @@
     "image": "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "imageBy": "RDNE Stock project",
     "imagePage": "https://www.pexels.com/photo/friends-having-fun-playing-an-arcade-video-game-7915382/"
-  },
-  {
-    "id": "6ae678ded985",
-    "title": "Une fuite présumée chez LFI expose des données sur le porte-à-porte électoral",
-    "source": "Clubic",
-    "category": "logiciels",
-    "url": "https://www.clubic.com/actualite-635818-une-fuite-presumee-chez-lfi-expose-des-donnees-sur-le-porte-a-porte-electoral.html",
-    "pubDate": "2026-10-24T13:30:00.000Z",
-    "summary": "Un incident de cybersécurité touche La France Insoumise avec la diffusion publique de données militantes. Plus d'un million de lignes issues du porte-à-porte électoral ont été partagées gratuitement par un pirate. Ces fichiers dérobés contiennent des relevés numériques récents enregistrés par les membres du mouvement politique.",
-    "keywords": [
-      "lfi",
-      "fuite de donnees",
-      "cybersecurite",
-      "elections",
-      "politique"
-    ],
-    "aiDone": true,
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Myburgh Roux",
-    "imagePage": "https://www.pexels.com/photo/programming-codes-screengrab-1102797/"
   }
 ]
