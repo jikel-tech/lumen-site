@@ -1,5 +1,6 @@
 {
   "ids": [
+    "ecc95cef60a3",
     "2dc6fbaa04aa",
     "2bc6d868814e",
     "52e4aa2e5df8",
@@ -9,8 +10,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-10-26T22:08:02.284Z",
+      "id": "ecc95cef60a3",
+      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-26T14:42:53.146Z",
       "id": "2dc6fbaa04aa",
