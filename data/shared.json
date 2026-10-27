@@ -1,5 +1,6 @@
 {
   "ids": [
+    "485d190c3a3e",
     "03213d1924dc",
     "ecc95cef60a3",
     "2dc6fbaa04aa",
@@ -11,8 +12,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-10-27T21:39:07.005Z",
+      "id": "485d190c3a3e",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-27T13:48:45.381Z",
       "id": "03213d1924dc",
