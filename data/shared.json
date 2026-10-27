@@ -1,5 +1,6 @@
 {
   "ids": [
+    "03213d1924dc",
     "ecc95cef60a3",
     "2dc6fbaa04aa",
     "2bc6d868814e",
@@ -10,8 +11,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-10-27T13:48:45.381Z",
+      "id": "03213d1924dc",
+      "title": "Amazon baisse le prix de l’humidificateur connecté Dreo au moment où les radiateurs se rallument",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-26T22:08:02.284Z",
       "id": "ecc95cef60a3",
