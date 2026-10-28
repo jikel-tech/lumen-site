@@ -1,5 +1,6 @@
 {
   "ids": [
+    "ca05a2c72f8d",
     "2fc56a1692fa",
     "485d190c3a3e",
     "03213d1924dc",
@@ -13,8 +14,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-10-28T22:02:30.918Z",
+      "id": "ca05a2c72f8d",
+      "title": "Apple lance un Mac à plus de 16 000 euros",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-28T14:43:29.440Z",
       "id": "2fc56a1692fa",
