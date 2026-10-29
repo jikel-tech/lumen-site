@@ -1,5 +1,6 @@
 {
   "ids": [
+    "0bd1d573ceee",
     "d2712e7e1681",
     "ca05a2c72f8d",
     "2fc56a1692fa",
@@ -15,8 +16,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-10-29T22:14:09.559Z",
+      "id": "0bd1d573ceee",
+      "title": "Google autorise l’installation d’apps Android en un seul clic depuis Chrome",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-29T14:50:08.408Z",
       "id": "d2712e7e1681",
