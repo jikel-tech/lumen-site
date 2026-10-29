@@ -1,5 +1,6 @@
 {
   "ids": [
+    "d2712e7e1681",
     "ca05a2c72f8d",
     "2fc56a1692fa",
     "485d190c3a3e",
@@ -14,8 +15,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-10-29T14:50:08.408Z",
+      "id": "d2712e7e1681",
+      "title": "\"Un véritable génie\" : Poutine encense Elon Musk, et c’est tout sauf anodin",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-28T22:02:30.918Z",
       "id": "ca05a2c72f8d",
