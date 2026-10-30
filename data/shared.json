@@ -1,5 +1,6 @@
 {
   "ids": [
+    "e52e71f525cf",
     "0bd1d573ceee",
     "d2712e7e1681",
     "ca05a2c72f8d",
@@ -16,8 +17,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "afrique",
   "log": [
+    {
+      "at": "2026-10-30T14:43:05.359Z",
+      "id": "e52e71f525cf",
+      "title": "Le Tunisien Yahya Hmida crée une IA pour libérer les entreprises du travail répétitif",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-29T22:14:09.559Z",
       "id": "0bd1d573ceee",
