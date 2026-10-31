@@ -1,5 +1,6 @@
 {
   "ids": [
+    "9cd0974a7de6",
     "102cad4ffe0e",
     "e52e71f525cf",
     "0bd1d573ceee",
@@ -18,8 +19,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-10-31T14:07:07.671Z",
+      "id": "9cd0974a7de6",
+      "title": "Google envoie un prompt à ses puces d’IA dans l’espace (elles ont répondu)",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-30T21:49:23.326Z",
       "id": "102cad4ffe0e",
