@@ -1,5 +1,6 @@
 {
   "ids": [
+    "765ccb3efabb",
     "0191020af1d4",
     "9cd0974a7de6",
     "102cad4ffe0e",
@@ -20,8 +21,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-01T14:38:06.282Z",
+      "id": "765ccb3efabb",
+      "title": "Elon Musk promet de rendre la vue aux aveugles et de faire remarcher les paralysés grâce à Neuralink",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-10-31T20:49:21.111Z",
       "id": "0191020af1d4",
