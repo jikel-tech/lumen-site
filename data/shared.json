@@ -1,5 +1,6 @@
 {
   "ids": [
+    "f8a8f428d56a",
     "9872f59c8039",
     "765ccb3efabb",
     "0191020af1d4",
@@ -22,8 +23,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-02T17:37:11.637Z",
+      "id": "f8a8f428d56a",
+      "title": "Yann LeCun tient peut-être la preuve que la taille d’un LLM ne fait pas sa qualité",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-01T21:31:13.107Z",
       "id": "9872f59c8039",
