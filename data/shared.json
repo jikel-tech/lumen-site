@@ -1,5 +1,6 @@
 {
   "ids": [
+    "60a2f0712c33",
     "f8a8f428d56a",
     "9872f59c8039",
     "765ccb3efabb",
@@ -23,8 +24,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-03T00:14:22.950Z",
+      "id": "60a2f0712c33",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-02T17:37:11.637Z",
       "id": "f8a8f428d56a",
