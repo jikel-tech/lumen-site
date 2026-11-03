@@ -1,5 +1,6 @@
 {
   "ids": [
+    "f7b02949050d",
     "0407086e4e06",
     "60a2f0712c33",
     "f8a8f428d56a",
@@ -25,8 +26,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "afrique",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-03T22:43:44.022Z",
+      "id": "f7b02949050d",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-03T15:39:21.384Z",
       "id": "0407086e4e06",
