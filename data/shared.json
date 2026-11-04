@@ -1,5 +1,6 @@
 {
   "ids": [
+    "1a49b8183bb8",
     "f7b02949050d",
     "0407086e4e06",
     "60a2f0712c33",
@@ -26,8 +27,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-04T15:52:29.136Z",
+      "id": "1a49b8183bb8",
+      "title": "Black Friday : voici les offres à ne pas rater ce mercredi (EN DIRECT)",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-03T22:43:44.022Z",
       "id": "f7b02949050d",
