@@ -1,5 +1,6 @@
 {
   "ids": [
+    "64604a41a681",
     "1a49b8183bb8",
     "f7b02949050d",
     "0407086e4e06",
@@ -27,8 +28,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-04T23:02:02.386Z",
+      "id": "64604a41a681",
+      "title": "Comment des alarmes ont sauvé le plasma de l’EFS d’une cyberattaque en pleine nuit",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-04T15:52:29.136Z",
       "id": "1a49b8183bb8",
