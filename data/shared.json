@@ -1,5 +1,6 @@
 {
   "ids": [
+    "3c0e84566a0e",
     "b9adcc68f790",
     "64604a41a681",
     "1a49b8183bb8",
@@ -29,8 +30,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-05T23:04:24.852Z",
+      "id": "3c0e84566a0e",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-05T15:58:48.243Z",
       "id": "b9adcc68f790",
