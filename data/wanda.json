@@ -1,5 +1,53 @@
 [
   {
+    "id": "1bd58dd49e99",
+    "title": "Autonomie stratégique : Joseph Beti Assomo inspecte l’Atelier Central Maître Bottier d’Ekounou",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/06/autonomie-strategique-joseph-beti-assomo-inspecte-latelier-central-maitre-bottier-dekounou/",
+    "pubDate": "2026-11-06T01:15:23.000Z",
+    "summary": "Le Ministre Délégué à la Présidence chargé de la Défense, Joseph Beti Assomo, a effectué ce jeudi 5 novembre 2026 sa deuxième visite d’inspection à […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5184226cd03a",
+    "title": "Le Mont Cameroun sous haute surveillance : les secousses à Buea n’annoncent pas d’éruption imminente",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/06/le-mont-cameroun-sous-haute-surveillance-les-secousses-a-buea-nannoncent-pas-deruption-imminente/",
+    "pubDate": "2026-11-06T00:38:46.000Z",
+    "summary": "Malgré les secousses ressenties par les habitants de Buea le 23 octobre dernier, le ministère de la Recherche Scientifique et de l’Innovation écarte pour le […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "c2d65a27da41",
+    "title": "Assimi Goïta accueilli avec les honneurs à Niamey par Abdourahamane Tiani",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/06/assimi-goita-accueilli-avec-les-honneurs-a-niamey-par-abdourahamane-tiani/",
+    "pubDate": "2026-11-06T00:27:09.000Z",
+    "summary": "Le Président de la Transition du Mali, le Général d’Armée Assimi GOÏTA, est arrivé ce jeudi 5 novembre 2026 à Niamey pour une visite d’amitié […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "5eca27b3f7de",
+    "title": "Visite pastorale: le nonce apostolique accueille les fidèles et les réfugiés à Maroua",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/06/visite-pastorale-le-nonce-apostolique-accueille-les-fideles-et-les-refugies-a-maroua/",
+    "pubDate": "2026-11-06T00:17:24.000Z",
+    "summary": "Le représentant du Saint-Père, Mgr José Avelino Bettencourt, a entamé ce jeudi 5 novembre 2026 une mission humanitaire et spirituelle dans la région de l’Extrême-Nord, […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "ebbb65c66ece",
     "title": "André Onana impuissant : Trabzonspor tombe à domicile face à Fribourg",
     "source": "ActuCameroun",
@@ -1748,54 +1796,6 @@
     "url": "https://actucameroun.com/2026/11/02/cest-tout-a-fait-possible-erik-ten-hag-evoque-la-relegation-de-manchester-united/",
     "pubDate": "2026-11-02T10:17:42.000Z",
     "summary": "Le début de saison de Manchester United vire au cauchemar. En grande difficulté en championnat, les Red Devils enchaînent les contre-performances et voient leur situation […]",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "82c287d2ebb7",
-    "title": "Afrique du Sud : La biométrie pour vérifier l’identité des abonnés [projet du régulateur télécoms]",
-    "source": "Digital Business Africa",
-    "category": "wanda",
-    "sub": "tech",
-    "url": "https://www.digitalbusiness.africa/afrique-du-sud-la-biometrie-pour-verifier-lidentite-des-abonnes-projet-du-regulateur-telecoms/",
-    "pubDate": "2026-11-02T10:02:59.000Z",
-    "summary": "[DIGITAL Business Africa] – Les détournements de cartes SIM en Afrique du Sud sont sur une corde raide. Le régulateur des télécommunications sud-africain mise sur la biométrie afin de mieux encadrer…",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "422a6542eac4",
-    "title": "Elim CAN 2027 : Deux matchs, six points, les Lions Indomptables n’ont plus droit au faux pas",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "sport",
-    "url": "https://actucameroun.com/2026/11/02/elim-can-2027-deux-matchs-six-points-les-lions-indomptables-nont-plus-droit-au-faux-pas/",
-    "pubDate": "2026-11-02T09:43:24.000Z",
-    "summary": "Quatre points après deux journées, une équipe encore en quête de certitudes et un public qui attend des réponses. En novembre, les Lions Indomptables vont […]",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "bac3bf913b51",
-    "title": "Lions Indomptables : face à la Namibie, David Pagou joue gros dans un double rendez-vous décisif",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "sport",
-    "url": "https://actucameroun.com/2026/11/02/lions-indomptables-face-a-la-namibie-david-pagou-joue-gros-dans-un-double-rendez-vous-decisif/",
-    "pubDate": "2026-11-02T09:31:43.000Z",
-    "summary": "Le Cameroun entre dans une phase déterminante de sa campagne pour les éliminatoires de la CAN 2027. Avec quatre points au compteur après les deux […]",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "572b12587b20",
-    "title": "45 arrêts, 87 % de réussite : André Onana règne en maître dans les cages de Trabzonspor !",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://actucameroun.com/2026/11/02/45-arrets-87-de-reussite-andre-onana-regne-en-maitre-dans-les-cages-de-trabzonspor/",
-    "pubDate": "2026-11-02T09:21:29.000Z",
-    "summary": "André Onana retrouve des couleurs en Turquie. Depuis son arrivée à Trabzonspor, le portier camerounais affiche des statistiques remarquables et s’impose comme l’un des hommes […]",
     "coverage": 1,
     "also": []
   }
