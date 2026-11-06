@@ -1,5 +1,6 @@
 {
   "ids": [
+    "72578aee5d95",
     "3c0e84566a0e",
     "b9adcc68f790",
     "64604a41a681",
@@ -30,8 +31,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-06T15:30:03.114Z",
+      "id": "72578aee5d95",
+      "title": "Pas de Windows 12 pour le moment, mais Microsoft prépare une très grosse mise à jour pour l’année prochaine",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-05T23:04:24.852Z",
       "id": "3c0e84566a0e",
