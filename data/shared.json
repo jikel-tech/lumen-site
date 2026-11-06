@@ -1,5 +1,6 @@
 {
   "ids": [
+    "29c568495a81",
     "72578aee5d95",
     "3c0e84566a0e",
     "b9adcc68f790",
@@ -31,8 +32,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-06T22:34:38.405Z",
+      "id": "29c568495a81",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-06T15:30:03.114Z",
       "id": "72578aee5d95",
