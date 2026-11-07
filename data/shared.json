@@ -1,5 +1,6 @@
 {
   "ids": [
+    "7b431b40fb08",
     "7c3fe7504e25",
     "29c568495a81",
     "72578aee5d95",
@@ -33,8 +34,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-07T21:15:25.878Z",
+      "id": "7b431b40fb08",
+      "title": "La Chine veut garder pour elle ses cellules solaires du futur, et Ghost Bikes ferme après 33 ans d’existence",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-07T14:33:15.831Z",
       "id": "7c3fe7504e25",
