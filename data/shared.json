@@ -1,5 +1,6 @@
 {
   "ids": [
+    "7c3fe7504e25",
     "29c568495a81",
     "72578aee5d95",
     "3c0e84566a0e",
@@ -32,8 +33,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-07T14:33:15.831Z",
+      "id": "7c3fe7504e25",
+      "title": "Black Friday : NordVPN Premium tombe à 3,99 €/mois avec 3 mois offerts, soit 78 % de remise",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-06T22:34:38.405Z",
       "id": "29c568495a81",
