@@ -1,5 +1,6 @@
 {
   "ids": [
+    "8f9edb697d23",
     "421c3d61a666",
     "7b431b40fb08",
     "7c3fe7504e25",
@@ -35,8 +36,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-08T21:30:17.832Z",
+      "id": "8f9edb697d23",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-08T14:40:18.236Z",
       "id": "421c3d61a666",
