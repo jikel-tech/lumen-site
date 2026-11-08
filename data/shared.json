@@ -1,5 +1,6 @@
 {
   "ids": [
+    "421c3d61a666",
     "7b431b40fb08",
     "7c3fe7504e25",
     "29c568495a81",
@@ -34,8 +35,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-08T14:40:18.236Z",
+      "id": "421c3d61a666",
+      "title": "Envie d’un Mac mini sous Windows ? Le Lenovo Yoga Mini perd 100 € pour le Black Friday",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-07T21:15:25.878Z",
       "id": "7b431b40fb08",
