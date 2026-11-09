@@ -1705,7 +1705,7 @@
     ]
   },
   "streaming entertainment": {
-    "at": "2026-11-02T19:58:15.057Z",
+    "at": "2026-11-09T22:35:56.719Z",
     "photos": [
       {
         "url": "https://images.pexels.com/photos/5117989/pexels-photo-5117989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1718,14 +1718,14 @@
         "page": "https://www.pexels.com/photo/little-girl-holding-a-tablet-4968506/"
       },
       {
-        "url": "https://images.pexels.com/photos/265685/pexels-photo-265685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Pixabay",
-        "page": "https://www.pexels.com/photo/silver-ipad-on-silver-macbook-pro-265685/"
-      },
-      {
         "url": "https://images.pexels.com/photos/5202925/pexels-photo-5202925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "https://kaboompics.com/",
         "page": "https://www.pexels.com/photo/black-flat-screen-tv-hanging-on-the-white-wall-5202925/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/265685/pexels-photo-265685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pixabay",
+        "page": "https://www.pexels.com/photo/silver-ipad-on-silver-macbook-pro-265685/"
       },
       {
         "url": "https://images.pexels.com/photos/4968503/pexels-photo-4968503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1743,6 +1743,11 @@
         "page": "https://www.pexels.com/photo/person-holding-a-remote-control-987586/"
       },
       {
+        "url": "https://images.pexels.com/photos/13806260/pexels-photo-13806260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Nicholas Derio Palacios",
+        "page": "https://www.pexels.com/photo/netflix-on-tv-screen-13806260/"
+      },
+      {
         "url": "https://images.pexels.com/photos/5202917/pexels-photo-5202917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "https://kaboompics.com/",
         "page": "https://www.pexels.com/photo/black-flat-screen-tv-turned-on-showing-man-in-black-shirt-5202917/"
@@ -1753,19 +1758,9 @@
         "page": "https://www.pexels.com/photo/netflix-on-an-imac-5082566/"
       },
       {
-        "url": "https://images.pexels.com/photos/13806260/pexels-photo-13806260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Nicholas Derio Palacios",
-        "page": "https://www.pexels.com/photo/netflix-on-tv-screen-13806260/"
-      },
-      {
         "url": "https://images.pexels.com/photos/5082568/pexels-photo-5082568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/netflix-on-an-imac-5082568/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Lisa Fotios",
-        "page": "https://www.pexels.com/photo/turned-on-flat-screen-smart-television-ahead-1444416/"
       },
       {
         "url": "https://images.pexels.com/photos/3623360/pexels-photo-3623360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1773,14 +1768,9 @@
         "page": "https://www.pexels.com/photo/a-smartphone-in-close-up-view-3623360/"
       },
       {
-        "url": "https://images.pexels.com/photos/5202957/pexels-photo-5202957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "https://kaboompics.com/",
-        "page": "https://www.pexels.com/photo/person-pressing-the-button-of-a-remote-control-5202957/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/netflix-on-an-imac-5082567/"
+        "url": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lisa Fotios",
+        "page": "https://www.pexels.com/photo/turned-on-flat-screen-smart-television-ahead-1444416/"
       },
       {
         "url": "https://images.pexels.com/photos/5207508/pexels-photo-5207508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1788,9 +1778,14 @@
         "page": "https://www.pexels.com/photo/close-up-shot-of-a-remote-control-5207508/"
       },
       {
-        "url": "https://images.pexels.com/photos/12956039/pexels-photo-12956039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Atlantic Ambience",
-        "page": "https://www.pexels.com/photo/a-close-up-shot-of-a-person-using-a-tv-remote-controller-12956039/"
+        "url": "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/netflix-on-an-imac-5082567/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5202957/pexels-photo-5202957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "https://kaboompics.com/",
+        "page": "https://www.pexels.com/photo/person-pressing-the-button-of-a-remote-control-5202957/"
       },
       {
         "url": "https://images.pexels.com/photos/5082561/pexels-photo-5082561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1798,14 +1793,19 @@
         "page": "https://www.pexels.com/photo/netflix-on-an-imac-5082561/"
       },
       {
+        "url": "https://images.pexels.com/photos/12956039/pexels-photo-12956039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Atlantic Ambience",
+        "page": "https://www.pexels.com/photo/a-close-up-shot-of-a-person-using-a-tv-remote-controller-12956039/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/34407/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "freestocks.org",
+        "page": "https://www.pexels.com/photo/person-holding-space-gray-iphone-5-34407/"
+      },
+      {
         "url": "https://images.pexels.com/photos/4009402/pexels-photo-4009402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/man-and-woman-sitting-on-a-couch-in-front-of-a-television-4009402/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/5146492/pexels-photo-5146492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Stefan Coders",
-        "page": "https://www.pexels.com/photo/person-holding-blue-iphone-5-c-5146492/"
       },
       {
         "url": "https://images.pexels.com/photos/6142159/pexels-photo-6142159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1818,14 +1818,9 @@
         "page": "https://www.pexels.com/photo/a-close-up-shot-of-a-television-controller-5207507/"
       },
       {
-        "url": "https://images.pexels.com/photos/34407/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "freestocks.org",
-        "page": "https://www.pexels.com/photo/person-holding-space-gray-iphone-5-34407/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/4009401/pexels-photo-4009401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/people-sitting-on-a-couch-watching-4009401/"
+        "url": "https://images.pexels.com/photos/33440278/pexels-photo-33440278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Zulfugar Karimov",
+        "page": "https://www.pexels.com/photo/youtube-logo-on-laptop-screen-in-dark-setting-33440278/"
       },
       {
         "url": "https://images.pexels.com/photos/7767082/pexels-photo-7767082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1833,29 +1828,34 @@
         "page": "https://www.pexels.com/photo/a-wall-mounted-television-turned-on-7767082/"
       },
       {
-        "url": "https://images.pexels.com/photos/4406685/pexels-photo-4406685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Anastasia  Shuraeva",
-        "page": "https://www.pexels.com/photo/a-couple-lying-in-bed-4406685/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/33440278/pexels-photo-33440278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Zulfugar Karimov",
-        "page": "https://www.pexels.com/photo/youtube-logo-on-laptop-screen-in-dark-setting-33440278/"
-      },
-      {
         "url": "https://images.pexels.com/photos/6789625/pexels-photo-6789625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/a-romantic-couple-lying-on-the-bed-while-watching-6789625/"
       },
       {
+        "url": "https://images.pexels.com/photos/5146492/pexels-photo-5146492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Stefan Coders",
+        "page": "https://www.pexels.com/photo/person-holding-blue-iphone-5-c-5146492/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/4406685/pexels-photo-4406685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Anastasia  Shuraeva",
+        "page": "https://www.pexels.com/photo/a-couple-lying-in-bed-4406685/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/4009401/pexels-photo-4009401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/people-sitting-on-a-couch-watching-4009401/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/15688993/pexels-photo-15688993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Caleb Oquendo",
+        "page": "https://www.pexels.com/photo/movie-camera-broadcasting-15688993/"
+      },
+      {
         "url": "https://images.pexels.com/photos/6964151/pexels-photo-6964151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/a-person-holding-smartphone-6964151/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/4009409/pexels-photo-4009409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/couple-love-sitting-evening-4009409/"
       }
     ]
   },
