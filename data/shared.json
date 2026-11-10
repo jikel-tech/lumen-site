@@ -1,5 +1,6 @@
 {
   "ids": [
+    "e18f58ec7dc7",
     "86b41df65fce",
     "9db09faaa15b",
     "8f9edb697d23",
@@ -38,8 +39,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-10T22:40:50.295Z",
+      "id": "e18f58ec7dc7",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-10T15:57:55.230Z",
       "id": "86b41df65fce",
