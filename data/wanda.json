@@ -1,5 +1,29 @@
 [
   {
+    "id": "fc6caa4482b3",
+    "title": "ELECAM : Enow Abrams Egbe reconduit président du Conseil électoral !",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/10/elecam-enow-abrams-egbe-reconduit-president-du-conseil-electoral/",
+    "pubDate": "2026-11-10T00:40:18.000Z",
+    "summary": "Le président Paul Biya a reconduit Enow Abrams Egbe au poste de président du Conseil électoral d’Elections Cameroon (ELECAM). Par décret présidentiel signé ce lundi […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
+    "id": "3627dedc6bdd",
+    "title": "Cameroun : Paul Biya fixe les élections législatives et municipales au 7 février 2027",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/09/cameroun-paul-biya-fixe-les-elections-legislatives-et-municipales-au-7-fevrier-2027/",
+    "pubDate": "2026-11-09T23:50:52.000Z",
+    "summary": "Les élections législatives et municipales se tiendront le 7 février 2027. Le décret portant convocation du corps électoral a été signé ce lundi 9 novembre […]",
+    "coverage": 1,
+    "also": []
+  },
+  {
     "id": "6ac8c8611095",
     "title": "Enzo Ebosse retrouve les Lions Indomptables : « Je suis très heureux d’être de retour »",
     "source": "ActuCameroun",
@@ -1777,30 +1801,6 @@
     "url": "https://actucameroun.com/2026/11/05/le-rdpc-celebre-les-44-ans-du-renouveau-fidelite-mobilisation-et-serenite-au-coeur-des-festivites/",
     "pubDate": "2026-11-05T10:28:37.000Z",
     "summary": "À l’approche du vendredi 6 novembre 2026, le Rassemblement démocratique du peuple camerounais (RDPC) s’apprête à commémorer le 44ème anniversaire de l’accession de Paul Biya […]",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "b9bd9b2e7de7",
-    "title": "Yoyo-Yolanda : le Cameroun et la Guinée équatoriale s’accordent avant les négociations avec Chevron",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://actucameroun.com/2026/11/05/yoyo-yolanda-le-cameroun-et-la-guinee-equatoriale-saccordent-avant-les-negociations-avec-chevron/",
-    "pubDate": "2026-11-05T10:04:33.000Z",
-    "summary": "Réunies à Yaoundé le 4 novembre 2026, les délégations camerounaise et équato-guinéenne ont harmonisé leurs positions sur le projet d’Accord d’Opérations de l’Unité (AOU). Cette […]",
-    "coverage": 1,
-    "also": []
-  },
-  {
-    "id": "4bfa81682f3b",
-    "title": "Cameroun : 5,5 milliards de F pour appuyer 20 000 jeunes vulnérables travaillant à leur propre compte",
-    "source": "Journal du Cameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://fr.journalducameroun.com/cameroun-55-milliards-de-f-pour-appuyer-20-000-jeunes-vulnerables-travaillant-a-leur-propre-compte/",
-    "pubDate": "2026-11-05T10:00:44.000Z",
-    "summary": "© (DR) Le gouvernement lance les inscriptions en ligne en vue du financement des microentreprises des jeunes pour le compte de la nouvelle phase du Programme inclusion économique des jeunes du Projet…",
     "coverage": 1,
     "also": []
   }
