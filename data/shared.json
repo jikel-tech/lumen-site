@@ -1,5 +1,6 @@
 {
   "ids": [
+    "78cc511dd517",
     "e18f58ec7dc7",
     "86b41df65fce",
     "9db09faaa15b",
@@ -39,8 +40,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-11T15:43:40.690Z",
+      "id": "78cc511dd517",
+      "title": "Test ASUS ROG Gjallar : une petite barre pour un gros son, pas sans compromis",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-10T22:40:50.295Z",
       "id": "e18f58ec7dc7",
