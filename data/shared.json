@@ -1,5 +1,6 @@
 {
   "ids": [
+    "c54b4c6c8969",
     "d3c21aad1252",
     "8db93c5e1a80",
     "4d11b901b0aa",
@@ -43,8 +44,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-13T15:48:25.175Z",
+      "id": "c54b4c6c8969",
+      "title": "Grosse chute de prix pour Borderlands 4 sur PS5",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-12T23:00:39.912Z",
       "id": "d3c21aad1252",
