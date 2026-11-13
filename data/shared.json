@@ -1,5 +1,6 @@
 {
   "ids": [
+    "9b3aa77d2c63",
     "c54b4c6c8969",
     "d3c21aad1252",
     "8db93c5e1a80",
@@ -44,8 +45,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-13T23:04:04.662Z",
+      "id": "9b3aa77d2c63",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-13T15:48:25.175Z",
       "id": "c54b4c6c8969",
