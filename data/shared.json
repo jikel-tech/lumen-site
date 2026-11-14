@@ -1,5 +1,6 @@
 {
   "ids": [
+    "23e7a739fd26",
     "9b3aa77d2c63",
     "c54b4c6c8969",
     "d3c21aad1252",
@@ -45,8 +46,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-14T14:39:57.339Z",
+      "id": "23e7a739fd26",
+      "title": "Black Friday : les SSD Samsung et Crucial enfin en baisse chez la Fnac et Boulanger",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-13T23:04:04.662Z",
       "id": "9b3aa77d2c63",
