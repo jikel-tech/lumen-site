@@ -1,5 +1,6 @@
 {
   "ids": [
+    "631dffdc5f9d",
     "23e7a739fd26",
     "9b3aa77d2c63",
     "c54b4c6c8969",
@@ -46,8 +47,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-14T21:51:07.702Z",
+      "id": "631dffdc5f9d",
+      "title": "Microsoft : Outlook et Teams sont de nouveau accessibles après plus de 24 heures de panne mondiale",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-14T14:39:57.339Z",
       "id": "23e7a739fd26",
