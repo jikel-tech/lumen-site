@@ -930,12 +930,22 @@
     ]
   },
   "software developer coding": {
-    "at": "2026-11-08T15:41:57.194Z",
+    "at": "2026-11-15T23:02:30.923Z",
     "photos": [
       {
         "url": "https://images.pexels.com/photos/36706459/pexels-photo-36706459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Zayed Hossain",
         "page": "https://www.pexels.com/photo/focused-developer-at-dual-monitor-setup-36706459/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/256502/pexels-photo-256502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pixabay",
+        "page": "https://www.pexels.com/photo/close-up-of-text-on-black-background-256502/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/6424583/pexels-photo-6424583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Nemuel Sereti",
+        "page": "https://www.pexels.com/photo/monitor-displaying-lines-of-code-6424583/"
       },
       {
         "url": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -948,14 +958,19 @@
         "page": "https://www.pexels.com/photo/selective-focus-photography-of-man-facing-computer-340152/"
       },
       {
+        "url": "https://images.pexels.com/photos/6804610/pexels-photo-6804610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/employee-working-in-html-editor-6804610/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/34803998/pexels-photo-34803998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Daniil Komov",
+        "page": "https://www.pexels.com/photo/close-up-of-computer-screen-with-code-and-reflection-34803998/"
+      },
+      {
         "url": "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Daniil Komov",
         "page": "https://www.pexels.com/photo/reflection-in-a-laptop-screen-showing-code-34804011/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/6424583/pexels-photo-6424583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Nemuel Sereti",
-        "page": "https://www.pexels.com/photo/monitor-displaying-lines-of-code-6424583/"
       },
       {
         "url": "https://images.pexels.com/photos/37880001/pexels-photo-37880001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -968,9 +983,9 @@
         "page": "https://www.pexels.com/photo/programming-data-on-a-computer-14553707/"
       },
       {
-        "url": "https://images.pexels.com/photos/16129724/pexels-photo-16129724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Lisa Fotios",
-        "page": "https://www.pexels.com/photo/man-working-on-computers-coding-16129724/"
+        "url": "https://images.pexels.com/photos/4955393/pexels-photo-4955393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Godfrey  Atima",
+        "page": "https://www.pexels.com/photo/a-black-flat-screen-monitor-4955393/"
       },
       {
         "url": "https://images.pexels.com/photos/18935831/pexels-photo-18935831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -978,19 +993,14 @@
         "page": "https://www.pexels.com/photo/programmer-working-at-desk-18935831/"
       },
       {
-        "url": "https://images.pexels.com/photos/6804610/pexels-photo-6804610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/employee-working-in-html-editor-6804610/"
-      },
-      {
         "url": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Lukas Blazek",
         "page": "https://www.pexels.com/photo/person-encoding-in-laptop-574071/"
       },
       {
-        "url": "https://images.pexels.com/photos/34803998/pexels-photo-34803998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Daniil Komov",
-        "page": "https://www.pexels.com/photo/close-up-of-computer-screen-with-code-and-reflection-34803998/"
+        "url": "https://images.pexels.com/photos/16129724/pexels-photo-16129724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lisa Fotios",
+        "page": "https://www.pexels.com/photo/man-working-on-computers-coding-16129724/"
       },
       {
         "url": "https://images.pexels.com/photos/19805877/pexels-photo-19805877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1013,14 +1023,14 @@
         "page": "https://www.pexels.com/photo/focused-coding-session-with-laptop-and-coffee-34803969/"
       },
       {
+        "url": "https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lukas Blazek",
+        "page": "https://www.pexels.com/photo/person-wearing-black-watch-holding-macbook-pro-574080/"
+      },
+      {
         "url": "https://images.pexels.com/photos/6803522/pexels-photo-6803522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/a-programmer-working-at-the-office-6803522/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Lukas Blazek",
-        "page": "https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/"
       },
       {
         "url": "https://images.pexels.com/photos/574087/pexels-photo-574087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1028,9 +1038,9 @@
         "page": "https://www.pexels.com/photo/person-using-macbook-on-table-top-574087/"
       },
       {
-        "url": "https://images.pexels.com/photos/37880101/pexels-photo-37880101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Alicia Christin Gerald",
-        "page": "https://www.pexels.com/photo/developer-coding-on-a-laptop-setup-indoors-37880101/"
+        "url": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Christina Morillo",
+        "page": "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
       },
       {
         "url": "https://images.pexels.com/photos/34803973/pexels-photo-34803973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1038,9 +1048,14 @@
         "page": "https://www.pexels.com/photo/laptop-with-coding-software-and-coffee-mug-34803973/"
       },
       {
-        "url": "https://images.pexels.com/photos/6804604/pexels-photo-6804604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/a-man-using-computer-6804604/"
+        "url": "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lukas Blazek",
+        "page": "https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/37880101/pexels-photo-37880101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Alicia Christin Gerald",
+        "page": "https://www.pexels.com/photo/developer-coding-on-a-laptop-setup-indoors-37880101/"
       },
       {
         "url": "https://images.pexels.com/photos/7172094/pexels-photo-7172094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1048,14 +1063,14 @@
         "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-7172094/"
       },
       {
-        "url": "https://images.pexels.com/photos/4955393/pexels-photo-4955393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Godfrey  Atima",
-        "page": "https://www.pexels.com/photo/a-black-flat-screen-monitor-4955393/"
+        "url": "https://images.pexels.com/photos/6804604/pexels-photo-6804604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/a-man-using-computer-6804604/"
       },
       {
-        "url": "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/programmer-looking-with-dissatisfaction-6804594/"
+        "url": "https://images.pexels.com/photos/36706460/pexels-photo-36706460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Zayed Hossain",
+        "page": "https://www.pexels.com/photo/developer-working-on-code-in-a-modern-office-36706460/"
       },
       {
         "url": "https://images.pexels.com/photos/14553704/pexels-photo-14553704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1063,24 +1078,9 @@
         "page": "https://www.pexels.com/photo/code-on-screen-14553704/"
       },
       {
-        "url": "https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Myburgh Roux",
-        "page": "https://www.pexels.com/photo/programming-codes-screengrab-1102797/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Markus Spiske",
-        "page": "https://www.pexels.com/photo/internet-technology-computer-display-360591/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/4976710/pexels-photo-4976710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Godfrey  Atima",
-        "page": "https://www.pexels.com/photo/close-up-of-codes-on-a-computer-screen-4976710/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/34803966/pexels-photo-34803966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Daniil Komov",
-        "page": "https://www.pexels.com/photo/close-up-of-computer-screen-with-code-displayed-34803966/"
+        "url": "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/programmer-looking-with-dissatisfaction-6804594/"
       }
     ]
   },
