@@ -1,5 +1,6 @@
 {
   "ids": [
+    "cdb4f29230e4",
     "631dffdc5f9d",
     "23e7a739fd26",
     "9b3aa77d2c63",
@@ -47,8 +48,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-15T15:08:08.959Z",
+      "id": "cdb4f29230e4",
+      "title": "Pour le Black Friday, Back Market frappe fort sur les prix des iPhone et iPad reconditionnés, jusqu’à -64%",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-14T21:51:07.702Z",
       "id": "631dffdc5f9d",
