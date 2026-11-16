@@ -1,5 +1,6 @@
 {
   "ids": [
+    "7416fd7eb18f",
     "4b302b1fb61b",
     "cdb4f29230e4",
     "631dffdc5f9d",
@@ -49,8 +50,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "wanda",
   "log": [
+    {
+      "at": "2026-11-16T17:41:55.802Z",
+      "id": "7416fd7eb18f",
+      "title": "Pour un Cameroun de la concorde : de la société de la haine à la société de l’hospitalité inconditionnelle",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-15T22:19:16.649Z",
       "id": "4b302b1fb61b",
