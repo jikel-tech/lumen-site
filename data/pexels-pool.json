@@ -310,17 +310,17 @@
     ]
   },
   "artificial intelligence": {
-    "at": "2026-11-08T23:51:54.747Z",
+    "at": "2026-11-16T02:54:55.982Z",
     "photos": [
-      {
-        "url": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Alex Knight",
-        "page": "https://www.pexels.com/photo/high-angle-photo-of-robot-2599244/"
-      },
       {
         "url": "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pavel Danilyuk",
         "page": "https://www.pexels.com/photo/white-toy-robot-of-pink-and-purple-background-8294654/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Alex Knight",
+        "page": "https://www.pexels.com/photo/high-angle-photo-of-robot-2599244/"
       },
       {
         "url": "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -348,14 +348,14 @@
         "page": "https://www.pexels.com/photo/white-and-blue-robot-toy-on-blue-string-lights-8566467/"
       },
       {
-        "url": "https://images.pexels.com/photos/6019019/pexels-photo-6019019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Laura Musikanski",
-        "page": "https://www.pexels.com/photo/close-up-shot-of-a-white-robot-6019019/"
-      },
-      {
         "url": "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Kindel Media",
         "page": "https://www.pexels.com/photo/white-and-blue-robot-figure-8566473/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/6019019/pexels-photo-6019019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Laura Musikanski",
+        "page": "https://www.pexels.com/photo/close-up-shot-of-a-white-robot-6019019/"
       },
       {
         "url": "https://images.pexels.com/photos/8294606/pexels-photo-8294606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -378,11 +378,6 @@
         "page": "https://www.pexels.com/photo/a-scientist-testing-a-device-8439082/"
       },
       {
-        "url": "https://images.pexels.com/photos/8438927/pexels-photo-8438927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Pavel Danilyuk",
-        "page": "https://www.pexels.com/photo/a-bearded-man-playing-chess-8438927/"
-      },
-      {
         "url": "https://images.pexels.com/photos/8438957/pexels-photo-8438957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pavel Danilyuk",
         "page": "https://www.pexels.com/photo/robot-picking-a-chess-piece-8438957/"
@@ -393,9 +388,19 @@
         "page": "https://www.pexels.com/photo/a-boy-sitting-on-the-floor-while-looking-at-the-robot-standing-in-front-of-him-8294791/"
       },
       {
+        "url": "https://images.pexels.com/photos/8438927/pexels-photo-8438927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pavel Danilyuk",
+        "page": "https://www.pexels.com/photo/a-bearded-man-playing-chess-8438927/"
+      },
+      {
         "url": "https://images.pexels.com/photos/8438940/pexels-photo-8438940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pavel Danilyuk",
         "page": "https://www.pexels.com/photo/woman-playing-chess-against-a-robot-8438940/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8566470/pexels-photo-8566470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Kindel Media",
+        "page": "https://www.pexels.com/photo/white-robot-action-figure-on-blue-string-lights-8566470/"
       },
       {
         "url": "https://images.pexels.com/photos/8438943/pexels-photo-8438943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -406,11 +411,6 @@
         "url": "https://images.pexels.com/photos/8438944/pexels-photo-8438944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pavel Danilyuk",
         "page": "https://www.pexels.com/photo/a-person-playing-chess-8438944/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/8566470/pexels-photo-8566470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Kindel Media",
-        "page": "https://www.pexels.com/photo/white-robot-action-figure-on-blue-string-lights-8566470/"
       },
       {
         "url": "https://images.pexels.com/photos/8439174/pexels-photo-8439174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -428,24 +428,9 @@
         "page": "https://www.pexels.com/photo/an-artificial-intelligence-illustration-on-the-wall-8849295/"
       },
       {
-        "url": "https://images.pexels.com/photos/8438951/pexels-photo-8438951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Pavel Danilyuk",
-        "page": "https://www.pexels.com/photo/woman-in-white-shirt-playing-chess-against-a-robot-8438951/"
-      },
-      {
         "url": "https://images.pexels.com/photos/8438945/pexels-photo-8438945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pavel Danilyuk",
         "page": "https://www.pexels.com/photo/robot-picking-a-chess-piece-8438945/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/8438916/pexels-photo-8438916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Pavel Danilyuk",
-        "page": "https://www.pexels.com/photo/a-bearded-man-playing-chess-8438916/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/8294624/pexels-photo-8294624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Pavel Danilyuk",
-        "page": "https://www.pexels.com/photo/grayscale-of-futuristic-dancing-robot-8294624/"
       },
       {
         "url": "https://images.pexels.com/photos/8294560/pexels-photo-8294560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -461,6 +446,21 @@
         "url": "https://images.pexels.com/photos/8386358/pexels-photo-8386358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Tara Winstead",
         "page": "https://www.pexels.com/photo/white-hand-on-white-background-8386358/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/32021560/pexels-photo-32021560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Tim Witzdam",
+        "page": "https://www.pexels.com/photo/smartphone-displaying-ai-chat-interface-32021560/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8438951/pexels-photo-8438951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pavel Danilyuk",
+        "page": "https://www.pexels.com/photo/woman-in-white-shirt-playing-chess-against-a-robot-8438951/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/31233586/pexels-photo-31233586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Sun God Apolo",
+        "page": "https://www.pexels.com/photo/futuristic-chrome-robot-against-blue-sky-31233586/"
       }
     ]
   },
