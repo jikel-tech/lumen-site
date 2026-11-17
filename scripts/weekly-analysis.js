@@ -9,7 +9,7 @@
 
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, isoWeek, gemini, pageShell, CAT_LABELS, score, readMixed } from './lib.js';
+import { ROOT, DATA, SITE_URL, readJson, writeJson, escapeHtml as h, safeUrl, frDate, isoWeek, llm, aiProviders, pageShell, CAT_LABELS, score, readMixed } from './lib.js';
 
 const OUT = process.env.OUT_DIR || ROOT;
 const MIN_ARTICLES = 8;
@@ -54,7 +54,7 @@ ${items.map((x) => `<div class="item"><h3><a href="${h(safeUrl(x.url))}" target=
 }
 
 async function main() {
-  if (!process.env.GEMINI_API_KEY) { console.log('GEMINI_API_KEY absente : analyse hebdomadaire ignorée.'); return; }
+  if (!aiProviders().length) { console.log('Aucune clé IA : analyse hebdomadaire ignorée.'); return; }
   const articles = await readMixed();
   const since = Date.now() - 7 * 86400_000;
   const items = articles
@@ -64,7 +64,7 @@ async function main() {
   if (items.length < MIN_ARTICLES) { console.log(`Seulement ${items.length} actus cette semaine : analyse ignorée.`); return; }
 
   const week = isoWeek();
-  const raw = await gemini(buildPrompt(items), { json: true, maxOutputTokens: 2500, temperature: 0.6 });
+  const raw = await llm(buildPrompt(items), { json: true, maxOutputTokens: 2500, temperature: 0.6 });
   let analysis = null;
   try { analysis = JSON.parse(String(raw || '').replace(/^```(?:json)?/i, '').replace(/```$/, '').trim()); } catch { /* invalide */ }
   if (!valid(analysis)) { console.error('Réponse IA invalide : analyse non publiée (l’ancienne reste en place).'); process.exitCode = 1; return; }

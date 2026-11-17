@@ -79,6 +79,109 @@ export async function gemini(prompt, { json = false, maxOutputTokens = 1024, tem
   }
 }
 
+// -----------------------------------------------------------------------
+// Chaîne d'IA de secours : Gemini d'abord, puis (si pas de clé / quota atteint / erreur) Groq, Mistral,
+// OpenRouter, NVIDIA, Anthropic. Chaque fournisseur n'est utilisé que si sa clé existe dans les secrets.
+// Les modèles sont modifiables sans toucher au code (variables GROQ_MODEL, MISTRAL_MODEL, etc.).
+// -----------------------------------------------------------------------
+const env = (...names) => names.map((n) => process.env[n]).find(Boolean) || '';
+
+const COMPAT = [
+  { name: 'groq', url: 'https://api.groq.com/openai/v1/chat/completions', json: true,
+    key: () => env('GROQ_API_KEY'), model: () => env('GROQ_MODEL') || 'llama-3.3-70b-versatile' },
+  { name: 'mistral', url: 'https://api.mistral.ai/v1/chat/completions', json: true,
+    key: () => env('MISTRAL_API_KEY'), model: () => env('MISTRAL_MODEL') || 'mistral-small-latest' },
+  { name: 'openrouter', url: 'https://openrouter.ai/api/v1/chat/completions', json: false,
+    key: () => env('OPENROUTER_API_KEY'), model: () => env('OPENROUTER_MODEL') || 'meta-llama/llama-3.3-70b-instruct:free' },
+  { name: 'nvidia', url: 'https://integrate.api.nvidia.com/v1/chat/completions', json: false,
+    key: () => env('NVIDIA_API_KEY'), model: () => env('NVIDIA_MODEL') || 'meta/llama-3.3-70b-instruct' },
+];
+
+const errCount = {};
+function logErr(name, msg) {
+  if ((errCount[name] = (errCount[name] || 0) + 1) <= 2) console.error(`${name} : ${msg}`.slice(0, 350));
+}
+
+async function compatCall(p, prompt, { json, maxOutputTokens, temperature }) {
+  const key = p.key();
+  try {
+    const res = await fetch(p.url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+      body: JSON.stringify({
+        model: p.model(),
+        messages: [{ role: 'user', content: prompt }],
+        max_tokens: maxOutputTokens,
+        temperature,
+        ...(json && p.json ? { response_format: { type: 'json_object' } } : {}),
+      }),
+      signal: AbortSignal.timeout(60000),
+    });
+    if (!res.ok) { logErr(p.name, `HTTP ${res.status} (modèle ${p.model()}) ${(await res.text()).replaceAll(key, '***')}`); return null; }
+    const data = await res.json();
+    return data?.choices?.[0]?.message?.content?.trim() || null;
+  } catch (err) {
+    logErr(p.name, err.message);
+    return null;
+  }
+}
+
+async function anthropicCall(prompt, { maxOutputTokens, temperature }) {
+  const key = env('ANTHROPIC_API_KEY');
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
+      body: JSON.stringify({
+        model: env('ANTHROPIC_MODEL') || 'claude-haiku-5-5',
+        max_tokens: maxOutputTokens,
+        temperature,
+        messages: [{ role: 'user', content: prompt }],
+      }),
+      signal: AbortSignal.timeout(60000),
+    });
+    if (!res.ok) { logErr('anthropic', `HTTP ${res.status} ${(await res.text()).replaceAll(key, '***')}`); return null; }
+    const data = await res.json();
+    return data?.content?.[0]?.text?.trim() || null;
+  } catch (err) {
+    logErr('anthropic', err.message);
+    return null;
+  }
+}
+
+const PROVIDERS = [
+  { name: 'gemini', has: () => !!env('GEMINI_API_KEY'), run: (pr, o) => gemini(pr, o) },
+  ...COMPAT.map((p) => ({ name: p.name, has: () => !!p.key(), run: (pr, o) => compatCall(p, pr, o) })),
+  { name: 'anthropic', has: () => !!env('ANTHROPIC_API_KEY'), run: (pr, o) => anthropicCall(pr, o) },
+];
+
+// Noms des fournisseurs dont la clé est présente (jamais les clés elles-mêmes).
+export const aiProviders = () => PROVIDERS.filter((p) => p.has()).map((p) => p.name);
+
+const strikes = {};
+const benched = new Set(); // fournisseurs mis de côté jusqu'à la fin de ce passage (quota atteint, panne)
+export const aiUsage = {};
+
+// Essaie chaque fournisseur dans l'ordre. `accept(texte)` (facultatif) rejette une réponse inutilisable
+// (ex. JSON invalide) : on passe alors au fournisseur suivant. Renvoie le texte, ou null si tout a échoué.
+export async function llm(prompt, { json = false, maxOutputTokens = 1024, temperature = 0.4, accept } = {}) {
+  const opts = { json, maxOutputTokens, temperature };
+  for (const p of PROVIDERS) {
+    if (!p.has() || benched.has(p.name)) continue;
+    const text = await p.run(prompt, opts);
+    if (text && (!accept || accept(text))) {
+      strikes[p.name] = 0;
+      aiUsage[p.name] = (aiUsage[p.name] || 0) + 1;
+      return text;
+    }
+    if ((strikes[p.name] = (strikes[p.name] || 0) + 1) >= 3) {
+      benched.add(p.name);
+      console.log(`⏸️ ${p.name} mis de côté jusqu'à la fin de ce passage.`);
+    }
+  }
+  return null;
+}
+
 export function frDate(d, opts = { dateStyle: 'long' }) {
   return new Intl.DateTimeFormat('fr-FR', { timeZone: 'Africa/Douala', ...opts }).format(new Date(d));
 }

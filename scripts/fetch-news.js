@@ -4,14 +4,15 @@
 // Exécuté toutes les 30 min par GitHub Actions (.github/workflows/fetch-news.yml).
 //
 // Usage local : cd scripts && npm install && node fetch-news.js
-// Variables optionnelles : GEMINI_API_KEY (résumés IA), ANTHROPIC_API_KEY (repli).
+// Variables optionnelles (résumés IA, essayées dans cet ordre) : GEMINI_API_KEY, GROQ_API_KEY, MISTRAL_API_KEY,
+// OPENROUTER_API_KEY, NVIDIA_API_KEY, ANTHROPIC_API_KEY.
 // Pour tester avec d'autres flux : FEEDS_PATH=/chemin/feeds.json DATA_DIR=/dossier node fetch-news.js
 
 import { XMLParser } from 'fast-xml-parser';
 import { createHash } from 'node:crypto';
 import { mkdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
-import { ROOT, DATA, readJson, writeJson, safeUrl, gemini } from './lib.js';
+import { ROOT, DATA, readJson, writeJson, safeUrl, llm, aiProviders, aiUsage } from './lib.js';
 import { attachPhotos } from './pexels.js';
 
 const FEEDS_PATH = process.env.FEEDS_PATH || path.join(ROOT, 'scripts', 'feeds.json');
@@ -256,7 +257,9 @@ function parseAi(raw) {
   if (!raw) return null;
   try {
     const clean = raw.replace(/^```(?:json)?/i, '').replace(/```$/, '').trim();
-    const obj = JSON.parse(clean);
+    // Certains modèles ajoutent une phrase avant/après le JSON : on isole l'objet { ... }.
+    const a = clean.indexOf('{'), b = clean.lastIndexOf('}');
+    const obj = JSON.parse(a >= 0 && b > a ? clean.slice(a, b + 1) : clean);
     const summary = typeof obj.summary === 'string' ? obj.summary.trim() : '';
     if (summary.length < 20 || summary.length > 700) return null;
     const keywords = Array.isArray(obj.keywords)
@@ -269,26 +272,9 @@ function parseAi(raw) {
 }
 
 async function aiSummarize(item) {
-  const prompt = buildPrompt(item);
-  const fromGemini = parseAi(await gemini(prompt, { json: true, maxOutputTokens: 400 }));
-  if (fromGemini) return fromGemini;
-
-  const anthropicKey = process.env.ANTHROPIC_API_KEY;
-  if (anthropicKey) {
-    try {
-      const res = await fetch('https://api.anthropic.com/v1/messages', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'x-api-key': anthropicKey, 'anthropic-version': '2023-06-01' },
-        body: JSON.stringify({ model: 'claude-haiku-4-5-20251001', max_tokens: 400, messages: [{ role: 'user', content: prompt }] }),
-        signal: AbortSignal.timeout(30000),
-      });
-      const data = await res.json();
-      return parseAi(data?.content?.[0]?.text);
-    } catch (err) {
-      console.error('Résumé Anthropic indisponible :', err.message);
-    }
-  }
-  return null;
+  // Gemini d'abord, puis les fournisseurs de secours ; une réponse au JSON invalide passe au suivant.
+  const raw = await llm(buildPrompt(item), { json: true, maxOutputTokens: 400, accept: (t) => !!parseAi(t) });
+  return parseAi(raw);
 }
 
 // -----------------------------------------------------------------------
@@ -425,7 +411,9 @@ async function main() {
 
   // 3. Résumés IA pour les nouveaux articles seulement (les plus récents d'abord)
   const todo = merged.filter((a) => !a.aiDone).slice(0, MAX_NEW_SUMMARIES);
-  const hasKey = !!(process.env.GEMINI_API_KEY || process.env.ANTHROPIC_API_KEY);
+  const providers = aiProviders();
+  const hasKey = providers.length > 0;
+  if (todo.length) console.log(`🔑 IA disponibles : ${providers.join(', ') || 'aucune'}`);
   if (hasKey && todo.length) {
     let done = 0;
     let failStreak = 0;
@@ -447,7 +435,7 @@ async function main() {
       if (failStreak >= 2) { console.log('⏸️ Quota IA atteint : suite au prochain passage.'); break; }
       await sleep(2500);
     }
-    console.log(`🤖 ${done}/${todo.length} résumés IA générés`);
+    console.log(`🤖 ${done}/${todo.length} résumés IA générés ${JSON.stringify(aiUsage)}`);
   }
 
   // 3b. Photos d'illustration Pexels (facultatif, sans effet sans clé)
