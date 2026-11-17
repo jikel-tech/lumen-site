@@ -88,13 +88,20 @@ const env = (...names) => names.map((n) => process.env[n]).find(Boolean) || '';
 
 const COMPAT = [
   { name: 'groq', url: 'https://api.groq.com/openai/v1/chat/completions', json: true,
-    key: () => env('GROQ_API_KEY'), model: () => env('GROQ_MODEL') || 'llama-3.3-70b-versatile' },
+    key: () => env('GROQ_API_KEY', 'GROQ_IA_API_KEY'), model: () => env('GROQ_MODEL') || 'llama-3.3-70b-versatile',
+    prefer: [/llama-3\.3-70b/, /gpt-oss-120b/, /llama.*70b/, /gpt-oss-20b/, /qwen.*(32b|3)/, /llama.*(8b|instant)/],
+    skip: /whisper|guard|tts|orpheus|playai|vision|compound|distil|embed/ },
   { name: 'mistral', url: 'https://api.mistral.ai/v1/chat/completions', json: true,
-    key: () => env('MISTRAL_API_KEY'), model: () => env('MISTRAL_MODEL') || 'mistral-small-latest' },
+    key: () => env('MISTRAL_API_KEY', 'MISTRAL_IA_API_KEY', 'MISTRAL_AI_API_KEY', 'MISTRAL_KEY'), model: () => env('MISTRAL_MODEL') || 'mistral-small-latest',
+    prefer: [/mistral-small/, /mistral-medium/, /mistral-large/, /ministral/], skip: /embed|moderation|ocr|codestral|pixtral|voxtral/ },
   { name: 'openrouter', url: 'https://openrouter.ai/api/v1/chat/completions', json: false,
-    key: () => env('OPENROUTER_API_KEY'), model: () => env('OPENROUTER_MODEL') || 'meta-llama/llama-3.3-70b-instruct:free' },
+    key: () => env('OPENROUTER_API_KEY', 'OPENROUTER_IA_API_KEY', 'OPENROUTE_IA_API_KEY'), model: () => env('OPENROUTER_MODEL') || 'meta-llama/llama-3.3-70b-instruct:free',
+    only: /:free$/, prefer: [/llama-3\.3-70b/, /gpt-oss-120b/, /mistral.*(small|large)/, /qwen.*(72b|235b|32b)/, /gemma.*(27b|3)/, /deepseek/, /llama/],
+    skip: /vision|image|-vl|coder|embed|moderation|guard|audio|lyria/ },
   { name: 'nvidia', url: 'https://integrate.api.nvidia.com/v1/chat/completions', json: false,
-    key: () => env('NVIDIA_API_KEY'), model: () => env('NVIDIA_MODEL') || 'meta/llama-3.3-70b-instruct' },
+    key: () => env('NVIDIA_API_KEY', 'NVIDIA_IA_API_KEY'), model: () => env('NVIDIA_MODEL') || 'meta/llama-3.3-70b-instruct',
+    prefer: [/llama-3\.3-70b-instruct/, /llama-3\.1-70b-instruct/, /mistral-(large|small|medium)/, /nemotron.*(70b|super)/, /qwen.*instruct/, /llama.*instruct/],
+    skip: /embed|vision|-vl|guard|reward|safety|rerank|code|nv-|clip|parse/ },
 ];
 
 const errCount = {};
@@ -102,22 +109,53 @@ function logErr(name, msg) {
   if ((errCount[name] = (errCount[name] || 0) + 1) <= 2) console.error(`${name} : ${msg}`.slice(0, 350));
 }
 
-async function compatCall(p, prompt, { json, maxOutputTokens, temperature }) {
+// Les noms de modèles changent vite : si le modèle par défaut n'existe plus (erreur 404/400), on lit la liste
+// officielle du fournisseur (GET /models) et on prend le premier modèle qui correspond à nos préférences.
+const chosenModel = {};
+const discovered = new Set();
+async function discoverModel(p) {
+  if (discovered.has(p.name)) return null;
+  discovered.add(p.name);
+  try {
+    const res = await fetch(p.url.replace('/chat/completions', '/models'), {
+      headers: { Authorization: `Bearer ${p.key()}` },
+      signal: AbortSignal.timeout(30000),
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const ids = (data?.data || []).map((m) => m.id).filter((id) => typeof id === 'string' && (!p.only || p.only.test(id)) && !(p.skip && p.skip.test(id)));
+    for (const re of p.prefer) {
+      const hit = ids.find((id) => re.test(id));
+      if (hit) { console.log(`🔎 ${p.name} : modèle trouvé automatiquement → ${hit}`); return hit; }
+    }
+  } catch { /* ignoré */ }
+  return null;
+}
+
+async function compatCall(p, prompt, { json, maxOutputTokens, temperature }, model = chosenModel[p.name] || p.model()) {
   const key = p.key();
   try {
     const res = await fetch(p.url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
       body: JSON.stringify({
-        model: p.model(),
+        model,
         messages: [{ role: 'user', content: prompt }],
-        max_tokens: maxOutputTokens,
+        max_tokens: maxOutputTokens + 1500, // marge : certains modèles « réfléchissent » avant de répondre
         temperature,
         ...(json && p.json ? { response_format: { type: 'json_object' } } : {}),
       }),
       signal: AbortSignal.timeout(60000),
     });
-    if (!res.ok) { logErr(p.name, `HTTP ${res.status} (modèle ${p.model()}) ${(await res.text()).replaceAll(key, '***')}`); return null; }
+    if (!res.ok) {
+      const body = (await res.text()).replaceAll(key, '***');
+      if ((res.status === 404 || res.status === 400) && !discovered.has(p.name)) {
+        const alt = await discoverModel(p);
+        if (alt && alt !== model) { chosenModel[p.name] = alt; return compatCall(p, prompt, { json, maxOutputTokens, temperature }, alt); }
+      }
+      logErr(p.name, `HTTP ${res.status} (modèle ${model}) ${body}`);
+      return null;
+    }
     const data = await res.json();
     return data?.choices?.[0]?.message?.content?.trim() || null;
   } catch (err) {
