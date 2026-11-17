@@ -38,7 +38,7 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PEXEL_API_KEY: ${{ secrets.PEXEL_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY || secrets.MISTRAL_IA_API_KEY || secrets.MISTRAL_AI_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_IA_API_KEY || secrets.OPENROUTE_IA_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: node fetch-news.js
