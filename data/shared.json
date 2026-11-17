@@ -1,5 +1,6 @@
 {
   "ids": [
+    "64cd462428c2",
     "7416fd7eb18f",
     "4b302b1fb61b",
     "cdb4f29230e4",
@@ -50,8 +51,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "wanda",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-17T01:20:30.905Z",
+      "id": "64cd462428c2",
+      "title": "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-16T17:41:55.802Z",
       "id": "7416fd7eb18f",
