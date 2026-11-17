@@ -1,5 +1,6 @@
 {
   "ids": [
+    "39fdab3e4594",
     "64cd462428c2",
     "7416fd7eb18f",
     "4b302b1fb61b",
@@ -51,8 +52,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "afrique",
   "log": [
+    {
+      "at": "2026-11-17T17:14:50.043Z",
+      "id": "39fdab3e4594",
+      "title": "Benin wants to be Africa’s AI testbed. Cybersecurity is its starting point",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-17T01:20:30.905Z",
       "id": "64cd462428c2",
@@ -489,15 +499,6 @@
       "at": "2026-10-23T12:59:04.575Z",
       "id": "d1259963a189",
       "title": "Le Galaxy Fit 4 se montre en vidéo : Samsung garderait la formule de la mini-montre à petit prix",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-22T21:01:27.634Z",
-      "id": "2d8a9344d027",
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
