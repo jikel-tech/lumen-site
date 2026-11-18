@@ -1,5 +1,6 @@
 {
   "ids": [
+    "be255dab6566",
     "39fdab3e4594",
     "64cd462428c2",
     "7416fd7eb18f",
@@ -52,8 +53,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "afrique",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-18T00:16:50.585Z",
+      "id": "be255dab6566",
+      "title": "Microsoft dégaine 7 modèles d’IA maison pour concurrencer OpenAI et Claude",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-17T17:14:50.043Z",
       "id": "39fdab3e4594",
@@ -490,15 +500,6 @@
       "at": "2026-10-23T20:50:14.066Z",
       "id": "6cb61be1659d",
       "title": "SpaceX prépare la retraite de Falcon 9, un problème pour l'armée américaine",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-23T12:59:04.575Z",
-      "id": "d1259963a189",
-      "title": "Le Galaxy Fit 4 se montre en vidéo : Samsung garderait la formule de la mini-montre à petit prix",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
