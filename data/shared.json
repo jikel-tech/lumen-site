@@ -1,5 +1,6 @@
 {
   "ids": [
+    "268a4ca1d7ff",
     "4342a9d35c37",
     "c44e96306d31",
     "be255dab6566",
@@ -55,8 +56,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-19T16:57:51.084Z",
+      "id": "268a4ca1d7ff",
+      "title": "GTA 6 : les 5 réglages TV à faire sur PS5 et Xbox Series pour en profiter au maximum",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-18T23:44:23.217Z",
       "id": "4342a9d35c37",
@@ -493,15 +503,6 @@
       "at": "2026-10-25T12:52:26.838Z",
       "id": "52e4aa2e5df8",
       "title": "On a testé le Mac Studio M5 Ultra à 14 000 € : une puissance monstrueuse, mais pour qui ?",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-24T20:01:06.604Z",
-      "id": "dbe76530e989",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
