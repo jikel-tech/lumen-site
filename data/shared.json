@@ -1,5 +1,6 @@
 {
   "ids": [
+    "16162b1dd9a1",
     "268a4ca1d7ff",
     "4342a9d35c37",
     "c44e96306d31",
@@ -56,8 +57,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-20T00:03:36.850Z",
+      "id": "16162b1dd9a1",
+      "title": "Cette astuce transforme votre iPhone Duo en véritable liseuse Kindle dès que vous l’ouvrez",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-19T16:57:51.084Z",
       "id": "268a4ca1d7ff",
@@ -494,15 +504,6 @@
       "at": "2026-10-25T20:11:48.153Z",
       "id": "2bc6d868814e",
       "title": "Panne géante chez Orange, failles PHP et test de l’iPhone Duo – le récap’ tech de la semaine",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-25T12:52:26.838Z",
-      "id": "52e4aa2e5df8",
-      "title": "On a testé le Mac Studio M5 Ultra à 14 000 € : une puissance monstrueuse, mais pour qui ?",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
