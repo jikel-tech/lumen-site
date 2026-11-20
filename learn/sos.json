@@ -1,0 +1,96 @@
+[
+  { "id": "tel-lent", "title": "Mon téléphone est devenu lent", "emoji": "🐢", "tags": ["téléphone", "android", "lenteur"],
+    "intro": "Un téléphone qui rame vient presque toujours de trois choses : mémoire pleine, trop d'applications en arrière-plan, ou système pas à jour.",
+    "steps": [
+      { "t": "Redémarre-le", "d": "Éteins complètement le téléphone, attends 10 secondes, rallume-le. Cela vide la mémoire vive et règle beaucoup de lenteurs." },
+      { "t": "Vérifie l'espace de stockage", "d": "Va dans Paramètres → Stockage. S'il reste moins de 10 % libre, le téléphone ralentit. Supprime vidéos, doublons et gros fichiers WhatsApp (Paramètres de WhatsApp → Stockage et données)." },
+      { "t": "Ferme et désinstalle ce qui ne sert pas", "d": "Dans Paramètres → Applications, regarde lesquelles consomment le plus. Désinstalle celles que tu n'utilises plus. Évite d'avoir plusieurs applications de « nettoyage » : elles ralentissent souvent plus qu'elles n'aident." },
+      { "t": "Mets à jour le système et les applications", "d": "Paramètres → Mise à jour du système, puis Play Store → Mes applications. Fais-le en Wi-Fi pour ne pas consommer ton forfait." },
+      { "t": "Réduis les animations", "d": "Dans Options pour les développeurs, passe les échelles d'animation à 0,5x ou désactivées. L'interface paraît beaucoup plus rapide sur un téléphone d'entrée de gamme." },
+      { "t": "Dernier recours : réinitialisation", "d": "Sauvegarde d'abord tes photos et contacts (Google Photos, compte Google), puis Paramètres → Réinitialisation. Ça efface tout : à faire seulement si le reste n'a rien changé." }
+    ],
+    "warn": "Si le téléphone chauffe beaucoup, se vide très vite et rame en même temps, la batterie est peut-être usée : fais-la contrôler par un technicien." },
+
+  { "id": "tel-charge", "title": "Mon téléphone ne charge pas ou charge très lentement", "emoji": "🔋", "tags": ["téléphone", "charge", "batterie"],
+    "intro": "Avant de blâmer la batterie, vérifie le câble, le chargeur et le port : ce sont les causes les plus fréquentes, surtout avec le courant instable.",
+    "steps": [
+      { "t": "Teste une autre prise et un autre câble", "d": "Les câbles s'abîment vite. Essaie un câble et un chargeur d'origine, ou d'un autre téléphone de la même marque." },
+      { "t": "Nettoie le port de charge", "d": "Éteins le téléphone et enlève la poussière avec un cure-dent en bois ou une brosse à dents sèche, doucement. Jamais d'objet métallique ni de liquide." },
+      { "t": "Redémarre le téléphone", "d": "Un petit bug logiciel peut bloquer la charge. Un redémarrage suffit parfois." },
+      { "t": "Évite les chargeurs inconnus", "d": "Les chargeurs très bon marché délivrent peu de puissance et peuvent abîmer la batterie. Préfère un chargeur de la bonne puissance (indiquée sur ton chargeur d'origine)." },
+      { "t": "Charge-le éteint", "d": "Si ça charge éteint mais pas allumé, une application qui consomme beaucoup est en cause (ou la batterie est fatiguée)." }
+    ],
+    "warn": "Batterie gonflée, qui chauffe fortement ou qui sent le brûlé : arrête de charger, éloigne-la de tout ce qui brûle et fais-la remplacer. Ne perce jamais une batterie." },
+
+  { "id": "wifi", "title": "Wi-Fi connecté mais pas d'Internet", "emoji": "📶", "tags": ["réseau", "wifi", "internet"],
+    "intro": "Si le Wi-Fi affiche « connecté » sans Internet, le problème est soit sur ton appareil, soit sur la box/routeur, soit chez le fournisseur d'accès. Il faut trouver lequel.",
+    "steps": [
+      { "t": "Teste un autre appareil", "d": "Si un autre téléphone ou PC a Internet sur le même Wi-Fi, le problème vient de ton appareil. S'ils n'ont tous rien, il vient du routeur ou du fournisseur." },
+      { "t": "Oublie le réseau et reconnecte-toi", "d": "Dans les paramètres Wi-Fi, « Oublier ce réseau », puis reconnecte-toi avec le mot de passe." },
+      { "t": "Redémarre le routeur", "d": "Débranche-le 30 secondes, rebranche-le et attends 2 à 3 minutes que tous les voyants se stabilisent." },
+      { "t": "Regarde les voyants", "d": "Le voyant « Internet » ou « WAN » éteint, rouge ou orange signale souvent un souci de ligne ou de forfait : appelle ton fournisseur ou vérifie que ton forfait n'est pas épuisé." },
+      { "t": "Change les DNS", "d": "Dans les réglages avancés du Wi-Fi, mets le DNS à 8.8.8.8 et 8.8.4.4 (Google). Ça règle les cas où la connexion existe mais les sites ne s'ouvrent pas." },
+      { "t": "Rapproche-toi du routeur", "d": "Un signal faible peut afficher « connecté » mais laisser passer très peu de données. Teste à 2 mètres du routeur." }
+    ],
+    "warn": "Si seulement certains sites ne s'ouvrent pas, essaie aussi en données mobiles : cela dit si le blocage vient du réseau ou du site." },
+
+  { "id": "pc-demarre", "title": "Mon PC ne démarre pas", "emoji": "💻", "tags": ["ordinateur", "pc", "démarrage"],
+    "intro": "Observe d'abord ce qui se passe : rien du tout, un voyant, un écran noir, un message d'erreur ? Chaque cas a une piste différente.",
+    "steps": [
+      { "t": "Vérifie l'alimentation", "d": "Prise, multiprise, câble du chargeur : teste une autre prise. Sur un portable, retire la batterie si possible, maintiens le bouton d'allumage 15 secondes, puis rebranche seulement le chargeur et rallume." },
+      { "t": "Rien ne s'allume du tout", "d": "Chargeur défectueux ou carte d'alimentation en cause. Essaie un chargeur compatible. Sur un PC fixe, vérifie l'interrupteur à l'arrière du boîtier." },
+      { "t": "Ça s'allume mais écran noir", "d": "Branche un autre écran si c'est un PC fixe. Reposer la barrette de RAM (éteint et débranché) règle souvent le problème : on la retire et on la remet bien en place." },
+      { "t": "Message « No bootable device » ou « Operating system not found »", "d": "Le disque n'est plus reconnu ou le système est abîmé. Entre dans le BIOS (touche F2, F10, Suppr ou Échap au démarrage) et regarde si le disque apparaît." },
+      { "t": "Redémarrage en boucle ou écran bleu", "d": "Démarre en mode sans échec (Windows : maintiens Maj en cliquant Redémarrer, puis Dépannage). Désinstalle la dernière mise à jour ou le dernier programme installé." },
+      { "t": "Sauve tes données avant tout", "d": "Si le disque est reconnu, branche-le sur un autre PC (boîtier USB) pour copier tes fichiers avant de réinstaller quoi que ce soit." }
+    ],
+    "warn": "Bruits de clic répétés du disque dur : arrête de l'allumer et fais appel à un technicien pour récupérer les données." },
+
+  { "id": "pc-lent", "title": "Mon PC est devenu très lent", "emoji": "🖥️", "tags": ["ordinateur", "pc", "lenteur", "windows"],
+    "intro": "La lenteur d'un PC vient souvent de trop de programmes au démarrage, d'un disque presque plein, ou d'un virus.",
+    "steps": [
+      { "t": "Regarde ce qui consomme", "d": "Ctrl + Maj + Échap ouvre le Gestionnaire des tâches. Trie par Mémoire et par Disque : un programme qui prend tout est ton coupable." },
+      { "t": "Réduis le démarrage", "d": "Dans le Gestionnaire des tâches, onglet Démarrage, désactive les programmes inutiles (mises à jour de logiciels, lanceurs, etc.)." },
+      { "t": "Libère de l'espace", "d": "Un disque presque plein ralentit Windows. Vise au moins 15 % d'espace libre. Utilise « Nettoyage de disque » et vide la corbeille." },
+      { "t": "Fais une analyse antivirus", "d": "Utilise Microsoft Defender (déjà dans Windows) en analyse complète. Évite d'installer plusieurs antivirus ensemble." },
+      { "t": "Pense au SSD", "d": "Si ton PC a encore un disque dur classique, passer à un SSD est la meilleure amélioration possible, souvent plus efficace que changer d'ordinateur." },
+      { "t": "Vérifie la mémoire RAM", "d": "Avec 4 Go ou moins, Windows et un navigateur avec plusieurs onglets suffisent à tout bloquer. Passer à 8 Go change tout." }
+    ],
+    "warn": "Méfie-toi des logiciels piratés et des clés USB inconnues : ce sont les principales sources de virus sur les PC." },
+
+  { "id": "stockage", "title": "Mon stockage est plein", "emoji": "📦", "tags": ["téléphone", "stockage", "whatsapp"],
+    "intro": "Presque toujours, ce sont les photos, vidéos et les fichiers reçus sur WhatsApp qui remplissent la mémoire.",
+    "steps": [
+      { "t": "Découvre ce qui prend de la place", "d": "Paramètres → Stockage. Regarde la répartition : Images, Vidéos, Applications, Autres." },
+      { "t": "Nettoie WhatsApp", "d": "WhatsApp → Paramètres → Stockage et données → Gérer le stockage. Tu vois les plus gros fichiers et ceux transférés plusieurs fois : supprime-les." },
+      { "t": "Sauvegarde puis supprime les photos", "d": "Envoie photos et vidéos vers Google Photos (ou sur un PC / une clé USB), vérifie qu'elles y sont, puis libère l'espace sur le téléphone." },
+      { "t": "Vide le cache", "d": "Paramètres → Applications → choisis une application lourde → Stockage → Vider le cache. Le cache ne supprime pas tes données." },
+      { "t": "Désinstalle ce que tu n'ouvres jamais", "d": "Les jeux lourds et applications oubliées occupent des centaines de Mo." },
+      { "t": "Utilise une carte mémoire", "d": "Si ton téléphone accepte une carte microSD, déplace-y photos et vidéos." }
+    ],
+    "warn": "Ne supprime jamais un dossier système si tu ne sais pas à quoi il sert. Dans le doute, ne touche pas." },
+
+  { "id": "compte-pirate", "title": "On a piraté mon compte (Facebook, WhatsApp…)", "emoji": "🚨", "tags": ["sécurité", "facebook", "whatsapp", "mot de passe"],
+    "intro": "Agis vite et dans l'ordre : reprendre la main, couper l'accès au pirate, puis prévenir tes contacts.",
+    "steps": [
+      { "t": "Essaie de te reconnecter et de changer ton mot de passe", "d": "Utilise « Mot de passe oublié » avec ton numéro ou ton email. Choisis un mot de passe long et unique, jamais utilisé ailleurs." },
+      { "t": "Déconnecte tous les autres appareils", "d": "Facebook : Paramètres → Sécurité → Où tu es connecté(e). WhatsApp : Appareils connectés. Déconnecte tout ce que tu ne reconnais pas." },
+      { "t": "Active la double authentification", "d": "Ajoute un code supplémentaire à la connexion. Sur WhatsApp, active la « Validation en deux étapes » et choisis un code PIN que personne ne connaît." },
+      { "t": "Ne communique jamais un code reçu par SMS", "d": "La plupart des piratages WhatsApp se font en te demandant un « code à 6 chiffres reçu par erreur ». Ce code ne doit jamais être partagé, même avec un ami." },
+      { "t": "Préviens tes contacts", "d": "Dis à tes proches de ne pas répondre aux demandes d'argent faites depuis ton compte. Les pirates l'utilisent pour arnaquer tes amis." },
+      { "t": "Si tu n'arrives plus à te connecter", "d": "Utilise le formulaire de récupération du service concerné (Facebook : « Mon compte est piraté », WhatsApp : écris à leur support depuis l'application)." }
+    ],
+    "warn": "Ne paie jamais une personne qui prétend récupérer ton compte contre de l'argent : c'est presque toujours une deuxième arnaque." },
+
+  { "id": "data-fond", "title": "Mon forfait Internet fond trop vite", "emoji": "💸", "tags": ["forfait", "data", "téléphone"],
+    "intro": "Un forfait qui disparaît s'explique presque toujours par les mises à jour automatiques, les vidéos et les applications en arrière-plan.",
+    "steps": [
+      { "t": "Regarde qui consomme", "d": "Paramètres → Réseau et Internet → Utilisation des données. Tu vois quelle application a mangé ton forfait." },
+      { "t": "Bloque les mises à jour automatiques en données mobiles", "d": "Play Store → Paramètres → Préférences réseau → mets « Via Wi-Fi uniquement » pour les mises à jour et téléchargements." },
+      { "t": "Limite la lecture automatique des vidéos", "d": "Sur Facebook, TikTok, YouTube et WhatsApp, désactive la lecture automatique des vidéos et réduis la qualité (« économiseur de données »)." },
+      { "t": "Active l'économiseur de données", "d": "Android : Paramètres → Utilisation des données → Économiseur. Il empêche les applications en arrière-plan d'utiliser Internet." },
+      { "t": "Fixe un plafond d'alerte", "d": "Dans les mêmes réglages, définis un seuil qui te prévient avant d'avoir tout consommé." },
+      { "t": "Utilise le Wi-Fi quand c'est possible", "d": "Télécharge les gros fichiers, applications et mises à jour chaque fois que tu as accès à un Wi-Fi." }
+    ],
+    "warn": "Méfie-toi des applications qui promettent de « booster » ou « économiser » les données : beaucoup sont inutiles, certaines collectent tes informations." }
+]

@@ -1,0 +1,18 @@
+[
+  { "id": "python", "title": "Python", "emoji": "🐍", "status": "open", "course": "python",
+    "desc": "Le langage le plus accessible pour débuter : variables, calculs, conditions, boucles, fonctions." },
+  { "id": "js", "title": "JavaScript", "emoji": "⚡", "status": "soon",
+    "desc": "Le langage des pages web : rends un site vivant, avec des boutons qui réagissent." },
+  { "id": "php", "title": "PHP", "emoji": "🐘", "status": "soon",
+    "desc": "Le langage qui fait tourner une grande partie du web : formulaires, bases de données, sites dynamiques." },
+  { "id": "reseau", "title": "Réseau", "emoji": "🌐", "status": "soon",
+    "desc": "Labo immersif : monte le réseau d'un cybercafé de 5 PC, trouve pourquoi 3 ordinateurs n'ont pas Internet." },
+  { "id": "linux", "title": "Linux", "emoji": "🐧", "status": "soon",
+    "desc": "Le terminal sans peur : fichiers, droits, commandes utiles et serveurs." },
+  { "id": "cyber", "title": "Cybersécurité", "emoji": "🛡️", "status": "soon",
+    "desc": "Protège tes comptes, repère les arnaques et comprends comment on attaque… pour mieux défendre." },
+  { "id": "maintenance", "title": "Maintenance", "emoji": "🔧", "status": "soon",
+    "desc": "Stage virtuel : diagnostique et répare des pannes de PC et de téléphones, comme en atelier." },
+  { "id": "web", "title": "Web", "emoji": "🧱", "status": "soon",
+    "desc": "HTML et CSS : crée ta première page, puis ton premier site." }
+]

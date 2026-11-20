@@ -3,9 +3,9 @@
   # Pas d'étape de build : c'est un site statique.
   # Économie de crédits Netlify (15 crédits par mise en ligne, 300 crédits gratuits par mois) :
   # on ne redéploie PAS quand seuls changent les données du robot (data/), les zips d'envoi, les workflows
-  # ou les scripts du robot (jamais servis au public). Les archives du jour (jour/) sont commitées avec
+  # ou les scripts du robot (jamais servis au public). Le contenu des cours (learn/) est lu sur GitHub : l'ajouter ne coûte rien. Les archives du jour (jour/) sont commitées avec
   # "[skip netlify]" et partent avec la mise en ligne suivante.
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data' ':(exclude)*.zip' ':(exclude).github' ':(exclude)scripts' ':(exclude)README-DEPLOY.md'"
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data' ':(exclude)*.zip' ':(exclude).github' ':(exclude)scripts' ':(exclude)learn' ':(exclude)README-DEPLOY.md'"
 
 [functions]
   directory = "netlify/functions"

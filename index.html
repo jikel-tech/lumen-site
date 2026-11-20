@@ -41,9 +41,22 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,700;1,9..144,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/shell.css">
 </head>
-<body>
+<body class="tab-home">
+<script>
+/* Choisit l'onglet avant l'affichage : un lien d'article ou de rubrique ouvre Actualités. */
+try{var h=location.hash,m=h.match(/^#t=(home|news|learn|sos|me)$/);document.body.className='tab-'+(/^#(a|c)=/.test(h)?'news':(m?m[1]:'home'));}catch(e){}
+</script>
 <a class="skip-link" href="#main">Aller au contenu</a>
+
+<!-- Nouveau cadre : accueil, Apprendre, SOS Tech, Profil (remplis par shell.js et learn.js) -->
+<div id="appViews">
+  <section class="app-view" id="view-home" aria-label="Accueil"></section>
+  <section class="app-view v-learn" id="view-learn" aria-label="Apprendre"></section>
+  <section class="app-view" id="view-sos" aria-label="SOS Tech"></section>
+  <section class="app-view" id="view-me" aria-label="Profil"></section>
+</div>
 
 <div class="topbar">
   <div class="wrap topbar-inner">
@@ -193,6 +206,7 @@
     <p class="summary"><strong>Statistiques de visite :</strong> LUMen peut utiliser Google Analytics pour comprendre l'audience de façon agrégée (pages vues, provenance). Le suivi n'est pas activé si votre navigateur envoie le signal « Ne pas suivre ».</p>
     <p class="summary"><strong>Notifications :</strong> si vous les activez, un identifiant technique est enregistré par notre prestataire OneSignal pour vous envoyer les alertes. Vous pouvez les désactiver à tout moment dans les réglages de votre navigateur.</p>
     <p class="summary"><strong>Favoris et recommandations :</strong> les actus que vous enregistrez et vos rubriques préférées (« Pour toi ») sont gardées uniquement dans le stockage de votre navigateur, sur votre appareil. Elles ne sont jamais envoyées à nos serveurs. Vous pouvez les effacer à tout moment.</p>
+    <p class="summary"><strong>Prénom, profil et progression (Apprendre) :</strong> le prénom que vous saisissez, vos points, badges et chapitres validés sont gardés uniquement dans le stockage de votre navigateur, sur votre appareil, sans compte. Ils ne sont jamais envoyés à nos serveurs. Le menu Profil permet de les sauvegarder sous forme de code ou de les effacer.</p>
     <p class="summary"><strong>Publicité :</strong> LUMen peut afficher des annonces Google AdSense, qui utilisent des cookies selon les règles de Google.</p>
     <p class="summary"><strong>Ce que LUMen ne fait pas :</strong> pas de revente de données personnelles, pas de reproduction intégrale des articles sources (résumés courts + lien vers l'article original uniquement).</p>
     <p class="summary">Pour toute question sur vos données, contactez <a href="mailto:arthurdjeu@gmail.com" class="link">arthurdjeu@gmail.com</a>.</p>
@@ -227,7 +241,17 @@
 
 <noscript><div class="wrap" style="padding:40px 24px;">LUMen a besoin de JavaScript pour afficher les actus. Retrouvez les actualités du jour dans les <a href="jour/" class="link">archives</a>.</div></noscript>
 
+<nav class="tabbar" id="tabbar" aria-label="Navigation principale">
+  <button type="button" class="tab-btn" data-tab="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v9.5h13V10"/><path d="M10 19.5v-5h4v5"/></svg><span>Accueil</span></button>
+  <button type="button" class="tab-btn" data-tab="news"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><span>Actualités</span></button>
+  <button type="button" class="tab-btn" data-tab="learn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 9 12 4.5 21.5 9 12 13.5z"/><path d="M6.5 11.5v4.3c0 1.2 2.5 2.7 5.5 2.7s5.5-1.5 5.5-2.7v-4.3"/><path d="M21.5 9v5"/></svg><span>Apprendre</span></button>
+  <button type="button" class="tab-btn" data-tab="sos"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5a4 4 0 0 0-5 5L4 16a2 2 0 0 0 2.8 2.8l5.5-5.5a4 4 0 0 0 5-5l-2.5 2.5-2.3-.5-.5-2.3z"/></svg><span>SOS Tech</span></button>
+  <button type="button" class="tab-btn" data-tab="me"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="3.7"/><path d="M4.5 20c.8-3.8 3.7-5.8 7.5-5.8s6.7 2 7.5 5.8"/></svg><span>Profil</span></button>
+</nav>
+
 <script src="assets/config.js"></script>
 <script src="assets/app.js"></script>
+<script src="assets/shell.js"></script>
+<script src="assets/learn.js"></script>
 </body>
 </html>

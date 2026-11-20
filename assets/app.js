@@ -625,6 +625,30 @@
 
   addEventListener('hashchange', applyHash);
 
+  /* ---------- Passerelle vers le nouveau cadre (accueil, barre du bas : shell.js) ---------- */
+  window.LUMEN_APP = {
+    get articles() { return ARTICLES; },
+    get wanda() { return WANDA; },
+    baseUrl,
+    timeAgo, catLabel, catKey, score, track, validCat,
+    // Lance une recherche globale dans la vue Actualités.
+    search(q) {
+      const text = String(q || '').trim();
+      $('#searchInput').value = text;
+      view.q = text; view.cat = 'all'; view.sub = 'all'; latestShown = PAGE;
+      $('.site-header').classList.toggle('search-open', !!text);
+      history.replaceState(null, '', baseUrl());
+      render();
+    },
+    // Affiche une rubrique (all, wanda, favoris, ia…) dans la vue Actualités.
+    openCategory(cat) {
+      $('#searchInput').value = ''; view.q = '';
+      $('.site-header').classList.remove('search-open');
+      setCategory(cat, false);
+      history.replaceState(null, '', baseUrl());
+    },
+  };
+
   /* ---------- Démarrage ---------- */
   $('#todayDate').textContent = new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
   updateSubButtons();
@@ -644,6 +668,7 @@
     WEEKLY = weekly && weekly.title ? weekly : WEEKLY;
     META = meta || META;
     if (list.length || first) ARTICLES = list.length ? list : ARTICLES;
+    document.dispatchEvent(new CustomEvent('lumen:data'));
     if (first || changed) {
       if (first) { const p = new URLSearchParams(location.hash.slice(1)); if (p.get('c') && validCat(p.get('c'))) view.cat = p.get('c'); }
       render();

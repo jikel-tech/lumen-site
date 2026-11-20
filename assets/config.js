@@ -13,6 +13,11 @@ window.LUMEN = {
   // placeholder, aucun script Google Analytics n'est chargé.
   GA_ID: 'G-VCB11QH2MV',
 
+  // Apprendre et SOS Tech : cours et guides en JSON, lus sur GitHub (ajouter un chapitre ne coûte aucun
+  // déploiement Netlify). Copie locale utilisée si GitHub est injoignable.
+  LEARN_URL: 'https://raw.githubusercontent.com/jikel-tech/lumen-site/main/learn/',
+  LEARN_FALLBACK_URL: 'learn/',
+
   // Notifications push (OneSignal) — colle ton App ID. Vide = le bouton cloche reste caché.
   ONESIGNAL_APP_ID: 'eaf1bcbd-bd4d-4882-941c-0b45ef00ac7e',
 
