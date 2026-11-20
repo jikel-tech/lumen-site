@@ -1,5 +1,6 @@
 {
   "ids": [
+    "07f78809b956",
     "16162b1dd9a1",
     "268a4ca1d7ff",
     "4342a9d35c37",
@@ -57,8 +58,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "logiciels",
   "log": [
+    {
+      "at": "2026-11-20T16:33:55.448Z",
+      "id": "07f78809b956",
+      "title": "Si vous êtes chez Mullvad, pensez à vérifier votre DNS",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-20T00:03:36.850Z",
       "id": "16162b1dd9a1",
@@ -495,15 +505,6 @@
       "at": "2026-10-26T14:42:53.146Z",
       "id": "2dc6fbaa04aa",
       "title": "Le budget du film Elden Ring serait immense, et c’est une excellente nouvelle",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-25T20:11:48.153Z",
-      "id": "2bc6d868814e",
-      "title": "Panne géante chez Orange, failles PHP et test de l’iPhone Duo – le récap’ tech de la semaine",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
