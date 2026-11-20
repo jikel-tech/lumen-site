@@ -1,5 +1,6 @@
 {
   "ids": [
+    "efa7124e3b06",
     "07f78809b956",
     "16162b1dd9a1",
     "268a4ca1d7ff",
@@ -58,8 +59,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "logiciels",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-20T23:31:15.878Z",
+      "id": "efa7124e3b06",
+      "title": "Nvidia : et maintenant la SEC enquête sur ses comptes, l’action a perdu 46 % en six semaines",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-20T16:33:55.448Z",
       "id": "07f78809b956",
@@ -496,15 +506,6 @@
       "at": "2026-10-26T22:08:02.284Z",
       "id": "ecc95cef60a3",
       "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-26T14:42:53.146Z",
-      "id": "2dc6fbaa04aa",
-      "title": "Le budget du film Elden Ring serait immense, et c’est une excellente nouvelle",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
