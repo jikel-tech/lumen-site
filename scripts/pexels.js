@@ -1,7 +1,9 @@
 // Photos d'illustration Pexels (gratuites, libres d'usage) pour les cartes d'actus.
-// Principe : pour chaque rubrique, quelques recherches génériques ("smartphone", "intelligence artificielle"…)
-// sont faites UNE FOIS puis gardées en cache 7 jours (data/pexels-pool.json). Chaque article reçoit une photo
-// de sa rubrique, différente de celles des autres. Ce sont des photos d'ambiance, pas la vraie image de l'actu.
+// 1) Si l'IA a proposé une recherche photo précise pour l'article (champ photoQuery, ex. « microchip close up »),
+//    on cherche cette scène en priorité.
+// 2) Sinon, ou si la recherche ne donne rien : photos génériques de la rubrique (« smartphone », « artificial intelligence »…).
+// Les résultats de chaque recherche sont gardés 7 jours (data/pexels-pool.json) pour économiser le quota Pexels.
+// Ce sont des photos d'ambiance, pas la vraie image de l'actu.
 // Clé : secret GitHub PEXELS_API_KEY (ou PEXEL_API_KEY). Sans clé ou en cas d'erreur : rien ne change,
 // le site garde ses visuels dessinés.
 
@@ -9,7 +11,10 @@ import { DATA, readJson, writeJson } from './lib.js';
 
 const KEY = () => process.env.PEXELS_API_KEY || process.env.PEXEL_API_KEY || '';
 const TTL_MS = 7 * 86400_000;
-const PER_QUERY = 30;
+const PRUNE_MS = 21 * 86400_000;
+const PER_QUERY = 30;       // recherches de rubrique (réutilisées par beaucoup d'articles)
+const PER_SPECIFIC = 15;    // recherches propres à un article
+const MAX_SEARCHES_PER_RUN = 20;
 
 const QUERIES = {
   smartphones: ['smartphone', 'mobile phone hands', 'phone screen technology'],
@@ -20,11 +25,27 @@ const QUERIES = {
   default: ['technology', 'digital technology'],
 };
 
-const hash = (s) => { let h = 5381; for (const c of String(s)) h = ((h << 5) + h + c.charCodeAt(0)) >>> 0; return h; };
-const queriesFor = (cat) => QUERIES[cat] || QUERIES.default;
+// Wanda Info (actus du Cameroun) : une série d'ambiances par sous-rubrique.
+const WANDA_QUERIES = {
+  tech: ['africa technology', 'african entrepreneur laptop', 'mobile money africa'],
+  educ: ['african students classroom', 'students studying books', 'university graduation africa'],
+  finance: ['african market business', 'business meeting africa', 'banknotes calculator'],
+  actus: ['african city street', 'africa people daily life', 'cameroon'],
+  sport: ['football africa', 'african athletes running', 'soccer stadium crowd'],
+  emploi: ['job interview office', 'african professional workplace', 'people working office'],
+  sante: ['hospital africa', 'doctor stethoscope', 'medical health care'],
+  culture: ['african culture music', 'african art colorful', 'traditional african fabric'],
+  default: ['african city skyline', 'africa people daily life'],
+};
 
-async function search(query, key) {
-  const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=${PER_QUERY}&orientation=landscape&size=medium`;
+const hash = (s) => { let h = 5381; for (const c of String(s)) h = ((h << 5) + h + c.charCodeAt(0)) >>> 0; return h; };
+const generic = (a) => (a.category === 'wanda' ? WANDA_QUERIES[a.sub] || WANDA_QUERIES.default : QUERIES[a.category] || QUERIES.default);
+const genericQuery = (a) => { const qs = generic(a); return qs[hash(a.id) % qs.length]; };
+// Recherche propre à l'article : texte court, lettres et chiffres seulement (jamais de marque seule : l'IA a l'instruction de décrire une scène).
+const specificQuery = (a) => (typeof a.photoQuery === 'string' && /^[a-z0-9][a-z0-9 \-]{2,40}$/i.test(a.photoQuery.trim()) ? a.photoQuery.trim().toLowerCase() : '');
+
+async function search(query, key, perPage) {
+  const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=${perPage}&orientation=landscape&size=medium`;
   const res = await fetch(url, { headers: { Authorization: key }, signal: AbortSignal.timeout(20000) });
   if (!res.ok) throw new Error(`Pexels HTTP ${res.status}`);
   const data = await res.json();
@@ -42,29 +63,49 @@ export async function attachPhotos(articles) {
   const pool = await readJson(file, {});
   let poolChanged = false;
   let failed = false;
+  let searches = 0;
 
-  const needed = new Set();
-  for (const a of articles) if (!a.image) needed.add(queriesFor(a.category)[hash(a.id) % queriesFor(a.category).length]);
+  const isFresh = (q) => pool[q] && Date.now() - new Date(pool[q].at).getTime() < TTL_MS;
+  const need = (q, perPage) => ({ q, perPage });
 
-  for (const q of needed) {
-    const fresh = pool[q] && Date.now() - new Date(pool[q].at).getTime() < TTL_MS && pool[q].photos?.length;
-    if (fresh || failed) continue;
+  // Recherches à faire : d'abord les scènes précises des articles sans photo, puis les rubriques.
+  const todo = new Map();
+  for (const a of articles) {
+    if (a.image) continue;
+    const s = specificQuery(a);
+    if (s && !isFresh(s)) todo.set(s, need(s, PER_SPECIFIC));
+  }
+  for (const a of articles) {
+    if (a.image) continue;
+    const g = genericQuery(a);
+    if (!isFresh(g) && !todo.has(g)) todo.set(g, need(g, PER_QUERY));
+  }
+
+  for (const { q, perPage } of todo.values()) {
+    if (failed || searches >= MAX_SEARCHES_PER_RUN) break;
     try {
-      const photos = await search(q, key);
-      if (photos.length) { pool[q] = { at: new Date().toISOString(), photos }; poolChanged = true; }
+      searches++;
+      const photos = await search(q, key, perPage);
+      pool[q] = { at: new Date().toISOString(), photos }; // même vide : évite de refaire la recherche à chaque passage
+      poolChanged = true;
     } catch (err) {
       console.error('📷 Pexels :', err.message);
       failed = true; // on s'arrête (quota ou panne) : réessai au prochain passage
     }
   }
-  if (poolChanged) await writeJson(file, pool);
+  if (poolChanged) {
+    for (const [q, v] of Object.entries(pool)) if (Date.now() - new Date(v.at).getTime() > PRUNE_MS) delete pool[q];
+    await writeJson(file, pool);
+  }
 
   const used = new Set(articles.filter((a) => a.image).map((a) => a.image));
-  let n = 0;
+  let n = 0, precise = 0;
   for (const a of articles) {
     if (a.image) continue;
-    const qs = queriesFor(a.category);
-    const photos = pool[qs[hash(a.id) % qs.length]]?.photos;
+    const s = specificQuery(a);
+    let photos = s ? pool[s]?.photos : null;
+    const isPrecise = !!photos?.length;
+    if (!isPrecise) photos = pool[genericQuery(a)]?.photos;
     if (!photos?.length) continue;
     let pick = null;
     for (let i = 0; i < photos.length; i++) {
@@ -75,7 +116,8 @@ export async function attachPhotos(articles) {
     a.image = pick.url; a.imageBy = pick.by; a.imagePage = pick.page;
     used.add(pick.url);
     n++;
+    if (isPrecise) precise++;
   }
-  if (n) console.log(`📷 ${n} photos Pexels attribuées`);
+  if (n) console.log(`📷 ${n} photos Pexels attribuées (${precise} selon le sujet de l'article, ${searches} recherche${searches > 1 ? 's' : ''})`);
   return n;
 }

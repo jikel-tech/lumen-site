@@ -246,9 +246,10 @@ function dedupe(items) {
 // -----------------------------------------------------------------------
 function buildPrompt(item) {
   return `Tu es rédacteur pour LUMen, un site d'actualité tech francophone lu notamment en Afrique francophone.
-À partir du titre et de l'extrait ci-dessous, réponds uniquement par un objet JSON {"summary": string, "keywords": string[]}.
+À partir du titre et de l'extrait ci-dessous, réponds uniquement par un objet JSON {"summary": string, "keywords": string[], "photo": string}.
 - summary : exactement 3 phrases courtes en français, factuelles, sans recopier les phrases du texte source. N'invente aucun fait absent du titre ou de l'extrait. Cite naturellement la marque, le produit ou l'entreprise concernés.
 - keywords : 3 à 5 mots-clés de recherche précis (marque, produit, sujet, pays), en minuscules, sans dièse.
+- photo : 2 à 4 mots EN ANGLAIS décrivant une photo d'illustration réaliste du sujet (un objet, un lieu, une activité), jamais une marque, un nom de personne ni un texte. Exemples : "microchip close up", "solar panels field", "mobile money payment", "football stadium night".
 Titre : ${item.title}
 Extrait : ${item.aiInput || item.excerpt}`;
 }
@@ -265,7 +266,8 @@ function parseAi(raw) {
     const keywords = Array.isArray(obj.keywords)
       ? obj.keywords.filter((k) => typeof k === 'string').map((k) => k.trim().toLowerCase()).filter(Boolean).slice(0, 5)
       : [];
-    return { summary, keywords };
+    const photo = typeof obj.photo === 'string' && /^[a-z0-9][a-z0-9 \-]{2,40}$/i.test(obj.photo.trim()) ? obj.photo.trim().toLowerCase() : '';
+    return { summary, keywords, photo };
   } catch {
     return null;
   }
@@ -337,12 +339,17 @@ async function collectWanda(wandaFeeds) {
   const fresh = results.flat().filter(Boolean).map((it) => ({ ...it, pubDate: it.pubDate || nowIso }));
   const freshIds = new Set(fresh.map((a) => a.id));
   const cutoff = Date.now() - WANDA_KEEP_DAYS * 86400_000;
+  const prevWanda = new Map(previous.map((a) => [a.id, a]));
   const kept = previous.filter((a) => !freshIds.has(a.id) && new Date(a.pubDate).getTime() > cutoff).map((a) => ({ ...a, excerpt: a.summary }));
   const merged = dedupe([...fresh, ...kept])
     .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-    .slice(0, WANDA_MAX);
-  const out = merged.map(({ id, title, source, sub, url, pubDate, excerpt, summary, coverage, also }) => ({
+    .slice(0, WANDA_MAX)
+    .map((a) => { const p = prevWanda.get(a.id); return { ...a, category: 'wanda', ...(p?.image ? { image: p.image, imageBy: p.imageBy, imagePage: p.imagePage } : {}) }; });
+  // Photos d'ambiance par sous-rubrique (Pexels), comme pour les actus tech
+  try { await attachPhotos(merged); } catch (err) { console.error('📷 Photos Wanda ignorées :', err.message); }
+  const out = merged.map(({ id, title, source, sub, url, pubDate, excerpt, summary, coverage, also, image, imageBy, imagePage }) => ({
     id, title, source, category: 'wanda', sub, url, pubDate, summary: summary || excerpt || '', coverage, also,
+    ...(image ? { image, imageBy, imagePage } : {}),
   }));
   if (JSON.stringify(out) !== JSON.stringify(previous)) await writeJson(OUT, out);
 }
@@ -395,6 +402,7 @@ async function main() {
       pubDate: it.pubDate || prev?.pubDate || nowIso,
       summary: prev?.summary || it.excerpt,
       keywords: prev?.keywords || [],
+      photoQuery: prev?.photoQuery || '',
       aiDone: !!prev?.aiDone,
       image: prev?.image, imageBy: prev?.imageBy, imagePage: prev?.imagePage,
     };
@@ -425,6 +433,7 @@ async function main() {
           if (r) {
             a.summary = r.summary;
             a.keywords = r.keywords;
+            a.photoQuery = r.photo;
             a.aiDone = true;
             done++;
           }
@@ -442,8 +451,8 @@ async function main() {
   try { await attachPhotos(merged); } catch (err) { console.error('📷 Photos ignorées :', err.message); }
 
   // 4. Sortie propre (sans champs internes)
-  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, aiDone, coverage, also, image, imageBy, imagePage }) => ({
-    id, title, source, category, url, pubDate, summary, keywords, aiDone, coverage, also,
+  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, photoQuery, aiDone, coverage, also, image, imageBy, imagePage }) => ({
+    id, title, source, category, url, pubDate, summary, keywords, ...(photoQuery ? { photoQuery } : {}), aiDone, coverage, also,
     ...(image ? { image, imageBy, imagePage } : {}),
   }));
 
