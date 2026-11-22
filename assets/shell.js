@@ -27,6 +27,12 @@
     { id: 'python:c5', name: T('Boucleur'), e: '🔁' },
     { id: 'python:c6', name: T('Architecte'), e: '🏗️' },
     { id: 'python:exam', name: T('Pythonista'), e: '🏆' },
+    { id: 'reseau:c1', name: T('Curieux du réseau'), e: '🌐' },
+    { id: 'reseau:c2', name: T('Maître des adresses'), e: '🔢' },
+    { id: 'reseau:c3', name: T('Câbleur'), e: '🔌' },
+    { id: 'reseau:c4', name: T('Détective ping'), e: '🕵️' },
+    { id: 'reseau:lab', name: T('Pro du dépannage'), e: '🛠️' },
+    { id: 'reseau:exam', name: T('Technicien réseau'), e: '📡' },
   ];
   const TOTAL_STEPS = 7; // 6 chapitres + l'examen final
 
@@ -134,18 +140,20 @@
   });
 
   /* ---------- Accueil ---------- */
-  const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
+  const photoOk = (u) => typeof u === 'string' && (u.startsWith('https://images.pexels.com/') || u.startsWith('https://images.unsplash.com/')) && !/['"()\s]/.test(u);
   const greeting = () => (new Date().getHours() >= 18 || new Date().getHours() < 5 ? T('Bonsoir') : T('Bonjour'));
 
   function parcoursHtml() {
     const g = getProg();
     const sum = window.JT.courseSummary ? window.JT.courseSummary() : null;
     const done = doneChapters(g);
-    const pct = Math.round((done / TOTAL_STEPS) * 100);
+    const total = sum && sum.total ? sum.total : TOTAL_STEPS;
+    const cdone = sum && sum.total ? sum.done : done;
+    const pct = Math.round((cdone / total) * 100);
     const lv = level(g.xp);
-    const title = sum ? `Python · ${sum.nextTitle}` : T('Python · Chapitre 1');
-    const sub = done === 0 ? T('Commence ton parcours : 10 minutes suffisent.') : done >= TOTAL_STEPS ? T('Bravo ! Tu as validé tous les chapitres et l\'examen.') : T(done > 1 ? '{n} étapes validées sur {t}' : '{n} étape validée sur {t}', { n: done, t: TOTAL_STEPS });
-    const cta = done === 0 ? T('Commencer') : sum && sum.waiting ? T('Voir le parcours') : T('Continuer');
+    const title = sum ? `${sum.name} · ${sum.nextTitle}` : T('Python · Chapitre 1');
+    const sub = cdone === 0 ? T('Commence ton parcours : 10 minutes suffisent.') : cdone >= total ? T('Bravo ! Tu as validé tous les chapitres et l\'examen.') : T(cdone > 1 ? '{n} étapes validées sur {t}' : '{n} étape validée sur {t}', { n: cdone, t: total });
+    const cta = cdone === 0 ? T('Commencer') : sum && sum.waiting ? T('Voir le parcours') : T('Continuer');
     const st = streakNow(g);
     return `<div class="parcours">
       <div class="parcours-row">

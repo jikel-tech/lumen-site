@@ -53,7 +53,7 @@
      ====================================================================== */
   const L = { view: 'domains', course: null, chapter: null, S: null };
   const learnEl = () => $('#view-learn');
-  const stepsTotal = () => JT.TOTAL_STEPS;
+  const stepsTotal = () => { const c = cache[L.course + '.json']; return c ? c.chapters.filter((x) => !x.soon).length : JT.TOTAL_STEPS; };
   const courseState = (g, cid) => g.courses[cid] || {};
   const chapterStatus = (course, g) => {
     const st = courseState(g, course.id);
@@ -66,13 +66,19 @@
     });
   };
 
+  // Résumé pour l'accueil : le premier cours pas encore terminé (Python, puis Réseau), sinon le dernier.
   JT.courseSummary = () => {
-    const course = cache['python.json'];
-    if (!course) return null;
     const g = getProg();
-    const sts = chapterStatus(course, g);
-    const i = sts.indexOf('current');
-    return { nextTitle: i >= 0 ? course.chapters[i].title : T('Parcours terminé 🏆'), waiting: i < 0 };
+    const list = ['python', 'reseau'].map((id) => cache[id + '.json']).filter(Boolean);
+    if (!list.length) return null;
+    let pick = list[list.length - 1], i = -1, sts = [];
+    for (const course of list) {
+      const s = chapterStatus(course, g);
+      if (s.indexOf('current') >= 0) { pick = course; sts = s; i = s.indexOf('current'); break; }
+    }
+    if (i < 0) sts = chapterStatus(pick, g);
+    return { name: pick.title, total: pick.chapters.filter((x) => !x.soon).length, done: sts.filter((s) => s === 'done').length,
+      nextTitle: i >= 0 ? pick.chapters[i].title : T('Parcours terminé 🏆'), waiting: i < 0 };
   };
 
   const learnNav = makeNav(() => L.view, () => {
@@ -118,7 +124,7 @@
       <h2 class="sect-title">Domaines</h2>
       ${domains ? `<div class="dom-grid">${domains.map((d) => `<button type="button" class="dom ${d.status === 'open' ? 'open' : 'soon'}" ${d.status === 'open' ? `data-open="${esc(d.course)}"` : 'disabled'}>
         <span class="tag ${d.status === 'open' ? 'go' : ''}">${d.status === 'open' ? 'Ouvert' : 'Bientôt'}</span><span class="ic">${esc(d.emoji)}</span><b>${esc(d.title)}</b><small>${esc(d.desc)}</small></button>`).join('')}</div>
-      <p class="soon-note">De nouveaux domaines arrivent régulièrement. Le réseau et la maintenance auront des labos immersifs.</p>`
+      <p class="soon-note">De nouveaux domaines arrivent régulièrement. La maintenance aura bientôt son labo immersif.</p>`
       : '<p class="av-sub">Impossible de charger les cours. Vérifie ta connexion et réessaie.</p>'}`;
   }
 
@@ -165,7 +171,7 @@
     const exs = c.exercises;
     L.S = {
       idx: 0, hints: 0, firstTry: 0, xpEarned: 0,
-      ex: exs.map((e) => ({ done: false, attempts: 0, hinted: false, perm: e.type === 'choice' ? shuffle(e.options) : e.type === 'order' ? shuffle(e.lines) : null, picked: [] })),
+      ex: exs.map((e) => ({ done: false, attempts: 0, hinted: false, perm: e.type === 'choice' || e.type === 'diag' ? shuffle(e.options) : e.type === 'order' ? shuffle(e.lines) : null, picked: [], log: [], sel: null, made: [], lab: { sel: null, fixed: [], logs: {}, msg: '', wrong: 0 } })),
       locked: false,
     };
     L.view = 'ex';
@@ -180,12 +186,22 @@
     const e = c.exercises[S.idx], st = S.ex[S.idx];
     const bars = c.exercises.map((_, i) => `<i class="${S.ex[i].done ? 'ok' : i === S.idx ? 'cur' : ''}"></i>`).join('');
     let body = '';
-    if (e.type === 'choice') {
-      body = `<div class="opts">${st.perm.map(([o, i]) => `<button type="button" class="opt" data-opt="${i}" ${st.done ? 'disabled' : ''}>${esc(o)}</button>`).join('')}</div>`;
+    const term = e.cmds ? `<div class="term" role="log" aria-label="${esc(T('Terminal simulé'))}">${st.log.length ? st.log.map((i) => `<div><span class="pr">&gt; ${esc(e.cmds[i].c)}</span>\n${esc(e.cmds[i].out)}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`}</div>
+      <div class="cmds">${e.cmds.map((m, i) => `<button type="button" class="tile cmd ${st.log.includes(i) ? 'used2' : ''}" data-cmd="${i}" ${st.done ? 'disabled' : ''}>${esc(m.c)}</button>`).join('')}</div>` : '';
+    if (e.type === 'lab') {
+      body = labHtml(e, st);
+    } else if (e.type === 'link') {
+      const lab = (id) => { const n = e.nodes.find((x) => x.id === id); return n ? `${n.e} ${n.label}` : id; };
+      body = `<div class="nodes">${e.nodes.map((n) => `<button type="button" class="node-btn ${st.sel === n.id ? 'sel' : ''}" data-node="${esc(n.id)}" ${st.done ? 'disabled' : ''}><span>${esc(n.e)}</span><small>${esc(n.label)}</small></button>`).join('')}</div>
+        <p class="av-sub" style="margin:6px 0">${esc(st.sel ? T('Touche l\'appareil à relier à {x}.', { x: lab(st.sel) }) : T('Touche un appareil, puis un deuxième pour tirer un câble.'))}</p>
+        <div class="links">${st.made.length ? st.made.map((k) => { const [a, b] = k.split('|'); return `<button type="button" class="chip-link" data-unlink="${esc(k)}" ${st.done ? 'disabled' : ''}>${esc(lab(a))} ↔ ${esc(lab(b))} ✕</button>`; }).join('') : `<span class="av-sub">${esc(T('Aucun câble pour l\'instant.'))}</span>`}</div>
+        <div class="exbar" style="margin-top:6px"><button type="button" class="btn-main" data-check ${st.done ? 'disabled' : ''}>Vérifier</button><button type="button" class="btn-line" data-clear ${st.done ? 'disabled' : ''}>Effacer</button></div>`;
+    } else if (e.type === 'choice' || e.type === 'diag') {
+      body = term + `<div class="opts">${st.perm.map(([o, i]) => `<button type="button" class="opt" data-opt="${i}" ${st.done ? 'disabled' : ''}>${esc(o)}</button>`).join('')}</div>`;
     } else if (e.type === 'fill') {
       body = `<div class="ansline"><input class="field" id="ans" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="Ta réponse" aria-label="Ta réponse" ${st.done ? 'disabled' : ''}><button type="button" class="btn-main" data-check ${st.done ? 'disabled' : ''}>Valider</button></div>`;
     } else if (e.type === 'order') {
-      body = `<div class="picked" id="picked">${st.picked.map((pi, k) => `<button type="button" class="tile" data-unpick="${k}" ${st.done ? 'disabled' : ''}>${esc(st.perm[pi][0])}</button>`).join('')}</div>
+      body = `<div class="picked" id="picked" data-empty="${esc(T('Touche les lignes dans le bon ordre'))}">${st.picked.map((pi, k) => `<button type="button" class="tile" data-unpick="${k}" ${st.done ? 'disabled' : ''}>${esc(st.perm[pi][0])}</button>`).join('')}</div>
         <div class="pool">${st.perm.map(([l], pi) => `<button type="button" class="tile ${st.picked.includes(pi) ? 'used' : ''}" data-pick="${pi}" ${st.done ? 'disabled' : ''}>${esc(l)}</button>`).join('')}</div>
         <div class="exbar" style="margin-top:6px"><button type="button" class="btn-main" data-check ${st.done ? 'disabled' : ''}>Vérifier</button><button type="button" class="btn-line" data-clear ${st.done ? 'disabled' : ''}>Effacer</button></div>`;
     }
@@ -205,6 +221,55 @@
       </div>`;
     if (st.hinted && !st.done) $('#fb').innerHTML = `<div class="feedback hint">💡 ${esc(e.hint || '')}</div>`;
     if (e.type === 'fill' && !st.done) setTimeout(() => $('#ans')?.focus(), 50);
+  }
+
+  /* ----- Labo immersif : l'entreprise en panne ----- */
+  const labOut = (e, pc, i) => { const k = pc.fault && !st_fixed(pc) ? pc.fault : 'ok'; return String(e.out[k][i]).replace(/\{ip\}/g, pc.ip); };
+  let _labSt = null;
+  const st_fixed = (pc) => _labSt && _labSt.lab.fixed.includes(pc.id);
+  function labHtml(e, st) {
+    _labSt = st;
+    const t = e.txt, lb = st.lab, faulty = e.pcs.filter((p) => p.fault);
+    const sel = e.pcs.find((p) => p.id === lb.sel);
+    const grid = e.pcs.map((p) => {
+      const bad = p.fault && !lb.fixed.includes(p.id);
+      return `<button type="button" class="pc-btn ${bad ? 'bad' : 'good'} ${lb.sel === p.id ? 'sel' : ''}" data-labpc="${esc(p.id)}"><span>💻</span><b>${esc(p.name)}</b><small>${bad ? esc(t.reported) : esc(t.good)}</small></button>`;
+    }).join('');
+    let panel = `<p class="av-sub" style="margin:10px 0">${esc(t.tap)}</p>`;
+    if (sel) {
+      const log = lb.logs[sel.id] || [];
+      const term = log.length ? log.map((i) => `<div><span class="pr">&gt; ${esc(e.cmds[i])}</span>\n${esc(labOut(e, sel, i))}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`;
+      panel = `<h3 class="lab-h">${esc(sel.name)} · ${esc(sel.ip)}</h3><div class="term" role="log">${term}</div>
+        <div class="lab-k">${esc(t.run)}</div><div class="cmds">${e.cmds.map((c, i) => `<button type="button" class="tile cmd ${log.includes(i) ? 'used2' : ''}" data-labcmd="${i}">${esc(c)}</button>`).join('')}</div>
+        <div class="lab-k">${esc(t.fix)}</div><div class="fixes">${e.repairs.map((r) => `<button type="button" class="btn-line fixbtn" data-labfix="${esc(r.id)}">🔧 ${esc(r.label)}</button>`).join('')}</div>`;
+    }
+    return `<div class="pcgrid">${grid}</div><div class="lab-prog">${esc(T(t.progress, { n: lb.fixed.length }))}</div><div class="labpanel">${panel}</div><div id="labfb">${lb.msg ? lb.msg : ''}</div>`;
+  }
+  function labClick(t, e, st) {
+    const lb = st.lab;
+    const pc = t.closest('[data-labpc]');
+    if (pc) { lb.sel = pc.dataset.labpc; lb.msg = ''; renderExercise(learnEl()); return true; }
+    const cmd = t.closest('[data-labcmd]');
+    if (cmd && lb.sel) { const l = (lb.logs[lb.sel] = lb.logs[lb.sel] || []); const i = +cmd.dataset.labcmd; if (!l.includes(i)) l.push(i); lb.msg = ''; renderExercise(learnEl()); const tm = $('.term'); if (tm) tm.scrollTop = tm.scrollHeight; return true; }
+    const fx = t.closest('[data-labfix]');
+    if (fx && lb.sel) {
+      const p = e.pcs.find((x) => x.id === lb.sel);
+      const need = { cable: 'cable', ip: 'dhcp', dns: 'dns' }[p.fault];
+      const msg = (cls, s) => { lb.msg = `<div class="feedback ${cls}">${esc(s)}</div>`; };
+      if (!p.fault || lb.fixed.includes(p.id)) { lb.wrong++; msg('ko', e.txt.ok); }
+      else if (!(lb.logs[p.id] || []).length) { msg('hint', e.txt.need); }
+      else if (fx.dataset.labfix === need) {
+        lb.fixed.push(p.id); msg('ok', e.txt.fixed);
+        if (lb.fixed.length === e.pcs.filter((x) => x.fault).length) {
+          st.attempts = lb.wrong > 3 ? 1 : 0;
+          lb.msg = '';
+          succeed(e, st);
+          return true;
+        }
+      } else { lb.wrong++; msg('ko', e.txt.wrong); }
+      renderExercise(learnEl()); return true;
+    }
+    return false;
   }
 
   function succeed(e, st) {
@@ -242,6 +307,12 @@
       if (!norm(val)) return;
       const ok = e.answer.some((a) => norm(a) === norm(val));
       if (ok) succeed(e, st); else fail(e, st, T('Vérifie l\'orthographe, les majuscules et les guillemets.'));
+    } else if (kind === 'link') {
+      const want = new Set(e.links.map((p) => p.slice().sort().join('|')));
+      const have = new Set(st.made);
+      const missing = [...want].filter((k) => !have.has(k)).length, extra = [...have].filter((k) => !want.has(k)).length;
+      if (!missing && !extra) succeed(e, st);
+      else fail(e, st, [missing ? T(missing > 1 ? 'Il manque {n} câbles.' : 'Il manque {n} câble.', { n: missing }) : '', extra ? T(extra > 1 ? '{n} câbles sont en trop ou mal placés.' : '{n} câble est en trop ou mal placé.', { n: extra }) : ''].filter(Boolean).join(' '));
     } else if (kind === 'order') {
       const seq = st.picked.map((pi) => st.perm[pi][0]);
       if (seq.length === e.lines.length && seq.every((l, i) => l === e.lines[i])) succeed(e, st);
@@ -253,7 +324,7 @@
     const c = chapterObj(), S = L.S;
     const total = c.exercises.length;
     const score = S.firstTry / total;
-    const need = c.passScore || cache[L.course + '.json'].passScore || 0.6;
+    const need = c.passScore ?? cache[L.course + '.json'].passScore ?? 0.6;
     const pass = score >= need;
     const g = getProg();
     let bonus = 0, newBadge = false;
@@ -319,13 +390,29 @@
     if (L.view !== 'ex' || !L.S) return;
     const S = L.S, c = chapterObj(), ex = c.exercises[S.idx], st = S.ex[S.idx];
     const opt = t.closest('[data-opt]');
-    if (opt) { checkAnswer('choice', opt.dataset.opt); return; }
+    if (ex.type === 'lab' && !st.done && labClick(t, ex, st)) return;
+    const cmd = t.closest('[data-cmd]');
+    if (cmd) { const i = +cmd.dataset.cmd; if (!st.log.includes(i)) st.log.push(i); renderExercise(learnEl()); const tm = $('.term'); if (tm) tm.scrollTop = tm.scrollHeight; return; }
+    const nd = t.closest('[data-node]');
+    if (nd) {
+      const id = nd.dataset.node;
+      if (st.sel === id) st.sel = null;
+      else if (!st.sel) st.sel = id;
+      else { const k = [st.sel, id].sort().join('|'); const at = st.made.indexOf(k); if (at >= 0) st.made.splice(at, 1); else st.made.push(k); st.sel = null; }
+      renderExercise(learnEl()); return;
+    }
+    const ul = t.closest('[data-unlink]');
+    if (ul) { st.made = st.made.filter((k) => k !== ul.dataset.unlink); renderExercise(learnEl()); return; }
+    if (opt) {
+      if (ex.cmds && !st.log.length && !st.done) { const fb = $('#fb'); if (fb) fb.innerHTML = `<div class="feedback hint">${esc(T('Lance d\'abord une commande pour enquêter.'))}</div>`; return; }
+      checkAnswer('choice', opt.dataset.opt); return;
+    }
     if (t.closest('[data-check]')) { checkAnswer(ex.type, ex.type === 'fill' ? $('#ans').value : null); return; }
     const pick = t.closest('[data-pick]');
     if (pick) { const pi = +pick.dataset.pick; if (!st.picked.includes(pi)) st.picked.push(pi); renderExercise(learnEl()); return; }
     const unpick = t.closest('[data-unpick]');
     if (unpick) { st.picked.splice(+unpick.dataset.unpick, 1); renderExercise(learnEl()); return; }
-    if (t.closest('[data-clear]')) { st.picked = []; renderExercise(learnEl()); return; }
+    if (t.closest('[data-clear]')) { st.picked = []; st.made = []; st.sel = null; renderExercise(learnEl()); return; }
     if (t.closest('[data-hint]')) {
       if (st.hinted || S.hints >= MAX_HINTS) return;
       st.hinted = true; S.hints++;
@@ -415,7 +502,7 @@
   });
 
   // Charge les cours en arrière-plan pour que « Ton parcours » affiche le bon chapitre.
-  Promise.all([loadJson('python.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
+  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
 
   if (document.body.classList.contains('tab-learn')) renderLearn();
   if (document.body.classList.contains('tab-sos')) renderSos();

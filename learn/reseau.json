@@ -1,0 +1,974 @@
+{
+ "id": "reseau",
+ "title": "Réseau",
+ "emoji": "🌐",
+ "tagline": "Du câble à Internet : monte le réseau d'un cybercafé et mène l'enquête quand ça tombe en panne.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Qu'est-ce qu'un réseau ?",
+   "minutes": 10,
+   "badge": {
+    "name": "Curieux du réseau",
+    "emoji": "🌐"
+   },
+   "lesson": [
+    {
+     "h": "Des appareils qui se parlent",
+     "p": "Un réseau relie des appareils (PC, téléphones, imprimantes) pour qu'ils échangent des données. Le réseau de ta maison ou d'un cybercafé s'appelle un réseau local (LAN). Internet, c'est le réseau géant qui relie tous les réseaux du monde."
+    },
+    {
+     "h": "La box (ou routeur)",
+     "p": "La box fait le lien entre ton réseau local et Internet, grâce à ton opérateur. Elle distribue aussi la connexion aux appareils, par câble ou par Wi-Fi."
+    },
+    {
+     "h": "Le switch",
+     "p": "Une box n'a que quelques prises. Un switch (commutateur) ajoute des prises : on y branche plusieurs appareils par câble, et il les fait communiquer entre eux."
+    },
+    {
+     "h": "Câble ou Wi-Fi ?",
+     "p": "Le câble réseau a un embout rectangulaire appelé RJ45 : il est rapide et stable. Le Wi-Fi est une liaison sans fil : pratique, mais plus sensible aux murs et à la distance."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quel appareil relie ton réseau local à Internet ?",
+     "options": [
+      "La box (le routeur)",
+      "L'imprimante",
+      "Le clavier",
+      "L'écran"
+     ],
+     "answer": 0,
+     "hint": "C'est l'appareil fourni par ton opérateur.",
+     "why": "La box est la porte entre ton réseau local et Internet."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "À quoi sert un switch ?",
+     "options": [
+      "À ajouter des prises pour brancher plusieurs appareils par câble",
+      "À recharger les téléphones",
+      "À augmenter le volume",
+      "À effacer les virus"
+     ],
+     "answer": 0,
+     "hint": "Pense au mot « prises ».",
+     "why": "Le switch multiplie les prises réseau et fait communiquer les appareils branchés."
+    },
+    {
+     "id": "e3",
+     "type": "link",
+     "q": "Relie : Internet ↔ Box, Box ↔ PC (câble) et Box ↔ Téléphone (Wi-Fi).",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "pc",
+       "e": "💻",
+       "label": "PC"
+      },
+      {
+       "id": "tel",
+       "e": "📱",
+       "label": "Téléphone"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "pc"
+      ],
+      [
+       "box",
+       "tel"
+      ]
+     ],
+     "hint": "Tout passe par la box, au milieu.",
+     "why": "La box est au centre : Internet arrive à elle, et elle sert le PC et le téléphone."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Comment s'appelle l'embout rectangulaire d'un câble réseau ? (2 lettres + 2 chiffres)",
+     "answer": [
+      "rj45",
+      "rj-45",
+      "rj 45"
+     ],
+     "hint": "Il commence par RJ.",
+     "why": "C'est le connecteur RJ45."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Que veut dire LAN ?",
+     "options": [
+      "Un réseau local",
+      "Un réseau mondial",
+      "Un type de virus",
+      "Une marque de box"
+     ],
+     "answer": 0,
+     "hint": "L comme « Local ».",
+     "why": "LAN = Local Area Network : le réseau d'un lieu (maison, cybercafé)."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Le Wi-Fi, c'est…",
+     "options": [
+      "Une liaison sans fil entre l'appareil et la box",
+      "Un câble très long",
+      "Un type de PC",
+      "Un logiciel antivirus"
+     ],
+     "answer": 0,
+     "hint": "« Sans fil » est le mot clé.",
+     "why": "Le Wi-Fi transporte les données par ondes, sans câble."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Adresses IP et masque",
+   "minutes": 12,
+   "badge": {
+    "name": "Maître des adresses",
+    "emoji": "🔢"
+   },
+   "lesson": [
+    {
+     "h": "L'adresse IP",
+     "p": "Chaque appareil d'un réseau a une adresse IP, comme une adresse de maison. Elle est faite de 4 nombres de 0 à 255, séparés par des points.",
+     "code": "192.168.1.20"
+    },
+    {
+     "h": "Réseau local typique",
+     "p": "Chez toi ou dans un cybercafé, les adresses ressemblent souvent à 192.168.1.x. La box prend souvent 192.168.1.1 : on l'appelle la passerelle, c'est la porte vers Internet."
+    },
+    {
+     "h": "Le masque de sous-réseau",
+     "p": "Avec le masque 255.255.255.0, les trois premiers nombres identifient le réseau, le dernier identifie l'appareil. Deux appareils sont dans le même réseau s'ils ont les trois premiers nombres identiques.",
+     "code": "192.168.1.20  et  192.168.1.35  → même réseau\n192.168.1.20  et  192.168.2.35  → réseaux différents"
+    },
+    {
+     "h": "DHCP et conflits",
+     "p": "Le DHCP est le service de la box qui donne automatiquement une adresse à chaque appareil. Si deux appareils ont la même IP, il y a un conflit et au moins l'un d'eux perd sa connexion. Une adresse 169.254.x.x signifie que l'appareil n'a pas réussi à obtenir d'adresse."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Laquelle de ces adresses IP est valide ?",
+     "options": [
+      "192.168.1.20",
+      "192.168.1.300",
+      "192.168.1",
+      "192.168.1.20.5"
+     ],
+     "answer": 0,
+     "hint": "Chaque nombre va de 0 à 255, et il y en a 4.",
+     "why": "300 dépasse 255, et il faut exactement 4 nombres."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Avec le masque 255.255.255.0, qui est dans le même réseau que 192.168.1.20 ?",
+     "options": [
+      "192.168.1.35",
+      "192.168.2.35",
+      "10.0.0.20",
+      "192.169.1.20"
+     ],
+     "answer": 0,
+     "hint": "Compare les trois premiers nombres.",
+     "why": "192.168.1.x : les trois premiers nombres sont identiques."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "Quel service de la box donne automatiquement les adresses IP ? (4 lettres)",
+     "answer": [
+      "dhcp"
+     ],
+     "hint": "Il commence par D.",
+     "why": "C'est le DHCP."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Deux PC ont exactement la même adresse IP. Que se passe-t-il ?",
+     "options": [
+      "Un conflit d'adresse : des coupures de connexion",
+      "Rien, c'est normal",
+      "Ils vont deux fois plus vite",
+      "Internet est plus sécurisé"
+     ],
+     "answer": 0,
+     "hint": "Une adresse doit être unique, comme une adresse postale.",
+     "why": "Une IP doit être unique sur le réseau, sinon c'est un conflit."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Un PC en 192.168.1.20 veut parler à 192.168.2.5 (masque 255.255.255.0). C'est…",
+     "options": [
+      "Un autre réseau : il faut passer par un routeur",
+      "Le même réseau",
+      "Impossible, même avec un routeur",
+      "Une erreur de câble"
+     ],
+     "answer": 0,
+     "hint": "Regarde le troisième nombre.",
+     "why": "Le troisième nombre diffère (1 et 2) : ce sont deux réseaux différents."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Un PC affiche 169.254.12.7. Cela veut dire…",
+     "options": [
+      "Il n'a pas obtenu d'adresse de la box",
+      "Tout va très bien",
+      "Il est piraté",
+      "Il a trop de mémoire"
+     ],
+     "answer": 0,
+     "hint": "169.254 est une adresse « de secours ».",
+     "why": "169.254.x.x apparaît quand le DHCP n'a pas répondu."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Monter le réseau du cybercafé",
+   "minutes": 12,
+   "badge": {
+    "name": "Câbleur",
+    "emoji": "🔌"
+   },
+   "lesson": [
+    {
+     "h": "La topologie en étoile",
+     "p": "Dans un cybercafé, chaque PC est relié par son propre câble à un switch, et le switch est relié à la box. C'est une étoile : si un câble casse, seul un PC est touché."
+    },
+    {
+     "h": "Un seul chemin vers Internet",
+     "p": "Internet arrive à la box. La box est reliée au switch, et les PC au switch. L'imprimante réseau se branche aussi sur le switch : tous les PC peuvent alors l'utiliser."
+    },
+    {
+     "h": "Évite les boucles",
+     "p": "Ne relie jamais deux prises du même switch entre elles, ni deux switchs par deux câbles : cela crée une boucle et peut faire tomber tout le réseau."
+    },
+    {
+     "h": "Si ça tombe en panne",
+     "p": "Un seul PC sans réseau : pense à son câble. Tous les PC du switch sans réseau : pense au switch ou à son alimentation. Plus d'Internet pour tout le monde alors que le réseau local marche : pense à la box ou à l'opérateur."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "link",
+     "q": "Monte le réseau : la Box au Switch, puis chaque PC au Switch.",
+     "nodes": [
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "pc3",
+       "e": "💻",
+       "label": "PC 3"
+      }
+     ],
+     "links": [
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "pc3"
+      ]
+     ],
+     "hint": "Les PC ne se branchent pas directement à la box : ils passent par le switch.",
+     "why": "Étoile : box → switch → chaque PC."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Pourquoi mettre un switch dans un cybercafé de 5 PC ?",
+     "options": [
+      "La box n'a pas assez de prises",
+      "Pour consommer plus d'électricité",
+      "Pour ralentir le réseau",
+      "Un switch est obligatoire pour le Wi-Fi"
+     ],
+     "answer": 0,
+     "hint": "Compte les prises d'une box.",
+     "why": "Une box a peu de prises ; le switch en ajoute."
+    },
+    {
+     "id": "e3",
+     "type": "link",
+     "q": "Ajoute Internet et l'imprimante : Internet ↔ Box ↔ Switch, puis PC 1, PC 2 et l'imprimante sur le switch.",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "imp",
+       "e": "🖨️",
+       "label": "Imprimante"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "imp"
+      ]
+     ],
+     "hint": "L'imprimante réseau se branche sur le switch, comme un PC.",
+     "why": "Tout le monde partage l'imprimante via le switch."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Seul le PC 2 n'a plus de réseau, les autres marchent. Premier réflexe ?",
+     "options": [
+      "Vérifier le câble du PC 2",
+      "Changer la box",
+      "Appeler l'opérateur",
+      "Remplacer le switch"
+     ],
+     "answer": 0,
+     "hint": "Un seul PC touché = un problème local.",
+     "why": "Si les autres marchent, la box et le switch fonctionnent : regarde le câble du PC 2."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Tous les PC branchés au switch perdent le réseau en même temps. Cause probable ?",
+     "options": [
+      "Le switch (ou son alimentation)",
+      "Un seul câble cassé",
+      "Le clavier d'un PC",
+      "Le fond d'écran"
+     ],
+     "answer": 0,
+     "hint": "Qu'ont-ils tous en commun ?",
+     "why": "Ils passent tous par le switch."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Pourquoi ne pas relier deux prises d'un même switch avec un câble ?",
+     "options": [
+      "Cela crée une boucle qui peut bloquer le réseau",
+      "Ça abîme le câble",
+      "Ça double la vitesse",
+      "Ce n'est pas interdit et c'est utile"
+     ],
+     "answer": 0,
+     "hint": "Les données tournent en rond.",
+     "why": "Une boucle fait circuler les données sans fin et peut faire tomber le réseau."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Diagnostiquer avec ping et ipconfig",
+   "minutes": 14,
+   "badge": {
+    "name": "Détective ping",
+    "emoji": "🕵️"
+   },
+   "lesson": [
+    {
+     "h": "Deux commandes clés",
+     "p": "ipconfig montre l'adresse IP du PC, le masque et la passerelle. ping teste si une machine répond : « Réponse de… » = elle répond, « Délai d'attente dépassé » = pas de réponse.",
+     "code": "ping 192.168.1.1",
+     "out": "Réponse de 192.168.1.1 : octets=32 temps=2ms"
+    },
+    {
+     "h": "Tester du plus près au plus loin",
+     "p": "1) ping 127.0.0.1 : la carte réseau du PC marche ? 2) ping la box (192.168.1.1) : le réseau local marche ? 3) ping 8.8.8.8 : Internet marche ? 4) ping google.com : les noms de sites marchent (DNS) ?"
+    },
+    {
+     "h": "Interpréter les résultats",
+     "p": "Box qui répond mais 8.8.8.8 non : le problème est après la box (opérateur). 8.8.8.8 répond mais pas google.com : problème de DNS, le « carnet d'adresses » des noms de sites. Pas d'IP valide (169.254…) : le PC n'a pas reçu d'adresse."
+    },
+    {
+     "h": "Mène l'enquête",
+     "p": "Dans les exercices, tu as un terminal simulé : touche les commandes pour les lancer, lis les résultats, puis choisis la cause. Lance plusieurs commandes avant de répondre, comme un vrai technicien."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "diag",
+     "q": "Un PC du cybercafé n'a pas Internet. Mène l'enquête.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "Adresse IPv4 . . . : 169.254.12.7\nMasque . . . . . . : 255.255.0.0\nPasserelle . . . . : (vide)"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Délai d'attente de la demande dépassé."
+      }
+     ],
+     "options": [
+      "Le PC n'a pas reçu d'adresse IP (câble débranché ou DHCP injoignable)",
+      "Google est en panne",
+      "Le PC est trop ancien",
+      "Le switch a trop de PC"
+     ],
+     "answer": 0,
+     "hint": "Regarde l'adresse commençant par 169.254.",
+     "why": "Une adresse 169.254.x.x et une passerelle vide : le PC n'a pas pu obtenir d'adresse."
+    },
+    {
+     "id": "e2",
+     "type": "diag",
+     "q": "Tous les PC ont perdu Internet, mais ils se voient entre eux.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "Adresse IPv4 . . . : 192.168.1.20\nMasque . . . . . . : 255.255.255.0\nPasserelle . . . . : 192.168.1.1"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Réponse de 192.168.1.1 : octets=32 temps=1ms"
+      },
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Délai d'attente de la demande dépassé."
+      }
+     ],
+     "options": [
+      "La box n'a plus de connexion Internet (ligne ou opérateur)",
+      "Le câble du PC est cassé",
+      "L'adresse IP du PC est fausse",
+      "Le DNS est mal réglé"
+     ],
+     "answer": 0,
+     "hint": "La box répond, mais pas ce qui est après elle.",
+     "why": "Le réseau local marche (la box répond), mais rien ne sort vers Internet : problème de ligne ou d'opérateur."
+    },
+    {
+     "id": "e3",
+     "type": "diag",
+     "q": "On peut ouvrir certains services par adresse, mais pas les sites par leur nom.",
+     "cmds": [
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Réponse de 8.8.8.8 : octets=32 temps=45ms"
+      },
+      {
+       "c": "ping google.com",
+       "out": "La requête Ping n'a pas pu trouver l'hôte google.com."
+      }
+     ],
+     "options": [
+      "Un problème de DNS",
+      "Un câble coupé",
+      "Une panne de courant",
+      "Un conflit d'adresse IP"
+     ],
+     "answer": 0,
+     "hint": "Qui traduit les noms de sites en adresses ?",
+     "why": "Internet répond par adresse mais pas par nom : le DNS ne fonctionne pas."
+    },
+    {
+     "id": "e4",
+     "type": "diag",
+     "q": "Le PC 3 se déconnecte sans arrêt depuis qu'on a ajouté un nouveau PC.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "Adresse IPv4 . . . : 192.168.1.20\nAvertissement : conflit d'adresse IP détecté avec un autre appareil (192.168.1.20)."
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Réponse de 192.168.1.1 : octets=32 temps=3ms"
+      }
+     ],
+     "options": [
+      "Un conflit d'adresse IP",
+      "Le switch est mort",
+      "La box est éteinte",
+      "Le PC n'a pas de carte réseau"
+     ],
+     "answer": 0,
+     "hint": "Lis bien l'avertissement de ipconfig.",
+     "why": "Deux appareils ont la même IP : conflit d'adresse."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Quel test fais-tu en premier pour vérifier la carte réseau du PC ?",
+     "options": [
+      "ping 127.0.0.1",
+      "ping google.com",
+      "ping 8.8.8.8",
+      "redémarrer la box"
+     ],
+     "answer": 0,
+     "hint": "127.0.0.1 est l'adresse « de soi-même ».",
+     "why": "127.0.0.1 teste la carte réseau du PC lui-même."
+    },
+    {
+     "id": "e6",
+     "type": "fill",
+     "q": "Quelle commande Windows affiche l'adresse IP du PC ? (un seul mot)",
+     "answer": [
+      "ipconfig"
+     ],
+     "hint": "Elle commence par ip.",
+     "why": "On tape ipconfig dans l'invite de commandes."
+    }
+   ]
+  },
+  {
+   "id": "lab",
+   "title": "Labo : l'entreprise en panne",
+   "minutes": 15,
+   "badge": {
+    "name": "Pro du dépannage",
+    "emoji": "🛠️"
+   },
+   "lesson": [
+    {
+     "h": "Ton stage virtuel",
+     "p": "Tu es technicien dans une petite entreprise de 10 PC. Le patron t'appelle : 3 ordinateurs n'ont plus Internet. À toi de trouver pourquoi et de réparer, PC par PC, sans casser ce qui marche."
+    },
+    {
+     "h": "La méthode",
+     "p": "Pour chaque PC en panne : 1) lance ipconfig pour voir l'état de la carte réseau et de l'adresse IP. 2) ping 192.168.1.1 teste la box. 3) ping 8.8.8.8 teste Internet. 4) ping google.com teste les noms de sites (DNS). Lis les résultats, puis choisis la bonne réparation."
+    },
+    {
+     "h": "Attention aux fausses pistes",
+     "p": "Redémarrer la box ou réinstaller Windows ne règle presque jamais un problème isolé : cela fait perdre du temps (et des points). Cherche la vraie cause d'abord."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "q": "Trois PC de l'entreprise n'ont plus Internet (en rouge). Touche un PC, mène l'enquête avec les commandes, puis répare-le.",
+     "hint": "Regarde d'abord ipconfig : le câble, l'adresse IP et le DNS y sont indiqués.",
+     "why": "Trois pannes, trois causes différentes : un câble débranché, un conflit d'adresse IP et un DNS incorrect.",
+     "pcs": [
+      {
+       "id": "p1",
+       "name": "PC 1",
+       "ip": "192.168.1.11"
+      },
+      {
+       "id": "p2",
+       "name": "PC 2",
+       "ip": "192.168.1.12"
+      },
+      {
+       "id": "p3",
+       "name": "PC 3",
+       "ip": "192.168.1.13",
+       "fault": "cable"
+      },
+      {
+       "id": "p4",
+       "name": "PC 4",
+       "ip": "192.168.1.14"
+      },
+      {
+       "id": "p5",
+       "name": "PC 5",
+       "ip": "192.168.1.15"
+      },
+      {
+       "id": "p6",
+       "name": "PC 6",
+       "ip": "192.168.1.12",
+       "fault": "ip"
+      },
+      {
+       "id": "p7",
+       "name": "PC 7",
+       "ip": "192.168.1.17"
+      },
+      {
+       "id": "p8",
+       "name": "PC 8",
+       "ip": "192.168.1.18",
+       "fault": "dns"
+      },
+      {
+       "id": "p9",
+       "name": "PC 9",
+       "ip": "192.168.1.19"
+      },
+      {
+       "id": "p10",
+       "name": "PC 10",
+       "ip": "192.168.1.20"
+      }
+     ],
+     "cmds": [
+      "ipconfig",
+      "ping 192.168.1.1",
+      "ping 8.8.8.8",
+      "ping google.com"
+     ],
+     "out": {
+      "ok": [
+       "Adresse IPv4 . . . : {ip}\nPasserelle . . . . : 192.168.1.1\nServeur DNS . . . . : 8.8.8.8",
+       "Réponse de 192.168.1.1 : octets=32 temps=1ms",
+       "Réponse de 8.8.8.8 : octets=32 temps=42ms",
+       "Réponse de google.com : octets=32 temps=47ms"
+      ],
+      "cable": [
+       "État du média . . . : Câble réseau débranché",
+       "Délai d'attente de la demande dépassé.",
+       "Délai d'attente de la demande dépassé.",
+       "La requête Ping n'a pas pu trouver l'hôte google.com."
+      ],
+      "ip": [
+       "Adresse IPv4 . . . : {ip}\nAvertissement : conflit d'adresse IP détecté avec un autre appareil ({ip}).\nPasserelle . . . . : 192.168.1.1",
+       "Délai d'attente de la demande dépassé.",
+       "Délai d'attente de la demande dépassé.",
+       "La requête Ping n'a pas pu trouver l'hôte google.com."
+      ],
+      "dns": [
+       "Adresse IPv4 . . . : {ip}\nPasserelle . . . . : 192.168.1.1\nServeur DNS . . . . : 10.0.0.99",
+       "Réponse de 192.168.1.1 : octets=32 temps=1ms",
+       "Réponse de 8.8.8.8 : octets=32 temps=44ms",
+       "La requête Ping n'a pas pu trouver l'hôte google.com."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "cable",
+       "label": "Rebrancher le câble réseau"
+      },
+      {
+       "id": "dhcp",
+       "label": "Mettre l'IP en automatique (DHCP)"
+      },
+      {
+       "id": "dns",
+       "label": "Régler le DNS sur 8.8.8.8"
+      },
+      {
+       "id": "box",
+       "label": "Redémarrer la box"
+      },
+      {
+       "id": "win",
+       "label": "Réinstaller Windows"
+      }
+     ],
+     "txt": {
+      "tap": "Touche un PC pour commencer.",
+      "ok": "Ce PC fonctionne déjà : rien à réparer ici.",
+      "wrong": "Ça ne change rien pour ce PC. Relis les résultats des commandes.",
+      "fixed": "✅ Réparé ! Ce PC a de nouveau Internet.",
+      "allfixed": "Bravo, les 3 PC sont réparés !",
+      "need": "Lance d'abord quelques commandes pour comprendre la panne.",
+      "run": "Commandes",
+      "fix": "Réparer",
+      "reported": "Pas d'Internet",
+      "good": "OK",
+      "progress": "{n}/3 PC réparés"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  },
+  {
+   "id": "exam",
+   "title": "Examen : le cybercafé en panne",
+   "minutes": 20,
+   "badge": {
+    "name": "Technicien réseau",
+    "emoji": "📡"
+   },
+   "lesson": [],
+   "exercises": [
+    {
+     "id": "x1",
+     "type": "link",
+     "q": "Câble le cybercafé : Internet ↔ Box ↔ Switch, puis PC 1, PC 2 et PC 3 sur le switch.",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "pc3",
+       "e": "💻",
+       "label": "PC 3"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "pc3"
+      ]
+     ],
+     "hint": "",
+     "why": "Étoile autour du switch."
+    },
+    {
+     "id": "x2",
+     "type": "choice",
+     "q": "Quelle adresse est dans le même réseau que 192.168.1.50 (masque 255.255.255.0) ?",
+     "options": [
+      "192.168.1.7",
+      "192.168.7.50",
+      "172.168.1.50",
+      "192.169.1.50"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Les trois premiers nombres doivent être identiques."
+    },
+    {
+     "id": "x3",
+     "type": "diag",
+     "q": "Le PC 4 n'a pas Internet.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "Adresse IPv4 . . . : 169.254.88.2\nPasserelle . . . . : (vide)"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Délai d'attente de la demande dépassé."
+      }
+     ],
+     "options": [
+      "Le PC n'a pas reçu d'adresse (câble ou DHCP)",
+      "Le DNS est en panne",
+      "La box n'a pas d'Internet",
+      "Conflit d'adresse IP"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "169.254 et passerelle vide : pas d'adresse obtenue."
+    },
+    {
+     "id": "x4",
+     "type": "diag",
+     "q": "Les 5 PC n'ont plus Internet, mais le réseau local marche.",
+     "cmds": [
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Réponse de 192.168.1.1 : octets=32 temps=1ms"
+      },
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Délai d'attente de la demande dépassé."
+      }
+     ],
+     "options": [
+      "La box n'a plus de connexion Internet (opérateur)",
+      "Un câble de PC est cassé",
+      "Le switch est en panne",
+      "Le PC est infecté"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "La box répond, pas Internet : problème après la box."
+    },
+    {
+     "id": "x5",
+     "type": "diag",
+     "q": "Internet marche par adresse, mais pas par nom de site.",
+     "cmds": [
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Réponse de 8.8.8.8 : octets=32 temps=40ms"
+      },
+      {
+       "c": "ping google.com",
+       "out": "La requête Ping n'a pas pu trouver l'hôte google.com."
+      }
+     ],
+     "options": [
+      "Problème de DNS",
+      "Problème de câble",
+      "Problème de switch",
+      "Conflit d'IP"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Pas de traduction des noms : DNS."
+    },
+    {
+     "id": "x6",
+     "type": "choice",
+     "q": "Seul le PC 2 a perdu le réseau, les autres vont bien. Premier réflexe ?",
+     "options": [
+      "Vérifier son câble et sa prise",
+      "Changer la box",
+      "Changer d'opérateur",
+      "Remplacer tous les PC"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Un seul PC touché : problème local."
+    },
+    {
+     "id": "x7",
+     "type": "choice",
+     "q": "Tous les PC d'un switch perdent le réseau en même temps. Cause probable ?",
+     "options": [
+      "Le switch ou son alimentation",
+      "Un clavier",
+      "Le fond d'écran",
+      "Un seul câble"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Tous passent par ce switch."
+    },
+    {
+     "id": "x8",
+     "type": "choice",
+     "q": "Pourquoi faut-il une adresse IP unique par appareil ?",
+     "options": [
+      "Sinon il y a un conflit et des coupures",
+      "Pour que le Wi-Fi soit plus beau",
+      "Pour économiser l'électricité",
+      "Ce n'est pas nécessaire"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Deux IP identiques créent un conflit d'adresse."
+    }
+   ],
+   "final": true,
+   "passScore": 0.7,
+   "bonus": 60,
+   "noHints": true
+  }
+ ]
+}

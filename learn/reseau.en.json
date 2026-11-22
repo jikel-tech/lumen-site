@@ -1,0 +1,974 @@
+{
+ "id": "reseau",
+ "title": "Networking",
+ "emoji": "🌐",
+ "tagline": "From the cable to the Internet: build a cybercafé network and investigate when it breaks down.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "What is a network?",
+   "minutes": 10,
+   "badge": {
+    "name": "Network curious",
+    "emoji": "🌐"
+   },
+   "lesson": [
+    {
+     "h": "Devices that talk to each other",
+     "p": "A network connects devices (PCs, phones, printers) so they can exchange data. The network in your home or a cybercafé is called a local network (LAN). The Internet is the giant network that links all the networks in the world."
+    },
+    {
+     "h": "The box (or router)",
+     "p": "The box links your local network to the Internet, through your provider. It also shares the connection with devices, by cable or Wi-Fi."
+    },
+    {
+     "h": "The switch",
+     "p": "A box only has a few sockets. A switch adds more: you plug several devices into it by cable, and it lets them talk to each other."
+    },
+    {
+     "h": "Cable or Wi-Fi?",
+     "p": "A network cable has a rectangular plug called RJ45: it is fast and stable. Wi-Fi is a wireless link: handy, but more affected by walls and distance."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which device connects your local network to the Internet?",
+     "options": [
+      "The box (the router)",
+      "The printer",
+      "The keyboard",
+      "The screen"
+     ],
+     "answer": 0,
+     "hint": "It's the device supplied by your provider.",
+     "why": "The box is the door between your local network and the Internet."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "What is a switch for?",
+     "options": [
+      "Adding sockets to plug several devices in by cable",
+      "Charging phones",
+      "Raising the volume",
+      "Removing viruses"
+     ],
+     "answer": 0,
+     "hint": "Think of the word “sockets”.",
+     "why": "The switch multiplies the network sockets and lets plugged-in devices talk."
+    },
+    {
+     "id": "e3",
+     "type": "link",
+     "q": "Connect: Internet ↔ Box, Box ↔ PC (cable) and Box ↔ Phone (Wi-Fi).",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "pc",
+       "e": "💻",
+       "label": "PC"
+      },
+      {
+       "id": "tel",
+       "e": "📱",
+       "label": "Phone"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "pc"
+      ],
+      [
+       "box",
+       "tel"
+      ]
+     ],
+     "hint": "Everything goes through the box, in the middle.",
+     "why": "The box is in the centre: the Internet reaches it, and it serves the PC and the phone."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "What is the rectangular plug on a network cable called? (2 letters + 2 digits)",
+     "answer": [
+      "rj45",
+      "rj-45",
+      "rj 45"
+     ],
+     "hint": "It starts with RJ.",
+     "why": "It's the RJ45 connector."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "What does LAN mean?",
+     "options": [
+      "A local network",
+      "A worldwide network",
+      "A type of virus",
+      "A box brand"
+     ],
+     "answer": 0,
+     "hint": "L as in “Local”.",
+     "why": "LAN = Local Area Network: the network of one place (home, cybercafé)."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Wi-Fi is…",
+     "options": [
+      "A wireless link between the device and the box",
+      "A very long cable",
+      "A type of PC",
+      "Antivirus software"
+     ],
+     "answer": 0,
+     "hint": "“Wireless” is the key word.",
+     "why": "Wi-Fi carries data by radio waves, without a cable."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "IP addresses and subnet mask",
+   "minutes": 12,
+   "badge": {
+    "name": "Address master",
+    "emoji": "🔢"
+   },
+   "lesson": [
+    {
+     "h": "The IP address",
+     "p": "Every device on a network has an IP address, like a house address. It is made of 4 numbers from 0 to 255, separated by dots.",
+     "code": "192.168.1.20"
+    },
+    {
+     "h": "A typical local network",
+     "p": "At home or in a cybercafé, addresses often look like 192.168.1.x. The box often takes 192.168.1.1: it's called the gateway, the door to the Internet."
+    },
+    {
+     "h": "The subnet mask",
+     "p": "With the mask 255.255.255.0, the first three numbers identify the network and the last one identifies the device. Two devices are on the same network if their first three numbers are identical.",
+     "code": "192.168.1.20  and  192.168.1.35  → same network\n192.168.1.20  and  192.168.2.35  → different networks"
+    },
+    {
+     "h": "DHCP and conflicts",
+     "p": "DHCP is the box's service that automatically gives each device an address. If two devices have the same IP there is a conflict and at least one loses its connection. An address 169.254.x.x means the device failed to get an address."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which of these IP addresses is valid?",
+     "options": [
+      "192.168.1.20",
+      "192.168.1.300",
+      "192.168.1",
+      "192.168.1.20.5"
+     ],
+     "answer": 0,
+     "hint": "Each number goes from 0 to 255, and there are 4 of them.",
+     "why": "300 is above 255, and you need exactly 4 numbers."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "With the mask 255.255.255.0, which one is on the same network as 192.168.1.20?",
+     "options": [
+      "192.168.1.35",
+      "192.168.2.35",
+      "10.0.0.20",
+      "192.169.1.20"
+     ],
+     "answer": 0,
+     "hint": "Compare the first three numbers.",
+     "why": "192.168.1.x: the first three numbers are identical."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "Which service of the box automatically gives out IP addresses? (4 letters)",
+     "answer": [
+      "dhcp"
+     ],
+     "hint": "It starts with D.",
+     "why": "It's DHCP."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Two PCs have exactly the same IP address. What happens?",
+     "options": [
+      "An address conflict: connection drops",
+      "Nothing, it's normal",
+      "They run twice as fast",
+      "The Internet is more secure"
+     ],
+     "answer": 0,
+     "hint": "An address must be unique, like a postal address.",
+     "why": "An IP must be unique on the network, otherwise it's a conflict."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "A PC at 192.168.1.20 wants to talk to 192.168.2.5 (mask 255.255.255.0). That is…",
+     "options": [
+      "Another network: it must go through a router",
+      "The same network",
+      "Impossible, even with a router",
+      "A cable error"
+     ],
+     "answer": 0,
+     "hint": "Look at the third number.",
+     "why": "The third number differs (1 and 2): these are two different networks."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "A PC shows 169.254.12.7. That means…",
+     "options": [
+      "It didn't get an address from the box",
+      "Everything is fine",
+      "It's been hacked",
+      "It has too much memory"
+     ],
+     "answer": 0,
+     "hint": "169.254 is a “fallback” address.",
+     "why": "169.254.x.x appears when DHCP did not answer."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Building the cybercafé network",
+   "minutes": 12,
+   "badge": {
+    "name": "Cabler",
+    "emoji": "🔌"
+   },
+   "lesson": [
+    {
+     "h": "The star topology",
+     "p": "In a cybercafé, each PC is linked by its own cable to a switch, and the switch is linked to the box. It's a star: if one cable breaks, only one PC is affected."
+    },
+    {
+     "h": "One path to the Internet",
+     "p": "The Internet reaches the box. The box is linked to the switch, and the PCs to the switch. The network printer also plugs into the switch: all PCs can then use it."
+    },
+    {
+     "h": "Avoid loops",
+     "p": "Never connect two sockets of the same switch to each other, nor two switches with two cables: that creates a loop and can bring the whole network down."
+    },
+    {
+     "h": "When it breaks down",
+     "p": "Only one PC without network: think of its cable. All the PCs on the switch without network: think of the switch or its power. No Internet for anyone while the local network works: think of the box or the provider."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "link",
+     "q": "Build the network: the Box to the Switch, then each PC to the Switch.",
+     "nodes": [
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "pc3",
+       "e": "💻",
+       "label": "PC 3"
+      }
+     ],
+     "links": [
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "pc3"
+      ]
+     ],
+     "hint": "PCs don't plug directly into the box: they go through the switch.",
+     "why": "Star: box → switch → each PC."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Why put a switch in a 5-PC cybercafé?",
+     "options": [
+      "The box doesn't have enough sockets",
+      "To use more electricity",
+      "To slow the network down",
+      "A switch is required for Wi-Fi"
+     ],
+     "answer": 0,
+     "hint": "Count the sockets on a box.",
+     "why": "A box has few sockets; the switch adds more."
+    },
+    {
+     "id": "e3",
+     "type": "link",
+     "q": "Add the Internet and the printer: Internet ↔ Box ↔ Switch, then PC 1, PC 2 and the printer on the switch.",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "imp",
+       "e": "🖨️",
+       "label": "Printer"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "imp"
+      ]
+     ],
+     "hint": "The network printer plugs into the switch, like a PC.",
+     "why": "Everyone shares the printer through the switch."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Only PC 2 has lost the network, the others work. First reflex?",
+     "options": [
+      "Check PC 2's cable",
+      "Replace the box",
+      "Call the provider",
+      "Replace the switch"
+     ],
+     "answer": 0,
+     "hint": "Only one PC affected = a local problem.",
+     "why": "If the others work, the box and the switch work: look at PC 2's cable."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "All PCs plugged into the switch lose the network at the same time. Likely cause?",
+     "options": [
+      "The switch (or its power)",
+      "A single broken cable",
+      "A PC's keyboard",
+      "The wallpaper"
+     ],
+     "answer": 0,
+     "hint": "What do they all have in common?",
+     "why": "They all go through the switch."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Why not connect two sockets of the same switch with a cable?",
+     "options": [
+      "It creates a loop that can block the network",
+      "It damages the cable",
+      "It doubles the speed",
+      "It's not forbidden and it's useful"
+     ],
+     "answer": 0,
+     "hint": "The data goes round in circles.",
+     "why": "A loop makes data circulate endlessly and can take the network down."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Diagnosing with ping and ipconfig",
+   "minutes": 14,
+   "badge": {
+    "name": "Ping detective",
+    "emoji": "🕵️"
+   },
+   "lesson": [
+    {
+     "h": "Two key commands",
+     "p": "ipconfig shows the PC's IP address, mask and gateway. ping tests whether a machine answers: “Reply from…” = it answers, “Request timed out” = no answer.",
+     "code": "ping 192.168.1.1",
+     "out": "Reply from 192.168.1.1: bytes=32 time=2ms"
+    },
+    {
+     "h": "Test from nearest to farthest",
+     "p": "1) ping 127.0.0.1: does the PC's network card work? 2) ping the box (192.168.1.1): does the local network work? 3) ping 8.8.8.8: does the Internet work? 4) ping google.com: do site names work (DNS)?"
+    },
+    {
+     "h": "Reading the results",
+     "p": "Box answers but 8.8.8.8 doesn't: the problem is beyond the box (provider). 8.8.8.8 answers but not google.com: a DNS problem, the “address book” of site names. No valid IP (169.254…): the PC didn't get an address."
+    },
+    {
+     "h": "Investigate",
+     "p": "In the exercises you get a simulated terminal: tap the commands to run them, read the results, then pick the cause. Run several commands before answering, like a real technician."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "diag",
+     "q": "A cybercafé PC has no Internet. Investigate.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "IPv4 Address . . . : 169.254.12.7\nSubnet Mask . . . . : 255.255.0.0\nDefault Gateway . . : (empty)"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Request timed out."
+      }
+     ],
+     "options": [
+      "The PC didn't get an IP address (cable unplugged or DHCP unreachable)",
+      "Google is down",
+      "The PC is too old",
+      "The switch has too many PCs"
+     ],
+     "answer": 0,
+     "hint": "Look at the address starting with 169.254.",
+     "why": "A 169.254.x.x address and an empty gateway: the PC couldn't get an address."
+    },
+    {
+     "id": "e2",
+     "type": "diag",
+     "q": "All PCs lost the Internet, but they can see each other.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "IPv4 Address . . . : 192.168.1.20\nSubnet Mask . . . . : 255.255.255.0\nDefault Gateway . . : 192.168.1.1"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Reply from 192.168.1.1: bytes=32 time=1ms"
+      },
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Request timed out."
+      }
+     ],
+     "options": [
+      "The box has no Internet connection (line or provider)",
+      "The PC's cable is broken",
+      "The PC's IP address is wrong",
+      "DNS is misconfigured"
+     ],
+     "answer": 0,
+     "hint": "The box answers, but nothing beyond it.",
+     "why": "The local network works (the box answers), but nothing gets out to the Internet: a line or provider problem."
+    },
+    {
+     "id": "e3",
+     "type": "diag",
+     "q": "Some services open by address, but sites don't open by name.",
+     "cmds": [
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Reply from 8.8.8.8: bytes=32 time=45ms"
+      },
+      {
+       "c": "ping google.com",
+       "out": "Ping request could not find host google.com."
+      }
+     ],
+     "options": [
+      "A DNS problem",
+      "A cut cable",
+      "A power cut",
+      "An IP address conflict"
+     ],
+     "answer": 0,
+     "hint": "Who translates site names into addresses?",
+     "why": "The Internet answers by address but not by name: DNS isn't working."
+    },
+    {
+     "id": "e4",
+     "type": "diag",
+     "q": "PC 3 keeps disconnecting since a new PC was added.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "IPv4 Address . . . : 192.168.1.20\nWarning: IP address conflict detected with another device (192.168.1.20)."
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Reply from 192.168.1.1: bytes=32 time=3ms"
+      }
+     ],
+     "options": [
+      "An IP address conflict",
+      "The switch is dead",
+      "The box is off",
+      "The PC has no network card"
+     ],
+     "answer": 0,
+     "hint": "Read the ipconfig warning carefully.",
+     "why": "Two devices have the same IP: address conflict."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Which test do you run first to check the PC's network card?",
+     "options": [
+      "ping 127.0.0.1",
+      "ping google.com",
+      "ping 8.8.8.8",
+      "restart the box"
+     ],
+     "answer": 0,
+     "hint": "127.0.0.1 is the “self” address.",
+     "why": "127.0.0.1 tests the PC's own network card."
+    },
+    {
+     "id": "e6",
+     "type": "fill",
+     "q": "Which Windows command shows the PC's IP address? (one word)",
+     "answer": [
+      "ipconfig"
+     ],
+     "hint": "It starts with ip.",
+     "why": "You type ipconfig in the command prompt."
+    }
+   ]
+  },
+  {
+   "id": "lab",
+   "title": "Lab: the company in trouble",
+   "minutes": 15,
+   "badge": {
+    "name": "Troubleshooting pro",
+    "emoji": "🛠️"
+   },
+   "lesson": [
+    {
+     "h": "Your virtual internship",
+     "p": "You are a technician in a small company with 10 PCs. The boss calls: 3 computers have lost the Internet. It's up to you to find out why and fix them, PC by PC, without breaking what works."
+    },
+    {
+     "h": "The method",
+     "p": "For each broken PC: 1) run ipconfig to see the state of the network card and IP address. 2) ping 192.168.1.1 tests the box. 3) ping 8.8.8.8 tests the Internet. 4) ping google.com tests site names (DNS). Read the results, then choose the right repair."
+    },
+    {
+     "h": "Beware of false leads",
+     "p": "Restarting the box or reinstalling Windows almost never fixes an isolated problem: it wastes time (and points). Look for the real cause first."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "q": "Three company PCs have lost the Internet (in red). Tap a PC, investigate with the commands, then repair it.",
+     "hint": "Look at ipconfig first: the cable, the IP address and the DNS are shown there.",
+     "why": "Three faults, three different causes: an unplugged cable, an IP address conflict and a wrong DNS.",
+     "pcs": [
+      {
+       "id": "p1",
+       "name": "PC 1",
+       "ip": "192.168.1.11"
+      },
+      {
+       "id": "p2",
+       "name": "PC 2",
+       "ip": "192.168.1.12"
+      },
+      {
+       "id": "p3",
+       "name": "PC 3",
+       "ip": "192.168.1.13",
+       "fault": "cable"
+      },
+      {
+       "id": "p4",
+       "name": "PC 4",
+       "ip": "192.168.1.14"
+      },
+      {
+       "id": "p5",
+       "name": "PC 5",
+       "ip": "192.168.1.15"
+      },
+      {
+       "id": "p6",
+       "name": "PC 6",
+       "ip": "192.168.1.12",
+       "fault": "ip"
+      },
+      {
+       "id": "p7",
+       "name": "PC 7",
+       "ip": "192.168.1.17"
+      },
+      {
+       "id": "p8",
+       "name": "PC 8",
+       "ip": "192.168.1.18",
+       "fault": "dns"
+      },
+      {
+       "id": "p9",
+       "name": "PC 9",
+       "ip": "192.168.1.19"
+      },
+      {
+       "id": "p10",
+       "name": "PC 10",
+       "ip": "192.168.1.20"
+      }
+     ],
+     "cmds": [
+      "ipconfig",
+      "ping 192.168.1.1",
+      "ping 8.8.8.8",
+      "ping google.com"
+     ],
+     "out": {
+      "ok": [
+       "IPv4 Address . . . : {ip}\nDefault Gateway . . : 192.168.1.1\nDNS Server . . . . : 8.8.8.8",
+       "Reply from 192.168.1.1: bytes=32 time=1ms",
+       "Réponse de 8.8.8.8 : octets=32 temps=42ms",
+       "Reply from google.com: bytes=32 time=47ms"
+      ],
+      "cable": [
+       "Media State . . . . : Network cable unplugged",
+       "Request timed out.",
+       "Request timed out.",
+       "Ping request could not find host google.com."
+      ],
+      "ip": [
+       "IPv4 Address . . . : {ip}\nWarning: IP address conflict detected with another device ({ip}).\nDefault Gateway . . : 192.168.1.1",
+       "Request timed out.",
+       "Request timed out.",
+       "Ping request could not find host google.com."
+      ],
+      "dns": [
+       "IPv4 Address . . . : {ip}\nDefault Gateway . . : 192.168.1.1\nDNS Server . . . . : 10.0.0.99",
+       "Reply from 192.168.1.1: bytes=32 time=1ms",
+       "Reply from 8.8.8.8: bytes=32 time=44ms",
+       "Ping request could not find host google.com."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "cable",
+       "label": "Plug the network cable back in"
+      },
+      {
+       "id": "dhcp",
+       "label": "Set the IP to automatic (DHCP)"
+      },
+      {
+       "id": "dns",
+       "label": "Set the DNS to 8.8.8.8"
+      },
+      {
+       "id": "box",
+       "label": "Restart the box"
+      },
+      {
+       "id": "win",
+       "label": "Reinstall Windows"
+      }
+     ],
+     "txt": {
+      "tap": "Tap a PC to start.",
+      "ok": "This PC already works: nothing to repair here.",
+      "wrong": "That changes nothing for this PC. Re-read the command results.",
+      "fixed": "✅ Fixed! This PC has Internet again.",
+      "allfixed": "Well done, all 3 PCs are fixed!",
+      "need": "Run a few commands first to understand the fault.",
+      "run": "Commands",
+      "fix": "Repair",
+      "reported": "No Internet",
+      "good": "OK",
+      "progress": "{n}/3 PCs fixed"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  },
+  {
+   "id": "exam",
+   "title": "Exam: the broken cybercafé",
+   "minutes": 20,
+   "badge": {
+    "name": "Network technician",
+    "emoji": "📡"
+   },
+   "lesson": [],
+   "exercises": [
+    {
+     "id": "x1",
+     "type": "link",
+     "q": "Cable the cybercafé: Internet ↔ Box ↔ Switch, then PC 1, PC 2 and PC 3 on the switch.",
+     "nodes": [
+      {
+       "id": "internet",
+       "e": "🌍",
+       "label": "Internet"
+      },
+      {
+       "id": "box",
+       "e": "📶",
+       "label": "Box"
+      },
+      {
+       "id": "sw",
+       "e": "🔀",
+       "label": "Switch"
+      },
+      {
+       "id": "pc1",
+       "e": "💻",
+       "label": "PC 1"
+      },
+      {
+       "id": "pc2",
+       "e": "💻",
+       "label": "PC 2"
+      },
+      {
+       "id": "pc3",
+       "e": "💻",
+       "label": "PC 3"
+      }
+     ],
+     "links": [
+      [
+       "internet",
+       "box"
+      ],
+      [
+       "box",
+       "sw"
+      ],
+      [
+       "sw",
+       "pc1"
+      ],
+      [
+       "sw",
+       "pc2"
+      ],
+      [
+       "sw",
+       "pc3"
+      ]
+     ],
+     "hint": "",
+     "why": "A star around the switch."
+    },
+    {
+     "id": "x2",
+     "type": "choice",
+     "q": "Which address is on the same network as 192.168.1.50 (mask 255.255.255.0)?",
+     "options": [
+      "192.168.1.7",
+      "192.168.7.50",
+      "172.168.1.50",
+      "192.169.1.50"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "The first three numbers must be identical."
+    },
+    {
+     "id": "x3",
+     "type": "diag",
+     "q": "PC 4 has no Internet.",
+     "cmds": [
+      {
+       "c": "ipconfig",
+       "out": "IPv4 Address . . . : 169.254.88.2\nDefault Gateway . . : (empty)"
+      },
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Request timed out."
+      }
+     ],
+     "options": [
+      "The PC didn't get an address (cable or DHCP)",
+      "DNS is down",
+      "The box has no Internet",
+      "IP address conflict"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "169.254 and empty gateway: no address obtained."
+    },
+    {
+     "id": "x4",
+     "type": "diag",
+     "q": "All 5 PCs lost the Internet, but the local network works.",
+     "cmds": [
+      {
+       "c": "ping 192.168.1.1",
+       "out": "Reply from 192.168.1.1: bytes=32 time=1ms"
+      },
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Request timed out."
+      }
+     ],
+     "options": [
+      "The box has no Internet connection (provider)",
+      "A PC cable is broken",
+      "The switch is down",
+      "The PC is infected"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "The box answers, the Internet doesn't: a problem beyond the box."
+    },
+    {
+     "id": "x5",
+     "type": "diag",
+     "q": "The Internet works by address, but not by site name.",
+     "cmds": [
+      {
+       "c": "ping 8.8.8.8",
+       "out": "Reply from 8.8.8.8: bytes=32 time=40ms"
+      },
+      {
+       "c": "ping google.com",
+       "out": "Ping request could not find host google.com."
+      }
+     ],
+     "options": [
+      "DNS problem",
+      "Cable problem",
+      "Switch problem",
+      "IP conflict"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Names aren't translated: DNS."
+    },
+    {
+     "id": "x6",
+     "type": "choice",
+     "q": "Only PC 2 lost the network, the others are fine. First reflex?",
+     "options": [
+      "Check its cable and socket",
+      "Replace the box",
+      "Change provider",
+      "Replace all PCs"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Only one PC affected: a local problem."
+    },
+    {
+     "id": "x7",
+     "type": "choice",
+     "q": "All PCs on a switch lose the network at the same time. Likely cause?",
+     "options": [
+      "The switch or its power",
+      "A keyboard",
+      "The wallpaper",
+      "A single cable"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "They all go through this switch."
+    },
+    {
+     "id": "x8",
+     "type": "choice",
+     "q": "Why does each device need a unique IP address?",
+     "options": [
+      "Otherwise there is a conflict and drops",
+      "To make Wi-Fi prettier",
+      "To save electricity",
+      "It isn't necessary"
+     ],
+     "answer": 0,
+     "hint": "",
+     "why": "Two identical IPs create an address conflict."
+    }
+   ],
+   "final": true,
+   "passScore": 0.7,
+   "bonus": 60,
+   "noHints": true
+  }
+ ]
+}

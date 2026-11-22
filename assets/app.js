@@ -131,10 +131,10 @@
   }
 
   /* ---------- Gabarits ---------- */
-  const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
+  const photoOk = (u) => typeof u === 'string' && (u.startsWith('https://images.pexels.com/') || u.startsWith('https://images.unsplash.com/')) && !/['"()\s]/.test(u);
   const favBtn = (a) => { const on = isFav(a.id); return `<span class="fav-btn${on ? ' on' : ''}" role="button" tabindex="0" data-fav="${esc(a.id)}" aria-pressed="${on}" aria-label="${on ? T('Retirer des favoris') : T('Enregistrer en favori')}">${on ? '★' : '☆'}</span>`; };
   const thumb = (a) => photoOk(a.image)
-    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="${esc(T('Photo d’illustration : {x} / Pexels', { x: a.imageBy }))}"` : ''}>${favBtn(a)}</span>`
+    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="${esc(T('Photo d’illustration : {x} / {s}', { x: a.imageBy, s: /unsplash/.test(a.image || '') ? 'Unsplash' : 'Pexels' }))}"` : ''}>${favBtn(a)}</span>`
     : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}">${favBtn(a)}</span>`;
   const kickerText = (a) => (a.category === 'wanda' && WSUBS[a.sub] ? 'Wanda · ' + WSUBS[a.sub] : catLabel(a.category));
   const kicker = (a) => `<span class="kicker${a.category === 'afrique' || a.category === 'wanda' ? ' k-afrique' : ''}">${esc(kickerText(a))}</span>`;
@@ -350,6 +350,8 @@
   function openModal(a) {
     $('#modalMeta').textContent = `${kickerText(a)} · ${a.source} · ${timeAgo(a.pubDate)}`;
     $('#modalTitle').textContent = a.title;
+    const sl = $('#modalSummary').previousElementSibling;
+    if (sl && I18N.lang === 'en') sl.textContent = a.enOk ? 'Summary' : 'Summary (in French)';
     $('#modalSummary').textContent = a.summary || T('Pas de résumé disponible pour cet article. Lisez la source pour le détail.');
     $('#modalKeywords').innerHTML = (a.keywords || []).map((k) => `<span class="chip">${esc(k)}</span>`).join('');
     const also = $('#modalAlso');
@@ -661,8 +663,10 @@
       loadJson(C.ARTICLES_URL && C.ARTICLES_URL.replace('articles.json', 'wanda.json'), 'data/wanda.json'),
     ]);
     const wlist = cleanArticles(wanda).map((a) => ({ ...a, category: 'wanda' }));
-    const list = cleanArticles(arts);
-    const sig = (l) => JSON.stringify(l.map((a) => [a.id, a.aiDone ? 1 : 0, a.image || '', a.coverage || 1]));
+    // Interface anglaise : titre et résumé en anglais quand le collecteur les a produits (sinon le français).
+    const loc = (a) => (I18N.lang === 'en' && a.summaryEn ? { ...a, title: a.titleEn || a.title, summary: a.summaryEn, enOk: true } : a);
+    const list = cleanArticles(arts).map(loc);
+    const sig = (l) => JSON.stringify(l.map((a) => [a.id, a.aiDone ? 1 : 0, a.image || '', a.coverage || 1, a.enOk ? 1 : 0]));
     const changed = sig(list) !== sig(ARTICLES) || sig(wlist) !== sig(WANDA);
     WANDA = wlist;
     WEEKLY = weekly && weekly.title ? weekly : WEEKLY;
