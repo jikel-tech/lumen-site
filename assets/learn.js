@@ -4,7 +4,7 @@
   'use strict';
   const JT = window.JT;
   if (!JT) return;
-  const { $, $$, esc, getProg, saveProg, touchStreak, level, toast, dayKey, track } = JT;
+  const { $, $$, esc, getProg, saveProg, logHist, touchStreak, level, toast, dayKey, track } = JT;
   const C = window.LUMEN || {};
   const BASES = [C.LEARN_URL || 'learn/', C.LEARN_FALLBACK_URL || 'learn/'];
 
@@ -112,7 +112,7 @@
     const g = getProg();
     const lv = level(g.xp);
     el.innerHTML = `
-      <div class="av-top"><span class="av-brand">${I18N.lang === 'en' ? '<em>Learn</em>' : 'Appr<em>endre</em>'}</span><span class="pill xp">⭐ ${g.xp} XP · ${T('Niv.')} ${lv.lvl}</span></div>
+      <div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">${T('Apprendre')}</i></span><span class="pill xp">⭐ ${g.xp} XP · ${T('Niv.')} ${lv.lvl}</span></div>
       <div class="hero-learn"><h2>Apprends en jouant</h2><p>Une leçon courte, puis des exercices pour valider. Chaque chapitre réussi te donne un badge.</p></div>
       ${dailyHtml(g, defis)}
       <h2 class="sect-title">Domaines</h2>
@@ -268,6 +268,8 @@
       saveProg(g);
       track('chapter_done', { course: L.course, chapter: c.id, score: S.firstTry + '/' + total });
     }
+    logHist(g, c.final ? 'exam' : 'chap', c.title, S.xpEarned + bonus, pass, S.firstTry + '/' + total);
+    saveProg(g);
     L.result = { pass, score: S.firstTry, total, xp: S.xpEarned + bonus, bonus, newBadge, badge: c.badge };
     L.view = 'result';
     renderLearn();
@@ -306,6 +308,7 @@
       const g = getProg();
       g.daily = { date: dayKey(), ok };
       if (ok) { g.xp += 15; touchStreak(g); }
+      logHist(g, 'daily', T('Défi du jour'), ok ? 15 : 0, ok, '');
       saveProg(g);
       $$('[data-daily]').forEach((b) => { b.disabled = true; if (+b.dataset.daily === L.daily.d.answer) b.classList.add('good'); else if (b === dly) b.classList.add('bad'); });
       $('#dailyFb').innerHTML = `<div class="feedback ${ok ? 'ok' : 'ko'}"><b>${ok ? 'Bravo ! +15 XP' : 'Pas cette fois.'}</b> ${esc(L.daily.d.why || '')}</div>`;
@@ -352,7 +355,7 @@
     const el = sosEl();
     const guides = await loadJson('sos.json');
     if (!el) return;
-    if (!guides) { el.innerHTML = '<div class="av-top"><span class="av-brand">SOS <em>Tech</em></span></div><p class="av-sub">Impossible de charger les guides. Vérifie ta connexion.</p>'; return; }
+    if (!guides) { el.innerHTML = '<div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">SOS Tech</i></span></div><p class="av-sub">Impossible de charger les guides. Vérifie ta connexion.</p>'; return; }
     if (Sx.view === 'guide') {
       const gd = guides.find((x) => x.id === Sx.guide);
       if (!gd) { Sx.view = 'list'; return renderSos(); }
@@ -370,7 +373,7 @@
     const q = Sx.q.trim().toLowerCase();
     const list = guides.filter((x) => (Sx.tag === 'tous' || x.tags.includes(Sx.tag)) && (!q || (x.title + ' ' + x.tags.join(' ') + ' ' + x.intro).toLowerCase().includes(q)));
     el.innerHTML = `
-      <div class="av-top"><span class="av-brand">SOS <em>Tech</em></span></div>
+      <div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">SOS Tech</i></span></div>
       <h1 class="av-title">Un problème ? On t'aide.</h1>
       <p class="av-sub">Des guides pas à pas pour dépanner ton téléphone, ton PC ou ta connexion.</p>
       <div class="hsearch"><span aria-hidden="true">⌕</span><input type="search" id="sosSearch" value="${esc(Sx.q)}" placeholder="Décris ton problème (ex. : wifi, lent, batterie…)" aria-label="Chercher un guide" autocomplete="off"></div>

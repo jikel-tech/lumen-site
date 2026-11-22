@@ -49,7 +49,13 @@
       badges: Array.isArray(g.badges) ? g.badges.filter((b) => typeof b === 'string') : [],
       daily: g.daily && typeof g.daily === 'object' ? g.daily : {},
       solved: Math.max(0, +g.solved || 0),
+      history: Array.isArray(g.history) ? g.history.filter((h) => h && typeof h === 'object').slice(0, 40) : [],
     };
+  }
+  // Historique : les 40 dernières activités (chapitre, examen, défi), sur l'appareil seulement.
+  function logHist(g, k, label, xp, ok, note) {
+    g.history.unshift({ d: dayKey(), k, l: String(label || '').slice(0, 80), xp: xp | 0, ok: !!ok, n: String(note || '').slice(0, 20) });
+    g.history.length = Math.min(g.history.length, 40);
   }
   const saveProg = (g) => jset('jt_progress', g);
   const level = (xp) => ({ lvl: Math.floor(xp / 100) + 1, into: xp % 100 });
@@ -84,7 +90,7 @@
     return `<span class="avatar ${cls}" style="background:${p.color}" aria-hidden="true">${ch}</span>`;
   };
 
-  window.JT = { $, $$, esc, store, jget, jset, dayKey, getProfile, setProfile, getProg, saveProg, level, touchStreak, streakNow, doneChapters, toast, BADGES, TOTAL_STEPS, COLORS, track, go: (t) => setTab(t) };
+  window.JT = { $, $$, esc, store, jget, jset, dayKey, getProfile, setProfile, getProg, saveProg, logHist, level, touchStreak, streakNow, doneChapters, toast, BADGES, TOTAL_STEPS, COLORS, track, go: (t) => setTab(t) };
 
   /* ---------- Onglets ---------- */
   const TABS = ['home', 'news', 'learn', 'sos', 'me'];
@@ -230,9 +236,15 @@
     if (!d || typeof d !== 'object' || !d.g) throw new Error('Code non valide.');
     jset('jt_profile', { name: String(d.p?.name || '').slice(0, 24), color: COLORS.includes(d.p?.color) ? d.p.color : COLORS[0], since: String(d.p?.since || '') });
     const g = d.g;
-    jset('jt_progress', { xp: Math.max(0, +g.xp || 0), streak: g.streak || {}, courses: g.courses && typeof g.courses === 'object' ? g.courses : {}, badges: Array.isArray(g.badges) ? g.badges.filter((b) => typeof b === 'string') : [], daily: g.daily || {}, solved: Math.max(0, +g.solved || 0) });
+    jset('jt_progress', { xp: Math.max(0, +g.xp || 0), streak: g.streak || {}, courses: g.courses && typeof g.courses === 'object' ? g.courses : {}, badges: Array.isArray(g.badges) ? g.badges.filter((b) => typeof b === 'string') : [], daily: g.daily || {}, solved: Math.max(0, +g.solved || 0), history: Array.isArray(g.history) ? g.history.slice(0, 40) : [] });
   }
 
+  function historyHtml(g) {
+    if (!g.history.length) return `<p class="av-sub">${T('Ton historique apparaîtra ici après ton premier chapitre ou défi.')}</p>`;
+    const icon = { chap: '📘', exam: '🏆', daily: '⚡' };
+    const fmt = (d) => { try { return new Date(d + 'T12:00:00').toLocaleDateString(I18N.locale, { day: 'numeric', month: 'short' }); } catch { return d; } };
+    return `<ol class="hist">${g.history.slice(0, 12).map((h) => `<li class="${h.ok ? 'ok' : 'ko'}"><span class="hi">${icon[h.k] || '•'}</span><span class="ht"><b>${esc(h.l)}</b><small>${esc(fmt(h.d))}${h.n ? ' · ' + esc(h.n) : ''} · ${h.ok ? T('validé') : T('à refaire')}</small></span><span class="hx">${h.xp ? '+' + h.xp + ' XP' : ''}</span></li>`).join('')}</ol>`;
+  }
   function renderMe() {
     const p = getProfile(), g = getProg(), lv = level(g.xp);
     const reads = jget('lumen_read', []);
@@ -240,7 +252,7 @@
     const theme = document.documentElement.getAttribute('data-theme') === 'light' ? T('clair') : T('sombre');
     const owned = new Set(g.badges);
     $('#view-me').innerHTML = `
-      <div class="av-top"><span class="av-brand">${I18N.lang === 'en' ? 'My <em>profile</em>' : 'Mon <em>profil</em>'}</span></div>
+      <div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">${T('Profil')}</i></span></div>
       <div class="me-head">${avatarHtml()}<div style="min-width:0;flex:1">
         <div class="me-name">${p.name ? esc(p.name) : T('Invité')}</div>
         <div class="me-lvl">${T('Niveau')} ${lv.lvl} · ${g.xp} XP</div>
@@ -259,6 +271,8 @@
       </div>
       <h2 class="sect-title">Mes badges <span style="font-size:.8rem;color:var(--paper-dim);font-family:'Space Grotesk',sans-serif">${g.badges.length}/${BADGES.length}</span></h2>
       <div class="badges">${BADGES.map((b) => `<div class="badge ${owned.has(b.id) ? 'on' : 'off'}"><span class="e">${b.e}</span><small>${esc(b.name)}</small></div>`).join('')}</div>
+      <h2 class="sect-title">Historique</h2>
+      ${historyHtml(g)}
       <h2 class="sect-title">Réglages</h2>
       <div class="setrow"><div>Thème<small>${T('Actuellement : {x}', { x: theme })}</small></div><button type="button" class="btn-line" data-me="theme">Changer</button></div>
       <div class="setrow"><div>Notifications<small>L'actu du matin sur ton téléphone</small></div><button type="button" class="btn-line" data-me="push">Activer</button></div>

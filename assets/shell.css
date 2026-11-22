@@ -222,3 +222,42 @@ body.tab-learn{--ink:#06130D; --ink-2:#0C1F16; --paper:#ECE9DF; --paper-dim:#9DB
 body.tab-learn .popup{display:none !important;}
 
 .langsw{display:inline-flex;gap:6px}.btn-line.on{background:var(--phosphor);color:#06130c;border-color:var(--phosphor)}
+
+/* ---- Passe 2 : débordements, accueil compact, modules verrouillés, historique, marque ---- */
+.av-sec{font-family:'Space Grotesk',sans-serif; font-style:normal; font-size:.72rem; letter-spacing:.08em; text-transform:uppercase; color:var(--paper-dim); margin-left:10px; padding-left:10px; border-left:1px solid var(--line); white-space:nowrap;}
+.logo{display:inline-flex; flex-direction:column; line-height:1.05;}
+.logo .by{font-family:'Space Grotesk',sans-serif; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase; color:var(--paper-dim); font-weight:500; margin-top:2px;}
+/* Accueil plus compact : tout tient mieux sur un petit écran */
+.av-top{margin-bottom:10px;}
+.greet{font-size:1.65rem; margin-bottom:2px;}
+.greet-sub{font-size:.88rem; margin-bottom:12px;}
+.hsearch{margin-bottom:12px;}
+.hsearch input{padding:11px 16px 11px 42px;}
+.hcards{gap:8px; margin-bottom:6px;}
+.hcard{padding:10px 9px; gap:3px;}
+.hcard .ic{font-size:1.3rem;}
+.hcard small{display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; font-size:.7rem;}
+.parcours{padding:12px 14px;}
+.ring{width:52px; height:52px;} .ring i{width:40px; height:40px; font-size:.76rem;}
+.parcours h3{font-size:1rem;} .parcours p{font-size:.8rem;}
+/* Modules verrouillés : lisibles, clairement « pas encore » */
+.chap.locked, .chap.soon{opacity:1; background:rgba(255,255,255,.03); border-style:dashed;}
+.chap.locked b, .chap.soon b{color:var(--paper); opacity:.82;}
+.chap.locked small:first-child, .chap.soon small:first-child{color:var(--paper-dim);}
+.chap.locked small:last-child{color:var(--amber); font-weight:600;}
+.chap.locked .node{border-style:dashed; border-color:var(--amber); color:var(--amber); background:rgba(255,178,94,.08);}
+/* Historique */
+.hist{list-style:none; padding:0; margin:0 0 6px; display:flex; flex-direction:column; gap:8px;}
+.hist li{display:flex; align-items:center; gap:12px; background:var(--ink-2); border:1px solid var(--line); border-radius:12px; padding:10px 12px;}
+.hist .hi{font-size:1.2rem;} .hist .ht{flex:1; min-width:0;} .hist .ht b{display:block; font-size:.9rem; font-weight:600; overflow-wrap:anywhere;}
+.hist small{color:var(--paper-dim); font-size:.74rem;} .hist .hx{font-weight:700; font-size:.82rem; color:var(--phosphor); white-space:nowrap;}
+.hist li.ko .hx{color:var(--paper-dim);}
+/* Débordements : rien ne doit dépasser en largeur */
+.app-view, .app-view *{min-width:0;}
+.app-view{overflow-x:clip;} .app-view p, .app-view h1, .app-view h2, .app-view h3, .app-view b, .app-view small{overflow-wrap:anywhere;}
+.codeblock, pre{max-width:100%; overflow-x:auto;}
+@media(max-width:360px){
+  .mainbar{gap:8px;} .nav-right{gap:6px; min-width:0;} .nav-cta{padding:7px 9px; font-size:.74rem;} .logo{font-size:1.15rem;}
+  .hcards{grid-template-columns:repeat(3,minmax(0,1fr));} .hcard b{font-size:.82rem;} .hcard small{display:none;}
+  .av-sec{margin-left:8px; padding-left:8px;}
+}
