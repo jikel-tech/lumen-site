@@ -1,0 +1,304 @@
+[
+  {
+    "id": "tel-lent",
+    "title": "My phone has become slow",
+    "emoji": "🐢",
+    "tags": [
+      "phone",
+      "android",
+      "slow"
+    ],
+    "intro": "A slow phone almost always comes from three things: full storage, too many apps running in the background, or an outdated system.",
+    "steps": [
+      {
+        "t": "Restart it",
+        "d": "Turn the phone off completely, wait 10 seconds, then turn it on again. This clears the memory and fixes many slowdowns."
+      },
+      {
+        "t": "Check the storage space",
+        "d": "Go to Settings → Storage. If less than 10% is free, the phone slows down. Delete videos, duplicates and large WhatsApp files (WhatsApp Settings → Storage and data)."
+      },
+      {
+        "t": "Close and uninstall what you do not need",
+        "d": "In Settings → Apps, see which ones use the most. Uninstall the ones you no longer use. Avoid having several \"cleaner\" apps: they often slow the phone down more than they help."
+      },
+      {
+        "t": "Update the system and the apps",
+        "d": "Settings → System update, then Play Store → Manage apps & device. Do it on Wi-Fi so you do not use up your data plan."
+      },
+      {
+        "t": "Reduce the animations",
+        "d": "In Developer options, set the animation scales to 0.5x or turn them off. The phone feels much faster, especially on an entry-level model."
+      },
+      {
+        "t": "Last resort: reset",
+        "d": "First back up your photos and contacts (Google Photos, Google account), then go to Settings → Reset options. This erases everything: do it only if nothing else worked."
+      }
+    ],
+    "warn": "If the phone gets very hot, drains very fast and is slow all at once, the battery may be worn out. Ask a technician to check it."
+  },
+  {
+    "id": "tel-charge",
+    "title": "My phone does not charge or charges very slowly",
+    "emoji": "🔋",
+    "tags": [
+      "phone",
+      "charging",
+      "battery"
+    ],
+    "intro": "Before blaming the battery, check the cable, the charger and the port. These are the most common causes, especially when the power supply is unstable.",
+    "steps": [
+      {
+        "t": "Try another socket and another cable",
+        "d": "Cables wear out quickly. Try an original cable and charger, or ones from another phone of the same brand."
+      },
+      {
+        "t": "Clean the charging port",
+        "d": "Turn off the phone and gently remove dust with a wooden toothpick or a dry toothbrush. Never use a metal object or any liquid."
+      },
+      {
+        "t": "Restart the phone",
+        "d": "A small software bug can stop charging. Sometimes a restart is enough."
+      },
+      {
+        "t": "Avoid unknown chargers",
+        "d": "Very cheap chargers deliver little power and can damage the battery. Choose a charger with the right power (shown on your original charger)."
+      },
+      {
+        "t": "Charge it while it is off",
+        "d": "If it charges when off but not when on, an app that uses a lot of power is the cause (or the battery is worn)."
+      }
+    ],
+    "warn": "Swollen battery, strong heat or a burning smell: stop charging, keep it away from anything that can burn, and have it replaced. Never puncture a battery."
+  },
+  {
+    "id": "wifi",
+    "title": "Wi-Fi connected but no Internet",
+    "emoji": "📶",
+    "tags": [
+      "network",
+      "wifi",
+      "internet"
+    ],
+    "intro": "If Wi-Fi says \"connected\" but there is no Internet, the problem is either on your device, on the router, or with the Internet provider. You need to find out which.",
+    "steps": [
+      {
+        "t": "Test another device",
+        "d": "If another phone or PC has Internet on the same Wi-Fi, the problem is your device. If none of them has Internet, it comes from the router or the provider."
+      },
+      {
+        "t": "Forget the network and reconnect",
+        "d": "In the Wi-Fi settings, tap \"Forget network\", then reconnect with the password."
+      },
+      {
+        "t": "Restart the router",
+        "d": "Unplug it for 30 seconds, plug it back in, and wait 2 to 3 minutes for all the lights to settle."
+      },
+      {
+        "t": "Look at the lights",
+        "d": "An \"Internet\" or \"WAN\" light that is off, red or orange often means a line or data plan problem: call your provider or check that your data plan is not used up."
+      },
+      {
+        "t": "Change the DNS",
+        "d": "In the advanced Wi-Fi settings, set the DNS to 8.8.8.8 and 8.8.4.4 (Google). This fixes cases where the connection exists but websites do not open."
+      },
+      {
+        "t": "Move closer to the router",
+        "d": "A weak signal can show \"connected\" but let very little data through. Test at 2 meters from the router."
+      }
+    ],
+    "warn": "If only some websites do not open, also try on mobile data: this tells you whether the block comes from the network or from the site."
+  },
+  {
+    "id": "pc-demarre",
+    "title": "My PC does not start",
+    "emoji": "💻",
+    "tags": [
+      "computer",
+      "pc",
+      "boot"
+    ],
+    "intro": "First, observe what happens: nothing at all, a light, a black screen, an error message? Each case has a different lead.",
+    "steps": [
+      {
+        "t": "Check the power",
+        "d": "Socket, power strip, charger cable: try another socket. On a laptop, remove the battery if possible, hold the power button for 15 seconds, then plug in only the charger and turn it on again."
+      },
+      {
+        "t": "Nothing lights up at all",
+        "d": "The charger or the power board may be faulty. Try a compatible charger. On a desktop PC, check the switch at the back of the case."
+      },
+      {
+        "t": "It turns on but the screen is black",
+        "d": "On a desktop PC, connect another screen. Reseating the RAM module (with the PC off and unplugged) often fixes the problem: remove it and put it back firmly in place."
+      },
+      {
+        "t": "Message \"No bootable device\" or \"Operating system not found\"",
+        "d": "The disk is no longer detected or the system is damaged. Enter the BIOS (press F2, F10, Delete or Esc at startup) and check whether the disk appears."
+      },
+      {
+        "t": "Restart loop or blue screen",
+        "d": "Start in Safe Mode (Windows: hold Shift while clicking Restart, then Troubleshoot). Uninstall the latest update or the last program you installed."
+      },
+      {
+        "t": "Save your data first",
+        "d": "If the disk is detected, connect it to another PC (USB enclosure) to copy your files before reinstalling anything."
+      }
+    ],
+    "warn": "If the hard drive makes repeated clicking noises, stop turning it on and ask a technician to recover the data."
+  },
+  {
+    "id": "pc-lent",
+    "title": "My PC has become very slow",
+    "emoji": "🖥️",
+    "tags": [
+      "computer",
+      "pc",
+      "slow",
+      "windows"
+    ],
+    "intro": "A slow PC is often caused by too many programs at startup, an almost full disk, or a virus.",
+    "steps": [
+      {
+        "t": "See what is using resources",
+        "d": "Ctrl + Shift + Esc opens Task Manager. Sort by Memory and by Disk: a program that takes everything is your culprit."
+      },
+      {
+        "t": "Reduce startup programs",
+        "d": "In Task Manager, open the Startup tab and disable the useless programs (software updaters, launchers, etc.)."
+      },
+      {
+        "t": "Free up space",
+        "d": "An almost full disk slows down Windows. Aim for at least 15% free space. Use \"Disk Cleanup\" and empty the Recycle Bin."
+      },
+      {
+        "t": "Run an antivirus scan",
+        "d": "Use Microsoft Defender (already in Windows) for a full scan. Avoid installing several antivirus programs together."
+      },
+      {
+        "t": "Think about an SSD",
+        "d": "If your PC still has a classic hard drive, switching to an SSD is the best upgrade possible, often more effective than buying a new computer."
+      },
+      {
+        "t": "Check the RAM",
+        "d": "With 4 GB or less, Windows and a browser with several tabs are enough to freeze everything. Going to 8 GB changes everything."
+      }
+    ],
+    "warn": "Be careful with pirated software and unknown USB drives: they are the main sources of viruses on PCs."
+  },
+  {
+    "id": "stockage",
+    "title": "My storage is full",
+    "emoji": "📦",
+    "tags": [
+      "phone",
+      "storage",
+      "whatsapp"
+    ],
+    "intro": "Almost always, it is photos, videos and files received on WhatsApp that fill the memory.",
+    "steps": [
+      {
+        "t": "Find out what takes up space",
+        "d": "Settings → Storage. Look at the breakdown: Images, Videos, Apps, Other."
+      },
+      {
+        "t": "Clean up WhatsApp",
+        "d": "WhatsApp → Settings → Storage and data → Manage storage. You will see the largest files and the ones forwarded many times: delete them."
+      },
+      {
+        "t": "Back up, then delete photos",
+        "d": "Send photos and videos to Google Photos (or to a PC or a USB drive), check that they are there, then free up space on the phone."
+      },
+      {
+        "t": "Clear the cache",
+        "d": "Settings → Apps → choose a heavy app → Storage → Clear cache. Clearing the cache does not delete your data."
+      },
+      {
+        "t": "Uninstall what you never open",
+        "d": "Heavy games and forgotten apps take up hundreds of MB."
+      },
+      {
+        "t": "Use a memory card",
+        "d": "If your phone accepts a microSD card, move your photos and videos there."
+      }
+    ],
+    "warn": "Never delete a system folder if you do not know what it is for. When in doubt, do not touch it."
+  },
+  {
+    "id": "compte-pirate",
+    "title": "My account was hacked (Facebook, WhatsApp...)",
+    "emoji": "🚨",
+    "tags": [
+      "security",
+      "facebook",
+      "whatsapp",
+      "password"
+    ],
+    "intro": "Act fast and in order: take back control, cut the hacker's access, then warn your contacts.",
+    "steps": [
+      {
+        "t": "Try to log in again and change your password",
+        "d": "Use \"Forgot password\" with your number or your email. Choose a long, unique password that you have never used anywhere else."
+      },
+      {
+        "t": "Log out all other devices",
+        "d": "Facebook: Settings → Security → Where you're logged in. WhatsApp: Linked devices. Log out of everything you do not recognize."
+      },
+      {
+        "t": "Turn on two-factor authentication",
+        "d": "This adds an extra code when you log in. On WhatsApp, turn on \"Two-step verification\" and choose a PIN that nobody knows."
+      },
+      {
+        "t": "Never share a code received by SMS",
+        "d": "Most WhatsApp hacks happen by asking you for a \"6-digit code sent by mistake\". This code must never be shared, even with a friend."
+      },
+      {
+        "t": "Warn your contacts",
+        "d": "Tell your friends and family not to answer money requests sent from your account. Hackers use it to scam your friends."
+      },
+      {
+        "t": "If you can no longer log in",
+        "d": "Use the recovery form of the service concerned (Facebook: \"My account is hacked\", WhatsApp: write to their support from the app)."
+      }
+    ],
+    "warn": "Never pay anyone who claims to recover your account for money: it is almost always a second scam."
+  },
+  {
+    "id": "data-fond",
+    "title": "My Internet data plan runs out too fast",
+    "emoji": "💸",
+    "tags": [
+      "data plan",
+      "data",
+      "phone"
+    ],
+    "intro": "A data plan that disappears is almost always explained by automatic updates, videos and apps running in the background.",
+    "steps": [
+      {
+        "t": "See who is using data",
+        "d": "Settings → Network & internet → Data usage. You will see which app ate your data plan."
+      },
+      {
+        "t": "Block automatic updates on mobile data",
+        "d": "Play Store → Settings → Network preferences → choose \"Over Wi-Fi only\" for updates and downloads."
+      },
+      {
+        "t": "Limit automatic video playback",
+        "d": "On Facebook, TikTok, YouTube and WhatsApp, turn off video autoplay and lower the quality (\"data saver\")."
+      },
+      {
+        "t": "Turn on Data Saver",
+        "d": "Android: Settings → Data usage → Data Saver. It stops background apps from using the Internet."
+      },
+      {
+        "t": "Set a warning limit",
+        "d": "In the same settings, set a threshold that warns you before you have used everything."
+      },
+      {
+        "t": "Use Wi-Fi whenever possible",
+        "d": "Download large files, apps and updates whenever you have access to Wi-Fi."
+      }
+    ],
+    "warn": "Be careful with apps that promise to \"boost\" or \"save\" data: many are useless, and some collect your information."
+  }
+]

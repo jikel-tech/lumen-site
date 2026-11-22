@@ -1,0 +1,980 @@
+{
+  "id": "python",
+  "title": "Python",
+  "emoji": "🐍",
+  "tagline": "From your first print to your first program. Each chapter: a short lesson, then exercises to check what you learned.",
+  "passScore": 0.6,
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Hello Python: showing text",
+      "minutes": 10,
+      "badge": {
+        "name": "First print",
+        "emoji": "🌱"
+      },
+      "lesson": [
+        {
+          "h": "What is Python?",
+          "p": "Python is a programming language: a way to write instructions that a computer can run. It is known for being easy to read, almost like plain English. People use it to build websites, analyse data, automate tasks and create artificial intelligence."
+        },
+        {
+          "h": "Your first program: print",
+          "p": "The print() function shows text on the screen. The text goes between quotes. We call it a string.",
+          "code": "print(\"Hello\")",
+          "out": "Hello"
+        },
+        {
+          "h": "Several instructions",
+          "p": "Python reads your program from top to bottom, one line after another. Each print() writes on a new line.",
+          "code": "print(\"Hello\")\nprint(\"Welcome to Kribi\")",
+          "out": "Hello\nWelcome to Kribi"
+        },
+        {
+          "h": "Comments",
+          "p": "A line that starts with # is a comment. Python ignores it. Use it to explain your code to yourself or to others.",
+          "code": "# This is a comment\nprint(\"Hi\")",
+          "out": "Hi"
+        },
+        {
+          "h": "Errors are your friends",
+          "p": "If you forget a quote, or if you write Print instead of print, Python shows an error message. This is not a failure. It is a clue that tells you what to fix. Python treats capital and small letters as different."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "Which line shows the word Hello on the screen?",
+          "options": [
+            "print(\"Hello\")",
+            "display(\"Hello\")",
+            "echo Hello",
+            "say(\"Hello\")"
+          ],
+          "answer": 0,
+          "hint": "It is the name of the function from the lesson, in small letters.",
+          "why": "print() is the Python function that shows text."
+        },
+        {
+          "id": "e2",
+          "type": "fill",
+          "q": "Complete the line to show Hi Kribi.",
+          "code": "___(\"Hi Kribi\")",
+          "answer": [
+            "print"
+          ],
+          "hint": "Think of the function that shows text.",
+          "why": "We write print(\"Hi Kribi\")."
+        },
+        {
+          "id": "e3",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(\"A\")\nprint(\"B\")",
+          "options": [
+            "AB on one line",
+            "A then B, each on its own line",
+            "B then A",
+            "Nothing at all"
+          ],
+          "answer": 1,
+          "hint": "Python reads from top to bottom, and each print() starts a new line.",
+          "why": "Each print() writes on a new line, in the order of the program."
+        },
+        {
+          "id": "e4",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "# print(\"Hi\")\nprint(\"Ciao\")",
+          "options": [
+            "Hi",
+            "Ciao",
+            "Hi then Ciao",
+            "An error"
+          ],
+          "answer": 1,
+          "hint": "Look at the # symbol at the start of the first line.",
+          "why": "The first line is a comment. Python ignores it. Only Ciao is shown."
+        },
+        {
+          "id": "e5",
+          "type": "order",
+          "q": "Put the lines in order: the comment first, then Hello, then Welcome to Kribi.",
+          "lines": [
+            "# My first program",
+            "print(\"Hello\")",
+            "print(\"Welcome to Kribi\")"
+          ],
+          "hint": "Python runs the lines from top to bottom.",
+          "why": "The order of the lines is the order of execution."
+        },
+        {
+          "id": "e6",
+          "type": "choice",
+          "q": "This program causes an error. Why?",
+          "code": "print(\"Hello)",
+          "options": [
+            "A closing quote is missing",
+            "print is not allowed",
+            "It needs a full stop at the end",
+            "Hello is too long"
+          ],
+          "answer": 0,
+          "hint": "Count the quotes. Are there as many at the end as at the start?",
+          "why": "Text must start and end with a quote. Here the closing quote is missing."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Variables and types: storing information",
+      "minutes": 12,
+      "badge": {
+        "name": "Variable master",
+        "emoji": "📦"
+      },
+      "lesson": [
+        {
+          "h": "A variable is a box with a name",
+          "p": "A variable keeps a piece of information so you can use it later. You create it with the = sign, which means \"put this value in this box\".",
+          "code": "city = \"Kribi\"\nprint(city)",
+          "out": "Kribi"
+        },
+        {
+          "h": "Watch the quotes",
+          "p": "print(city) shows what is inside the variable. print(\"city\") shows the word city itself, because it is text between quotes.",
+          "code": "city = \"Kribi\"\nprint(\"city\")",
+          "out": "city"
+        },
+        {
+          "h": "Naming variables well",
+          "p": "A variable name has no spaces, does not start with a digit and does not use a hyphen. Write it in small letters, with _ between words: my_age, total_price. Python treats capital and small letters as different: Age and age are two different variables."
+        },
+        {
+          "h": "The basic types",
+          "p": "Every value has a type. int: a whole number (12). float: a number with a decimal part, written with a decimal point (3.14). str: text (\"Kribi\"). bool: true or false (True or False). The type() function tells you the type of a value.",
+          "code": "print(type(12))\nprint(type(3.14))\nprint(type(\"Kribi\"))",
+          "out": "<class 'int'>\n<class 'float'>\n<class 'str'>"
+        },
+        {
+          "h": "Changing a value, showing several things",
+          "p": "You can give a variable a new value. The old one is forgotten. Also, print() can show several items separated by commas. It puts a space between them.",
+          "code": "x = 5\nx = 8\nprint(\"x is\", x)",
+          "out": "x is 8"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "Which of these is a valid variable name?",
+          "options": [
+            "my_age",
+            "2age",
+            "my age",
+            "my-age"
+          ],
+          "answer": 0,
+          "hint": "No spaces, no hyphens, and it cannot start with a digit.",
+          "why": "my_age follows all the rules."
+        },
+        {
+          "id": "e2",
+          "type": "fill",
+          "q": "Complete the line so that the variable price holds 500.",
+          "code": "price ___ 500",
+          "answer": [
+            "="
+          ],
+          "hint": "Which sign stores a value in a variable?",
+          "why": "We write price = 500."
+        },
+        {
+          "id": "e3",
+          "type": "choice",
+          "q": "What is the type of the value 3.14?",
+          "options": [
+            "int",
+            "str",
+            "float",
+            "bool"
+          ],
+          "answer": 2,
+          "hint": "It has a decimal point.",
+          "why": "A number with a decimal part (written with a decimal point) is a float."
+        },
+        {
+          "id": "e4",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "x = 5\nx = 8\nprint(x)",
+          "options": [
+            "5",
+            "8",
+            "13",
+            "Une erreur"
+          ],
+          "answer": 1,
+          "hint": "The second line replaces the value of x.",
+          "why": "The last value given to x is 8."
+        },
+        {
+          "id": "e5",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "name = \"Awa\"\nprint(\"name\")",
+          "options": [
+            "Awa",
+            "name",
+            "An error",
+            "Nothing"
+          ],
+          "answer": 1,
+          "hint": "Check whether name is between quotes in the print.",
+          "why": "Between quotes, it is text: the word name is shown, not the content of the variable."
+        },
+        {
+          "id": "e6",
+          "type": "order",
+          "q": "Put in order to show: City: Kribi",
+          "lines": [
+            "city = \"Kribi\"",
+            "print(\"City:\", city)"
+          ],
+          "hint": "A variable must exist before it is used.",
+          "why": "First we create the variable, then we use it."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Calculations and text",
+      "minutes": 14,
+      "badge": {
+        "name": "Calculator",
+        "emoji": "🧮"
+      },
+      "lesson": [
+        {
+          "h": "Operations",
+          "p": "Python can calculate: + (addition), - (subtraction), * (multiplication), / (division), ** (power). As in maths, multiplication comes before addition. Brackets change the order.",
+          "code": "print(2 + 3 * 4)\nprint((2 + 3) * 4)\nprint(2 ** 3)",
+          "out": "14\n20\n8"
+        },
+        {
+          "h": "Divisions: /, // and %",
+          "p": "/ always gives a number with a decimal part. // gives the whole part of the division. % gives the remainder. The remainder is very useful, for example to know if a number is even (remainder 0 when you divide by 2).",
+          "code": "print(7 / 2)\nprint(7 // 2)\nprint(7 % 2)",
+          "out": "3.5\n3\n1"
+        },
+        {
+          "h": "Calculating with text",
+          "p": "With text, + joins two texts together and * repeats a text. len() gives the number of characters.",
+          "code": "print(\"ha\" * 3)\nprint(\"Kri\" + \"bi\")\nprint(len(\"Kribi\"))",
+          "out": "hahaha\nKribi\n5"
+        },
+        {
+          "h": "f-strings: mixing text and variables",
+          "p": "Put an f before the quotes, then put the variables between curly brackets. It is the clearest way to show a sentence with values.",
+          "code": "name = \"Awa\"\nprint(f\"Hi {name}\")",
+          "out": "Hi Awa"
+        },
+        {
+          "h": "Asking for a value: input()",
+          "p": "input() pauses the program and gets what the user types, always as text. To calculate with it, you must convert it: int() for a whole number, float() for a number with a decimal part.",
+          "code": "age = int(input())\nprint(age + 1)"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(2 + 3 * 4)",
+          "options": [
+            "20",
+            "14",
+            "24",
+            "9"
+          ],
+          "answer": 1,
+          "hint": "Multiplication is calculated before addition.",
+          "why": "3 * 4 = 12, then 2 + 12 = 14."
+        },
+        {
+          "id": "e2",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(7 // 2)",
+          "options": [
+            "3.5",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": 1,
+          "hint": "// gives the whole part of the division.",
+          "why": "7 divided by 2: 3 times, with 1 left over. // gives 3."
+        },
+        {
+          "id": "e3",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(7 % 2)",
+          "options": [
+            "3",
+            "3.5",
+            "1",
+            "0"
+          ],
+          "answer": 2,
+          "hint": "% gives the remainder of the division.",
+          "why": "7 = 2 × 3 + 1. The remainder is 1."
+        },
+        {
+          "id": "e4",
+          "type": "fill",
+          "q": "input() returns text. Complete the line to get a whole number.",
+          "code": "age = ___(input())",
+          "answer": [
+            "int"
+          ],
+          "hint": "It is the function that converts to a whole number.",
+          "why": "int() converts the text into a whole number."
+        },
+        {
+          "id": "e5",
+          "type": "fill",
+          "q": "Write exactly what this program prints.",
+          "code": "print(\"ha\" * 3)",
+          "answer": [
+            "hahaha"
+          ],
+          "hint": "The text is repeated 3 times, with no space.",
+          "why": "\"ha\" * 3 gives hahaha."
+        },
+        {
+          "id": "e6",
+          "type": "fill",
+          "q": "Write exactly what this program prints.",
+          "code": "name = \"Awa\"\nprint(f\"Hi {name}\")",
+          "answer": [
+            "Hi Awa"
+          ],
+          "hint": "The curly brackets are replaced by the value of the variable.",
+          "why": "{name} is replaced by Awa."
+        },
+        {
+          "id": "e7",
+          "type": "fill",
+          "q": "Which number does this program print?",
+          "code": "print(len(\"Kribi\"))",
+          "answer": [
+            "5"
+          ],
+          "hint": "Count the letters in the word Kribi.",
+          "why": "len() counts the characters: K-r-i-b-i, so 5."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "Conditions: if / else",
+      "minutes": 14,
+      "badge": {
+        "name": "Decider",
+        "emoji": "🔀"
+      },
+      "lesson": [
+        {
+          "h": "Comparing values",
+          "p": "Python can compare values. The result is always True or False. The comparisons are: == (equal), != (not equal), < , > , <= , >=. Be careful: = stores a value in a variable, but == compares two values.",
+          "code": "print(5 > 3)\nprint(\"a\" == \"b\")\nprint(4 != 4)",
+          "out": "True\nFalse\nFalse"
+        },
+        {
+          "h": "if: do something only if...",
+          "p": "With if, part of the code runs only if the condition is true. The line ends with a colon (:), and the lines that belong to it are moved to the right by 4 spaces. This is called indentation. In Python, it is required.",
+          "code": "age = 20\nif age >= 18:\n    print(\"Adult\")",
+          "out": "Adult"
+        },
+        {
+          "h": "else and elif: the other cases",
+          "p": "else runs when the condition is false. elif (\"else if\") lets you test several cases in order. Python stops at the first true case.",
+          "code": "grade = 12\nif grade >= 14:\n    print(\"Good\")\nelif grade >= 10:\n    print(\"Fair\")\nelse:\n    print(\"Needs work\")",
+          "out": "Fair"
+        },
+        {
+          "h": "Combining conditions",
+          "p": "and: both conditions must be true. or: at least one must be true. not: reverses the result.",
+          "code": "print(True and False)\nprint(5 > 3 or 2 > 9)\nprint(not False)",
+          "out": "False\nTrue\nTrue"
+        },
+        {
+          "h": "The two classic mistakes",
+          "p": "Forgetting the colon at the end of the if line, or forgetting to indent the next line: Python shows an indentation error or a syntax error. Another trap: writing = instead of == in a condition."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(7 != 7)",
+          "options": [
+            "True",
+            "False",
+            "7",
+            "An error"
+          ],
+          "answer": 1,
+          "hint": "!= means \"is not equal to\". Is 7 different from 7?",
+          "why": "7 equals 7, so \"7 is not equal to 7\" is false: False."
+        },
+        {
+          "id": "e2",
+          "type": "choice",
+          "q": "What is the difference between = and ==?",
+          "options": [
+            "= stores a value in a variable, == compares two values",
+            "None, they are the same thing",
+            "= compares, == stores",
+            "== is only for text"
+          ],
+          "answer": 0,
+          "hint": "One creates a variable, the other asks a question.",
+          "why": "= is an assignment. == is a comparison that gives True or False."
+        },
+        {
+          "id": "e3",
+          "type": "fill",
+          "q": "Complete the line to test if grade is equal to 10.",
+          "code": "if grade ___ 10:\n    print(\"Exactly ten\")",
+          "answer": [
+            "=="
+          ],
+          "hint": "You need two signs, as for comparing.",
+          "why": "We compare with ==: if grade == 10:"
+        },
+        {
+          "id": "e4",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "grade = 8\nif grade >= 14:\n    print(\"Good\")\nelif grade >= 10:\n    print(\"Fair\")\nelse:\n    print(\"Needs work\")",
+          "options": [
+            "Good",
+            "Fair",
+            "Needs work",
+            "Nothing"
+          ],
+          "answer": 2,
+          "hint": "Test the conditions in order with grade = 8.",
+          "why": "8 is not ≥ 14 and not ≥ 10, so the else runs."
+        },
+        {
+          "id": "e5",
+          "type": "choice",
+          "q": "This code causes an error. What is missing?",
+          "code": "if age >= 18\n    print(\"Adult\")",
+          "options": [
+            "The colon at the end of the if line",
+            "Quotes around age",
+            "A semicolon",
+            "Nothing, the code is correct"
+          ],
+          "answer": 0,
+          "hint": "Look at the end of the first line.",
+          "why": "An if line must end with a colon (:)."
+        },
+        {
+          "id": "e6",
+          "type": "order",
+          "q": "Put the program in order so that it shows Adult.",
+          "lines": [
+            "age = 20",
+            "if age >= 18:",
+            "    print(\"Adult\")"
+          ],
+          "hint": "The variable must exist before the if, and the indented line comes right after the if.",
+          "why": "We create the variable, test the condition, then write the indented action."
+        },
+        {
+          "id": "e7",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(5 > 3 or 2 > 9)",
+          "options": [
+            "True",
+            "False",
+            "5",
+            "An error"
+          ],
+          "answer": 0,
+          "hint": "With or, it is enough that one of the two conditions is true.",
+          "why": "5 > 3 is true, so the whole thing is true."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "Loops: repeat without getting tired",
+      "minutes": 15,
+      "badge": {
+        "name": "Looper",
+        "emoji": "🔁"
+      },
+      "lesson": [
+        {
+          "h": "for: repeat a known number of times",
+          "p": "A loop repeats instructions. With for and range(n), the indented block runs n times. The variable i takes the values 0, 1, 2... up to n-1.",
+          "code": "for i in range(3):\n    print(\"Hi\")",
+          "out": "Hi\nHi\nHi"
+        },
+        {
+          "h": "range(start, end): the end is excluded",
+          "p": "range(1, 4) starts at 1 and stops before 4: 1, 2, 3. You can show the loop variable to see where you are.",
+          "code": "for i in range(1, 4):\n    print(i)",
+          "out": "1\n2\n3"
+        },
+        {
+          "h": "Building up a result",
+          "p": "A loop is often used to build a total. You start at 0 and add something on each turn.",
+          "code": "total = 0\nfor i in range(1, 5):\n    total = total + i\nprint(total)",
+          "out": "10"
+        },
+        {
+          "h": "while: repeat as long as it is true",
+          "p": "while repeats as long as the condition is true. Something must change inside the loop so that it ends one day. If not, it runs forever (an infinite loop).",
+          "code": "n = 3\nwhile n > 0:\n    print(n)\n    n = n - 1",
+          "out": "3\n2\n1"
+        },
+        {
+          "h": "break: leave the loop",
+          "p": "break stops the loop immediately, even if there were turns left.",
+          "code": "for i in range(10):\n    if i == 3:\n        break\n    print(i)",
+          "out": "0\n1\n2"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "How many times does this program show Hi?",
+          "code": "for i in range(3):\n    print(\"Hi\")",
+          "options": [
+            "2 times",
+            "3 times",
+            "4 times",
+            "Only once"
+          ],
+          "answer": 1,
+          "hint": "range(3) gives 3 values: 0, 1 and 2.",
+          "why": "range(3) makes 3 turns, so 3 prints."
+        },
+        {
+          "id": "e2",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "for i in range(1, 4):\n    print(i)",
+          "options": [
+            "1, then 2, then 3",
+            "0, then 1, then 2, then 3",
+            "1, then 2, then 3, then 4",
+            "0, then 1, then 2"
+          ],
+          "answer": 0,
+          "hint": "The start is included, the end is excluded.",
+          "why": "range(1, 4) gives 1, 2, 3. The end (4) is not included."
+        },
+        {
+          "id": "e3",
+          "type": "fill",
+          "q": "Complete the line to repeat 5 times.",
+          "code": "for i in ___(5):\n    print(\"Courage\")",
+          "answer": [
+            "range"
+          ],
+          "hint": "It is the function that makes a sequence of numbers.",
+          "why": "for i in range(5): repeats 5 times."
+        },
+        {
+          "id": "e4",
+          "type": "fill",
+          "q": "Which number does this program print?",
+          "code": "total = 0\nfor i in range(1, 5):\n    total = total + i\nprint(total)",
+          "answer": [
+            "10"
+          ],
+          "hint": "Add up the values of i: 1, 2, 3, 4.",
+          "why": "1 + 2 + 3 + 4 = 10."
+        },
+        {
+          "id": "e5",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "n = 3\nwhile n > 0:\n    print(n)\n    n = n - 1",
+          "options": [
+            "3, then 2, then 1",
+            "1, then 2, then 3",
+            "3, then 2, then 1, then 0",
+            "It never stops"
+          ],
+          "answer": 0,
+          "hint": "On each turn, n goes down by 1. The loop stops when n is no longer greater than 0.",
+          "why": "The program prints 3, 2, 1 and then stops when n is 0."
+        },
+        {
+          "id": "e6",
+          "type": "choice",
+          "q": "What happens with this program?",
+          "code": "while True:\n    print(\"Hi\")",
+          "options": [
+            "It shows Hi only once",
+            "It shows Hi forever, never stopping",
+            "It causes a syntax error",
+            "It shows nothing"
+          ],
+          "answer": 1,
+          "hint": "The condition True is always true.",
+          "why": "Nothing makes the condition false: it is an infinite loop."
+        },
+        {
+          "id": "e7",
+          "type": "order",
+          "q": "Put in order to show 0, 1, then 2.",
+          "lines": [
+            "counter = 0",
+            "while counter < 3:",
+            "    print(counter)",
+            "    counter = counter + 1"
+          ],
+          "hint": "First we set the start value, then the loop, then we print, then we move the counter forward.",
+          "why": "Without the last line, the counter would never change and the loop would be infinite."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "Lists and functions",
+      "minutes": 18,
+      "badge": {
+        "name": "Architect",
+        "emoji": "🏗️"
+      },
+      "lesson": [
+        {
+          "h": "Lists: several values in one variable",
+          "p": "A list groups several values between square brackets. You get an item by its position, called the index. Be careful: the first item has index 0, and -1 means the last one.",
+          "code": "fruits = [\"mango\", \"pineapple\", \"papaya\"]\nprint(fruits[0])\nprint(fruits[-1])\nprint(len(fruits))",
+          "out": "mango\npapaya\n3"
+        },
+        {
+          "h": "Adding and going through items",
+          "p": "append() adds an item at the end. A for loop can go through all the items of a list directly.",
+          "code": "fruits = [\"mango\", \"pineapple\"]\nfruits.append(\"banana\")\nfor f in fruits:\n    print(f)",
+          "out": "mango\npineapple\nbanana"
+        },
+        {
+          "h": "Functions: a block of code you can reuse",
+          "p": "A function groups instructions under a name. You create it with def, with parameters between brackets, and then you call it when you need it.",
+          "code": "def greet(name):\n    print(\"Hello\", name)\n\ngreet(\"Awa\")\ngreet(\"Paul\")",
+          "out": "Hello Awa\nHello Paul"
+        },
+        {
+          "h": "return: give back a result",
+          "p": "print() shows something on the screen, but gives nothing to the rest of the program. return sends a value back to the place where the function was called. You can then store it or calculate with it.",
+          "code": "def square(x):\n    return x * x\n\nprint(square(4))",
+          "out": "16"
+        },
+        {
+          "h": "Why this is powerful",
+          "p": "With lists, loops, conditions and functions, you have the building blocks of almost every program. You can already write small useful tools."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "fruits = [\"mango\", \"pineapple\", \"papaya\"]\nprint(fruits[0])",
+          "options": [
+            "mango",
+            "pineapple",
+            "papaya",
+            "An error"
+          ],
+          "answer": 0,
+          "hint": "The first item of a list is at index 0.",
+          "why": "Indexes start at 0: fruits[0] is mango."
+        },
+        {
+          "id": "e2",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "fruits = [\"mango\", \"pineapple\", \"papaya\"]\nprint(fruits[-1])",
+          "options": [
+            "mango",
+            "pineapple",
+            "papaya",
+            "An error"
+          ],
+          "answer": 2,
+          "hint": "-1 means the last item.",
+          "why": "fruits[-1] is the last item: papaya."
+        },
+        {
+          "id": "e3",
+          "type": "fill",
+          "q": "Complete the line to add banana at the end of the list.",
+          "code": "fruits.___(\"banana\")",
+          "answer": [
+            "append"
+          ],
+          "hint": "It is the English word for \"add at the end\".",
+          "why": "fruits.append(\"banana\") adds the item at the end."
+        },
+        {
+          "id": "e4",
+          "type": "fill",
+          "q": "Which number does this program print?",
+          "code": "cities = [\"Kribi\", \"Douala\", \"Yaoundé\", \"Bafoussam\"]\nprint(len(cities))",
+          "answer": [
+            "4"
+          ],
+          "hint": "len() counts the items of the list.",
+          "why": "The list has 4 items."
+        },
+        {
+          "id": "e5",
+          "type": "fill",
+          "q": "Which keyword is used to create a function?",
+          "code": "___ greet(name):\n    print(\"Hello\", name)",
+          "answer": [
+            "def"
+          ],
+          "hint": "It is short for \"define\".",
+          "why": "We create a function with def."
+        },
+        {
+          "id": "e6",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "def square(x):\n    return x * x\n\nprint(square(4))",
+          "options": [
+            "8",
+            "16",
+            "4",
+            "Une erreur"
+          ],
+          "answer": 1,
+          "hint": "square(4) returns 4 * 4.",
+          "why": "The function returns 16, which print() shows."
+        },
+        {
+          "id": "e7",
+          "type": "choice",
+          "q": "What is return used for in a function?",
+          "options": [
+            "To send a value back to the place where the function is called",
+            "To show text on the screen",
+            "To delete the function",
+            "To repeat the function"
+          ],
+          "answer": 0,
+          "hint": "Think about the difference with print().",
+          "why": "return gives a result you can reuse in the rest of the program."
+        },
+        {
+          "id": "e8",
+          "type": "order",
+          "q": "Put in order to show double of 5 (10).",
+          "lines": [
+            "def double(x):",
+            "    return x * 2",
+            "print(double(5))"
+          ],
+          "hint": "We define the function before we use it.",
+          "why": "The function must exist before it is called."
+        }
+      ]
+    },
+    {
+      "id": "exam",
+      "final": true,
+      "title": "Final Python exam",
+      "minutes": 20,
+      "passScore": 0.7,
+      "bonus": 60,
+      "noHints": true,
+      "badge": {
+        "name": "Pythonista",
+        "emoji": "🏆"
+      },
+      "lesson": [
+        {
+          "h": "Ready for the exam?",
+          "p": "12 questions on the whole course: text, variables, calculations, conditions, loops, lists and functions. There are no hints. To pass, you must get at least 9 questions right on the first try. You can take it again as many times as you need. Take your time and read each program line by line, as Python would."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "e1",
+          "type": "choice",
+          "q": "What is the type of the value \"42\" (with the quotes)?",
+          "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+          ],
+          "answer": 2,
+          "why": "Between quotes, it is text: str."
+        },
+        {
+          "id": "e2",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(10 % 3)",
+          "options": [
+            "3",
+            "1",
+            "3.33",
+            "0"
+          ],
+          "answer": 1,
+          "why": "10 = 3 × 3 + 1. The remainder is 1."
+        },
+        {
+          "id": "e3",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(2 ** 4)",
+          "options": [
+            "8",
+            "6",
+            "16",
+            "24"
+          ],
+          "answer": 2,
+          "why": "** is the power: 2 × 2 × 2 × 2 = 16."
+        },
+        {
+          "id": "e4",
+          "type": "fill",
+          "q": "Which number does this program print?",
+          "code": "print(len(\"Douala\"))",
+          "answer": [
+            "6"
+          ],
+          "why": "Douala has 6 letters."
+        },
+        {
+          "id": "e5",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "print(\"ab\" * 2 + \"c\")",
+          "options": [
+            "abc",
+            "ababc",
+            "ab2c",
+            "An error"
+          ],
+          "answer": 1,
+          "why": "\"ab\" * 2 gives abab, then we join c."
+        },
+        {
+          "id": "e6",
+          "type": "fill",
+          "q": "Write exactly what this program prints.",
+          "code": "print(\"Total:\", 5 + 5)",
+          "answer": [
+            "Total: 10"
+          ],
+          "why": "print() puts a space between its items: Total: 10."
+        },
+        {
+          "id": "e7",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "x = 7\nif x > 5:\n    print(\"big\")\nelse:\n    print(\"small\")",
+          "options": [
+            "big",
+            "small",
+            "big then small",
+            "Nothing"
+          ],
+          "answer": 0,
+          "why": "7 > 5 is true, so the if block runs."
+        },
+        {
+          "id": "e8",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "for i in range(2, 5):\n    print(i)",
+          "options": [
+            "2, 3, 4",
+            "2, 3, 4, 5",
+            "3, 4, 5",
+            "0, 1, 2, 3, 4"
+          ],
+          "answer": 0,
+          "why": "range(2, 5) goes from 2 to 4. The end is excluded."
+        },
+        {
+          "id": "e9",
+          "type": "choice",
+          "q": "Which value is shown at the end?",
+          "code": "n = 0\nwhile n < 3:\n    n = n + 1\nprint(n)",
+          "options": [
+            "0",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 2,
+          "why": "The loop stops when n is 3, and print(n) shows 3."
+        },
+        {
+          "id": "e10",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "cities = [\"Kribi\", \"Douala\", \"Yaoundé\"]\nprint(cities[1])",
+          "options": [
+            "Kribi",
+            "Douala",
+            "Yaoundé",
+            "An error"
+          ],
+          "answer": 1,
+          "why": "Index 1 is the second item: Douala."
+        },
+        {
+          "id": "e11",
+          "type": "choice",
+          "q": "Que va afficher ce programme ?",
+          "code": "def f(x):\n    return x + 1\n\nprint(f(f(1)))",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": 1,
+          "why": "f(1) returns 2, then f(2) returns 3."
+        },
+        {
+          "id": "e12",
+          "type": "order",
+          "q": "Put in order to show the area of a rectangle 3 by 4 (12).",
+          "lines": [
+            "def area(w, h):",
+            "    return w * h",
+            "print(area(3, 4))"
+          ],
+          "why": "The function is defined first, then called."
+        }
+      ]
+    }
+  ]
+}

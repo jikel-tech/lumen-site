@@ -1,0 +1,134 @@
+[
+  {
+    "q": "What does \"RAM\" mean in a computer?",
+    "options": [
+      "The working memory, used for tasks in progress",
+      "The disk where you store photos",
+      "The processor",
+      "The screen"
+    ],
+    "answer": 0,
+    "why": "RAM is the temporary memory the computer uses for open programs."
+  },
+  {
+    "q": "Which one is the strongest password?",
+    "options": [
+      "12345678",
+      "qwerty",
+      "Kribi2026",
+      "Sea-Sun-Pirogue-47!"
+    ],
+    "answer": 3,
+    "why": "A long phrase mixing words, numbers and a symbol is much harder to guess."
+  },
+  {
+    "q": "What does \"HTTPS\" mean at the start of a website address?",
+    "options": [
+      "The connection is encrypted",
+      "The site is free",
+      "The site is official",
+      "The site is fast"
+    ],
+    "answer": 0,
+    "why": "The S means \"secure\": the data exchanged with the site is encrypted. It does not guarantee that the site is honest."
+  },
+  {
+    "q": "Which code should you NEVER share, even with a friend?",
+    "options": [
+      "The postal code",
+      "The verification code you receive by SMS",
+      "A game code",
+      "A promo code"
+    ],
+    "answer": 1,
+    "why": "This code gives access to your account. Anyone who asks for it is probably trying to steal it."
+  },
+  {
+    "q": "In an IP address like 192.168.1.1, what does it identify?",
+    "options": [
+      "A device on a network",
+      "A password",
+      "An app",
+      "A file type"
+    ],
+    "answer": 0,
+    "why": "An IP address identifies a device on a network, a bit like a postal address."
+  },
+  {
+    "q": "What is the role of a router?",
+    "options": [
+      "To store files",
+      "To connect devices to each other and to the Internet",
+      "To play videos",
+      "To charge the battery"
+    ],
+    "answer": 1,
+    "why": "The router directs data between your local network and the Internet."
+  },
+  {
+    "q": "Which extension is used for a web page?",
+    "options": [
+      ".mp3",
+      ".html",
+      ".exe",
+      ".zip"
+    ],
+    "answer": 1,
+    "why": "HTML (HyperText Markup Language) describes the content of a web page."
+  },
+  {
+    "q": "What does a backup do?",
+    "options": [
+      "Makes the PC faster",
+      "Keeps a copy of your data somewhere else",
+      "Removes viruses",
+      "Increases the battery life"
+    ],
+    "answer": 1,
+    "why": "If your device breaks or is stolen, the copy lets you recover everything."
+  },
+  {
+    "q": "An email says you won a phone and asks for your login details. This is:",
+    "options": [
+      "A gift",
+      "Probably phishing (a scam)",
+      "An official promotion",
+      "An update"
+    ],
+    "answer": 1,
+    "why": "A real service never asks for your password by message."
+  },
+  {
+    "q": "An MB (megabyte) is smaller than a...",
+    "options": [
+      "KB (kilobyte)",
+      "GB (gigabyte)",
+      "byte",
+      "bit"
+    ],
+    "answer": 1,
+    "why": "From smallest to largest: byte, KB, MB, GB, TB. One GB is about 1,000 MB."
+  },
+  {
+    "q": "In Python, which function displays text?",
+    "options": [
+      "show()",
+      "display()",
+      "print()",
+      "write()"
+    ],
+    "answer": 2,
+    "why": "print() displays the text given between the parentheses."
+  },
+  {
+    "q": "What does \"security update\" mean?",
+    "options": [
+      "An advertisement",
+      "A fix for known weaknesses",
+      "A new wallpaper",
+      "A game"
+    ],
+    "answer": 1,
+    "why": "Updates fix weaknesses that hackers could use."
+  }
+]

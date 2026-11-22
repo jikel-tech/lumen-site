@@ -12,13 +12,16 @@
   const cache = {};
   async function loadJson(name) {
     if (cache[name]) return cache[name];
-    for (const base of BASES) {
-      try {
-        const r = await fetch(base + name, { cache: 'no-cache' });
-        if (!r.ok) continue;
-        const d = await r.json();
-        if (d) { cache[name] = d; return d; }
-      } catch { /* on essaie la copie locale */ }
+    const names = I18N.lang === 'en' ? [name.replace(/\.json$/, '.en.json'), name] : [name];
+    for (const nm of names) {
+      for (const base of BASES) {
+        try {
+          const r = await fetch(base + nm, { cache: 'no-cache' });
+          if (!r.ok) continue;
+          const d = await r.json();
+          if (d) { cache[name] = d; return d; }
+        } catch { /* on essaie la copie locale */ }
+      }
     }
     return null;
   }
@@ -69,7 +72,7 @@
     const g = getProg();
     const sts = chapterStatus(course, g);
     const i = sts.indexOf('current');
-    return { nextTitle: i >= 0 ? course.chapters[i].title : 'Prochains chapitres bientôt', waiting: i < 0 };
+    return { nextTitle: i >= 0 ? course.chapters[i].title : T('Parcours terminé 🏆'), waiting: i < 0 };
   };
 
   const learnNav = makeNav(() => L.view, () => {
@@ -109,7 +112,7 @@
     const g = getProg();
     const lv = level(g.xp);
     el.innerHTML = `
-      <div class="av-top"><span class="av-brand">Appr<em>endre</em></span><span class="pill xp">⭐ ${g.xp} XP · Niv. ${lv.lvl}</span></div>
+      <div class="av-top"><span class="av-brand">${I18N.lang === 'en' ? '<em>Learn</em>' : 'Appr<em>endre</em>'}</span><span class="pill xp">⭐ ${g.xp} XP · ${T('Niv.')} ${lv.lvl}</span></div>
       <div class="hero-learn"><h2>Apprends en jouant</h2><p>Une leçon courte, puis des exercices pour valider. Chaque chapitre réussi te donne un badge.</p></div>
       ${dailyHtml(g, defis)}
       <h2 class="sect-title">Domaines</h2>
@@ -130,15 +133,14 @@
       <button type="button" class="back-btn" data-lback>← Domaines</button>
       <h1 class="av-title">${esc(course.emoji)} ${esc(course.title)}</h1>
       <p class="av-sub">${esc(course.tagline)}</p>
-      <div class="pstats"><span class="pill">${done}/${stepsTotal()} étapes validées</span><span class="pill xp">⭐ ${g.xp} XP</span></div>
+      <div class="pstats"><span class="pill">${T('{a}/{b} étapes validées', { a: done, b: stepsTotal() })}</span><span class="pill xp">⭐ ${g.xp} XP</span></div>
       <div class="path">${course.chapters.map((c, i) => {
         const s = sts[i];
-        const node = s === 'done' ? '✓' : s === 'soon' ? '…' : s === 'locked' ? '🔒' : i + 1;
-        const sub = s === 'soon' ? 'Bientôt disponible' : s === 'locked' ? 'Valide le chapitre précédent' : `${c.minutes || 10} min · badge ${esc(c.badge?.emoji || '')} ${esc(c.badge?.name || '')}`;
+        const node = s === 'done' ? '✓' : s === 'soon' ? '…' : s === 'locked' ? '🔒' : c.final ? '🏆' : i + 1;
+        const sub = s === 'soon' ? T('Bientôt disponible') : s === 'locked' ? (c.final ? T('Valide les 6 chapitres pour le débloquer') : T('Valide le chapitre précédent')) : `${c.minutes || 10} min · badge ${esc(c.badge?.emoji || '')} ${esc(c.badge?.name || '')}`;
         const clickable = s === 'done' || s === 'current';
-        return `<button type="button" class="chap ${s}" ${clickable ? `data-chap="${esc(c.id)}"` : 'disabled'}><span class="node">${node}</span><span><small>Chapitre ${i + 1}</small><b>${esc(c.title)}</b><small>${sub}</small></span></button>`;
+        return `<button type="button" class="chap ${s} ${c.final ? 'final' : ''}" ${clickable ? `data-chap="${esc(c.id)}"` : 'disabled'}><span class="node">${node}</span><span><small>${c.final ? T('Examen final') : T('Chapitre {n}', { n: i + 1 })}</small><b>${esc(c.title)}</b><small>${sub}</small></span></button>`;
       }).join('')}
-        <button type="button" class="chap soon final" disabled><span class="node">🏆</span><span><small>Examen final</small><b>${esc(course.exam?.title || 'Examen final')}</b><small>Débloqué après les 6 chapitres · badge ${esc(course.exam?.badge?.emoji || '')} ${esc(course.exam?.badge?.name || '')}</small></span></button>
       </div>`;
   }
 
@@ -190,14 +192,14 @@
     el.innerHTML = `
       <button type="button" class="back-btn" data-lback>← Quitter</button>
       <div class="prog" aria-label="Progression du chapitre">${bars}</div>
-      <p class="av-sub" style="margin-bottom:8px">Exercice ${S.idx + 1} sur ${c.exercises.length}</p>
+      <p class="av-sub" style="margin-bottom:8px">${T('Exercice {a} sur {b}', { a: S.idx + 1, b: c.exercises.length })}</p>
       <div class="ex">
         <q>${esc(e.q)}</q>
         ${e.code ? `<div class="codeblock"><span class="lbl">Code</span>${esc(e.code)}</div>` : ''}
         ${body}
         <div id="fb">${st.done ? `<div class="feedback ok"><b>Correct !</b> ${esc(e.why || '')}</div>` : ''}</div>
         <div class="exbar">
-          <button type="button" class="btn-line" data-hint ${st.done || st.hinted || S.hints >= MAX_HINTS ? 'disabled' : ''}>💡 Indice (${MAX_HINTS - S.hints} restant${MAX_HINTS - S.hints > 1 ? 's' : ''})</button>
+          ${c.noHints ? '' : `<button type="button" class="btn-line" data-hint ${st.done || st.hinted || S.hints >= MAX_HINTS ? 'disabled' : ''}>💡 ${T(MAX_HINTS - S.hints > 1 ? 'Indice ({n} restants)' : 'Indice ({n} restant)', { n: MAX_HINTS - S.hints })}</button>`}
           <button type="button" class="btn-main right" data-next ${st.done ? '' : 'hidden'}>${S.idx + 1 < c.exercises.length ? 'Suivant →' : 'Terminer ✔'}</button>
         </div>
       </div>`;
@@ -221,9 +223,9 @@
 
   function fail(e, st, msg) {
     st.attempts++;
-    const extra = st.attempts >= 2 ? ' Relis la leçon ou prends un indice si tu en as encore.' : '';
+    const extra = st.attempts >= 2 ? ' ' + T('Relis la leçon ou prends un indice si tu en as encore.') : '';
     const fb = $('#fb');
-    if (fb) fb.innerHTML = `<div class="feedback ko"><b>Pas tout à fait.</b> ${esc(msg || 'Essaie encore.')}${esc(extra)}</div>`;
+    if (fb) fb.innerHTML = `<div class="feedback ko"><b>Pas tout à fait.</b> ${esc(msg || T('Essaie encore.'))}${esc(extra)}</div>`;
   }
 
   function checkAnswer(kind, val) {
@@ -234,12 +236,12 @@
       else {
         const btn = $(`[data-opt="${val}"]`);
         btn?.classList.add('bad'); if (btn) btn.disabled = true;
-        fail(e, st, 'Ce n\'est pas la bonne réponse.');
+        fail(e, st, T('Ce n\'est pas la bonne réponse.'));
       }
     } else if (kind === 'fill') {
       if (!norm(val)) return;
       const ok = e.answer.some((a) => norm(a) === norm(val));
-      if (ok) succeed(e, st); else fail(e, st, 'Vérifie l\'orthographe, les majuscules et les guillemets.');
+      if (ok) succeed(e, st); else fail(e, st, T('Vérifie l\'orthographe, les majuscules et les guillemets.'));
     } else if (kind === 'order') {
       const seq = st.picked.map((pi) => st.perm[pi][0]);
       if (seq.length === e.lines.length && seq.every((l, i) => l === e.lines[i])) succeed(e, st);
@@ -251,14 +253,15 @@
     const c = chapterObj(), S = L.S;
     const total = c.exercises.length;
     const score = S.firstTry / total;
-    const pass = score >= (cache[L.course + '.json'].passScore || 0.6);
+    const need = c.passScore || cache[L.course + '.json'].passScore || 0.6;
+    const pass = score >= need;
     const g = getProg();
     let bonus = 0, newBadge = false;
     if (pass) {
       const cs = (g.courses[L.course] = g.courses[L.course] || {});
       const first = !cs[c.id]?.done;
       cs[c.id] = { done: true, score: Math.max(cs[c.id]?.score || 0, S.firstTry), total, at: dayKey() };
-      if (first) { bonus = 30; g.xp += bonus; }
+      if (first) { bonus = c.bonus || 30; g.xp += bonus; }
       const bid = `${L.course}:${c.id}`;
       if (!g.badges.includes(bid)) { g.badges.push(bid); newBadge = true; }
       touchStreak(g);
@@ -276,13 +279,13 @@
     const stars = r.score === r.total ? '⭐⭐⭐' : r.score / r.total >= 0.8 ? '⭐⭐' : r.pass ? '⭐' : '';
     el.innerHTML = r.pass ? `
       <div class="result"><div class="big">${esc(r.badge?.emoji || '🏅')}</div>
-        <h2>Chapitre validé !</h2>
-        <p>${r.newBadge ? `Nouveau badge : <b>${esc(r.badge?.name || '')}</b>` : 'Tu avais déjà ce badge.'}<br>${r.score}/${r.total} du premier coup ${stars}</p>
+        <h2>${c.final ? 'Examen réussi !' : 'Chapitre validé !'}</h2>
+        <p>${r.newBadge ? `Nouveau badge : <b>${esc(r.badge?.name || '')}</b>` : 'Tu avais déjà ce badge.'}<br>${T('{a}/{b} du premier coup', { a: r.score, b: r.total })} ${stars}</p>
         <div class="xpgain">+${r.xp} XP</div>
         <div class="exbar" style="justify-content:center"><button type="button" class="btn-main" data-toparcours>Continuer le parcours →</button></div></div>`
       : `<div class="result"><div class="big">📖</div>
         <h2>Pas encore validé</h2>
-        <p>${r.score}/${r.total} du premier coup. Il faut au moins ${Math.ceil((cache[L.course + '.json'].passScore || 0.6) * r.total)} pour valider. Relis la leçon, tu vas y arriver !</p>
+        <p>${T('{a}/{b} du premier coup. Il faut au moins {m} pour valider. Relis la leçon, tu vas y arriver !', { a: r.score, b: r.total, m: Math.ceil((c.passScore || cache[L.course + '.json'].passScore || 0.6) * r.total) })}</p>
         <div class="exbar" style="justify-content:center"><button type="button" class="btn-line" data-lback>Relire la leçon</button><button type="button" class="btn-main" data-start>Recommencer</button></div></div>`;
   }
 
@@ -339,9 +342,10 @@
      SOS TECH
      ====================================================================== */
   const Sx = { view: 'list', guide: null, q: '', tag: 'tous', done: {} };
+  const EN = I18N.lang === 'en';
   const sosEl = () => $('#view-sos');
   const sosNav = makeNav(() => Sx.view, () => { Sx.view = 'list'; renderSos(); return 'top'; });
-  const TAGS = ['tous', 'téléphone', 'ordinateur', 'réseau', 'sécurité'];
+  const TAGS = EN ? ['tous', 'phone', 'computer', 'network', 'security'] : ['tous', 'téléphone', 'ordinateur', 'réseau', 'sécurité'];
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
   async function renderSos() {
@@ -370,8 +374,8 @@
       <h1 class="av-title">Un problème ? On t'aide.</h1>
       <p class="av-sub">Des guides pas à pas pour dépanner ton téléphone, ton PC ou ta connexion.</p>
       <div class="hsearch"><span aria-hidden="true">⌕</span><input type="search" id="sosSearch" value="${esc(Sx.q)}" placeholder="Décris ton problème (ex. : wifi, lent, batterie…)" aria-label="Chercher un guide" autocomplete="off"></div>
-      <div class="chips-row">${TAGS.map((t) => `<button type="button" class="sub-btn ${Sx.tag === t ? 'active' : ''}" data-tag="${t}">${cap(t)}</button>`).join('')}</div>
-      <div class="sos-list">${list.length ? list.map((x) => `<button type="button" class="sos-card" data-guide="${esc(x.id)}"><span class="ic">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><small>${x.steps.length} étapes</small></span></button>`).join('') : '<p class="av-sub">Aucun guide ne correspond. D\'autres arrivent bientôt.</p>'}</div>
+      <div class="chips-row">${TAGS.map((t) => `<button type="button" class="sub-btn ${Sx.tag === t ? 'active' : ''}" data-tag="${t}">${t === 'tous' ? T('Tous') : cap(t)}</button>`).join('')}</div>
+      <div class="sos-list">${list.length ? list.map((x) => `<button type="button" class="sos-card" data-guide="${esc(x.id)}"><span class="ic">${esc(x.emoji)}</span><span><b>${esc(x.title)}</b><small>${T('{n} étapes', { n: x.steps.length })}</small></span></button>`).join('') : '<p class="av-sub">Aucun guide ne correspond. D\'autres arrivent bientôt.</p>'}</div>
       <p class="soon-note">De nouveaux guides sont ajoutés régulièrement.</p>`;
     if (Sx.focusSearch) { Sx.focusSearch = false; const i = $('#sosSearch'); if (i) { i.focus(); i.setSelectionRange(i.value.length, i.value.length); } }
   }

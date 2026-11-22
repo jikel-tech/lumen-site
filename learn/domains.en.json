@@ -1,0 +1,59 @@
+[
+  {
+    "id": "python",
+    "title": "Python",
+    "emoji": "🐍",
+    "status": "open",
+    "course": "python",
+    "desc": "The easiest language to start with: variables, calculations, conditions, loops and functions."
+  },
+  {
+    "id": "js",
+    "title": "JavaScript",
+    "emoji": "⚡",
+    "status": "soon",
+    "desc": "The language of web pages: bring a site to life with buttons that react."
+  },
+  {
+    "id": "php",
+    "title": "PHP",
+    "emoji": "🐘",
+    "status": "soon",
+    "desc": "The language that powers a large part of the web: forms, databases and dynamic sites."
+  },
+  {
+    "id": "reseau",
+    "title": "Networking",
+    "emoji": "🌐",
+    "status": "soon",
+    "desc": "Immersive lab: set up the network of a 5-PC cybercafe and find out why 3 computers have no Internet."
+  },
+  {
+    "id": "linux",
+    "title": "Linux",
+    "emoji": "🐧",
+    "status": "soon",
+    "desc": "The terminal without fear: files, permissions, useful commands and servers."
+  },
+  {
+    "id": "cyber",
+    "title": "Cybersecurity",
+    "emoji": "🛡️",
+    "status": "soon",
+    "desc": "Protect your accounts, spot scams and understand how attacks work, so you can defend better."
+  },
+  {
+    "id": "maintenance",
+    "title": "Maintenance",
+    "emoji": "🔧",
+    "status": "soon",
+    "desc": "Virtual internship: diagnose and repair PC and phone faults, just like in a repair shop."
+  },
+  {
+    "id": "web",
+    "title": "Web",
+    "emoji": "🧱",
+    "status": "soon",
+    "desc": "HTML and CSS: build your first page, then your first website."
+  }
+]

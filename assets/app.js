@@ -5,20 +5,20 @@
   const C = window.LUMEN || {};
   const SITE = (C.SITE_URL || location.origin).replace(/\/$/, '');
   const CATS = {
-    smartphones: 'Smartphones',
-    ia: 'Intelligence artificielle',
-    logiciels: 'Logiciels',
-    culture: 'Culture numérique',
-    afrique: 'Tech Afrique',
+    smartphones: T('Smartphones'),
+    ia: T('Intelligence artificielle'),
+    logiciels: T('Logiciels'),
+    culture: T('Culture numérique'),
+    afrique: T('Tech Afrique'),
   };
   const CAT_DESC = {
-    smartphones: 'Téléphones, tablettes, montres et accessoires.',
-    ia: 'Modèles, outils et usages de l’intelligence artificielle.',
-    logiciels: 'Applications, systèmes, cybersécurité et développement.',
-    culture: 'Jeux, réseaux sociaux, streaming et société numérique.',
-    afrique: 'L’actualité tech du Cameroun et du continent africain.',
+    smartphones: T('Téléphones, tablettes, montres et accessoires.'),
+    ia: T('Modèles, outils et usages de l’intelligence artificielle.'),
+    logiciels: T('Applications, systèmes, cybersécurité et développement.'),
+    culture: T('Jeux, réseaux sociaux, streaming et société numérique.'),
+    afrique: T('L’actualité tech du Cameroun et du continent africain.'),
   };
-  const WSUBS = { tech: 'Tech', educ: 'Éducation', finance: 'Finance', actus: 'Actus', sport: 'Sport', emploi: 'Emploi', sante: 'Santé', culture: 'Culture' };
+  const WSUBS = { tech: T('Tech'), educ: T('Éducation'), finance: T('Finance'), actus: T('Actus'), sport: T('Sport'), emploi: T('Emploi'), sante: T('Santé'), culture: T('Culture') };
   const SECTION_ORDER = ['afrique', 'ia', 'smartphones', 'logiciels', 'culture'];
   const PAGE = 12;
 
@@ -31,7 +31,7 @@
   const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   const snip = (s, n) => { s = String(s || '').trim(); if (s.length <= n) return s; const c = s.slice(0, n); return c.slice(0, Math.max(c.lastIndexOf(' '), n - 25)).trimEnd() + '…'; };
   const firstSentence = (s) => (String(s || '').match(/^.*?[.!?](\s|$)/) || [s || ''])[0].trim();
-  const catLabel = (c) => CATS[c] || (c === 'favoris' ? 'Favoris' : c === 'wanda' ? 'Wanda Info' : 'Tech');
+  const catLabel = (c) => CATS[c] || (c === 'favoris' ? T('Favoris') : c === 'wanda' ? 'Wanda Info' : T('Tech'));
   const validCat = (c) => c === 'all' || c === 'favoris' || c === 'wanda' || !!CATS[c];
   const catKey = (c) => (CATS[c] ? c : 'default');
   const href = (a) => '#a=' + encodeURIComponent(a.id);
@@ -77,10 +77,10 @@
   function timeAgo(iso) {
     const m = Math.floor((Date.now() - new Date(iso).getTime()) / 60000);
     if (!Number.isFinite(m)) return '';
-    if (m < 1) return 'à l’instant';
-    if (m < 60) return `il y a ${m} min`;
-    if (m < 1440) return `il y a ${Math.floor(m / 60)} h`;
-    return `il y a ${Math.floor(m / 1440)} j`;
+    if (m < 1) return T('à l’instant');
+    if (m < 60) return T('il y a {n} min', { n: m });
+    if (m < 1440) return T('il y a {n} h', { n: Math.floor(m / 60) });
+    return T('il y a {n} j', { n: Math.floor(m / 1440) });
   }
 
   function track(name, params) { try { if (window.gtag) window.gtag('event', name, params || {}); } catch { /* ignore */ } }
@@ -132,9 +132,9 @@
 
   /* ---------- Gabarits ---------- */
   const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
-  const favBtn = (a) => { const on = isFav(a.id); return `<span class="fav-btn${on ? ' on' : ''}" role="button" tabindex="0" data-fav="${esc(a.id)}" aria-pressed="${on}" aria-label="${on ? 'Retirer des favoris' : 'Enregistrer en favori'}">${on ? '★' : '☆'}</span>`; };
+  const favBtn = (a) => { const on = isFav(a.id); return `<span class="fav-btn${on ? ' on' : ''}" role="button" tabindex="0" data-fav="${esc(a.id)}" aria-pressed="${on}" aria-label="${on ? T('Retirer des favoris') : T('Enregistrer en favori')}">${on ? '★' : '☆'}</span>`; };
   const thumb = (a) => photoOk(a.image)
-    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="Photo d’illustration : ${esc(a.imageBy)} / Pexels"` : ''}>${favBtn(a)}</span>`
+    ? `<span class="thumb cat-${catKey(a.category)} has-photo" style="background-image:url('${a.image}'),url('assets/categories/${catKey(a.category)}.svg')" role="img" aria-label="${esc(catLabel(a.category))}"${a.imageBy ? ` title="${esc(T('Photo d’illustration : {x} / Pexels', { x: a.imageBy }))}"` : ''}>${favBtn(a)}</span>`
     : `<span class="thumb cat-${catKey(a.category)}" role="img" aria-label="${esc(catLabel(a.category))}">${favBtn(a)}</span>`;
   const kickerText = (a) => (a.category === 'wanda' && WSUBS[a.sub] ? 'Wanda · ' + WSUBS[a.sub] : catLabel(a.category));
   const kicker = (a) => `<span class="kicker${a.category === 'afrique' || a.category === 'wanda' ? ' k-afrique' : ''}">${esc(kickerText(a))}</span>`;
@@ -172,7 +172,7 @@
       b.classList.toggle('active', on);
       if (on) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current');
     });
-    document.title = view.cat === 'all' ? 'LUMen — L’actualité tech, résumée et sourcée' : `${catLabel(view.cat)} — LUMen`;
+    document.title = view.cat === 'all' ? T('LUMen — L’actualité tech, résumée et sourcée') : `${catLabel(view.cat)} — LUMen`;
     if (view.cat !== 'wanda') view.sub = 'all';
     if (isHome) renderHome(); else renderList();
     renderRefreshNote();
@@ -182,7 +182,7 @@
     renderTicker();
     const hero = $('#hero');
     if (!ARTICLES.length) {
-      hero.innerHTML = '<div class="empty-state" style="grid-column:1/-1">Les actus arrivent : la première collecte automatique a lieu dans les 30 prochaines minutes.</div>';
+      hero.innerHTML = '<div class="empty-state" style="grid-column:1/-1">' + T('Les actus arrivent : la première collecte automatique a lieu dans les 30 prochaines minutes.') + '</div>';
       $('#catSections').innerHTML = '';
       $('#latestList').innerHTML = '';
       $('#moreBtn').hidden = true;
@@ -206,14 +206,14 @@
     // Section Wanda Info (actus du Cameroun) juste après « À la une »
     const wandaItems = WANDA.slice(0, 3);
     const wandaBlock = wandaItems.length
-      ? `<section class="block" aria-labelledby="sec-wanda"><h2 class="block-title" id="sec-wanda">🇨🇲 Wanda Info<button type="button" class="see-all" data-cat="wanda">Voir tout →</button></h2><div class="cat-grid">${wandaItems.map(catCard).join('')}</div></section>`
+      ? `<section class="block" aria-labelledby="sec-wanda"><h2 class="block-title" id="sec-wanda">🇨🇲 Wanda Info<button type="button" class="see-all" data-cat="wanda">${T('Voir tout →')}</button></h2><div class="cat-grid">${wandaItems.map(catCard).join('')}</div></section>`
       : '';
 
     // Sections par rubrique
     $('#catSections').innerHTML = wandaBlock + SECTION_ORDER.map((cat) => {
       const items = ARTICLES.filter((a) => a.category === cat && !heroIds.has(a.id)).slice(0, 3);
       if (!items.length) return '';
-      return `<section class="block" aria-labelledby="sec-${cat}"><h2 class="block-title" id="sec-${cat}">${esc(catLabel(cat))}<button type="button" class="see-all" data-cat="${cat}">Voir tout →</button></h2><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
+      return `<section class="block" aria-labelledby="sec-${cat}"><h2 class="block-title" id="sec-${cat}">${esc(catLabel(cat))}<button type="button" class="see-all" data-cat="${cat}">${T('Voir tout →')}</button></h2><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
     }).join('');
 
     // Dernières actus
@@ -238,7 +238,7 @@
     const read = new Set(getRead());
     const items = ARTICLES.filter((a) => top.includes(a.category) && !heroIds.has(a.id) && !read.has(a.id)).sort((a, b) => score(b) - score(a)).slice(0, 3);
     if (!items.length) { box.innerHTML = ''; return; }
-    box.innerHTML = `<section class="block" aria-labelledby="sec-foryou"><h2 class="block-title" id="sec-foryou">Pour toi<button type="button" class="see-all" id="forYouReset">Effacer mes préférences</button></h2><p class="for-you-note">Selon ce que tu lis sur cet appareil : ${top.map((c) => esc(catLabel(c))).join(' et ')}.</p><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
+    box.innerHTML = `<section class="block" aria-labelledby="sec-foryou"><h2 class="block-title" id="sec-foryou">${T('Pour toi')}<button type="button" class="see-all" id="forYouReset">${T('Effacer mes préférences')}</button></h2><p class="for-you-note">${T('Selon ce que tu lis sur cet appareil : {x}.', { x: top.map((c) => esc(catLabel(c))).join(T(' et ')) })}</p><div class="cat-grid">${items.map(catCard).join('')}</div></section>`;
   }
 
   function renderSubNav() {
@@ -249,7 +249,7 @@
     WANDA.forEach((a) => { counts[a.sub] = (counts[a.sub] || 0) + 1; });
     const subs = Object.keys(WSUBS).filter((k) => counts[k]);
     if (view.sub !== 'all' && !counts[view.sub]) view.sub = 'all';
-    box.innerHTML = [['all', 'Tout', WANDA.length], ...subs.map((k) => [k, WSUBS[k], counts[k]])]
+    box.innerHTML = [['all', T('Tout'), WANDA.length], ...subs.map((k) => [k, WSUBS[k], counts[k]])]
       .map(([k, label, n]) => `<button type="button" class="sub-btn${view.sub === k ? ' active' : ''}" data-sub="${k}">${esc(label)} <span>${n}</span></button>`).join('');
     box.hidden = WANDA.length === 0;
   }
@@ -258,17 +258,17 @@
     const list = filtered();
     const q = view.q.trim();
     const isW = view.cat === 'wanda';
-    $('#listTitle').textContent = q ? `Résultats pour « ${q} »` : isW && view.sub !== 'all' ? `Wanda Info · ${WSUBS[view.sub]}` : catLabel(view.cat);
+    $('#listTitle').textContent = q ? T('Résultats pour « {q} »', { q }) : isW && view.sub !== 'all' ? `Wanda Info · ${WSUBS[view.sub]}` : catLabel(view.cat);
     renderSubNav();
     $('#listSub').textContent = q
-      ? `${list.length} actu${list.length > 1 ? 's' : ''} trouvée${list.length > 1 ? 's' : ''}${view.cat !== 'all' ? ' dans ' + catLabel(view.cat) : ''}.`
+      ? T(list.length > 1 ? '{n} actus trouvées' : '{n} actu trouvée', { n: list.length }) + (view.cat !== 'all' ? T(' dans {c}', { c: catLabel(view.cat) }) : '') + '.'
       : view.cat === 'favoris'
-        ? `Les actus que vous avez enregistrées, gardées sur cet appareil. ${list.length} actu${list.length > 1 ? 's' : ''}.`
+        ? T('Les actus que vous avez enregistrées, gardées sur cet appareil.') + ` ${T(list.length > 1 ? '{n} actus' : '{n} actu', { n: list.length })}.`
         : isW
-          ? `Wanda ! L’actualité du Cameroun par rubrique. Chaque titre renvoie vers le média d’origine. ${list.length} actu${list.length > 1 ? 's' : ''}.`
-          : `${CAT_DESC[view.cat] || ''} ${list.length} actu${list.length > 1 ? 's' : ''}.`;
-    const empty = view.cat === 'favoris' && !q ? 'Aucun favori pour l’instant : touchez ☆ sur une actu pour la garder ici.'
-      : isW && !q ? 'Les actus du Cameroun arrivent très bientôt.' : 'Aucune actu ne correspond à votre recherche.';
+          ? T('Wanda ! L’actualité du Cameroun par rubrique. Chaque titre renvoie vers le média d’origine.') + ` ${T(list.length > 1 ? '{n} actus' : '{n} actu', { n: list.length })}.`
+          : `${CAT_DESC[view.cat] || ''} ${T(list.length > 1 ? '{n} actus' : '{n} actu', { n: list.length })}.`;
+    const empty = view.cat === 'favoris' && !q ? T('Aucun favori pour l’instant : touchez ☆ sur une actu pour la garder ici.')
+      : isW && !q ? T('Les actus du Cameroun arrivent très bientôt.') : T('Aucune actu ne correspond à votre recherche.');
     $('#listGrid').innerHTML = list.length ? list.map(catCard).join('') : `<div class="empty-state">${empty}</div>`;
   }
 
@@ -288,7 +288,7 @@
     const box = $('#weeklyBox');
     if (!WEEKLY || !WEEKLY.title) { box.hidden = true; return; }
     const link = WEEKLY.path ? safeUrl(new URL(WEEKLY.path, location.href).href) : '';
-    box.innerHTML = `<span class="kicker">Analyse de la semaine</span><h2 id="weeklyTitle">${esc(WEEKLY.title)}</h2><p>${esc(snip(WEEKLY.intro || '', 220))}</p>${link ? `<a class="btn-solid" href="${esc(link)}">Lire l’analyse</a>` : ''}<p class="ai-note">Analyse LUMen rédigée avec l’aide de l’IA à partir des actus de la semaine.</p>`;
+    box.innerHTML = `<span class="kicker">${T('Analyse de la semaine')}</span><h2 id="weeklyTitle">${esc(WEEKLY.title)}</h2><p>${esc(snip(WEEKLY.intro || '', 220))}</p>${link ? `<a class="btn-solid" href="${esc(link)}">${T('Lire l’analyse')}</a>` : ''}<p class="ai-note">${T('Analyse LUMen rédigée avec l’aide de l’IA à partir des actus de la semaine.')}</p>`;
     box.hidden = false;
   }
 
@@ -300,7 +300,7 @@
 
   function renderRefreshNote() {
     const iso = META?.updatedAt || ARTICLES[0]?.pubDate;
-    $('#refreshNote').textContent = iso ? `Mis à jour ${timeAgo(iso)} · actualisation automatique` : 'Actualisation automatique';
+    $('#refreshNote').textContent = iso ? T('Mis à jour {t} · actualisation automatique', { t: timeAgo(iso) }) : T('Actualisation automatique');
   }
 
   /* ---------- Navigation (hash) ---------- */
@@ -350,15 +350,15 @@
   function openModal(a) {
     $('#modalMeta').textContent = `${kickerText(a)} · ${a.source} · ${timeAgo(a.pubDate)}`;
     $('#modalTitle').textContent = a.title;
-    $('#modalSummary').textContent = a.summary || 'Pas de résumé disponible pour cet article. Lisez la source pour le détail.';
+    $('#modalSummary').textContent = a.summary || T('Pas de résumé disponible pour cet article. Lisez la source pour le détail.');
     $('#modalKeywords').innerHTML = (a.keywords || []).map((k) => `<span class="chip">${esc(k)}</span>`).join('');
     const also = $('#modalAlso');
     if (a.also?.length) {
-      also.innerHTML = 'Aussi couvert par : ' + a.also.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.source)}</a>`).join(', ');
+      also.innerHTML = T('Aussi couvert par : ') + a.also.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.source)}</a>`).join(', ');
       also.hidden = false;
     } else also.hidden = true;
     $('#modalSourceBtn').href = safeUrl(a.url);
-    $('#modalSourceBtn').textContent = `Lire sur ${a.source} →`;
+    $('#modalSourceBtn').textContent = T('Lire sur {s} →', { s: a.source });
     articleOverlay.dataset.id = a.id;
     markRead(a);
     syncModalFav(a.id);
@@ -370,7 +370,7 @@
     const b = $('#modalFav');
     if (!b) return;
     const on = isFav(id);
-    b.textContent = on ? '★ Enregistré' : '☆ Enregistrer';
+    b.textContent = on ? T('★ Enregistré') : T('☆ Enregistrer');
     b.setAttribute('aria-pressed', String(on));
   }
 
@@ -450,9 +450,9 @@
     if (navigator.share) {
       try { await navigator.share({ title: a.title, text: firstSentence(a.summary) || a.title, url }); return; } catch (e) { if (e.name === 'AbortError') return; }
     }
-    copyText(url, this, 'Lien copié !');
+    copyText(url, this, T('Lien copié !'));
   });
-  $('#copyLinkBtn').addEventListener('click', function () { copyText(SITE, this, 'Lien copié !'); });
+  $('#copyLinkBtn').addEventListener('click', function () { copyText(SITE, this, T('Lien copié !')); });
 
   /* ---------- Newsletter ---------- */
   const isSub = () => store.get('lumen_sub') === '1';
@@ -462,7 +462,7 @@
   function updateSubButtons() {
     const sub = isSub();
     $$('[data-sub-btn]').forEach((b) => {
-      b.textContent = sub ? 'Se désabonner' : 'S’abonner';
+      b.textContent = sub ? T('Se désabonner') : T('S’abonner');
       b.classList.toggle('is-subscribed', sub);
     });
   }
@@ -476,11 +476,11 @@
   function openNl() {
     nlMode = isSub() ? 'unsubscribe' : 'subscribe';
     nlOpenedAt = Date.now();
-    $('#nlModalTitle').textContent = nlMode === 'subscribe' ? '3 actus tech par jour' : 'Se désabonner de la newsletter';
+    $('#nlModalTitle').textContent = nlMode === 'subscribe' ? T('3 actus tech par jour') : T('Se désabonner de la newsletter');
     $('#nlModalText').textContent = nlMode === 'subscribe'
-      ? 'Une sélection courte chaque matin, directement dans ta boîte mail. Zéro spam.'
-      : 'Entre l’adresse email avec laquelle tu t’es inscrit(e) pour ne plus recevoir la newsletter.';
-    $('#nlSubmit').textContent = nlMode === 'subscribe' ? 'Je m’abonne' : 'Me désabonner';
+      ? T('Une sélection courte chaque matin, directement dans ta boîte mail. Zéro spam.')
+      : T('Entre l’adresse email avec laquelle tu t’es inscrit(e) pour ne plus recevoir la newsletter.');
+    $('#nlSubmit').textContent = nlMode === 'subscribe' ? T('Je m’abonne') : T('Me désabonner');
     $('#nlForm').hidden = false;
     $('#nlForm').reset();
     $('#nlSubmit').disabled = false;
@@ -495,13 +495,13 @@
     const box = $('#nlFallback');
     box.hidden = false;
     if (mode === 'subscribe') {
-      setNlStatus('Le formulaire d’inscription sécurisé s’ouvre dans un nouvel onglet. Termine l’inscription là-bas, puis reviens ici.', '');
+      setNlStatus(T('Le formulaire d’inscription sécurisé s’ouvre dans un nouvel onglet. Termine l’inscription là-bas, puis reviens ici.'), '');
       window.open(C.BREVO_FORM_URL, '_blank', 'noopener');
-      box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">J’ai terminé mon inscription</button>';
+      box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">' + T('J’ai terminé mon inscription') + '</button>';
       $('#nlDone').addEventListener('click', () => { store.set('lumen_sub', '1'); updateSubButtons(); hideOverlay($('#nlModal')); });
     } else {
-      setNlStatus('Pour te désabonner, clique sur le lien « Se désabonner » en bas de n’importe quel email LUMen.', '');
-      box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">C’est fait</button>';
+      setNlStatus(T('Pour te désabonner, clique sur le lien « Se désabonner » en bas de n’importe quel email LUMen.'), '');
+      box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">' + T('C’est fait') + '</button>';
       $('#nlDone').addEventListener('click', () => { store.del('lumen_sub'); updateSubButtons(); hideOverlay($('#nlModal')); });
     }
   }
@@ -512,7 +512,7 @@
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { setNlStatus('Cette adresse email ne semble pas valide.', 'err'); return; }
     const btn = $('#nlSubmit');
     btn.disabled = true;
-    setNlStatus('Un instant…');
+    setNlStatus(T('Un instant…'));
     try {
       const res = await fetch(C.NEWSLETTER_API, {
         method: 'POST',
@@ -521,7 +521,7 @@
       });
       if (res.status === 501 || res.status === 404 || res.status === 405) { nlFallback(nlMode); btn.disabled = false; return; }
       const data = await res.json().catch(() => ({}));
-      if (!res.ok) { setNlStatus(data.error || 'Une erreur est survenue, réessaie dans un instant.', 'err'); btn.disabled = false; return; }
+      if (!res.ok) { setNlStatus(data.error || T('Une erreur est survenue, réessaie dans un instant.'), 'err'); btn.disabled = false; return; }
       if (nlMode === 'subscribe' && data.pending) {
         setNlStatus('Presque fini ! Clique sur le lien de confirmation que tu viens de recevoir par email.', 'ok');
         track('newsletter_pending');
@@ -529,11 +529,11 @@
       }
       if (nlMode === 'subscribe') {
         store.set('lumen_sub', '1');
-        setNlStatus('Merci ! Tu es inscrit(e) : les prochaines actus arrivent dans ta boîte mail.', 'ok');
+        setNlStatus(T('Merci ! Tu es inscrit(e) : les prochaines actus arrivent dans ta boîte mail.'), 'ok');
         track('newsletter_subscribe');
       } else {
         store.del('lumen_sub');
-        setNlStatus('C’est fait : tu ne recevras plus la newsletter.', 'ok');
+        setNlStatus(T('C’est fait : tu ne recevras plus la newsletter.'), 'ok');
         track('newsletter_unsubscribe');
       }
       updateSubButtons();
@@ -576,9 +576,9 @@
       try {
         const OS = await loadOS();
         await OS.Notifications.requestPermission();
-        pushBtn.title = 'Notifications activées';
+        pushBtn.title = T('Notifications activées');
         track('push_prompt');
-      } catch { pushBtn.title = 'Notifications indisponibles sur ce navigateur'; }
+      } catch { pushBtn.title = T('Notifications indisponibles sur ce navigateur'); }
     });
   }
 
@@ -650,7 +650,7 @@
   };
 
   /* ---------- Démarrage ---------- */
-  $('#todayDate').textContent = new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  $('#todayDate').textContent = new Date().toLocaleDateString(I18N.locale, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
   updateSubButtons();
 
   async function refresh(first) {

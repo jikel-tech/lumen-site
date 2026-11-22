@@ -192,7 +192,7 @@ body.tab-learn{--ink:#06130D; --ink-2:#0C1F16; --paper:#ECE9DF; --paper-dim:#9DB
 .pool, .picked{display:flex; flex-direction:column; gap:8px; margin:10px 0;}
 .picked{min-height:54px; border:1.5px dashed var(--line); border-radius:12px; padding:8px;}
 .picked:empty::before{content:'Touche les lignes dans le bon ordre'; color:var(--paper-dim); font-size:.82rem; padding:8px;}
-.tile{background:var(--ink-2); border:1.5px solid var(--line); color:var(--paper); padding:10px 12px; border-radius:10px; text-align:left; font-family:ui-monospace,Consolas,monospace; font-size:.88rem; cursor:pointer;}
+.tile{white-space:pre-wrap; background:var(--ink-2); border:1.5px solid var(--line); color:var(--paper); padding:10px 12px; border-radius:10px; text-align:left; font-family:ui-monospace,Consolas,monospace; font-size:.88rem; cursor:pointer;}
 .tile.used{opacity:.25; pointer-events:none;}
 .feedback{border-radius:12px; padding:12px 14px; margin:12px 0; font-size:.92rem; line-height:1.5;}
 .feedback.ok{background:rgba(127,255,176,.12); border:1px solid rgba(127,255,176,.45);}
@@ -217,3 +217,8 @@ body.tab-learn{--ink:#06130D; --ink-2:#0C1F16; --paper:#ECE9DF; --paper-dim:#9DB
   .app-view{padding-top:26px;}
   .badges{grid-template-columns:repeat(7,1fr);}
 }
+
+/* Pas de fenêtre « newsletter » par-dessus un exercice */
+body.tab-learn .popup{display:none !important;}
+
+.langsw{display:inline-flex;gap:6px}.btn-line.on{background:var(--phosphor);color:#06130c;border-color:var(--phosphor)}

@@ -20,13 +20,13 @@
   /* ---------- Profil et progression (sur l'appareil) ---------- */
   const COLORS = ['#7FFFB0', '#FFB25E', '#8FB8FF', '#FF8FB1', '#C9A6FF', '#F2E36B'];
   const BADGES = [
-    { id: 'python:c1', name: 'Premier print', e: '🌱' },
-    { id: 'python:c2', name: 'Maître des variables', e: '📦' },
-    { id: 'python:c3', name: 'Calculateur', e: '🧮' },
-    { id: 'python:c4', name: 'Décideur', e: '🔀' },
-    { id: 'python:c5', name: 'Boucleur', e: '🔁' },
-    { id: 'python:c6', name: 'Architecte', e: '🏗️' },
-    { id: 'python:exam', name: 'Pythonista', e: '🏆' },
+    { id: 'python:c1', name: T('Premier print'), e: '🌱' },
+    { id: 'python:c2', name: T('Maître des variables'), e: '📦' },
+    { id: 'python:c3', name: T('Calculateur'), e: '🧮' },
+    { id: 'python:c4', name: T('Décideur'), e: '🔀' },
+    { id: 'python:c5', name: T('Boucleur'), e: '🔁' },
+    { id: 'python:c6', name: T('Architecte'), e: '🏗️' },
+    { id: 'python:exam', name: T('Pythonista'), e: '🏆' },
   ];
   const TOTAL_STEPS = 7; // 6 chapitres + l'examen final
 
@@ -129,7 +129,7 @@
 
   /* ---------- Accueil ---------- */
   const photoOk = (u) => typeof u === 'string' && u.startsWith('https://images.pexels.com/') && !/['"()\s]/.test(u);
-  const greeting = () => (new Date().getHours() >= 18 || new Date().getHours() < 5 ? 'Bonsoir' : 'Bonjour');
+  const greeting = () => (new Date().getHours() >= 18 || new Date().getHours() < 5 ? T('Bonsoir') : T('Bonjour'));
 
   function parcoursHtml() {
     const g = getProg();
@@ -137,16 +137,16 @@
     const done = doneChapters(g);
     const pct = Math.round((done / TOTAL_STEPS) * 100);
     const lv = level(g.xp);
-    const title = sum ? `Python · ${sum.nextTitle}` : 'Python · Chapitre 1';
-    const sub = done === 0 ? 'Commence ton parcours : 10 minutes suffisent.' : `${done} chapitre${done > 1 ? 's' : ''} validé${done > 1 ? 's' : ''} sur ${TOTAL_STEPS}`;
-    const cta = done === 0 ? 'Commencer' : sum && sum.waiting ? 'Voir le parcours' : 'Continuer';
+    const title = sum ? `Python · ${sum.nextTitle}` : T('Python · Chapitre 1');
+    const sub = done === 0 ? T('Commence ton parcours : 10 minutes suffisent.') : done >= TOTAL_STEPS ? T('Bravo ! Tu as validé tous les chapitres et l\'examen.') : T(done > 1 ? '{n} étapes validées sur {t}' : '{n} étape validée sur {t}', { n: done, t: TOTAL_STEPS });
+    const cta = done === 0 ? T('Commencer') : sum && sum.waiting ? T('Voir le parcours') : T('Continuer');
     const st = streakNow(g);
     return `<div class="parcours">
       <div class="parcours-row">
         <div class="ring" style="--p:${pct}"><i>${pct}%</i></div>
         <div><h3>${esc(title)}</h3><p>${esc(sub)}</p></div>
       </div>
-      <div class="pstats"><span class="pill xp">⭐ ${g.xp} XP</span><span class="pill">Niveau ${lv.lvl}</span>${st ? `<span class="pill">🔥 ${st} jour${st > 1 ? 's' : ''}</span>` : ''}</div>
+      <div class="pstats"><span class="pill xp">⭐ ${g.xp} XP</span><span class="pill">${T('Niveau')} ${lv.lvl}</span>${st ? `<span class="pill">🔥 ${T(st > 1 ? '{n} jours' : '{n} jour', { n: st })}</span>` : ''}</div>
       <div class="xpbar" aria-hidden="true"><i style="width:${lv.into}%"></i></div>
       <button type="button" class="btn-main" data-act="to-learn">${cta} →</button>
     </div>`;
@@ -155,7 +155,7 @@
   function extractHtml() {
     const app = APP();
     const list = app ? [...app.articles].sort((a, b) => app.score(b) - app.score(a)).slice(0, 3) : [];
-    if (!list.length) return '<p class="av-sub">Chargement des actus…</p>';
+    if (!list.length) return '<p class="av-sub">' + T('Chargement des actus…') + '</p>';
     return list.map((a) => {
       const bg = photoOk(a.image) ? `style="background-image:url('${esc(a.image)}')"` : `style="background-image:url('assets/categories/${esc(app.catKey(a.category))}.svg')"`;
       return `<button type="button" class="xrow" data-art="${esc(a.id)}"><span class="th" ${bg}></span><span><span class="k">${esc(app.catLabel(a.category))}</span><h4>${esc(a.title)}</h4><small>${esc(a.source)} · ${esc(app.timeAgo(a.pubDate))}</small></span></button>`;
@@ -182,6 +182,7 @@
       <div id="homeParcours">${parcoursHtml()}</div>
       <h2 class="sect-title">À la une <button type="button" data-act="to-news">Toutes les actus →</button></h2>
       <div id="homeExtract">${extractHtml()}</div>`;
+    I18N.apply($('#view-home'));
   }
 
   $('#view-home').addEventListener('click', (e) => {
@@ -203,7 +204,7 @@
       setProfile({ name: v });
       track('name_set');
       renderHome();
-      toast(`Enchanté, ${v} !`);
+      toast(T('Enchanté, {n} !', { n: v }));
     } else if (e.target.id === 'homeSearch') {
       const q = $('#homeSearchInput').value.trim();
       if (!q) return;
@@ -214,8 +215,8 @@
   });
 
   // Les actus arrivent après le chargement : on met à jour l'extrait sans toucher au champ de recherche.
-  document.addEventListener('lumen:data', () => { if (current === 'home' && $('#homeExtract')) $('#homeExtract').innerHTML = extractHtml(); });
-  document.addEventListener('jt:ready', () => { if (current === 'home' && $('#homeParcours')) $('#homeParcours').innerHTML = parcoursHtml(); });
+  document.addEventListener('lumen:data', () => { if (current === 'home' && $('#homeExtract')) { $('#homeExtract').innerHTML = extractHtml(); I18N.apply($('#homeExtract')); } });
+  document.addEventListener('jt:ready', () => { if (current === 'home' && $('#homeParcours')) { $('#homeParcours').innerHTML = parcoursHtml(); I18N.apply($('#homeParcours')); } });
 
   /* ---------- Profil ---------- */
   function exportCode() {
@@ -236,13 +237,13 @@
     const p = getProfile(), g = getProg(), lv = level(g.xp);
     const reads = jget('lumen_read', []);
     const favs = jget('lumen_favs', []);
-    const theme = document.documentElement.getAttribute('data-theme') === 'light' ? 'clair' : 'sombre';
+    const theme = document.documentElement.getAttribute('data-theme') === 'light' ? T('clair') : T('sombre');
     const owned = new Set(g.badges);
     $('#view-me').innerHTML = `
-      <div class="av-top"><span class="av-brand">Mon <em>profil</em></span></div>
+      <div class="av-top"><span class="av-brand">${I18N.lang === 'en' ? 'My <em>profile</em>' : 'Mon <em>profil</em>'}</span></div>
       <div class="me-head">${avatarHtml()}<div style="min-width:0;flex:1">
-        <div class="me-name">${p.name ? esc(p.name) : 'Invité'}</div>
-        <div class="me-lvl">Niveau ${lv.lvl} · ${g.xp} XP</div>
+        <div class="me-name">${p.name ? esc(p.name) : T('Invité')}</div>
+        <div class="me-lvl">${T('Niveau')} ${lv.lvl} · ${g.xp} XP</div>
         <div class="xpbar" aria-label="Progression vers le niveau suivant"><i style="width:${lv.into}%"></i></div>
       </div></div>
       <form class="me-name-form" id="meNameForm"><input class="field" id="meName" type="text" maxlength="24" placeholder="Ton prénom" value="${esc(p.name)}" aria-label="Ton prénom"><button class="btn-line" type="submit">Enregistrer</button></form>
@@ -250,7 +251,7 @@
       <h2 class="sect-title">Mes stats</h2>
       <div class="statgrid">
         <div class="stat"><b>${g.xp}</b><span>XP gagnés</span></div>
-        <div class="stat"><b>🔥 ${streakNow(g)}</b><span>jours de suite (record ${g.streak.best})</span></div>
+        <div class="stat"><b>🔥 ${streakNow(g)}</b><span>${T('jours de suite (record {n})', { n: g.streak.best })}</span></div>
         <div class="stat"><b>${g.solved}</b><span>exercices réussis</span></div>
         <div class="stat"><b>${doneChapters(g)}</b><span>chapitres validés</span></div>
         <div class="stat"><b>${Array.isArray(reads) ? reads.length : 0}</b><span>actus lues</span></div>
@@ -259,10 +260,10 @@
       <h2 class="sect-title">Mes badges <span style="font-size:.8rem;color:var(--paper-dim);font-family:'Space Grotesk',sans-serif">${g.badges.length}/${BADGES.length}</span></h2>
       <div class="badges">${BADGES.map((b) => `<div class="badge ${owned.has(b.id) ? 'on' : 'off'}"><span class="e">${b.e}</span><small>${esc(b.name)}</small></div>`).join('')}</div>
       <h2 class="sect-title">Réglages</h2>
-      <div class="setrow"><div>Thème<small>Actuellement : ${theme}</small></div><button type="button" class="btn-line" data-me="theme">Changer</button></div>
+      <div class="setrow"><div>Thème<small>${T('Actuellement : {x}', { x: theme })}</small></div><button type="button" class="btn-line" data-me="theme">Changer</button></div>
       <div class="setrow"><div>Notifications<small>L'actu du matin sur ton téléphone</small></div><button type="button" class="btn-line" data-me="push">Activer</button></div>
       <div class="setrow"><div>Newsletter<small>3 actus tech chaque matin</small></div><button type="button" class="btn-line" data-sub-btn>S'abonner</button></div>
-      <div class="setrow"><div>Langue<small>Français (English : bientôt)</small></div></div>
+      <div class="setrow"><div>${T('Langue')}<small>${I18N.lang === 'en' ? 'English' : 'Français'}</small></div><span class="langsw"><button type="button" class="btn-line${I18N.lang === 'fr' ? ' on' : ''}" data-lang="fr">FR</button> <button type="button" class="btn-line${I18N.lang === 'en' ? ' on' : ''}" data-lang="en">EN</button></span></div>
       <h2 class="sect-title">Ma progression</h2>
       <p class="av-sub" style="margin-bottom:10px">Sans compte, ta progression reste sur ce téléphone. Pour la garder en cas de changement de téléphone, copie ce code et conserve-le.</p>
       <div class="exbar" style="margin-top:0"><button type="button" class="btn-line" data-me="export">Générer mon code</button><button type="button" class="btn-line" data-me="import">Restaurer avec un code</button></div>
@@ -274,6 +275,7 @@
       <div class="exbar"><button type="button" class="btn-line" data-me="reset" style="color:var(--amber)">Effacer ma progression</button></div>`;
     // Le bouton newsletter de ce nouvel écran est rattaché au même comportement que les autres.
     $$('[data-sub-btn]', $('#view-me')).forEach((b) => b.addEventListener('click', () => $('#popupCta')?.click()));
+    I18N.apply($('#view-me'));
   }
 
   const meMsg = (t, err) => { const m = $('#meMsg'); if (m) { m.textContent = t; m.classList.toggle('err', !!err); } };
@@ -284,19 +286,21 @@
     const v = $('#meName').value.trim().replace(/\s+/g, ' ');
     setProfile({ name: v });
     renderMe();
-    toast(v ? 'Prénom enregistré' : 'Prénom effacé');
+    toast(v ? T('Prénom enregistré') : T('Prénom effacé'));
   });
 
   $('#view-me').addEventListener('click', async (e) => {
     const c = e.target.closest('[data-color]');
     if (c) { setProfile({ color: c.dataset.color }); renderMe(); return; }
+    const lb = e.target.closest('[data-lang]');
+    if (lb) { I18N.set(lb.dataset.lang); return; }
     const b = e.target.closest('[data-me]');
     if (!b) return;
     const act = b.dataset.me;
     if (act === 'theme') { $('#themeToggle').click(); renderMe(); }
     else if (act === 'push') {
       const pb = $('#pushBtn');
-      if (pb && !pb.hidden) pb.click(); else toast('Les notifications ne sont pas disponibles sur ce navigateur.');
+      if (pb && !pb.hidden) pb.click(); else toast(T('Les notifications ne sont pas disponibles sur ce navigateur.'));
     }
     else if (act === 'about') $('#footerAbout').click();
     else if (act === 'contact') $('#footerContact').click();
@@ -306,27 +310,27 @@
       ta.hidden = false; ta.readOnly = true; ta.value = exportCode();
       $('#meCodeBar').hidden = false; $('[data-me="copy"]').hidden = false; $('[data-me="apply"]').hidden = true;
       ta.select();
-      meMsg('Copie ce code et garde-le (note, message à toi-même).');
+      meMsg(T('Copie ce code et garde-le (note, message à toi-même).'));
     }
     else if (act === 'import') {
       const ta = $('#meCode');
-      ta.hidden = false; ta.readOnly = false; ta.value = ''; ta.placeholder = 'Colle ici ton code JT1.…';
+      ta.hidden = false; ta.readOnly = false; ta.value = ''; ta.placeholder = T('Colle ici ton code JT1.…');
       $('#meCodeBar').hidden = false; $('[data-me="copy"]').hidden = true; $('[data-me="apply"]').hidden = false;
       ta.focus();
-      meMsg('Attention : cela remplace la progression de ce téléphone.');
+      meMsg(T('Attention : cela remplace la progression de ce téléphone.'));
     }
     else if (act === 'copy') {
-      try { await navigator.clipboard.writeText($('#meCode').value); meMsg('Code copié ✔'); } catch { $('#meCode').select(); meMsg('Sélectionne le code et copie-le.'); }
+      try { await navigator.clipboard.writeText($('#meCode').value); meMsg(T('Code copié ✔')); } catch { $('#meCode').select(); meMsg(T('Sélectionne le code et copie-le.')); }
     }
     else if (act === 'apply') {
-      try { importCode($('#meCode').value); renderMe(); toast('Progression restaurée ✔'); }
-      catch { meMsg('Ce code n\'est pas valide. Vérifie que tu as tout copié.', true); }
+      try { importCode($('#meCode').value); renderMe(); toast(T('Progression restaurée ✔')); }
+      catch { meMsg(T('Ce code n\'est pas valide. Vérifie que tu as tout copié.'), true); }
     }
     else if (act === 'reset') {
-      if (confirm('Effacer ton profil et toute ta progression sur ce téléphone ? Cette action est définitive.')) {
+      if (confirm(T('Effacer ton profil et toute ta progression sur ce téléphone ? Cette action est définitive.'))) {
         ['jt_profile', 'jt_progress', 'jt_name_skip'].forEach((k) => store.del(k));
         renderMe();
-        toast('Progression effacée');
+        toast(T('Progression effacée'));
       }
     }
   });
