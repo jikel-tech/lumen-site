@@ -1,0 +1,348 @@
+{
+ "id": "pylab",
+ "title": "Python Lab",
+ "emoji": "🧪",
+ "tagline": "Write real Python code in the app and run it: challenges, bugs to fix and a cybercafé till mini-project.",
+ "passScore": 0.5,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "First scripts",
+   "minutes": 10,
+   "badge": {
+    "name": "Beginner coder",
+    "emoji": "🖥️"
+   },
+   "lesson": [
+    {
+     "h": "A real editor in the app",
+     "p": "Here you write real Python code and run it. Type your code in the editor, tap ▶ Run to see the result, then ✓ Check to validate. The key bar under the editor helps you type symbols (quotes, brackets, colons…). The first run downloads the editor (about 10 MB): after that it's fast."
+    },
+    {
+     "h": "What your program must print",
+     "p": "Each challenge shows the expected output. Your program must print exactly that with print(). Watch out for spaces, capital letters and punctuation.",
+     "code": "print(\"Bonjour\")",
+     "out": "Bonjour"
+    },
+    {
+     "h": "Variables and calculations",
+     "p": "A variable stores a value. The + sign joins texts together, and * multiplies numbers.",
+     "code": "nom = \"Jikel\"\nprint(\"Salut \" + nom)\nprint(1500 * 4)",
+     "out": "Salut Jikel\n6000"
+    },
+    {
+     "h": "Fixing a bug",
+     "p": "Sometimes the code is already there, but it contains an error. Run it: the error message gives you the line number to look at. Note: the input() function is not available in the lab."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "Print exactly: Bonjour Kribi",
+     "starter": "# Print Bonjour Kribi\n",
+     "expect": "Bonjour Kribi",
+     "solution": "print(\"Bonjour Kribi\")",
+     "hint": "Use print() with the text in quotes.",
+     "why": "print() shows the text in quotes.",
+     "must": [
+      {
+       "re": "print",
+       "msg": "Use the print() function."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "The variable nom already exists. Print: Salut Jikel (using the variable).",
+     "starter": "nom = \"Jikel\"\n# print Salut followed by a space and the name\n",
+     "expect": "Salut Jikel",
+     "solution": "nom = \"Jikel\"\nprint(\"Salut \" + nom)",
+     "hint": "Join \"Salut \" (with the space) and the variable using +.",
+     "why": "We join two texts with +.",
+     "must": [
+      {
+       "re": "nom",
+       "msg": "Use the variable nom."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "An item costs 1500 FCFA and we buy 4. Print the total by calculating with * .",
+     "starter": "prix = 1500\nquantite = 4\n# print the total\n",
+     "expect": "6000",
+     "solution": "prix = 1500\nquantite = 4\nprint(prix * quantite)",
+     "hint": "Multiply the two variables inside print().",
+     "why": "prix * quantite gives 6000.",
+     "must": [
+      {
+       "re": "\\*",
+       "msg": "Calculate the total with the * operator."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "This code contains an error. Fix it so it prints: Total : 6000",
+     "starter": "print(\"Total :\" 6000)\n",
+     "expect": "Total : 6000",
+     "solution": "print(\"Total :\", 6000)",
+     "hint": "Something is missing between the text and the number.",
+     "why": "A comma separates the items of print(), with an automatic space."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Conditions and loops",
+   "minutes": 12,
+   "badge": {
+    "name": "Logician",
+    "emoji": "🔁"
+   },
+   "lesson": [
+    {
+     "h": "if / else",
+     "p": "if tests a condition. If it is true, the indented block (shifted by 4 spaces) runs; otherwise the else block runs.",
+     "code": "note = 8\nif note >= 10:\n    print(\"Admis\")\nelse:\n    print(\"Refusé\")",
+     "out": "Refusé"
+    },
+    {
+     "h": "The for loop",
+     "p": "for repeats instructions. range(1, 6) gives the numbers from 1 to 5.",
+     "code": "for i in range(1, 4):\n    print(i)",
+     "out": "1\n2\n3"
+    },
+    {
+     "h": "The while loop",
+     "p": "while repeats as long as the condition is true. You must change the variable on each turn, otherwise the loop never stops: the lab then cuts your program after a few seconds.",
+     "code": "i = 1\nwhile i <= 3:\n    print(i)\n    i = i + 1",
+     "out": "1\n2\n3"
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "note is 14. Print Admis if note >= 10, otherwise Refusé.",
+     "starter": "note = 14\n# write your if / else here\n",
+     "expect": "Admis",
+     "solution": "note = 14\nif note >= 10:\n    print(\"Admis\")\nelse:\n    print(\"Refusé\")",
+     "hint": "Don't forget the colons and the indentation.",
+     "why": "Since 14 >= 10, the program prints Admis.",
+     "must": [
+      {
+       "re": "\\bif\\b",
+       "msg": "Use an if."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Print the numbers from 1 to 5, one per line, using a loop.",
+     "starter": "# write your loop here\n",
+     "expect": "1\n2\n3\n4\n5",
+     "solution": "for i in range(1, 6):\n    print(i)",
+     "hint": "range(1, 6) stops before 6.",
+     "why": "range(1, 6) gives 1, 2, 3, 4, 5.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Use a loop (for or while) instead of writing everything by hand."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Calculate and print the sum of the numbers from 1 to 10 using a loop.",
+     "starter": "total = 0\n# add each number to total\n",
+     "expect": "55",
+     "solution": "total = 0\nfor i in range(1, 11):\n    total = total + i\nprint(total)",
+     "hint": "On each turn: total = total + i. Print total after the loop.",
+     "why": "1 + 2 + … + 10 = 55.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Use a loop (for or while) instead of writing everything by hand."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "This loop never stops! Fix it so it prints 1, 2, 3.",
+     "starter": "i = 1\nwhile i <= 3:\n    print(i)\n",
+     "expect": "1\n2\n3",
+     "solution": "i = 1\nwhile i <= 3:\n    print(i)\n    i = i + 1",
+     "hint": "What happens to i on each turn?",
+     "why": "Without i = i + 1, i stays at 1: the loop is infinite.",
+     "must": [
+      {
+       "re": "i\\s*(\\+=|=\\s*i\\s*\\+)",
+       "msg": "You must make i move forward on each turn."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Functions, lists and dictionaries",
+   "minutes": 12,
+   "badge": {
+    "name": "Function mind",
+    "emoji": "🧩"
+   },
+   "lesson": [
+    {
+     "h": "Defining a function",
+     "p": "A function groups reusable instructions. def defines it, return gives back a result.",
+     "code": "def double(n):\n    return n * 2\n\nprint(double(5))",
+     "out": "10"
+    },
+    {
+     "h": "Lists",
+     "p": "A list holds several values in square brackets. sum() adds them up, max() gives the largest.",
+     "code": "prix = [500, 1200, 300]\nprint(sum(prix))",
+     "out": "2000"
+    },
+    {
+     "h": "Dictionaries",
+     "p": "A dictionary links a key to a value. You read and change a value with the key in square brackets.",
+     "code": "stock = {\"riz\": 10}\nstock[\"riz\"] = stock[\"riz\"] + 1\nprint(stock[\"riz\"])",
+     "out": "11"
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "Complete the function carre(n) that returns n × n. The program must print 49.",
+     "starter": "def carre(n):\n    # return n * n\n    pass\n\nprint(carre(7))\n",
+     "expect": "49",
+     "solution": "def carre(n):\n    return n * n\n\nprint(carre(7))",
+     "hint": "Use return.",
+     "why": "return gives the result back where the function is called.",
+     "must": [
+      {
+       "re": "return",
+       "msg": "Use return to give back the result."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Print the sum of the prices, then the highest price (two lines).",
+     "starter": "prix = [500, 1200, 300]\n# print the sum then the maximum\n",
+     "expect": "2000\n1200",
+     "solution": "prix = [500, 1200, 300]\nprint(sum(prix))\nprint(max(prix))",
+     "hint": "Two prints: sum(prix) then max(prix).",
+     "why": "sum() adds up, max() finds the largest value."
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Write the function est_pair(n) that returns True if n is even. The program must print: True False",
+     "starter": "def est_pair(n):\n    # n % 2 gives the remainder of the division by 2\n    pass\n\nprint(est_pair(4), est_pair(7))\n",
+     "expect": "True False",
+     "solution": "def est_pair(n):\n    return n % 2 == 0\n\nprint(est_pair(4), est_pair(7))",
+     "hint": "An even number has a remainder of 0 when divided by 2.",
+     "why": "n % 2 == 0 is true for even numbers.",
+     "must": [
+      {
+       "re": "def est_pair",
+       "msg": "Define the function est_pair."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "The oil stock goes up by 2. Change the dictionary then print the new oil stock.",
+     "starter": "stock = {\"riz\": 10, \"huile\": 3}\n# add 2 to the oil then print it\n",
+     "expect": "5",
+     "solution": "stock = {\"riz\": 10, \"huile\": 3}\nstock[\"huile\"] = stock[\"huile\"] + 2\nprint(stock[\"huile\"])",
+     "hint": "Read stock[\"huile\"], add 2, put the result back in stock[\"huile\"].",
+     "why": "3 + 2 = 5.",
+     "must": [
+      {
+       "re": "stock\\[\"huile\"\\]\\s*(\\+=|=)",
+       "msg": "Change the dictionary value."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Mini-project: the cybercafé till",
+   "minutes": 20,
+   "badge": {
+    "name": "Cyber cashier",
+    "emoji": "💰"
+   },
+   "lesson": [
+    {
+     "h": "Your first real program",
+     "p": "You will write the till of a cybercafé: the rate is 25 FCFA per minute, with 10% off from 60 minutes. Three steps, each building on the previous one."
+    },
+    {
+     "h": "Tips",
+     "p": "Break the problem down. Test with ▶ Run at every small step. Use int() to keep a whole number, for example int(2250 * 0.9)."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "A customer stays 40 minutes at 25 FCFA per minute. Print the cost.",
+     "starter": "prix_minute = 25\nminutes = 40\n# print the cost\n",
+     "expect": "1000",
+     "solution": "prix_minute = 25\nminutes = 40\nprint(minutes * prix_minute)",
+     "hint": "Multiply minutes by prix_minute.",
+     "why": "40 × 25 = 1000 FCFA."
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Write the function cout(minutes): 25 FCFA per minute, and 10% off from 60 minutes (whole number using int). Print cout(30) then cout(90) on the same line.",
+     "starter": "def cout(minutes):\n    total = minutes * 25\n    # 10% off if minutes >= 60\n    return total\n\nprint(cout(30), cout(90))\n",
+     "expect": "750 2025",
+     "solution": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\nprint(cout(30), cout(90))",
+     "hint": "An if inside the function, before the return.",
+     "why": "90 × 25 = 2250, minus 10% = 2025.",
+     "must": [
+      {
+       "re": "\\bif\\b",
+       "msg": "Use an if for the discount."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Three PCs were used for 30, 90 and 45 minutes. Print one line per PC (PC 1 : 750 FCFA…) then the Total line.",
+     "starter": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\ndurees = [30, 90, 45]\n# print one line per PC then the total\n",
+     "expect": "PC 1 : 750 FCFA\nPC 2 : 2025 FCFA\nPC 3 : 1125 FCFA\nTotal : 3900 FCFA",
+     "solution": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\ndurees = [30, 90, 45]\ntotal = 0\nfor i in range(len(durees)):\n    c = cout(durees[i])\n    total = total + c\n    print(\"PC\", i + 1, \":\", c, \"FCFA\")\nprint(\"Total :\", total, \"FCFA\")",
+     "hint": "Loop over the durations, keep a total, and print each line with print.",
+     "why": "3900 = 750 + 2025 + 1125.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Use a loop (for or while) instead of writing everything by hand."
+      }
+     ]
+    }
+   ],
+   "bonus": 50
+  }
+ ]
+}

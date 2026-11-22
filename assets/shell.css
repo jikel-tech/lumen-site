@@ -286,3 +286,12 @@ body.tab-learn .popup{display:none !important;}
 .lab-h{font-family:'Fraunces',serif; font-weight:500; font-size:1.05rem; margin:6px 0;}
 .lab-k{font-size:.7rem; letter-spacing:.08em; text-transform:uppercase; color:var(--paper-dim); margin:8px 0 6px;}
 .fixes{display:flex; flex-direction:column; gap:8px; margin-bottom:10px;} .fixbtn{text-align:left; width:100%;}
+
+/* ---- Labo Python : éditeur de code ---- */
+.code-ed{width:100%; box-sizing:border-box; display:block; background:#02080A; color:#E6FFF0; border:1.5px solid rgba(127,255,176,.35); border-radius:12px; padding:12px; font-family:ui-monospace,SFMono-Regular,Consolas,monospace; font-size:.86rem; line-height:1.5; tab-size:4; white-space:pre; overflow:auto; resize:vertical; min-height:150px; margin:10px 0 0;}
+.code-ed:focus{outline:none; border-color:var(--phosphor); box-shadow:0 0 0 2px rgba(127,255,176,.2);}
+.keybar{display:flex; gap:6px; overflow-x:auto; padding:8px 0; scrollbar-width:none;} .keybar::-webkit-scrollbar{display:none;}
+.keybar button{flex:0 0 auto; min-width:38px; height:38px; background:var(--ink-2); color:var(--paper); border:1px solid var(--line); border-radius:9px; font-family:ui-monospace,Consolas,monospace; font-size:1rem; cursor:pointer;}
+.keybar button:active{background:rgba(127,255,176,.18);}
+.codeblock .lbl{display:block; font-family:'Space Grotesk',sans-serif; font-size:.64rem; letter-spacing:.1em; text-transform:uppercase; color:var(--paper-dim); margin-bottom:4px;}
+.term .err{color:#ff9b9b; margin-top:6px;}

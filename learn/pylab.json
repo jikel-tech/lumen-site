@@ -1,0 +1,348 @@
+{
+ "id": "pylab",
+ "title": "Labo Python",
+ "emoji": "🧪",
+ "tagline": "Écris du vrai code Python dans l'appli et lance-le : défis, bugs à corriger et un mini-projet de caisse de cybercafé.",
+ "passScore": 0.5,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Premiers scripts",
+   "minutes": 10,
+   "badge": {
+    "name": "Codeur débutant",
+    "emoji": "🖥️"
+   },
+   "lesson": [
+    {
+     "h": "Un vrai éditeur dans l'appli",
+     "p": "Ici, tu écris du vrai code Python et tu le lances. Tape ton code dans l'éditeur, touche ▶ Lancer pour voir le résultat, puis ✓ Vérifier pour valider. La barre de touches sous l'éditeur t'aide à taper les symboles (guillemets, parenthèses, deux-points…). Le premier lancement télécharge l'éditeur (environ 10 Mo) : ensuite c'est rapide."
+    },
+    {
+     "h": "Ce que ton programme doit afficher",
+     "p": "Chaque défi indique la sortie attendue. Ton programme doit afficher exactement cela avec print(). Attention aux espaces, aux majuscules et à la ponctuation.",
+     "code": "print(\"Bonjour\")",
+     "out": "Bonjour"
+    },
+    {
+     "h": "Variables et calculs",
+     "p": "Une variable garde une valeur. Le signe + colle des textes entre eux, et * multiplie des nombres.",
+     "code": "nom = \"Jikel\"\nprint(\"Salut \" + nom)\nprint(1500 * 4)",
+     "out": "Salut Jikel\n6000"
+    },
+    {
+     "h": "Corriger un bug",
+     "p": "Parfois le code est déjà là, mais il contient une erreur. Lance-le : le message d'erreur te donne le numéro de la ligne à regarder. Remarque : la fonction input() n'est pas disponible dans le labo."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "Affiche exactement : Bonjour Kribi",
+     "starter": "# Affiche Bonjour Kribi\n",
+     "expect": "Bonjour Kribi",
+     "solution": "print(\"Bonjour Kribi\")",
+     "hint": "Utilise print() avec le texte entre guillemets.",
+     "why": "print() affiche le texte entre guillemets.",
+     "must": [
+      {
+       "re": "print",
+       "msg": "Utilise la fonction print()."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "La variable nom existe déjà. Affiche : Salut Jikel (en utilisant la variable).",
+     "starter": "nom = \"Jikel\"\n# affiche Salut suivi d'un espace et du nom\n",
+     "expect": "Salut Jikel",
+     "solution": "nom = \"Jikel\"\nprint(\"Salut \" + nom)",
+     "hint": "Colle \"Salut \" (avec l'espace) et la variable avec +.",
+     "why": "On colle deux textes avec +.",
+     "must": [
+      {
+       "re": "nom",
+       "msg": "Utilise la variable nom."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Un article coûte 1500 FCFA, on en achète 4. Affiche le total en calculant avec * .",
+     "starter": "prix = 1500\nquantite = 4\n# affiche le total\n",
+     "expect": "6000",
+     "solution": "prix = 1500\nquantite = 4\nprint(prix * quantite)",
+     "hint": "Multiplie les deux variables à l'intérieur de print().",
+     "why": "prix * quantite donne 6000.",
+     "must": [
+      {
+       "re": "\\*",
+       "msg": "Calcule le total avec l'opérateur *."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "Ce code contient une erreur. Corrige-le pour qu'il affiche : Total : 6000",
+     "starter": "print(\"Total :\" 6000)\n",
+     "expect": "Total : 6000",
+     "solution": "print(\"Total :\", 6000)",
+     "hint": "Il manque quelque chose entre le texte et le nombre.",
+     "why": "Une virgule sépare les éléments de print(), avec un espace automatique."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Conditions et boucles",
+   "minutes": 12,
+   "badge": {
+    "name": "Logicien",
+    "emoji": "🔁"
+   },
+   "lesson": [
+    {
+     "h": "if / else",
+     "p": "if teste une condition. Si elle est vraie, le bloc indenté (décalé de 4 espaces) s'exécute ; sinon c'est le bloc else.",
+     "code": "note = 8\nif note >= 10:\n    print(\"Admis\")\nelse:\n    print(\"Refusé\")",
+     "out": "Refusé"
+    },
+    {
+     "h": "La boucle for",
+     "p": "for répète des instructions. range(1, 6) donne les nombres de 1 à 5.",
+     "code": "for i in range(1, 4):\n    print(i)",
+     "out": "1\n2\n3"
+    },
+    {
+     "h": "La boucle while",
+     "p": "while répète tant que la condition est vraie. Il faut changer la variable à chaque tour, sinon la boucle ne s'arrête jamais : le labo coupe alors ton programme après quelques secondes.",
+     "code": "i = 1\nwhile i <= 3:\n    print(i)\n    i = i + 1",
+     "out": "1\n2\n3"
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "note vaut 14. Affiche Admis si note >= 10, sinon Refusé.",
+     "starter": "note = 14\n# écris ton if / else ici\n",
+     "expect": "Admis",
+     "solution": "note = 14\nif note >= 10:\n    print(\"Admis\")\nelse:\n    print(\"Refusé\")",
+     "hint": "N'oublie pas les deux-points et l'indentation.",
+     "why": "Comme 14 >= 10, le programme affiche Admis.",
+     "must": [
+      {
+       "re": "\\bif\\b",
+       "msg": "Utilise un if."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Affiche les nombres de 1 à 5, un par ligne, avec une boucle.",
+     "starter": "# écris ta boucle ici\n",
+     "expect": "1\n2\n3\n4\n5",
+     "solution": "for i in range(1, 6):\n    print(i)",
+     "hint": "range(1, 6) s'arrête avant 6.",
+     "why": "range(1, 6) donne 1, 2, 3, 4, 5.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Utilise une boucle (for ou while) au lieu de tout écrire à la main."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Calcule et affiche la somme des nombres de 1 à 10 avec une boucle.",
+     "starter": "total = 0\n# ajoute chaque nombre à total\n",
+     "expect": "55",
+     "solution": "total = 0\nfor i in range(1, 11):\n    total = total + i\nprint(total)",
+     "hint": "À chaque tour : total = total + i. Affiche total après la boucle.",
+     "why": "1 + 2 + … + 10 = 55.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Utilise une boucle (for ou while) au lieu de tout écrire à la main."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "Cette boucle ne s'arrête jamais ! Corrige-la pour qu'elle affiche 1, 2, 3.",
+     "starter": "i = 1\nwhile i <= 3:\n    print(i)\n",
+     "expect": "1\n2\n3",
+     "solution": "i = 1\nwhile i <= 3:\n    print(i)\n    i = i + 1",
+     "hint": "Que se passe-t-il avec i à chaque tour ?",
+     "why": "Sans i = i + 1, i reste à 1 : la boucle est infinie.",
+     "must": [
+      {
+       "re": "i\\s*(\\+=|=\\s*i\\s*\\+)",
+       "msg": "Il faut faire avancer i à chaque tour."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Fonctions, listes et dictionnaires",
+   "minutes": 12,
+   "badge": {
+    "name": "Esprit fonction",
+    "emoji": "🧩"
+   },
+   "lesson": [
+    {
+     "h": "Définir une fonction",
+     "p": "Une fonction regroupe des instructions réutilisables. def la définit, return renvoie un résultat.",
+     "code": "def double(n):\n    return n * 2\n\nprint(double(5))",
+     "out": "10"
+    },
+    {
+     "h": "Listes",
+     "p": "Une liste garde plusieurs valeurs entre crochets. sum() les additionne, max() donne la plus grande.",
+     "code": "prix = [500, 1200, 300]\nprint(sum(prix))",
+     "out": "2000"
+    },
+    {
+     "h": "Dictionnaires",
+     "p": "Un dictionnaire associe une clé à une valeur. On lit et on modifie une valeur avec la clé entre crochets.",
+     "code": "stock = {\"riz\": 10}\nstock[\"riz\"] = stock[\"riz\"] + 1\nprint(stock[\"riz\"])",
+     "out": "11"
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "Complète la fonction carre(n) qui renvoie n × n. Le programme doit afficher 49.",
+     "starter": "def carre(n):\n    # renvoie n * n\n    pass\n\nprint(carre(7))\n",
+     "expect": "49",
+     "solution": "def carre(n):\n    return n * n\n\nprint(carre(7))",
+     "hint": "Utilise return.",
+     "why": "return renvoie le résultat à l'endroit de l'appel.",
+     "must": [
+      {
+       "re": "return",
+       "msg": "Utilise return pour renvoyer le résultat."
+      }
+     ]
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Affiche la somme des prix, puis le prix le plus élevé (deux lignes).",
+     "starter": "prix = [500, 1200, 300]\n# affiche la somme puis le maximum\n",
+     "expect": "2000\n1200",
+     "solution": "prix = [500, 1200, 300]\nprint(sum(prix))\nprint(max(prix))",
+     "hint": "Deux print : sum(prix) puis max(prix).",
+     "why": "sum() additionne, max() trouve la plus grande valeur."
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Écris la fonction est_pair(n) qui renvoie True si n est pair. Le programme doit afficher : True False",
+     "starter": "def est_pair(n):\n    # n % 2 donne le reste de la division par 2\n    pass\n\nprint(est_pair(4), est_pair(7))\n",
+     "expect": "True False",
+     "solution": "def est_pair(n):\n    return n % 2 == 0\n\nprint(est_pair(4), est_pair(7))",
+     "hint": "Un nombre pair a un reste de 0 quand on le divise par 2.",
+     "why": "n % 2 == 0 est vrai pour les nombres pairs.",
+     "must": [
+      {
+       "re": "def est_pair",
+       "msg": "Définis la fonction est_pair."
+      }
+     ]
+    },
+    {
+     "id": "e4",
+     "type": "code",
+     "q": "Le stock d'huile augmente de 2. Modifie le dictionnaire puis affiche le nouveau stock d'huile.",
+     "starter": "stock = {\"riz\": 10, \"huile\": 3}\n# ajoute 2 à l'huile puis affiche-la\n",
+     "expect": "5",
+     "solution": "stock = {\"riz\": 10, \"huile\": 3}\nstock[\"huile\"] = stock[\"huile\"] + 2\nprint(stock[\"huile\"])",
+     "hint": "Lis stock[\"huile\"], ajoute 2, remets le résultat dans stock[\"huile\"].",
+     "why": "3 + 2 = 5.",
+     "must": [
+      {
+       "re": "stock\\[\"huile\"\\]\\s*(\\+=|=)",
+       "msg": "Modifie la valeur du dictionnaire."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Mini-projet : la caisse du cybercafé",
+   "minutes": 20,
+   "badge": {
+    "name": "Caissier du cyber",
+    "emoji": "💰"
+   },
+   "lesson": [
+    {
+     "h": "Ton premier vrai programme",
+     "p": "Tu vas écrire la caisse d'un cybercafé : le tarif est de 25 FCFA la minute, avec 10 % de remise à partir de 60 minutes. Trois étapes, chacune construit sur la précédente."
+    },
+    {
+     "h": "Conseils",
+     "p": "Découpe le problème. Teste avec ▶ Lancer à chaque petite étape. Utilise int() pour garder un nombre entier, par exemple int(2250 * 0.9)."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "code",
+     "q": "Un client reste 40 minutes à 25 FCFA la minute. Affiche le coût.",
+     "starter": "prix_minute = 25\nminutes = 40\n# affiche le coût\n",
+     "expect": "1000",
+     "solution": "prix_minute = 25\nminutes = 40\nprint(minutes * prix_minute)",
+     "hint": "Multiplie minutes par prix_minute.",
+     "why": "40 × 25 = 1000 FCFA."
+    },
+    {
+     "id": "e2",
+     "type": "code",
+     "q": "Écris la fonction cout(minutes) : 25 FCFA la minute, et 10 % de remise à partir de 60 minutes (résultat entier avec int). Affiche cout(30) puis cout(90) sur la même ligne.",
+     "starter": "def cout(minutes):\n    total = minutes * 25\n    # remise de 10 % si minutes >= 60\n    return total\n\nprint(cout(30), cout(90))\n",
+     "expect": "750 2025",
+     "solution": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\nprint(cout(30), cout(90))",
+     "hint": "Un if à l'intérieur de la fonction, avant le return.",
+     "why": "90 × 25 = 2250, moins 10 % = 2025.",
+     "must": [
+      {
+       "re": "\\bif\\b",
+       "msg": "Utilise un if pour la remise."
+      }
+     ]
+    },
+    {
+     "id": "e3",
+     "type": "code",
+     "q": "Trois PC ont été utilisés 30, 90 et 45 minutes. Affiche une ligne par PC (PC 1 : 750 FCFA…) puis la ligne Total.",
+     "starter": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\ndurees = [30, 90, 45]\n# affiche une ligne par PC puis le total\n",
+     "expect": "PC 1 : 750 FCFA\nPC 2 : 2025 FCFA\nPC 3 : 1125 FCFA\nTotal : 3900 FCFA",
+     "solution": "def cout(minutes):\n    total = minutes * 25\n    if minutes >= 60:\n        total = int(total * 0.9)\n    return total\n\ndurees = [30, 90, 45]\ntotal = 0\nfor i in range(len(durees)):\n    c = cout(durees[i])\n    total = total + c\n    print(\"PC\", i + 1, \":\", c, \"FCFA\")\nprint(\"Total :\", total, \"FCFA\")",
+     "hint": "Boucle sur les durées, garde un total, et affiche chaque ligne avec print.",
+     "why": "3900 = 750 + 2025 + 1125.",
+     "must": [
+      {
+       "re": "\\b(for|while)\\b",
+       "msg": "Utilise une boucle (for ou while) au lieu de tout écrire à la main."
+      }
+     ]
+    }
+   ],
+   "bonus": 50
+  }
+ ]
+}

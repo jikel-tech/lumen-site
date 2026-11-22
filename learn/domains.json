@@ -8,6 +8,14 @@
     "desc": "Le langage le plus accessible pour débuter : variables, calculs, conditions, boucles, fonctions."
   },
   {
+    "id": "pylab",
+    "title": "Labo Python",
+    "emoji": "🧪",
+    "status": "open",
+    "course": "pylab",
+    "desc": "Écris du vrai code Python dans l'appli et lance-le : défis, bugs à corriger et un mini-projet."
+  },
+  {
     "id": "js",
     "title": "JavaScript",
     "emoji": "⚡",

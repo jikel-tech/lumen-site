@@ -1,7 +1,7 @@
 /* Service worker LUMen : site installable (PWA) + lecture hors ligne de la dernière version vue.
    Il inclut aussi le worker OneSignal pour les notifications push (sans effet tant que OneSignal n'est pas configuré).
    Pense à changer VERSION quand tu modifies index.html, app.js ou style.css pour forcer la mise à jour du cache. */
-const VERSION = 'lumen-v14';
+const VERSION = 'lumen-v15';
 const SHELL = [
   './', 'index.html', 'manifest.json',
   'assets/style.css', 'assets/shell.css', 'assets/i18n.js', 'assets/lang-en.js', 'assets/app.js', 'assets/config.js', 'assets/shell.js', 'assets/learn.js',
@@ -19,7 +19,7 @@ self.addEventListener('install', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION && k !== 'lumen-py').map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -27,6 +27,11 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const req = event.request;
   const url = new URL(req.url);
+  // Éditeur Python (Pyodide) : téléchargé une fois, gardé dans un cache à part (~10 Mo)
+  if (req.method === 'GET' && url.hostname === 'cdn.jsdelivr.net' && url.pathname.startsWith('/pyodide/')) {
+    event.respondWith(caches.open('lumen-py').then((c) => c.match(req).then((r) => r || fetch(req).then((res) => { if (res.ok || res.type === 'opaque') c.put(req, res.clone()); return res; }))));
+    return;
+  }
   if (req.method !== 'GET' || url.origin !== self.location.origin) return; // GitHub, Google, etc. : on ne touche pas
   if (url.pathname.startsWith('/.netlify/')) return; // fonctions serveur : jamais en cache
 

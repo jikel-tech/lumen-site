@@ -69,7 +69,7 @@
   // Résumé pour l'accueil : le premier cours pas encore terminé (Python, puis Réseau), sinon le dernier.
   JT.courseSummary = () => {
     const g = getProg();
-    const list = ['python', 'reseau'].map((id) => cache[id + '.json']).filter(Boolean);
+    const list = ['python', 'reseau', 'pylab'].map((id) => cache[id + '.json']).filter(Boolean);
     if (!list.length) return null;
     let pick = list[list.length - 1], i = -1, sts = [];
     for (const course of list) {
@@ -171,7 +171,7 @@
     const exs = c.exercises;
     L.S = {
       idx: 0, hints: 0, firstTry: 0, xpEarned: 0,
-      ex: exs.map((e) => ({ done: false, attempts: 0, hinted: false, perm: e.type === 'choice' || e.type === 'diag' ? shuffle(e.options) : e.type === 'order' ? shuffle(e.lines) : null, picked: [], log: [], sel: null, made: [], lab: { sel: null, fixed: [], logs: {}, msg: '', wrong: 0 } })),
+      ex: exs.map((e) => ({ done: false, attempts: 0, hinted: false, perm: e.type === 'choice' || e.type === 'diag' ? shuffle(e.options) : e.type === 'order' ? shuffle(e.lines) : null, picked: [], log: [], sel: null, made: [], code: null, out: '', sol: false, lab: { sel: null, fixed: [], logs: {}, msg: '', wrong: 0 } })),
       locked: false,
     };
     L.view = 'ex';
@@ -188,7 +188,17 @@
     let body = '';
     const term = e.cmds ? `<div class="term" role="log" aria-label="${esc(T('Terminal simulé'))}">${st.log.length ? st.log.map((i) => `<div><span class="pr">&gt; ${esc(e.cmds[i].c)}</span>\n${esc(e.cmds[i].out)}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`}</div>
       <div class="cmds">${e.cmds.map((m, i) => `<button type="button" class="tile cmd ${st.log.includes(i) ? 'used2' : ''}" data-cmd="${i}" ${st.done ? 'disabled' : ''}>${esc(m.c)}</button>`).join('')}</div>` : '';
-    if (e.type === 'lab') {
+    if (e.type === 'code') {
+      const code = st.code == null ? (e.starter || '') : st.code;
+      const keys = ['⇥', '"', "'", '(', ')', ':', '[', ']', '{', '}', '=', '#', '+', '-', '*', '/', '%', '_', ',', '.'];
+      body = `<div class="codeblock out"><span class="lbl">${esc(T('Sortie attendue'))}</span>${esc(e.expect)}</div>
+        <textarea id="codeEd" class="code-ed" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" aria-label="${esc(T('Éditeur de code Python'))}" rows="${Math.min(14, Math.max(6, code.split('\n').length + 1))}" ${st.done ? 'disabled' : ''}>${esc(code)}</textarea>
+        <div class="keybar" aria-hidden="true">${keys.map((k) => `<button type="button" tabindex="-1" data-ins="${k === '⇥' ? '    ' : esc(k)}">${k}</button>`).join('')}</div>
+        <div class="exbar"><button type="button" class="btn-line" data-run ${st.done ? 'disabled' : ''}>▶ ${T('Lancer')}</button><button type="button" class="btn-main" data-codecheck ${st.done ? 'disabled' : ''}>✓ ${T('Vérifier')}</button></div>
+        <div class="term" id="codeOut" role="log" aria-live="polite">${st.out || `<span class="dim">${esc(T('Écris ton code, puis touche ▶ Lancer pour voir le résultat.'))}</span>`}</div>
+        ${st.attempts >= 3 && !st.done && !st.sol ? `<button type="button" class="btn-line" data-sol>${esc(T('Voir une solution'))}</button>` : ''}
+        ${st.sol && e.solution ? `<div class="codeblock"><span class="lbl">${esc(T('Une solution possible'))}</span>${esc(e.solution)}</div>` : ''}`;
+    } else if (e.type === 'lab') {
       body = labHtml(e, st);
     } else if (e.type === 'link') {
       const lab = (id) => { const n = e.nodes.find((x) => x.id === id); return n ? `${n.e} ${n.label}` : id; };
@@ -221,6 +231,91 @@
       </div>`;
     if (st.hinted && !st.done) $('#fb').innerHTML = `<div class="feedback hint">💡 ${esc(e.hint || '')}</div>`;
     if (e.type === 'fill' && !st.done) setTimeout(() => $('#ans')?.focus(), 50);
+  }
+
+  /* ----- Éditeur Python réel (Pyodide dans un Worker, chargé à la demande) ----- */
+  const WORKER_SRC = `let py=null;
+self.onmessage=async(ev)=>{const m=ev.data;try{
+if(m.type==='init'){importScripts(m.base+'pyodide.js');py=await loadPyodide({indexURL:m.base});self.postMessage({type:'ready'});}
+else if(m.type==='run'){let out='';py.setStdout({batched:(s)=>{out+=s+'\\n';}});py.setStderr({batched:(s)=>{out+=s+'\\n';}});
+const g=py.globals.get('dict')();try{await py.runPythonAsync(m.code,{globals:g});self.postMessage({type:'done',id:m.id,out:out,err:''});}
+catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||e)});}finally{try{g.destroy();}catch(x){}}}
+}catch(e){self.postMessage({type:'fatal',err:String(e&&e.message||e)});}};`;
+  const PyRunner = {
+    w: null, ready: null, seq: 0, waiting: {},
+    base: () => ((window.LUMEN && window.LUMEN.PYODIDE_BASE) || 'https://cdn.jsdelivr.net/pyodide/v0.26.4/full/'),
+    reset() { try { if (this.w) this.w.terminate(); } catch { /* ignore */ } this.w = null; this.ready = null; Object.values(this.waiting).forEach((f) => f({ out: '', err: '', timeout: true })); this.waiting = {}; },
+    ensure() {
+      if (this.ready) return this.ready;
+      this.ready = new Promise((resolve, reject) => {
+        let w;
+        try { w = new Worker(URL.createObjectURL(new Blob([WORKER_SRC], { type: 'text/javascript' }))); } catch (e) { reject(e); return; }
+        this.w = w;
+        w.onmessage = (ev) => {
+          const m = ev.data;
+          if (m.type === 'ready') resolve();
+          else if (m.type === 'fatal') { reject(new Error(m.err)); this.reset(); }
+          else if (m.type === 'done' && this.waiting[m.id]) { const f = this.waiting[m.id]; delete this.waiting[m.id]; f({ out: m.out, err: m.err }); }
+        };
+        w.onerror = (ev) => { reject(new Error(ev.message || 'worker')); this.reset(); };
+        w.postMessage({ type: 'init', base: this.base() });
+      });
+      this.ready.catch(() => { this.ready = null; });
+      return this.ready;
+    },
+    async run(code) {
+      await this.ensure();
+      return new Promise((resolve) => {
+        const id = ++this.seq;
+        const timer = setTimeout(() => { if (this.waiting[id]) this.reset(); }, 6000); // boucle infinie : on coupe
+        this.waiting[id] = (r) => { clearTimeout(timer); resolve(r); };
+        this.w.postMessage({ type: 'run', id, code });
+      });
+    },
+  };
+  const cleanCode = (s) => String(s).replace(/[\u201C\u201D]/g, '"').replace(/[\u2018\u2019]/g, "'").replace(/\u00A0/g, ' ').replace(/\r/g, '');
+  const normOut = (s) => String(s).replace(/\r/g, '').split('\n').map((l) => l.replace(/\s+$/, '')).join('\n').trim();
+  const friendlyErr = (err) => {
+    const lines = String(err).trim().split('\n').filter(Boolean);
+    const last = lines[lines.length - 1] || err;
+    const m = [...String(err).matchAll(/File "<exec>", line (\d+)/g)].pop();
+    return (m ? T('Erreur à la ligne {n} :', { n: m[1] }) + ' ' : T('Erreur :') + ' ') + last;
+  };
+  const failC = (e, st, msg) => {
+    fail(e, st, msg);
+    const out = $('#codeOut');
+    if (out && st.attempts >= 3 && !st.sol && !$('[data-sol]')) out.insertAdjacentHTML('afterend', `<button type="button" class="btn-line" data-sol>${esc(T('Voir une solution'))}</button>`);
+  };
+  async function runCode(e, st, check) {
+    const out = $('#codeOut');
+    const setOut = (html) => { st.out = html; if (out) out.innerHTML = html; };
+    const code = cleanCode(($('#codeEd') || {}).value ?? st.code ?? '');
+    st.code = code;
+    if (!code.trim()) { setOut(`<span class="dim">${esc(T('Écris ton code d\'abord.'))}</span>`); return; }
+    if (st.busy) return;
+    st.busy = true;
+    $$('[data-run],[data-codecheck]').forEach((b) => { b.disabled = true; });
+    let loadTimer = null;
+    try {
+      if (!PyRunner.ready) {
+        let s = 0;
+        setOut(`<span class="dim">${esc(T('Chargement de l\'éditeur Python (≈ 10 Mo, une seule fois)…'))}</span>`);
+        loadTimer = setInterval(() => { s++; if ($('#codeOut')) $('#codeOut').innerHTML = `<span class="dim">${esc(T('Chargement de l\'éditeur Python (≈ 10 Mo, une seule fois)…'))} ${s} s</span>`; }, 1000);
+      }
+      let r;
+      try { r = await PyRunner.run(code); }
+      catch { clearInterval(loadTimer); setOut(`<span class="err">${esc(T('Impossible de charger l\'éditeur Python. Vérifie ta connexion puis réessaie.'))}</span>`); return; }
+      clearInterval(loadTimer);
+      if (r.timeout) { setOut(`<span class="err">${esc(T('Ton programme tourne trop longtemps (boucle infinie ?). Il a été arrêté.'))}</span>`); if (check) failC(e, st, T('Ton programme ne se termine pas.')); return; }
+      const shown = normOut(r.out);
+      setOut(`${shown ? esc(shown) : `<span class="dim">${esc(T('(aucune sortie)'))}</span>`}${r.err ? `<div class="err">${esc(friendlyErr(r.err))}</div>` : ''}`);
+      if (!check) return;
+      if (r.err) { failC(e, st, T('Ton code provoque une erreur : corrige-la puis revérifie.')); return; }
+      const bad = (e.must || []).find((m) => !new RegExp(m.re).test(code));
+      if (bad) { failC(e, st, bad.msg); return; }
+      if (normOut(r.out) === normOut(e.expect)) { st.code = code; succeed(e, st); }
+      else failC(e, st, T('La sortie est différente de celle attendue. Compare les deux.'));
+    } finally { clearInterval(loadTimer); st.busy = false; $$('[data-run],[data-codecheck]').forEach((b) => { b.disabled = !!st.done; }); }
   }
 
   /* ----- Labo immersif : l'entreprise en panne ----- */
@@ -390,6 +485,13 @@
     if (L.view !== 'ex' || !L.S) return;
     const S = L.S, c = chapterObj(), ex = c.exercises[S.idx], st = S.ex[S.idx];
     const opt = t.closest('[data-opt]');
+    if (ex.type === 'code') {
+      const ins = t.closest('[data-ins]');
+      if (ins) { const ta = $('#codeEd'); if (ta && !ta.disabled) { const a = ta.selectionStart, b = ta.selectionEnd, v = ins.dataset.ins; ta.value = ta.value.slice(0, a) + v + ta.value.slice(b); ta.selectionStart = ta.selectionEnd = a + v.length; st.code = ta.value; ta.focus(); } return; }
+      if (t.closest('[data-run]')) { runCode(ex, st, false); return; }
+      if (t.closest('[data-codecheck]')) { runCode(ex, st, true); return; }
+      if (t.closest('[data-sol]')) { st.code = ($('#codeEd') || {}).value ?? st.code; st.sol = true; renderExercise(learnEl()); return; }
+    }
     if (ex.type === 'lab' && !st.done && labClick(t, ex, st)) return;
     const cmd = t.closest('[data-cmd]');
     if (cmd) { const i = +cmd.dataset.cmd; if (!st.log.includes(i)) st.log.push(i); renderExercise(learnEl()); const tm = $('.term'); if (tm) tm.scrollTop = tm.scrollHeight; return; }
@@ -424,6 +526,10 @@
       else finishChapter();
     }
   });
+  learnEl().addEventListener('input', (e) => {
+    if (e.target.id === 'codeEd' && L.S) { const st = L.S.ex[L.S.idx]; if (st) st.code = e.target.value; }
+  });
+  learnEl().addEventListener('mousedown', (e) => { if (e.target.closest('.keybar')) e.preventDefault(); });
   learnEl().addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && e.target.id === 'ans') { e.preventDefault(); checkAnswer('fill', e.target.value); }
   });
@@ -502,7 +608,7 @@
   });
 
   // Charge les cours en arrière-plan pour que « Ton parcours » affiche le bon chapitre.
-  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
+  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('pylab.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
 
   if (document.body.classList.contains('tab-learn')) renderLearn();
   if (document.body.classList.contains('tab-sos')) renderSos();

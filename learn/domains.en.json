@@ -8,6 +8,14 @@
     "desc": "The easiest language to start with: variables, calculations, conditions, loops and functions."
   },
   {
+    "id": "pylab",
+    "title": "Python Lab",
+    "emoji": "🧪",
+    "status": "open",
+    "course": "pylab",
+    "desc": "Write real Python code in the app and run it: challenges, bugs to fix and a mini-project."
+  },
+  {
     "id": "js",
     "title": "JavaScript",
     "emoji": "⚡",
