@@ -1,5 +1,6 @@
 {
   "ids": [
+    "97d42488e5cc",
     "f5dbd18d7493",
     "7ff1fe0e460c",
     "a4365912c482",
@@ -62,8 +63,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "culture",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-22T23:00:41.633Z",
+      "id": "97d42488e5cc",
+      "title": "Test de la Krups Coffee Crush Experience : compacte et élégante, mais un café assez basique",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-22T15:48:42.181Z",
       "id": "f5dbd18d7493",
@@ -500,15 +510,6 @@
       "at": "2026-10-28T22:02:30.918Z",
       "id": "ca05a2c72f8d",
       "title": "Apple lance un Mac à plus de 16 000 euros",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-28T14:43:29.440Z",
-      "id": "2fc56a1692fa",
-      "title": "OpenAI prévoit d'acheter des puces TPU de Google, un affront à NVIDIA ?",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
