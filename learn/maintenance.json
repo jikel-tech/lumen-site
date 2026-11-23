@@ -1,0 +1,606 @@
+{
+ "id": "maintenance",
+ "title": "Maintenance PC",
+ "emoji": "🛠️",
+ "tagline": "Comprendre un PC, l'entretenir en sécurité et diagnostiquer les pannes, jusqu'à l'atelier de réparation.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Les composants d'un PC",
+   "minutes": 10,
+   "badge": {
+    "name": "Connaisseur du PC",
+    "emoji": "🧩"
+   },
+   "lesson": [
+    {
+     "h": "La carte mère",
+     "p": "C'est la grande carte sur laquelle tout se branche : processeur, mémoire, disque… Rien ne communique sans elle."
+    },
+    {
+     "h": "Le processeur et la RAM",
+     "p": "Le processeur (CPU) est le cerveau : il calcule. La RAM est la mémoire de travail : elle garde temporairement les programmes ouverts, et se vide quand le PC s'éteint."
+    },
+    {
+     "h": "Le disque : HDD ou SSD",
+     "p": "Le disque garde tes fichiers même PC éteint. Le HDD a des pièces qui tournent (plus lent, plus fragile aux chocs). Le SSD n'a aucune pièce mobile : il est bien plus rapide."
+    },
+    {
+     "h": "L'alimentation et le refroidissement",
+     "p": "Le bloc d'alimentation transforme le courant de la prise en tensions adaptées au PC. Le ventilateur et le radiateur évacuent la chaleur du processeur."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quel composant garde tes fichiers quand le PC est éteint ?",
+     "options": [
+      "Le disque (HDD ou SSD)",
+      "La RAM",
+      "Le ventilateur",
+      "Le clavier"
+     ],
+     "answer": 0,
+     "hint": "Pense au stockage permanent.",
+     "why": "Le disque conserve les données sans courant, contrairement à la RAM."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "À quoi sert la RAM ?",
+     "options": [
+      "À garder temporairement les programmes en cours d'utilisation",
+      "À stocker les photos pour toujours",
+      "À refroidir le processeur",
+      "À brancher l'écran"
+     ],
+     "answer": 0,
+     "hint": "« Mémoire de travail ».",
+     "why": "La RAM est rapide mais se vide à l'extinction."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Quel composant transforme le courant de la prise pour le PC ?",
+     "options": [
+      "Le bloc d'alimentation",
+      "Le processeur",
+      "Le disque dur",
+      "La carte graphique"
+     ],
+     "answer": 0,
+     "hint": "Il est relié à la prise secteur.",
+     "why": "Le bloc d'alimentation fournit les bonnes tensions à tous les composants."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Quel composant est le « cerveau » du PC ? (3 lettres)",
+     "answer": [
+      "cpu",
+      "processeur"
+     ],
+     "hint": "C comme Central.",
+     "why": "Le CPU (processeur) exécute les calculs."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Quel est l'avantage principal d'un SSD sur un HDD ?",
+     "options": [
+      "Il est plus rapide et n'a aucune pièce mobile",
+      "Il coûte toujours moins cher",
+      "Il fait plus de bruit",
+      "Il chauffe plus"
+     ],
+     "answer": 0,
+     "hint": "Pas de disque qui tourne.",
+     "why": "Sans pièce mobile, le SSD est plus rapide et plus résistant aux chocs."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Relie chaque composant à la carte mère.",
+     "nodes": [
+      {
+       "id": "cm",
+       "e": "🧩",
+       "label": "Carte mère"
+      },
+      {
+       "id": "cpu",
+       "e": "🧠",
+       "label": "Processeur"
+      },
+      {
+       "id": "ram",
+       "e": "🧮",
+       "label": "RAM"
+      },
+      {
+       "id": "ssd",
+       "e": "💾",
+       "label": "SSD"
+      },
+      {
+       "id": "alim",
+       "e": "🔌",
+       "label": "Alimentation"
+      }
+     ],
+     "links": [
+      [
+       "cm",
+       "cpu"
+      ],
+      [
+       "cm",
+       "ram"
+      ],
+      [
+       "cm",
+       "ssd"
+      ],
+      [
+       "cm",
+       "alim"
+      ]
+     ],
+     "hint": "Tout est relié à la carte mère, au centre.",
+     "why": "La carte mère est le centre : tout communique par elle."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Entretien et sécurité",
+   "minutes": 12,
+   "badge": {
+    "name": "Soigneux",
+    "emoji": "🧼"
+   },
+   "lesson": [
+    {
+     "h": "Toujours éteindre et débrancher",
+     "p": "Avant d'ouvrir un PC, éteins-le et débranche le câble secteur. Appuie ensuite quelques secondes sur le bouton power pour vider l'électricité restante."
+    },
+    {
+     "h": "L'électricité statique",
+     "p": "Ton corps peut s'électriser et griller un composant. Touche une partie métallique du boîtier avant de toucher la carte mère, et ne pose jamais les composants sur du tissu synthétique."
+    },
+    {
+     "h": "Dépoussiérer",
+     "p": "La poussière bloque l'air et fait chauffer le PC. Souffle-la avec de l'air comprimé ou une petite soufflette, en bloquant le ventilateur avec un doigt pour qu'il ne tourne pas trop vite. N'utilise pas d'aspirateur ordinaire, il crée de l'électricité statique."
+    },
+    {
+     "h": "Les bons réflexes",
+     "p": "Fais des mises à jour, garde un antivirus, et sauvegarde tes fichiers importants sur une clé ou un autre disque : un disque peut tomber en panne sans prévenir."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Avant d'ouvrir un PC, que fais-tu en premier ?",
+     "options": [
+      "Je l'éteins et je débranche le câble secteur",
+      "Je l'ouvre directement",
+      "Je verse un peu d'eau",
+      "Je le secoue"
+     ],
+     "answer": 0,
+     "hint": "Sécurité d'abord.",
+     "why": "Un PC branché peut être dangereux et abîmer les composants."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Pourquoi toucher une partie métallique du boîtier avant de toucher la carte mère ?",
+     "options": [
+      "Pour évacuer l'électricité statique de son corps",
+      "Pour réchauffer ses mains",
+      "Pour réparer le boîtier",
+      "Ça ne sert à rien"
+     ],
+     "answer": 0,
+     "hint": "Pense aux décharges statiques.",
+     "why": "Une décharge statique peut détruire un composant sans que tu le voies."
+    },
+    {
+     "id": "e3",
+     "type": "order",
+     "q": "Remets dans l'ordre pour dépoussiérer un PC en sécurité.",
+     "lines": [
+      "Éteindre le PC et débrancher le câble secteur",
+      "Ouvrir le boîtier",
+      "Souffler la poussière en bloquant le ventilateur",
+      "Refermer le boîtier et rebrancher"
+     ],
+     "hint": "Il faut d'abord couper le courant.",
+     "why": "On coupe le courant, on ouvre, on nettoie, puis on remonte."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Pourquoi bloquer le ventilateur avec un doigt quand on souffle dessus ?",
+     "options": [
+      "Pour qu'il ne tourne pas trop vite et ne s'abîme pas",
+      "Pour le refroidir",
+      "Pour augmenter le bruit",
+      "Pour le démonter"
+     ],
+     "answer": 0,
+     "hint": "Un ventilateur qui tourne trop vite peut s'abîmer.",
+     "why": "L'air comprimé le ferait tourner bien trop vite."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Quel objet évites-tu pour nettoyer l'intérieur d'un PC ?",
+     "options": [
+      "Un aspirateur ordinaire",
+      "Une soufflette",
+      "Un petit pinceau doux",
+      "De l'air comprimé"
+     ],
+     "answer": 0,
+     "hint": "Il crée de l'électricité statique.",
+     "why": "L'aspirateur ordinaire peut générer de l'électricité statique."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Pourquoi faire des sauvegardes ?",
+     "options": [
+      "Un disque peut tomber en panne sans prévenir",
+      "Pour que le PC chauffe moins",
+      "Pour économiser l'électricité",
+      "Ça ne sert à rien"
+     ],
+     "answer": 0,
+     "hint": "Pense à la perte de fichiers.",
+     "why": "Une sauvegarde évite de tout perdre en cas de panne du disque."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Diagnostiquer une panne",
+   "minutes": 14,
+   "badge": {
+    "name": "Détective de pannes",
+    "emoji": "🔎"
+   },
+   "lesson": [
+    {
+     "h": "Observer avant de toucher",
+     "p": "Regarde et écoute : les voyants s'allument ? Le ventilateur tourne ? Y a-t-il des bips ? Ce que tu observes oriente vers la cause."
+    },
+    {
+     "h": "Les pannes courantes",
+     "p": "Rien ne s'allume : alimentation ou câble secteur. Écran noir avec des bips : souvent la RAM mal enfoncée. Le PC s'éteint tout seul après un moment : surchauffe, souvent à cause de la poussière. Le PC est très lent : disque presque plein ou trop d'applications."
+    },
+    {
+     "h": "Du plus simple au plus compliqué",
+     "p": "Commence par les causes faciles à vérifier : prise, câbles, branchements. Ne remplace jamais une pièce coûteuse sans avoir testé les causes simples."
+    },
+    {
+     "h": "Mène l'enquête",
+     "p": "Dans les exercices, touche les tests pour les effectuer, lis les observations, puis choisis la cause. Fais plusieurs tests avant de répondre."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "diag",
+     "obs": true,
+     "q": "Un PC ne s'allume pas du tout. Mène l'enquête.",
+     "cmds": [
+      {
+       "c": "Allumer le PC",
+       "out": "Aucune lumière, aucun bruit."
+      },
+      {
+       "c": "Tester la prise avec un chargeur",
+       "out": "Le chargeur de téléphone fonctionne sur cette prise."
+      },
+      {
+       "c": "Inspecter l'intérieur et les branchements",
+       "out": "Le câble d'alimentation est à moitié sorti à l'arrière du PC."
+      }
+     ],
+     "options": [
+      "Le câble d'alimentation est mal branché",
+      "L'écran est cassé",
+      "Le disque est plein",
+      "Le clavier est sale"
+     ],
+     "answer": 0,
+     "hint": "Teste d'abord la prise et les câbles.",
+     "why": "La prise marche et le câble est mal enfoncé : un simple rebranchement règle la panne."
+    },
+    {
+     "id": "e2",
+     "type": "diag",
+     "obs": true,
+     "q": "Écran noir au démarrage. Mène l'enquête.",
+     "cmds": [
+      {
+       "c": "Allumer le PC",
+       "out": "Écran noir. Le PC émet 3 bips courts répétés."
+      },
+      {
+       "c": "Écouter le ventilateur",
+       "out": "Le ventilateur tourne normalement."
+      },
+      {
+       "c": "Inspecter l'intérieur et les branchements",
+       "out": "Une barrette de RAM n'est pas complètement enfoncée dans son emplacement."
+      }
+     ],
+     "options": [
+      "Une barrette de RAM est mal enfoncée",
+      "La carte mère est détruite",
+      "Le PC a un virus",
+      "Le disque est plein"
+     ],
+     "answer": 0,
+     "hint": "Des bips au démarrage orientent vers la mémoire.",
+     "why": "Écran noir + bips + barrette mal enfoncée : on la réenfonce."
+    },
+    {
+     "id": "e3",
+     "type": "diag",
+     "obs": true,
+     "q": "Le PC s'éteint tout seul après dix minutes. Mène l'enquête.",
+     "cmds": [
+      {
+       "c": "Allumer le PC",
+       "out": "Le PC démarre mais s'éteint tout seul après quelques minutes."
+      },
+      {
+       "c": "Écouter le ventilateur",
+       "out": "Ventilateur très bruyant, air brûlant qui sort du boîtier."
+      },
+      {
+       "c": "Inspecter l'intérieur et les branchements",
+       "out": "Le ventilateur et le radiateur sont couverts de poussière."
+      }
+     ],
+     "options": [
+      "Surchauffe due à la poussière",
+      "Le clavier est cassé",
+      "L'écran est mal branché",
+      "Il manque une mise à jour"
+     ],
+     "answer": 0,
+     "hint": "Air brûlant et bruit : que se passe-t-il ?",
+     "why": "La poussière bloque l'air : le PC chauffe et se protège en s'éteignant."
+    },
+    {
+     "id": "e4",
+     "type": "diag",
+     "obs": true,
+     "q": "Le PC met trois minutes à démarrer. Mène l'enquête.",
+     "cmds": [
+      {
+       "c": "Allumer le PC",
+       "out": "Le PC démarre mais très lentement."
+      },
+      {
+       "c": "Inspecter l'intérieur et les branchements",
+       "out": "L'intérieur est propre, tout est bien en place."
+      },
+      {
+       "c": "Vérifier le disque (Windows)",
+       "out": "Disque C: 99 % utilisé (il reste 1 Go)."
+      }
+     ],
+     "options": [
+      "Le disque est presque plein",
+      "La RAM est mal enfoncée",
+      "Le câble secteur est mal branché",
+      "Le ventilateur est bouché"
+     ],
+     "answer": 0,
+     "hint": "Regarde le disque.",
+     "why": "Un disque presque plein ralentit tout : il faut libérer de la place."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Un PC ne démarre pas. Que vérifies-tu en premier ?",
+     "options": [
+      "La prise et les câbles d'alimentation",
+      "La carte mère",
+      "Le processeur",
+      "Le système Windows"
+     ],
+     "answer": 0,
+     "hint": "Du plus simple au plus compliqué.",
+     "why": "On commence par les causes simples et faciles à vérifier."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Écran noir et plusieurs bips au démarrage : quel composant soupçonner d'abord ?",
+     "options": [
+      "La RAM",
+      "Le clavier",
+      "La souris",
+      "Le haut-parleur"
+     ],
+     "answer": 0,
+     "hint": "Les bips sont un code de la carte mère.",
+     "why": "Les bips au démarrage signalent souvent un problème de mémoire."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Atelier : 8 machines à réparer",
+   "minutes": 15,
+   "badge": {
+    "name": "Réparateur",
+    "emoji": "🛠️"
+   },
+   "lesson": [
+    {
+     "h": "Ton atelier de réparation",
+     "p": "Les clients ont déposé 8 machines à l'atelier. 4 d'entre elles sont en panne. À toi de tester chacune, de comprendre la panne et de choisir la bonne réparation."
+    },
+    {
+     "h": "La méthode",
+     "p": "Pour chaque machine en panne : allume-la, écoute le ventilateur, inspecte l'intérieur et les branchements, et vérifie le disque. Lis les observations, puis choisis la réparation qui correspond."
+    },
+    {
+     "h": "Attention aux fausses pistes",
+     "p": "Changer la carte mère ou réinstaller Windows ne règle presque jamais une panne simple : cela fait perdre du temps (et des points). Cherche la vraie cause d'abord."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 machines de l'atelier sont en panne (en rouge). Touche une machine, fais les tests, puis répare-la.",
+     "hint": "Compare ce que donnent l'allumage, le ventilateur, l'inspection et le disque.",
+     "why": "Quatre pannes, quatre causes différentes : câble d'alimentation, RAM, poussière et disque plein.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "PC 1",
+       "icon": "🖥️"
+      },
+      {
+       "id": "m2",
+       "name": "PC 2",
+       "icon": "🖥️",
+       "fault": "plug"
+      },
+      {
+       "id": "m3",
+       "name": "Portable 3",
+       "icon": "💻"
+      },
+      {
+       "id": "m4",
+       "name": "PC 4",
+       "icon": "🖥️",
+       "fault": "ram"
+      },
+      {
+       "id": "m5",
+       "name": "Portable 5",
+       "icon": "💻"
+      },
+      {
+       "id": "m6",
+       "name": "PC 6",
+       "icon": "🖥️",
+       "fault": "dust"
+      },
+      {
+       "id": "m7",
+       "name": "Portable 7",
+       "icon": "💻",
+       "fault": "disk"
+      },
+      {
+       "id": "m8",
+       "name": "PC 8",
+       "icon": "🖥️"
+      }
+     ],
+     "cmds": [
+      "Allumer le PC",
+      "Écouter le ventilateur",
+      "Inspecter l'intérieur et les branchements",
+      "Vérifier le disque (Windows)"
+     ],
+     "out": {
+      "ok": [
+       "Le PC s'allume normalement et démarre Windows.",
+       "Le ventilateur tourne régulièrement, bruit normal.",
+       "L'intérieur est propre, tout est bien en place.",
+       "Disque C: 45 % utilisé. Aucune erreur."
+      ],
+      "plug": [
+       "Aucune lumière, aucun bruit : la machine est morte.",
+       "Rien ne tourne.",
+       "Le câble d'alimentation est à moitié sorti de l'arrière de la machine.",
+       "Impossible : la machine ne démarre pas."
+      ],
+      "ram": [
+       "Écran noir. 3 bips courts répétés.",
+       "Le ventilateur tourne normalement.",
+       "Une barrette de RAM n'est pas complètement enfoncée dans son emplacement.",
+       "Impossible : la machine ne démarre pas."
+      ],
+      "dust": [
+       "La machine démarre mais s'éteint toute seule après quelques minutes.",
+       "Ventilateur très bruyant, air brûlant qui sort de la machine.",
+       "Le ventilateur et le radiateur sont couverts de poussière.",
+       "Disque C: 50 % utilisé. Aucune erreur."
+      ],
+      "disk": [
+       "La machine démarre mais très lentement (3 minutes).",
+       "Le ventilateur tourne normalement.",
+       "L'intérieur est propre, tout est bien en place.",
+       "Disque C: 99 % utilisé (il reste 1 Go). La machine est saturée."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "plug",
+       "label": "Rebrancher le câble d'alimentation"
+      },
+      {
+       "id": "ram",
+       "label": "Réenfoncer la barrette de RAM"
+      },
+      {
+       "id": "dust",
+       "label": "Dépoussiérer ventilateur et radiateur"
+      },
+      {
+       "id": "disk",
+       "label": "Libérer de l'espace sur le disque"
+      },
+      {
+       "id": "board",
+       "label": "Changer la carte mère"
+      },
+      {
+       "id": "win",
+       "label": "Réinstaller Windows"
+      }
+     ],
+     "fixes": {
+      "plug": "plug",
+      "ram": "ram",
+      "dust": "dust",
+      "disk": "disk"
+     },
+     "txt": {
+      "tap": "Touche une machine pour commencer.",
+      "ok": "Cette machine fonctionne déjà : rien à réparer ici.",
+      "wrong": "Ça ne change rien pour cette machine. Relis les observations.",
+      "fixed": "✅ Réparé ! Cette machine fonctionne de nouveau.",
+      "allfixed": "Bravo, les 4 machines sont réparées !",
+      "need": "Fais d'abord quelques tests pour comprendre la panne.",
+      "run": "Tests",
+      "fix": "Réparer",
+      "reported": "En panne",
+      "good": "OK",
+      "progress": "{n}/4 machines réparées"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

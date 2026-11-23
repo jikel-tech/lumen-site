@@ -48,15 +48,17 @@
     "id": "cyber",
     "title": "Cybersécurité",
     "emoji": "🛡️",
-    "status": "soon",
-    "desc": "Protège tes comptes, repère les arnaques et comprends comment on attaque… pour mieux défendre."
+    "status": "open",
+    "desc": "Labo immersif : protège les comptes des clients d'un cybercafé face aux arnaques et aux pirates.",
+    "course": "cyber"
   },
   {
     "id": "maintenance",
     "title": "Maintenance",
     "emoji": "🔧",
-    "status": "soon",
-    "desc": "Stage virtuel : diagnostique et répare des pannes de PC et de téléphones, comme en atelier."
+    "status": "open",
+    "desc": "Labo immersif : diagnostique et répare 8 machines d'un atelier, comme un vrai technicien.",
+    "course": "maintenance"
   },
   {
     "id": "web",

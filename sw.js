@@ -1,7 +1,7 @@
 /* Service worker LUMen : site installable (PWA) + lecture hors ligne de la dernière version vue.
    Il inclut aussi le worker OneSignal pour les notifications push (sans effet tant que OneSignal n'est pas configuré).
    Pense à changer VERSION quand tu modifies index.html, app.js ou style.css pour forcer la mise à jour du cache. */
-const VERSION = 'lumen-v15';
+const VERSION = 'lumen-v17';
 const SHELL = [
   './', 'index.html', 'manifest.json',
   'assets/style.css', 'assets/shell.css', 'assets/i18n.js', 'assets/lang-en.js', 'assets/app.js', 'assets/config.js', 'assets/shell.js', 'assets/learn.js',

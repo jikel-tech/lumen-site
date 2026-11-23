@@ -1,0 +1,606 @@
+{
+ "id": "maintenance",
+ "title": "PC Maintenance",
+ "emoji": "🛠️",
+ "tagline": "Understand a PC, maintain it safely and diagnose faults, all the way to the repair workshop.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "PC components",
+   "minutes": 10,
+   "badge": {
+    "name": "PC connoisseur",
+    "emoji": "🧩"
+   },
+   "lesson": [
+    {
+     "h": "The motherboard",
+     "p": "It's the big board everything plugs into: processor, memory, disk… Nothing communicates without it."
+    },
+    {
+     "h": "The processor and the RAM",
+     "p": "The processor (CPU) is the brain: it calculates. The RAM is the working memory: it temporarily holds open programs, and empties when the PC turns off."
+    },
+    {
+     "h": "The disk: HDD or SSD",
+     "p": "The disk keeps your files even when the PC is off. An HDD has spinning parts (slower, more fragile to shocks). An SSD has no moving parts: it is much faster."
+    },
+    {
+     "h": "Power supply and cooling",
+     "p": "The power supply unit converts the wall current into voltages suited to the PC. The fan and heatsink carry the processor's heat away."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which component keeps your files when the PC is off?",
+     "options": [
+      "The disk (HDD or SSD)",
+      "The RAM",
+      "The fan",
+      "The keyboard"
+     ],
+     "answer": 0,
+     "hint": "Think of permanent storage.",
+     "why": "The disk keeps data without power, unlike the RAM."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "What is the RAM for?",
+     "options": [
+      "Temporarily holding the programs in use",
+      "Storing photos forever",
+      "Cooling the processor",
+      "Plugging in the screen"
+     ],
+     "answer": 0,
+     "hint": "“Working memory”.",
+     "why": "The RAM is fast but empties at shutdown."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Which component converts the wall current for the PC?",
+     "options": [
+      "The power supply unit",
+      "The processor",
+      "The hard drive",
+      "The graphics card"
+     ],
+     "answer": 0,
+     "hint": "It is connected to the mains socket.",
+     "why": "The power supply gives all components the right voltages."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Which component is the PC's “brain”? (3 letters)",
+     "answer": [
+      "cpu",
+      "processeur"
+     ],
+     "hint": "C as in Central.",
+     "why": "The CPU (processor) carries out the calculations."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "What is the main advantage of an SSD over an HDD?",
+     "options": [
+      "It is faster and has no moving parts",
+      "It is always cheaper",
+      "It makes more noise",
+      "It gets hotter"
+     ],
+     "answer": 0,
+     "hint": "No spinning disk.",
+     "why": "With no moving parts, the SSD is faster and more shock-resistant."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Connect each component to the motherboard.",
+     "nodes": [
+      {
+       "id": "cm",
+       "e": "🧩",
+       "label": "Motherboard"
+      },
+      {
+       "id": "cpu",
+       "e": "🧠",
+       "label": "Processor"
+      },
+      {
+       "id": "ram",
+       "e": "🧮",
+       "label": "RAM"
+      },
+      {
+       "id": "ssd",
+       "e": "💾",
+       "label": "SSD"
+      },
+      {
+       "id": "alim",
+       "e": "🔌",
+       "label": "Power supply"
+      }
+     ],
+     "links": [
+      [
+       "cm",
+       "cpu"
+      ],
+      [
+       "cm",
+       "ram"
+      ],
+      [
+       "cm",
+       "ssd"
+      ],
+      [
+       "cm",
+       "alim"
+      ]
+     ],
+     "hint": "Everything connects to the motherboard, in the centre.",
+     "why": "The motherboard is the centre: everything communicates through it."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Maintenance and safety",
+   "minutes": 12,
+   "badge": {
+    "name": "Careful",
+    "emoji": "🧼"
+   },
+   "lesson": [
+    {
+     "h": "Always switch off and unplug",
+     "p": "Before opening a PC, switch it off and unplug the mains cable. Then hold the power button for a few seconds to drain the remaining electricity."
+    },
+    {
+     "h": "Static electricity",
+     "p": "Your body can build up a charge and fry a component. Touch a metal part of the case before touching the motherboard, and never put components on synthetic fabric."
+    },
+    {
+     "h": "Dusting",
+     "p": "Dust blocks the air and makes the PC hot. Blow it away with compressed air or a small blower, holding the fan with a finger so it doesn't spin too fast. Don't use an ordinary vacuum cleaner, it creates static electricity."
+    },
+    {
+     "h": "Good habits",
+     "p": "Install updates, keep an antivirus, and back up your important files to a USB stick or another disk: a disk can fail without warning."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Before opening a PC, what do you do first?",
+     "options": [
+      "I switch it off and unplug the mains cable",
+      "I open it straight away",
+      "I pour a little water",
+      "I shake it"
+     ],
+     "answer": 0,
+     "hint": "Safety first.",
+     "why": "A plugged-in PC can be dangerous and damage components."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Why touch a metal part of the case before touching the motherboard?",
+     "options": [
+      "To discharge the static electricity from your body",
+      "To warm your hands",
+      "To repair the case",
+      "It's pointless"
+     ],
+     "answer": 0,
+     "hint": "Think of static discharges.",
+     "why": "A static discharge can destroy a component without you seeing it."
+    },
+    {
+     "id": "e3",
+     "type": "order",
+     "q": "Put these in order to dust a PC safely.",
+     "lines": [
+      "Switch off the PC and unplug the mains cable",
+      "Open the case",
+      "Blow the dust away while holding the fan",
+      "Close the case and plug back in"
+     ],
+     "hint": "You must cut the power first.",
+     "why": "Cut the power, open, clean, then reassemble."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Why hold the fan with a finger when blowing on it?",
+     "options": [
+      "So it doesn't spin too fast and get damaged",
+      "To cool it down",
+      "To increase the noise",
+      "To take it apart"
+     ],
+     "answer": 0,
+     "hint": "A fan spinning too fast can get damaged.",
+     "why": "Compressed air would make it spin far too fast."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Which tool do you avoid for cleaning inside a PC?",
+     "options": [
+      "An ordinary vacuum cleaner",
+      "A blower",
+      "A small soft brush",
+      "Compressed air"
+     ],
+     "answer": 0,
+     "hint": "It creates static electricity.",
+     "why": "An ordinary vacuum cleaner can generate static electricity."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Why make backups?",
+     "options": [
+      "A disk can fail without warning",
+      "So the PC runs cooler",
+      "To save electricity",
+      "It's pointless"
+     ],
+     "answer": 0,
+     "hint": "Think of losing files.",
+     "why": "A backup stops you losing everything if the disk fails."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Diagnosing a fault",
+   "minutes": 14,
+   "badge": {
+    "name": "Fault detective",
+    "emoji": "🔎"
+   },
+   "lesson": [
+    {
+     "h": "Observe before touching",
+     "p": "Look and listen: do the lights come on? Is the fan spinning? Are there beeps? What you observe points to the cause."
+    },
+    {
+     "h": "Common faults",
+     "p": "Nothing lights up: power supply or mains cable. Black screen with beeps: often badly seated RAM. The PC switches off by itself after a while: overheating, often because of dust. The PC is very slow: disk almost full or too many apps."
+    },
+    {
+     "h": "From simplest to most complicated",
+     "p": "Start with the causes that are easy to check: socket, cables, connections. Never replace an expensive part without testing the simple causes first."
+    },
+    {
+     "h": "Investigate",
+     "p": "In the exercises, tap the tests to carry them out, read the observations, then pick the cause. Do several tests before answering."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "diag",
+     "obs": true,
+     "q": "A PC doesn't switch on at all. Investigate.",
+     "cmds": [
+      {
+       "c": "Switch the PC on",
+       "out": "No light, no sound."
+      },
+      {
+       "c": "Test the socket with a charger",
+       "out": "A phone charger works on this socket."
+      },
+      {
+       "c": "Inspect the inside and the connections",
+       "out": "The power cable is half out at the back of the PC."
+      }
+     ],
+     "options": [
+      "The power cable is badly plugged in",
+      "The screen is broken",
+      "The disk is full",
+      "The keyboard is dirty"
+     ],
+     "answer": 0,
+     "hint": "Test the socket and cables first.",
+     "why": "The socket works and the cable isn't pushed in: simply plugging it back in fixes the fault."
+    },
+    {
+     "id": "e2",
+     "type": "diag",
+     "obs": true,
+     "q": "Black screen at start-up. Investigate.",
+     "cmds": [
+      {
+       "c": "Switch the PC on",
+       "out": "Black screen. The PC gives 3 short repeated beeps."
+      },
+      {
+       "c": "Listen to the fan",
+       "out": "The fan spins normally."
+      },
+      {
+       "c": "Inspect the inside and the connections",
+       "out": "A RAM stick isn't fully pushed into its slot."
+      }
+     ],
+     "options": [
+      "A RAM stick is badly seated",
+      "The motherboard is destroyed",
+      "The PC has a virus",
+      "The disk is full"
+     ],
+     "answer": 0,
+     "hint": "Beeps at start-up point to the memory.",
+     "why": "Black screen + beeps + badly seated stick: push it back in."
+    },
+    {
+     "id": "e3",
+     "type": "diag",
+     "obs": true,
+     "q": "The PC switches itself off after ten minutes. Investigate.",
+     "cmds": [
+      {
+       "c": "Switch the PC on",
+       "out": "The PC starts but switches itself off after a few minutes."
+      },
+      {
+       "c": "Listen to the fan",
+       "out": "Very noisy fan, burning hot air coming out of the case."
+      },
+      {
+       "c": "Inspect the inside and the connections",
+       "out": "The fan and heatsink are covered in dust."
+      }
+     ],
+     "options": [
+      "Overheating caused by dust",
+      "The keyboard is broken",
+      "The screen is badly plugged in",
+      "An update is missing"
+     ],
+     "answer": 0,
+     "hint": "Burning air and noise: what's going on?",
+     "why": "Dust blocks the air: the PC overheats and protects itself by switching off."
+    },
+    {
+     "id": "e4",
+     "type": "diag",
+     "obs": true,
+     "q": "The PC takes three minutes to start. Investigate.",
+     "cmds": [
+      {
+       "c": "Switch the PC on",
+       "out": "The PC starts but very slowly."
+      },
+      {
+       "c": "Inspect the inside and the connections",
+       "out": "The inside is clean, everything is in place."
+      },
+      {
+       "c": "Check the disk (Windows)",
+       "out": "Disk C: 99% used (1 GB left)."
+      }
+     ],
+     "options": [
+      "The disk is almost full",
+      "The RAM is badly seated",
+      "The mains cable is badly plugged in",
+      "The fan is blocked"
+     ],
+     "answer": 0,
+     "hint": "Look at the disk.",
+     "why": "An almost full disk slows everything down: free up some space."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "A PC won't start. What do you check first?",
+     "options": [
+      "The socket and the power cables",
+      "The motherboard",
+      "The processor",
+      "The Windows system"
+     ],
+     "answer": 0,
+     "hint": "From simplest to most complicated.",
+     "why": "We start with the simple, easy-to-check causes."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Black screen and several beeps at start-up: which component do you suspect first?",
+     "options": [
+      "The RAM",
+      "The keyboard",
+      "The mouse",
+      "The speaker"
+     ],
+     "answer": 0,
+     "hint": "The beeps are a code from the motherboard.",
+     "why": "Start-up beeps often signal a memory problem."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Workshop: 8 machines to repair",
+   "minutes": 15,
+   "badge": {
+    "name": "Repairer",
+    "emoji": "🛠️"
+   },
+   "lesson": [
+    {
+     "h": "Your repair workshop",
+     "p": "Customers have dropped off 8 machines at the workshop. 4 of them are broken. It's up to you to test each one, understand the fault and choose the right repair."
+    },
+    {
+     "h": "The method",
+     "p": "For each broken machine: switch it on, listen to the fan, inspect the inside and the connections, and check the disk. Read the observations, then choose the matching repair."
+    },
+    {
+     "h": "Beware of false leads",
+     "p": "Changing the motherboard or reinstalling Windows almost never fixes a simple fault: it wastes time (and points). Look for the real cause first."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 workshop machines are broken (in red). Tap a machine, run the tests, then repair it.",
+     "hint": "Compare what the switch-on, the fan, the inspection and the disk show.",
+     "why": "Four faults, four different causes: power cable, RAM, dust and a full disk.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "PC 1",
+       "icon": "🖥️"
+      },
+      {
+       "id": "m2",
+       "name": "PC 2",
+       "icon": "🖥️",
+       "fault": "plug"
+      },
+      {
+       "id": "m3",
+       "name": "Laptop 3",
+       "icon": "💻"
+      },
+      {
+       "id": "m4",
+       "name": "PC 4",
+       "icon": "🖥️",
+       "fault": "ram"
+      },
+      {
+       "id": "m5",
+       "name": "Laptop 5",
+       "icon": "💻"
+      },
+      {
+       "id": "m6",
+       "name": "PC 6",
+       "icon": "🖥️",
+       "fault": "dust"
+      },
+      {
+       "id": "m7",
+       "name": "Laptop 7",
+       "icon": "💻",
+       "fault": "disk"
+      },
+      {
+       "id": "m8",
+       "name": "PC 8",
+       "icon": "🖥️"
+      }
+     ],
+     "cmds": [
+      "Switch the PC on",
+      "Listen to the fan",
+      "Inspect the inside and the connections",
+      "Check the disk (Windows)"
+     ],
+     "out": {
+      "ok": [
+       "The PC switches on normally and starts Windows.",
+       "The fan spins steadily, normal noise.",
+       "The inside is clean, everything is in place.",
+       "Disk C: 45% used. No errors."
+      ],
+      "plug": [
+       "No light, no sound: the machine is dead.",
+       "Nothing is spinning.",
+       "The power cable is half out of the back of the machine.",
+       "Impossible: the machine doesn't start."
+      ],
+      "ram": [
+       "Black screen. 3 short repeated beeps.",
+       "The fan spins normally.",
+       "A RAM stick isn't fully pushed into its slot.",
+       "Impossible: the machine doesn't start."
+      ],
+      "dust": [
+       "The machine starts but switches itself off after a few minutes.",
+       "Very noisy fan, burning hot air coming out of the machine.",
+       "The fan and heatsink are covered in dust.",
+       "Disk C: 50% used. No errors."
+      ],
+      "disk": [
+       "The machine starts but very slowly (3 minutes).",
+       "The fan spins normally.",
+       "The inside is clean, everything is in place.",
+       "Disk C: 99% used (1 GB left). The machine is saturated."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "plug",
+       "label": "Plug the power cable back in"
+      },
+      {
+       "id": "ram",
+       "label": "Push the RAM stick back in"
+      },
+      {
+       "id": "dust",
+       "label": "Dust the fan and heatsink"
+      },
+      {
+       "id": "disk",
+       "label": "Free up disk space"
+      },
+      {
+       "id": "board",
+       "label": "Replace the motherboard"
+      },
+      {
+       "id": "win",
+       "label": "Reinstall Windows"
+      }
+     ],
+     "fixes": {
+      "plug": "plug",
+      "ram": "ram",
+      "dust": "dust",
+      "disk": "disk"
+     },
+     "txt": {
+      "tap": "Tap a machine to start.",
+      "ok": "This machine already works: nothing to repair here.",
+      "wrong": "That changes nothing for this machine. Re-read the observations.",
+      "fixed": "✅ Fixed! This machine works again.",
+      "allfixed": "Well done, all 4 machines are fixed!",
+      "need": "Run a few tests first to understand the fault.",
+      "run": "Tests",
+      "fix": "Repair",
+      "reported": "Broken",
+      "good": "OK",
+      "progress": "{n}/4 machines fixed"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

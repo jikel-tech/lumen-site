@@ -48,15 +48,17 @@
     "id": "cyber",
     "title": "Cybersecurity",
     "emoji": "🛡️",
-    "status": "soon",
-    "desc": "Protect your accounts, spot scams and understand how attacks work, so you can defend better."
+    "status": "open",
+    "desc": "Immersive lab: protect a cybercafé's customer accounts from scams and hackers.",
+    "course": "cyber"
   },
   {
     "id": "maintenance",
     "title": "Maintenance",
     "emoji": "🔧",
-    "status": "soon",
-    "desc": "Virtual internship: diagnose and repair PC and phone faults, just like in a repair shop."
+    "status": "open",
+    "desc": "Immersive lab: diagnose and repair 8 workshop machines like a real technician.",
+    "course": "maintenance"
   },
   {
     "id": "web",

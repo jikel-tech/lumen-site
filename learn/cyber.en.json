@@ -1,0 +1,524 @@
+{
+ "id": "cyber",
+ "title": "Cybersecurity",
+ "emoji": "🛡️",
+ "tagline": "Protect your accounts, spot scams and react to an attack, all the way to the cybercafé workshop.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Strong passwords",
+   "minutes": 10,
+   "badge": {
+    "name": "Password guardian",
+    "emoji": "🔑"
+   },
+   "lesson": [
+    {
+     "h": "Why it matters",
+     "p": "Your password is the key to your digital life: WhatsApp, Facebook, Mobile Money, e-mail. If someone guesses it, they act in your name."
+    },
+    {
+     "h": "What makes a good password",
+     "p": "Long (12 characters or more), with letters, numbers and symbols, and above all unique for each account. An easy-to-remember sentence works very well."
+    },
+    {
+     "h": "What to avoid",
+     "p": "Your first name, your birth date, 123456, “password”, your phone number. These are a hacker's first guesses."
+    },
+    {
+     "h": "One password per account",
+     "p": "If you reuse the same one, a single leak opens all your accounts. Keep them in a password manager or a well-hidden notebook, never in a note anyone can see."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which password is the strongest?",
+     "options": [
+      "Kribi!Eats2Mangoes#",
+      "jikel123",
+      "azerty",
+      "01012000"
+     ],
+     "answer": 0,
+     "hint": "Long, mixed, not a common word.",
+     "why": "The longer and more mixed, the harder to guess."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Why avoid your birth date as a password?",
+     "options": [
+      "It is easy to guess or find on your profiles",
+      "It is too long",
+      "It only has even digits",
+      "No reason"
+     ],
+     "answer": 0,
+     "hint": "Who knows your birth date?",
+     "why": "Hackers try personal info first."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "You use the same password everywhere. What is the risk?",
+     "options": [
+      "One single leak opens all your accounts",
+      "No risk",
+      "Your phone gets hot",
+      "You pay for more data"
+     ],
+     "answer": 0,
+     "hint": "One key for every door.",
+     "why": "If one site is hacked, attackers try that password elsewhere."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "A good password should have at least how many characters? (number)",
+     "answer": [
+      "12"
+     ],
+     "hint": "More than ten.",
+     "why": "12 characters or more is a good minimum."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Where should you keep your passwords?",
+     "options": [
+      "In a manager or a well-hidden notebook",
+      "In a photo in your gallery",
+      "In a WhatsApp status",
+      "On paper stuck to the screen"
+     ],
+     "answer": 0,
+     "hint": "Not visible to everyone.",
+     "why": "A private place protects your passwords."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Put these in order to create a good password.",
+     "lines": [
+      "Pick an easy-to-remember sentence",
+      "Make it long (12+ characters)",
+      "Add numbers and symbols",
+      "Use it for this account only"
+     ],
+     "hint": "Start with the idea.",
+     "why": "Sentence, length, variety, then uniqueness."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Phishing and scams",
+   "minutes": 12,
+   "badge": {
+    "name": "Scam-proof",
+    "emoji": "🎣"
+   },
+   "lesson": [
+    {
+     "h": "What is phishing?",
+     "p": "A fake message (SMS, WhatsApp, e-mail) pretending to be a bank, operator or friend to make you click a fake link or give away your codes."
+    },
+    {
+     "h": "Warning signs",
+     "p": "Urgency (“your account will be closed”), an offer too good to be true (prize, gift), mistakes, a strange link, a request for a code or password."
+    },
+    {
+     "h": "Never share codes",
+     "p": "A code received by SMS (WhatsApp, Mobile Money) is to log YOU in. No serious company asks for it. If you give it, that person takes over your account."
+    },
+    {
+     "h": "What to do with a suspicious message",
+     "p": "Don't click, don't reply. Check another way (call the person or the service). Delete and report the message."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "A text says: “Your Mobile Money account will be closed, click here”. What do you do?",
+     "options": [
+      "I don't click and I check with the official service",
+      "I click quickly",
+      "I send my code to prove it's me",
+      "I forward it to all my friends"
+     ],
+     "answer": 0,
+     "hint": "Urgency is a trap.",
+     "why": "Scammers create panic to make you act without thinking."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Which is a typical sign of a scam?",
+     "options": [
+      "A prize you never asked for",
+      "A message from your usual friend in their usual words",
+      "An expected invoice",
+      "A reminder of a planned appointment"
+     ],
+     "answer": 0,
+     "hint": "Too good to be true.",
+     "why": "A fake prize lures your data or money."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Someone asks for the code you got by SMS. What do you do?",
+     "options": [
+      "I never give it",
+      "I give it if the person is nice",
+      "I give it to a fake agent",
+      "I post it"
+     ],
+     "answer": 0,
+     "hint": "It's to log you in.",
+     "why": "Giving that code hands over the keys to your account."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "What is the fake message that imitates a service to steal your info called? (one word: p…)",
+     "answer": [
+      "phishing"
+     ],
+     "hint": "Like fishing.",
+     "why": "Phishing “fishes” for your data."
+    },
+    {
+     "id": "e5",
+     "type": "order",
+     "q": "Put these in order for a suspicious message.",
+     "lines": [
+      "Don't click the link",
+      "Check another way (a call)",
+      "Delete the message",
+      "Report the sender"
+     ],
+     "hint": "First, stop.",
+     "why": "Don't click, verify, then delete and report."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Connect each danger to its right reaction.",
+     "nodes": [
+      {
+       "id": "d1",
+       "e": "🎣",
+       "label": "Fake link"
+      },
+      {
+       "id": "r1",
+       "e": "🚫",
+       "label": "Don't click"
+      },
+      {
+       "id": "d2",
+       "e": "🔢",
+       "label": "Code request"
+      },
+      {
+       "id": "r2",
+       "e": "🤐",
+       "label": "Never give it"
+      }
+     ],
+     "links": [
+      [
+       "d1",
+       "r1"
+      ],
+      [
+       "d2",
+       "r2"
+      ]
+     ],
+     "hint": "Each danger has a reaction.",
+     "why": "Fake link: don't click. A code: don't give it."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Protecting your accounts",
+   "minutes": 12,
+   "badge": {
+    "name": "Shield",
+    "emoji": "🛡️"
+   },
+   "lesson": [
+    {
+     "h": "Two-step verification",
+     "p": "On top of the password, a code sent to your phone confirms it is you. Turn it on for WhatsApp, Facebook, Google: a hacker with your password still can't get in."
+    },
+    {
+     "h": "Connected devices",
+     "p": "Regularly check the list of devices connected to your account. If you see an unknown device, log it out and change your password."
+    },
+    {
+     "h": "Public Wi-Fi and cybercafés",
+     "p": "On a public PC, always log out at the end and don't let the browser save your password. Avoid payments on an unknown Wi-Fi."
+    },
+    {
+     "h": "Updates and backups",
+     "p": "Updates fix security holes. Back up your photos and important documents: even after an attack, you don't lose everything."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "What is two-step verification for?",
+     "options": [
+      "It blocks a hacker who has your password",
+      "It speeds up the Internet",
+      "It deletes your messages",
+      "It changes your number"
+     ],
+     "answer": 0,
+     "hint": "Two proofs beat one.",
+     "why": "Even with your password, they lack the code on your phone."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "You see an unknown device connected to your account. What do you do?",
+     "options": [
+      "I log it out and change my password",
+      "I ignore it",
+      "I send it a message",
+      "I delete my phone"
+     ],
+     "answer": 0,
+     "hint": "Cut access then change the key.",
+     "why": "Logging it out and changing the password takes back control."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "In a cybercafé, at the end of your session you must…",
+     "options": [
+      "Log out of all your accounts",
+      "Leave everything open",
+      "Save your password in the browser",
+      "Leave a paper with your code"
+     ],
+     "answer": 0,
+     "hint": "The next customer sits down after you.",
+     "why": "Otherwise the next user can enter your accounts."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "For two-step verification, how many proofs are needed in total? (number)",
+     "answer": [
+      "2",
+      "deux",
+      "two"
+     ],
+     "hint": "The word “two”.",
+     "why": "Password + code: 2 proofs."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Why install updates?",
+     "options": [
+      "They fix security holes",
+      "They waste your data",
+      "They break the phone",
+      "No reason"
+     ],
+     "answer": 0,
+     "hint": "A badly closed door.",
+     "why": "Updates close the doors attackers use."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Put these in order after an account hack.",
+     "lines": [
+      "Change the password",
+      "Log out unknown devices",
+      "Turn on two-step verification",
+      "Warn your contacts"
+     ],
+     "hint": "Take back control first.",
+     "why": "Take the account back, lock it, then warn."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Workshop: 8 accounts to protect",
+   "minutes": 15,
+   "badge": {
+    "name": "Defender",
+    "emoji": "🧯"
+   },
+   "lesson": [
+    {
+     "h": "The cybercafé under watch",
+     "p": "You are the security person of a cybercafé. 8 customers reported a problem. 4 are real threats, 4 are harmless. It's up to you to tell them apart."
+    },
+    {
+     "h": "The method",
+     "p": "For each customer: read the message, check the link or sender, look at the account activity and the password. Then pick the right protection."
+    },
+    {
+     "h": "Beware of bad reflexes",
+     "p": "Clicking to check or sending your code to prove your identity makes everything worse. Find the real threat first."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 customers are in danger (in red). Tap a customer, run the checks, then protect their account.",
+     "hint": "Compare the message, the link, the activity and the password.",
+     "why": "Four threats: fake link, weak password, hijacked account, code request.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "Awa",
+       "icon": "👩"
+      },
+      {
+       "id": "m2",
+       "name": "Paul",
+       "icon": "👨",
+       "fault": "phish"
+      },
+      {
+       "id": "m3",
+       "name": "Salome",
+       "icon": "👧"
+      },
+      {
+       "id": "m4",
+       "name": "Eric",
+       "icon": "🧑",
+       "fault": "weak"
+      },
+      {
+       "id": "m5",
+       "name": "Mariam",
+       "icon": "👩‍🦱"
+      },
+      {
+       "id": "m6",
+       "name": "Brice",
+       "icon": "👨‍🦲",
+       "fault": "hijack"
+      },
+      {
+       "id": "m7",
+       "name": "Nadine",
+       "icon": "👩‍🦰",
+       "fault": "otp"
+      },
+      {
+       "id": "m8",
+       "name": "Yves",
+       "icon": "🧔"
+      }
+     ],
+     "cmds": [
+      "Read the message",
+      "Check the link or the sender",
+      "View the account activity",
+      "Check the password"
+     ],
+     "out": {
+      "ok": [
+       "Normal message from a known friend, nothing odd asked.",
+       "Known sender, no suspicious link.",
+       "Usual logins, from their own phone.",
+       "Long, unique password."
+      ],
+      "phish": [
+       "SMS: “Win 500,000 FCFA, click before midnight!”",
+       "Unknown number, strange link (fake site).",
+       "No suspicious login so far.",
+       "Password is fine."
+      ],
+      "weak": [
+       "No suspicious message.",
+       "No suspicious link.",
+       "No odd login, but an attacker could try.",
+       "Password: 1234. Used everywhere."
+      ],
+      "hijack": [
+       "His contacts get money requests he didn't send.",
+       "No link sent by him.",
+       "Login from an unknown device far away.",
+       "Password changed without him knowing."
+      ],
+      "otp": [
+       "An “agent” writes: “Send me the code you got by SMS to confirm your account.”",
+       "Unknown number claiming to be customer service.",
+       "A blocked login attempt, waiting for the code.",
+       "Password is fine."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "phish",
+       "label": "Don't click, delete and report the message"
+      },
+      {
+       "id": "weak",
+       "label": "Change the password (long and unique)"
+      },
+      {
+       "id": "hijack",
+       "label": "Log out unknown devices and turn on two-step verification"
+      },
+      {
+       "id": "otp",
+       "label": "Never give the code and block the number"
+      },
+      {
+       "id": "click",
+       "label": "Click the link to check"
+      },
+      {
+       "id": "send",
+       "label": "Send the code to prove identity"
+      }
+     ],
+     "fixes": {
+      "phish": "phish",
+      "weak": "weak",
+      "hijack": "hijack",
+      "otp": "otp"
+     },
+     "txt": {
+      "tap": "Tap a customer to start.",
+      "ok": "This customer has no problem: nothing to do here.",
+      "wrong": "That doesn't protect this account. Re-read the observations.",
+      "fixed": "✅ Protected! This account is safe.",
+      "allfixed": "Well done, all 4 accounts are protected!",
+      "need": "Run a few checks first to understand the threat.",
+      "run": "Checks",
+      "fix": "Protect",
+      "reported": "In danger",
+      "good": "OK",
+      "progress": "{n}/4 accounts protected"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

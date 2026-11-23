@@ -69,7 +69,7 @@
   // Résumé pour l'accueil : le premier cours pas encore terminé (Python, puis Réseau), sinon le dernier.
   JT.courseSummary = () => {
     const g = getProg();
-    const list = ['python', 'reseau', 'pylab'].map((id) => cache[id + '.json']).filter(Boolean);
+    const list = ['python', 'reseau', 'pylab', 'maintenance', 'cyber'].map((id) => cache[id + '.json']).filter(Boolean);
     if (!list.length) return null;
     let pick = list[list.length - 1], i = -1, sts = [];
     for (const course of list) {
@@ -124,7 +124,7 @@
       <h2 class="sect-title">Domaines</h2>
       ${domains ? `<div class="dom-grid">${domains.map((d) => `<button type="button" class="dom ${d.status === 'open' ? 'open' : 'soon'}" ${d.status === 'open' ? `data-open="${esc(d.course)}"` : 'disabled'}>
         <span class="tag ${d.status === 'open' ? 'go' : ''}">${d.status === 'open' ? 'Ouvert' : 'Bientôt'}</span><span class="ic">${esc(d.emoji)}</span><b>${esc(d.title)}</b><small>${esc(d.desc)}</small></button>`).join('')}</div>
-      <p class="soon-note">De nouveaux domaines arrivent régulièrement. La maintenance aura bientôt son labo immersif.</p>`
+      <p class="soon-note">De nouveaux domaines arrivent régulièrement : Linux, Web…</p>`
       : '<p class="av-sub">Impossible de charger les cours. Vérifie ta connexion et réessaie.</p>'}`;
   }
 
@@ -186,7 +186,7 @@
     const e = c.exercises[S.idx], st = S.ex[S.idx];
     const bars = c.exercises.map((_, i) => `<i class="${S.ex[i].done ? 'ok' : i === S.idx ? 'cur' : ''}"></i>`).join('');
     let body = '';
-    const term = e.cmds ? `<div class="term" role="log" aria-label="${esc(T('Terminal simulé'))}">${st.log.length ? st.log.map((i) => `<div><span class="pr">&gt; ${esc(e.cmds[i].c)}</span>\n${esc(e.cmds[i].out)}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`}</div>
+    const term = e.cmds ? `<div class="term" role="log" aria-label="${esc(T('Terminal simulé'))}">${st.log.length ? st.log.map((i) => `<div><span class="pr">${e.obs ? '🔍' : '&gt;'} ${esc(e.cmds[i].c)}</span>\n${esc(e.cmds[i].out)}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`}</div>
       <div class="cmds">${e.cmds.map((m, i) => `<button type="button" class="tile cmd ${st.log.includes(i) ? 'used2' : ''}" data-cmd="${i}" ${st.done ? 'disabled' : ''}>${esc(m.c)}</button>`).join('')}</div>` : '';
     if (e.type === 'code') {
       const code = st.code == null ? (e.starter || '') : st.code;
@@ -328,12 +328,12 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
     const sel = e.pcs.find((p) => p.id === lb.sel);
     const grid = e.pcs.map((p) => {
       const bad = p.fault && !lb.fixed.includes(p.id);
-      return `<button type="button" class="pc-btn ${bad ? 'bad' : 'good'} ${lb.sel === p.id ? 'sel' : ''}" data-labpc="${esc(p.id)}"><span>💻</span><b>${esc(p.name)}</b><small>${bad ? esc(t.reported) : esc(t.good)}</small></button>`;
+      return `<button type="button" class="pc-btn ${bad ? 'bad' : 'good'} ${lb.sel === p.id ? 'sel' : ''}" data-labpc="${esc(p.id)}"><span>${esc(p.icon || '💻')}</span><b>${esc(p.name)}</b><small>${bad ? esc(t.reported) : esc(t.good)}</small></button>`;
     }).join('');
     let panel = `<p class="av-sub" style="margin:10px 0">${esc(t.tap)}</p>`;
     if (sel) {
       const log = lb.logs[sel.id] || [];
-      const term = log.length ? log.map((i) => `<div><span class="pr">&gt; ${esc(e.cmds[i])}</span>\n${esc(labOut(e, sel, i))}</div>`).join('') : `<span class="dim">${esc(T('Touche une commande pour la lancer.'))}</span>`;
+      const term = log.length ? log.map((i) => `<div><span class="pr">${e.obs ? '🔍' : '&gt;'} ${esc(e.cmds[i])}</span>\n${esc(labOut(e, sel, i))}</div>`).join('') : `<span class="dim">${esc(e.obs ? T('Touche un test pour l\'effectuer.') : T('Touche une commande pour la lancer.'))}</span>`;
       panel = `<h3 class="lab-h">${esc(sel.name)} · ${esc(sel.ip)}</h3><div class="term" role="log">${term}</div>
         <div class="lab-k">${esc(t.run)}</div><div class="cmds">${e.cmds.map((c, i) => `<button type="button" class="tile cmd ${log.includes(i) ? 'used2' : ''}" data-labcmd="${i}">${esc(c)}</button>`).join('')}</div>
         <div class="lab-k">${esc(t.fix)}</div><div class="fixes">${e.repairs.map((r) => `<button type="button" class="btn-line fixbtn" data-labfix="${esc(r.id)}">🔧 ${esc(r.label)}</button>`).join('')}</div>`;
@@ -349,7 +349,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
     const fx = t.closest('[data-labfix]');
     if (fx && lb.sel) {
       const p = e.pcs.find((x) => x.id === lb.sel);
-      const need = { cable: 'cable', ip: 'dhcp', dns: 'dns' }[p.fault];
+      const need = (e.fixes || { cable: 'cable', ip: 'dhcp', dns: 'dns' })[p.fault];
       const msg = (cls, s) => { lb.msg = `<div class="feedback ${cls}">${esc(s)}</div>`; };
       if (!p.fault || lb.fixed.includes(p.id)) { lb.wrong++; msg('ko', e.txt.ok); }
       else if (!(lb.logs[p.id] || []).length) { msg('hint', e.txt.need); }
@@ -411,7 +411,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
     } else if (kind === 'order') {
       const seq = st.picked.map((pi) => st.perm[pi][0]);
       if (seq.length === e.lines.length && seq.every((l, i) => l === e.lines[i])) succeed(e, st);
-      else { fail(e, st, seq.length < e.lines.length ? 'Il manque des lignes.' : 'Ce n\'est pas le bon ordre.'); }
+      else { fail(e, st, seq.length < e.lines.length ? T('Il manque des lignes.') : T('Ce n\'est pas le bon ordre.')); }
     }
   }
 
@@ -506,7 +506,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
     const ul = t.closest('[data-unlink]');
     if (ul) { st.made = st.made.filter((k) => k !== ul.dataset.unlink); renderExercise(learnEl()); return; }
     if (opt) {
-      if (ex.cmds && !st.log.length && !st.done) { const fb = $('#fb'); if (fb) fb.innerHTML = `<div class="feedback hint">${esc(T('Lance d\'abord une commande pour enquêter.'))}</div>`; return; }
+      if (ex.cmds && !st.log.length && !st.done) { const fb = $('#fb'); if (fb) fb.innerHTML = `<div class="feedback hint">${esc(e.obs ? T('Fais d\'abord un test pour enquêter.') : T('Lance d\'abord une commande pour enquêter.'))}</div>`; return; }
       checkAnswer('choice', opt.dataset.opt); return;
     }
     if (t.closest('[data-check]')) { checkAnswer(ex.type, ex.type === 'fill' ? $('#ans').value : null); return; }
@@ -608,7 +608,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
   });
 
   // Charge les cours en arrière-plan pour que « Ton parcours » affiche le bon chapitre.
-  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('pylab.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
+  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('pylab.json'), loadJson('maintenance.json'), loadJson('cyber.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
 
   if (document.body.classList.contains('tab-learn')) renderLearn();
   if (document.body.classList.contains('tab-sos')) renderSos();

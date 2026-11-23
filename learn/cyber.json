@@ -1,0 +1,527 @@
+{
+ "id": "cyber",
+ "title": "Cybersécurité",
+ "emoji": "🛡️",
+ "tagline": "Protège tes comptes, repère les arnaques et réagis face à une attaque, jusqu'à l'atelier du cybercafé.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Mots de passe solides",
+   "minutes": 10,
+   "badge": {
+    "name": "Gardien des mots de passe",
+    "emoji": "🔑"
+   },
+   "lesson": [
+    {
+     "h": "Pourquoi c'est important",
+     "p": "Ton mot de passe est la clé de ta vie numérique : WhatsApp, Facebook, Mobile Money, e-mail. Si quelqu'un le devine, il agit à ta place."
+    },
+    {
+     "h": "Ce qui fait un bon mot de passe",
+     "p": "Long (12 caractères ou plus), avec des lettres, des chiffres et des symboles, et surtout unique pour chaque compte. Une phrase facile à retenir marche très bien."
+    },
+    {
+     "h": "Ce qu'il faut éviter",
+     "p": "Ton prénom, ta date de naissance, 123456, « password », ton numéro de téléphone. Ce sont les premiers essais d'un pirate."
+    },
+    {
+     "h": "Un mot de passe par compte",
+     "p": "Si tu réutilises le même, une seule fuite ouvre tous tes comptes. Garde-les dans un gestionnaire de mots de passe ou dans un carnet bien caché, jamais dans une note visible par tous."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quel mot de passe est le plus solide ?",
+     "options": [
+      "Kribi!Mange2Mangues#",
+      "jikel123",
+      "azerty",
+      "01012000"
+     ],
+     "answer": 0,
+     "hint": "Long, mélangé, pas un mot courant.",
+     "why": "Plus c'est long et mélangé, plus c'est dur à deviner."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Pourquoi éviter ta date de naissance comme mot de passe ?",
+     "options": [
+      "Elle est facile à deviner ou à trouver sur tes profils",
+      "Elle est trop longue",
+      "Elle ne contient que des chiffres pairs",
+      "Aucune raison"
+     ],
+     "answer": 0,
+     "hint": "Qui connaît ta date de naissance ?",
+     "why": "Les pirates essaient d'abord les infos personnelles."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Tu utilises le même mot de passe partout. Quel est le risque ?",
+     "options": [
+      "Une seule fuite ouvre tous tes comptes",
+      "Aucun risque",
+      "Ton téléphone chauffe",
+      "Tu paies plus de forfait"
+     ],
+     "answer": 0,
+     "hint": "Une clé pour toutes les portes.",
+     "why": "Si un site est piraté, les pirates testent ce mot de passe ailleurs."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Un bon mot de passe doit contenir au moins combien de caractères ? (nombre)",
+     "answer": [
+      "12"
+     ],
+     "hint": "Plus d'une dizaine.",
+     "why": "12 caractères ou plus est un bon minimum."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Où ranger tes mots de passe ?",
+     "options": [
+      "Dans un gestionnaire ou un carnet bien caché",
+      "Dans une photo en galerie",
+      "Dans un statut WhatsApp",
+      "Sur un papier collé à l'écran"
+     ],
+     "answer": 0,
+     "hint": "Pas visible par tout le monde.",
+     "why": "Un endroit privé protège tes mots de passe."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Remets dans l'ordre pour créer un bon mot de passe.",
+     "lines": [
+      "Choisir une phrase facile à retenir",
+      "La rendre longue (12 caractères ou plus)",
+      "Ajouter chiffres et symboles",
+      "Ne l'utiliser que pour ce compte"
+     ],
+     "hint": "On commence par l'idée.",
+     "why": "Phrase, longueur, variété, puis unicité."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Hameçonnage et arnaques",
+   "minutes": 12,
+   "badge": {
+    "name": "Anti-arnaque",
+    "emoji": "🎣"
+   },
+   "lesson": [
+    {
+     "h": "Qu'est-ce que l'hameçonnage ?",
+     "p": "Un faux message (SMS, WhatsApp, e-mail) qui se fait passer pour une banque, un opérateur ou un ami, pour te faire cliquer sur un faux lien ou donner tes codes."
+    },
+    {
+     "h": "Les signes qui doivent alerter",
+     "p": "L'urgence (« ton compte sera fermé »), une offre trop belle (gain, cadeau), des fautes, un lien bizarre, une demande de code ou de mot de passe."
+    },
+    {
+     "h": "Les codes ne se partagent jamais",
+     "p": "Un code reçu par SMS (WhatsApp, Mobile Money) sert à TE connecter. Personne de sérieux ne te le demande. Si tu le donnes, la personne prend ton compte."
+    },
+    {
+     "h": "Que faire face à un message louche",
+     "p": "Ne clique pas, ne réponds pas. Vérifie par un autre moyen (appelle la personne ou le service). Supprime et signale le message."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Un SMS dit : « Ton compte Mobile Money sera fermé, clique ici ». Que fais-tu ?",
+     "options": [
+      "Je ne clique pas et je vérifie auprès du service officiel",
+      "Je clique vite",
+      "J'envoie mon code pour prouver que c'est moi",
+      "Je transfère à tous mes amis"
+     ],
+     "answer": 0,
+     "hint": "L'urgence est un piège.",
+     "why": "Les arnaqueurs créent la panique pour te faire agir sans réfléchir."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Quel est un signe typique d'arnaque ?",
+     "options": [
+      "Un gain que tu n'as jamais demandé",
+      "Un message de ton ami habituel avec ses mots habituels",
+      "Une facture attendue",
+      "Un rappel de rendez-vous prévu"
+     ],
+     "answer": 0,
+     "hint": "Trop beau pour être vrai.",
+     "why": "Un faux gain sert à attirer tes données ou ton argent."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Quelqu'un te demande le code reçu par SMS. Tu fais quoi ?",
+     "options": [
+      "Je ne le donne jamais",
+      "Je le donne si la personne est gentille",
+      "Je le donne à un faux agent",
+      "Je le publie"
+     ],
+     "answer": 0,
+     "hint": "Il sert à te connecter, toi.",
+     "why": "Donner ce code revient à donner les clés de ton compte."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Comment s'appelle le faux message qui imite un service pour voler tes infos ? (un mot : h…)",
+     "answer": [
+      "hameçonnage",
+      "hamecconnage",
+      "hameconnage",
+      "phishing"
+     ],
+     "hint": "Comme la pêche.",
+     "why": "Le phishing (hameçonnage) « pêche » tes données."
+    },
+    {
+     "id": "e5",
+     "type": "order",
+     "q": "Remets dans l'ordre face à un message louche.",
+     "lines": [
+      "Ne pas cliquer sur le lien",
+      "Vérifier par un autre moyen (appel)",
+      "Supprimer le message",
+      "Signaler l'expéditeur"
+     ],
+     "hint": "D'abord, on s'arrête.",
+     "why": "On ne clique pas, on vérifie, puis on supprime et on signale."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Relie chaque danger à sa bonne réaction.",
+     "nodes": [
+      {
+       "id": "d1",
+       "e": "🎣",
+       "label": "Faux lien"
+      },
+      {
+       "id": "r1",
+       "e": "🚫",
+       "label": "Ne pas cliquer"
+      },
+      {
+       "id": "d2",
+       "e": "🔢",
+       "label": "Demande de code"
+      },
+      {
+       "id": "r2",
+       "e": "🤐",
+       "label": "Ne jamais le donner"
+      }
+     ],
+     "links": [
+      [
+       "d1",
+       "r1"
+      ],
+      [
+       "d2",
+       "r2"
+      ]
+     ],
+     "hint": "Chaque danger a une réaction.",
+     "why": "Un faux lien : on ne clique pas. Un code : on ne le donne pas."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Protéger ses comptes",
+   "minutes": 12,
+   "badge": {
+    "name": "Bouclier",
+    "emoji": "🛡️"
+   },
+   "lesson": [
+    {
+     "h": "La double vérification",
+     "p": "En plus du mot de passe, un code envoyé sur ton téléphone confirme que c'est bien toi. Active-la sur WhatsApp, Facebook, Google : un pirate qui a ton mot de passe ne peut pas entrer."
+    },
+    {
+     "h": "Les appareils connectés",
+     "p": "Regarde régulièrement la liste des appareils connectés à ton compte. Si tu vois un appareil inconnu, déconnecte-le et change ton mot de passe."
+    },
+    {
+     "h": "Wi-Fi public et cybercafé",
+     "p": "Sur un PC public, déconnecte-toi toujours à la fin et ne laisse pas le navigateur retenir ton mot de passe. Évite les paiements sur un Wi-Fi inconnu."
+    },
+    {
+     "h": "Mises à jour et sauvegardes",
+     "p": "Les mises à jour corrigent des failles. Sauvegarde tes photos et documents importants : même après une attaque, tu ne perds pas tout."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "À quoi sert la double vérification ?",
+     "options": [
+      "Elle bloque un pirate qui a ton mot de passe",
+      "Elle accélère Internet",
+      "Elle efface tes messages",
+      "Elle change ton numéro"
+     ],
+     "answer": 0,
+     "hint": "Deux preuves valent mieux qu'une.",
+     "why": "Même avec ton mot de passe, il manque le code sur ton téléphone."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Tu vois un appareil inconnu connecté à ton compte. Que fais-tu ?",
+     "options": [
+      "Je le déconnecte et je change mon mot de passe",
+      "Je l'ignore",
+      "Je lui envoie un message",
+      "Je supprime mon téléphone"
+     ],
+     "answer": 0,
+     "hint": "Coupe l'accès puis change la clé.",
+     "why": "Déconnecter l'appareil et changer le mot de passe reprend le contrôle."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Dans un cybercafé, à la fin de ta session, tu dois…",
+     "options": [
+      "Te déconnecter de tous tes comptes",
+      "Laisser tout ouvert",
+      "Enregistrer ton mot de passe dans le navigateur",
+      "Laisser un papier avec ton code"
+     ],
+     "answer": 0,
+     "hint": "Le prochain client s'assoit après toi.",
+     "why": "Sinon le prochain utilisateur peut entrer dans tes comptes."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Pour la double vérification, combien de preuves faut-il en tout ? (nombre)",
+     "answer": [
+      "2",
+      "deux",
+      "two"
+     ],
+     "hint": "Le mot « double ».",
+     "why": "Mot de passe + code : 2 preuves."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Pourquoi faire les mises à jour ?",
+     "options": [
+      "Elles corrigent des failles de sécurité",
+      "Elles consomment tes données pour rien",
+      "Elles cassent le téléphone",
+      "Aucune raison"
+     ],
+     "answer": 0,
+     "hint": "Une porte mal fermée.",
+     "why": "Les mises à jour ferment les portes que les pirates utilisent."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Remets dans l'ordre après un piratage de compte.",
+     "lines": [
+      "Changer le mot de passe",
+      "Déconnecter les appareils inconnus",
+      "Activer la double vérification",
+      "Prévenir tes contacts"
+     ],
+     "hint": "Reprendre la main d'abord.",
+     "why": "On reprend le compte, on le verrouille, puis on prévient."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Atelier : 8 comptes à protéger",
+   "minutes": 15,
+   "badge": {
+    "name": "Défenseur",
+    "emoji": "🧯"
+   },
+   "lesson": [
+    {
+     "h": "Le cybercafé sous surveillance",
+     "p": "Tu es le responsable sécurité d'un cybercafé. 8 clients t'ont signalé un souci. 4 sont de vraies menaces, 4 sont sans danger. À toi de les distinguer."
+    },
+    {
+     "h": "La méthode",
+     "p": "Pour chaque client : lis le message, vérifie le lien ou l'expéditeur, regarde l'activité du compte et le mot de passe. Puis choisis la bonne protection."
+    },
+    {
+     "h": "Attention aux mauvais réflexes",
+     "p": "Cliquer pour vérifier ou envoyer son code pour prouver son identité aggrave tout. Chercher la vraie menace d'abord."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 clients sont en danger (en rouge). Touche un client, fais les vérifications, puis protège son compte.",
+     "hint": "Compare le message, le lien, l'activité et le mot de passe.",
+     "why": "Quatre menaces : faux lien, mot de passe faible, compte détourné, demande de code.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "Awa",
+       "icon": "👩"
+      },
+      {
+       "id": "m2",
+       "name": "Paul",
+       "icon": "👨",
+       "fault": "phish"
+      },
+      {
+       "id": "m3",
+       "name": "Salomé",
+       "icon": "👧"
+      },
+      {
+       "id": "m4",
+       "name": "Éric",
+       "icon": "🧑",
+       "fault": "weak"
+      },
+      {
+       "id": "m5",
+       "name": "Mariam",
+       "icon": "👩‍🦱"
+      },
+      {
+       "id": "m6",
+       "name": "Brice",
+       "icon": "👨‍🦲",
+       "fault": "hijack"
+      },
+      {
+       "id": "m7",
+       "name": "Nadine",
+       "icon": "👩‍🦰",
+       "fault": "otp"
+      },
+      {
+       "id": "m8",
+       "name": "Yves",
+       "icon": "🧔"
+      }
+     ],
+     "cmds": [
+      "Lire le message",
+      "Vérifier le lien ou l'expéditeur",
+      "Voir l'activité du compte",
+      "Voir le mot de passe"
+     ],
+     "out": {
+      "ok": [
+       "Message normal d'un ami connu, sans demande bizarre.",
+       "Expéditeur connu, aucun lien suspect.",
+       "Connexions habituelles, depuis son téléphone.",
+       "Mot de passe long et unique."
+      ],
+      "phish": [
+       "SMS : « Gagne 500 000 FCFA, clique vite avant minuit ! »",
+       "Numéro inconnu, lien étrange (faux site).",
+       "Aucune connexion suspecte pour l'instant.",
+       "Mot de passe correct."
+      ],
+      "weak": [
+       "Aucun message louche.",
+       "Aucun lien suspect.",
+       "Aucune connexion étrange, mais un pirate peut essayer.",
+       "Mot de passe : 1234. Utilisé partout."
+      ],
+      "hijack": [
+       "Ses contacts reçoivent des demandes d'argent qu'il n'a pas envoyées.",
+       "Aucun lien envoyé par lui.",
+       "Connexion depuis un appareil inconnu à l'autre bout du pays.",
+       "Mot de passe changé sans qu'il le sache."
+      ],
+      "otp": [
+       "Un « agent » écrit : « Envoie-moi le code reçu par SMS pour confirmer ton compte. »",
+       "Numéro inconnu qui se dit du service client.",
+       "Une tentative de connexion bloquée, en attente du code.",
+       "Mot de passe correct."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "phish",
+       "label": "Ne pas cliquer, supprimer et signaler le message"
+      },
+      {
+       "id": "weak",
+       "label": "Changer le mot de passe (long et unique)"
+      },
+      {
+       "id": "hijack",
+       "label": "Déconnecter les appareils inconnus et activer la double vérification"
+      },
+      {
+       "id": "otp",
+       "label": "Ne jamais donner le code et bloquer le numéro"
+      },
+      {
+       "id": "click",
+       "label": "Cliquer sur le lien pour vérifier"
+      },
+      {
+       "id": "send",
+       "label": "Envoyer le code pour prouver son identité"
+      }
+     ],
+     "fixes": {
+      "phish": "phish",
+      "weak": "weak",
+      "hijack": "hijack",
+      "otp": "otp"
+     },
+     "txt": {
+      "tap": "Touche un client pour commencer.",
+      "ok": "Ce client n'a aucun problème : rien à faire ici.",
+      "wrong": "Ça ne protège pas ce compte. Relis les observations.",
+      "fixed": "✅ Protégé ! Ce compte est en sécurité.",
+      "allfixed": "Bravo, les 4 comptes sont protégés !",
+      "need": "Fais d'abord quelques vérifications pour comprendre la menace.",
+      "run": "Vérifications",
+      "fix": "Protéger",
+      "reported": "En danger",
+      "good": "OK",
+      "progress": "{n}/4 comptes protégés"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}
