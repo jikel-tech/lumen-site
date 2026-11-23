@@ -1,5 +1,6 @@
 {
   "ids": [
+    "4f6c4dc91146",
     "97d42488e5cc",
     "f5dbd18d7493",
     "7ff1fe0e460c",
@@ -63,8 +64,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "culture",
   "log": [
+    {
+      "at": "2026-11-23T19:40:53.772Z",
+      "id": "4f6c4dc91146",
+      "title": "Les scènes de sexe de GTA 6 ont représenté un gros défi pour Rockstar",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-22T23:00:41.633Z",
       "id": "97d42488e5cc",
@@ -501,15 +511,6 @@
       "at": "2026-10-29T14:50:08.408Z",
       "id": "d2712e7e1681",
       "title": "\"Un véritable génie\" : Poutine encense Elon Musk, et c’est tout sauf anodin",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-28T22:02:30.918Z",
-      "id": "ca05a2c72f8d",
-      "title": "Apple lance un Mac à plus de 16 000 euros",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
