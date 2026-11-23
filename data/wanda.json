@@ -1,5 +1,20 @@
 [
   {
+    "id": "54bcc52f7990",
+    "title": "Primaires Rdpc : dans l’Océan, l’autorité de Jules Doret Ndongo mise à l’épreuve des consignes de Yaoundé",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/22/primaires-rdpc-dans-locean-lautorite-de-jules-doret-ndongo-mise-a-lepreuve-des-consignes-de-yaounde/",
+    "pubDate": "2026-11-22T21:37:10.000Z",
+    "summary": "Primaires Rdpc : dans l’Océan, l’autorité de Jules Doret Ndongo mise à l’épreuve des consignes de Yaoundé. À moins de trois mois des législatives et […]",
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/34410041/pexels-photo-34410041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Magda Ehlers",
+    "imagePage": "https://www.pexels.com/photo/cityscape-view-of-residential-cape-town-streets-34410041/"
+  },
+  {
     "id": "78c17d4086d6",
     "title": "Arthur Avom décisif, Lorient accroche Rennes dans le derby breton",
     "source": "ActuCameroun",
@@ -1575,6 +1590,21 @@
     "imagePage": "https://www.pexels.com/photo/crop-unrecognizable-male-doctor-with-stethoscope-4021775/"
   },
   {
+    "id": "4bac962e73e2",
+    "title": "Enregistrement des naissances : le BUNEC et l’UNICEF lancent la grande campagne nationale",
+    "source": "Journal du Cameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://fr.journalducameroun.com/enregistrement-des-naissances-le-bunec-et-lunicef-lancent-la-grande-campagne-nationale-2/",
+    "pubDate": "2026-11-18T14:59:02.000Z",
+    "summary": "© DR Sans acte de naissance, un enfant reste invisible aux yeux de la loi. Pour changer cela, un camion multifonctionnel offert par l'UNICEF au BUNEC a quitté Yaoundé pour une grande caravane…",
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/36402933/pexels-photo-36402933.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "Barnabas Sani",
+    "imagePage": "https://www.pexels.com/photo/street-scene-in-jos-nigeria-with-local-pedestrian-36402933/"
+  },
+  {
     "id": "ebd87b08e51b",
     "title": "Affaire Martinez Zogo : le dangereux silence des conseils d’Amougou Bélinga",
     "source": "ActuCameroun",
@@ -2218,35 +2248,5 @@
     "image": "https://images.pexels.com/photos/34649361/pexels-photo-34649361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "imageBy": "El gringo photo",
     "imagePage": "https://www.pexels.com/photo/crowded-soccer-stadium-with-vibrant-fans-34649361/"
-  },
-  {
-    "id": "5c5d2bf27b31",
-    "title": "Zambo Anguissa, une bataille à trois entre Naples, l’OM et Beşiktaş",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://actucameroun.com/2026/11/17/zambo-anguissa-une-bataille-a-trois-entre-naples-lom-et-besiktas/",
-    "pubDate": "2026-11-17T10:29:28.000Z",
-    "summary": "Le mercato hivernal pourrait réserver un nouveau feuilleton autour de Frank Zambo Anguissa. Le milieu de terrain international camerounais de Naples suscite l’intérêt de plusieurs […]",
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/16072039/pexels-photo-16072039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Alex Levis",
-    "imagePage": "https://www.pexels.com/photo/drone-shot-of-town-16072039/"
-  },
-  {
-    "id": "9131bacfa9e6",
-    "title": "Patrick Edzimbi, fier de porter les couleurs du Cameroun : le Lion U23 affiche ses ambitions",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://actucameroun.com/2026/11/17/patrick-edzimbi-fier-de-porter-les-couleurs-du-cameroun-le-lion-u23-affiche-ses-ambitions/",
-    "pubDate": "2026-11-17T10:04:05.000Z",
-    "summary": "À l’approche du rendez-vous décisif face au Rwanda, Patrick Edzimbi affiche sa détermination et son envie de contribuer à la progression des Lions U23. Fier […]",
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/34410041/pexels-photo-34410041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Magda Ehlers",
-    "imagePage": "https://www.pexels.com/photo/cityscape-view-of-residential-cape-town-streets-34410041/"
   }
 ]

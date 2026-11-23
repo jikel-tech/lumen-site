@@ -930,7 +930,7 @@
     ]
   },
   "software developer coding": {
-    "at": "2026-11-15T23:02:30.923Z",
+    "at": "2026-11-23T01:00:02.645Z",
     "photos": [
       {
         "url": "https://images.pexels.com/photos/36706459/pexels-photo-36706459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1028,29 +1028,14 @@
         "page": "https://www.pexels.com/photo/person-wearing-black-watch-holding-macbook-pro-574080/"
       },
       {
-        "url": "https://images.pexels.com/photos/6803522/pexels-photo-6803522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/a-programmer-working-at-the-office-6803522/"
-      },
-      {
         "url": "https://images.pexels.com/photos/574087/pexels-photo-574087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Lukas Blazek",
         "page": "https://www.pexels.com/photo/person-using-macbook-on-table-top-574087/"
       },
       {
-        "url": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Christina Morillo",
-        "page": "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/34803973/pexels-photo-34803973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Daniil Komov",
-        "page": "https://www.pexels.com/photo/laptop-with-coding-software-and-coffee-mug-34803973/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Lukas Blazek",
-        "page": "https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/"
+        "url": "https://images.pexels.com/photos/6803522/pexels-photo-6803522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/a-programmer-working-at-the-office-6803522/"
       },
       {
         "url": "https://images.pexels.com/photos/37880101/pexels-photo-37880101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1058,9 +1043,14 @@
         "page": "https://www.pexels.com/photo/developer-coding-on-a-laptop-setup-indoors-37880101/"
       },
       {
-        "url": "https://images.pexels.com/photos/7172094/pexels-photo-7172094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "MART  PRODUCTION",
-        "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-7172094/"
+        "url": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Christina Morillo",
+        "page": "https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lukas Blazek",
+        "page": "https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/"
       },
       {
         "url": "https://images.pexels.com/photos/6804604/pexels-photo-6804604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1068,19 +1058,29 @@
         "page": "https://www.pexels.com/photo/a-man-using-computer-6804604/"
       },
       {
+        "url": "https://images.pexels.com/photos/34803973/pexels-photo-34803973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Daniil Komov",
+        "page": "https://www.pexels.com/photo/laptop-with-coding-software-and-coffee-mug-34803973/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7172094/pexels-photo-7172094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "MART  PRODUCTION",
+        "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-7172094/"
+      },
+      {
         "url": "https://images.pexels.com/photos/36706460/pexels-photo-36706460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Zayed Hossain",
         "page": "https://www.pexels.com/photo/developer-working-on-code-in-a-modern-office-36706460/"
       },
       {
-        "url": "https://images.pexels.com/photos/14553704/pexels-photo-14553704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Bibek ghosh",
-        "page": "https://www.pexels.com/photo/code-on-screen-14553704/"
-      },
-      {
         "url": "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "cottonbro studio",
         "page": "https://www.pexels.com/photo/programmer-looking-with-dissatisfaction-6804594/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/14553704/pexels-photo-14553704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Bibek ghosh",
+        "page": "https://www.pexels.com/photo/code-on-screen-14553704/"
       }
     ]
   },
@@ -1240,7 +1240,7 @@
     ]
   },
   "laptop work technology": {
-    "at": "2026-11-15T18:18:07.951Z",
+    "at": "2026-11-23T01:00:02.342Z",
     "photos": [
       {
         "url": "https://images.pexels.com/photos/8052620/pexels-photo-8052620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1293,19 +1293,19 @@
         "page": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
       },
       {
-        "url": "https://images.pexels.com/photos/4559527/pexels-photo-4559527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Ketut Subiyanto",
-        "page": "https://www.pexels.com/photo/laptop-and-diary-on-table-in-garden-4559527/"
-      },
-      {
         "url": "https://images.pexels.com/photos/265144/pexels-photo-265144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Pixabay",
         "page": "https://www.pexels.com/photo/macbook-pro-265144/"
       },
       {
-        "url": "https://images.pexels.com/photos/5704728/pexels-photo-5704728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Anastasia  Shuraeva",
-        "page": "https://www.pexels.com/photo/person-using-laptop-5704728/"
+        "url": "https://images.pexels.com/photos/4559527/pexels-photo-4559527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Ketut Subiyanto",
+        "page": "https://www.pexels.com/photo/laptop-and-diary-on-table-in-garden-4559527/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1181555/pexels-photo-1181555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Christina Morillo",
+        "page": "https://www.pexels.com/photo/person-using-macbook-air-1181555/"
       },
       {
         "url": "https://images.pexels.com/photos/574089/pexels-photo-574089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1313,9 +1313,14 @@
         "page": "https://www.pexels.com/photo/person-using-laptop-574089/"
       },
       {
-        "url": "https://images.pexels.com/photos/1181555/pexels-photo-1181555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Christina Morillo",
-        "page": "https://www.pexels.com/photo/person-using-macbook-air-1181555/"
+        "url": "https://images.pexels.com/photos/5704728/pexels-photo-5704728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Anastasia  Shuraeva",
+        "page": "https://www.pexels.com/photo/person-using-laptop-5704728/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7455908/pexels-photo-7455908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Danik Prihodko",
+        "page": "https://www.pexels.com/photo/a-person-using-a-laptop-7455908/"
       },
       {
         "url": "https://images.pexels.com/photos/33369128/pexels-photo-33369128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1328,19 +1333,9 @@
         "page": "https://www.pexels.com/photo/man-typing-text-on-a-laptop-at-an-office-desk-17781874/"
       },
       {
-        "url": "https://images.pexels.com/photos/7455908/pexels-photo-7455908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Danik Prihodko",
-        "page": "https://www.pexels.com/photo/a-person-using-a-laptop-7455908/"
-      },
-      {
         "url": "https://images.pexels.com/photos/806835/pexels-photo-806835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Andrea Piacquadio",
         "page": "https://www.pexels.com/photo/woman-in-blue-floral-top-sitting-while-using-laptop-806835/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/225767/pexels-photo-225767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Markus Spiske",
-        "page": "https://www.pexels.com/photo/macbook-air-on-brown-wooden-table-225767/"
       },
       {
         "url": "https://images.pexels.com/photos/1181207/pexels-photo-1181207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1353,9 +1348,9 @@
         "page": "https://www.pexels.com/photo/person-in-white-shirt-using-laptop-3747100/"
       },
       {
-        "url": "https://images.pexels.com/photos/245032/pexels-photo-245032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "Tranmautritam",
-        "page": "https://www.pexels.com/photo/silver-imac-245032/"
+        "url": "https://images.pexels.com/photos/225767/pexels-photo-225767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Markus Spiske",
+        "page": "https://www.pexels.com/photo/macbook-air-on-brown-wooden-table-225767/"
       },
       {
         "url": "https://images.pexels.com/photos/1181305/pexels-photo-1181305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1363,14 +1358,14 @@
         "page": "https://www.pexels.com/photo/person-touching-gray-laptop-computer-1181305/"
       },
       {
+        "url": "https://images.pexels.com/photos/245032/pexels-photo-245032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Tranmautritam",
+        "page": "https://www.pexels.com/photo/silver-imac-245032/"
+      },
+      {
         "url": "https://images.pexels.com/photos/68761/pexels-photo-68761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Tranmautritam",
         "page": "https://www.pexels.com/photo/woman-in-black-tank-shirt-facing-a-black-laptop-computer-on-brown-wooden-round-table-68761/"
-      },
-      {
-        "url": "https://images.pexels.com/photos/5474290/pexels-photo-5474290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "cottonbro studio",
-        "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-5474290/"
       },
       {
         "url": "https://images.pexels.com/photos/17810854/pexels-photo-17810854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -1378,19 +1373,24 @@
         "page": "https://www.pexels.com/photo/hands-on-laptop-keyboard-17810854/"
       },
       {
-        "url": "https://images.pexels.com/photos/1251903/pexels-photo-1251903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "LinkedIn Sales Navigator",
-        "page": "https://www.pexels.com/photo/man-sitting-on-white-chair-pointing-on-tablet-screen-inside-room-1251903/"
+        "url": "https://images.pexels.com/photos/5474290/pexels-photo-5474290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-laptop-5474290/"
       },
       {
         "url": "https://images.pexels.com/photos/5717719/pexels-photo-5717719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "by": "https://kaboompics.com/",
+        "by": "kaboompics",
         "page": "https://www.pexels.com/photo/a-person-holding-a-pen-5717719/"
       },
       {
         "url": "https://images.pexels.com/photos/16313647/pexels-photo-16313647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Kawê  Rodrigues",
         "page": "https://www.pexels.com/photo/photographer-sitting-at-desk-and-editing-photos-16313647/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/35184839/pexels-photo-35184839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "MASUD GAANWALA",
+        "page": "https://www.pexels.com/photo/young-man-working-on-laptop-in-bright-room-35184839/"
       }
     ]
   },
@@ -9526,6 +9526,246 @@
         "url": "https://images.pexels.com/photos/8088858/pexels-photo-8088858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "by": "Yaroslav Shuraev",
         "page": "https://www.pexels.com/photo/medicines-and-digital-blood-pressure-monitor-on-white-fabric-8088858/"
+      }
+    ]
+  },
+  "documentary film camera": {
+    "at": "2026-11-23T01:00:01.071Z",
+    "photos": [
+      {
+        "url": "https://images.pexels.com/photos/3062549/pexels-photo-3062549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Lê Minh",
+        "page": "https://www.pexels.com/photo/photo-of-man-carrying-camera-euqipment-3062549/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/13811051/pexels-photo-13811051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Luke Miller",
+        "page": "https://www.pexels.com/photo/man-operating-a-camcorder-13811051/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/11638027/pexels-photo-11638027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Caleb Oquendo",
+        "page": "https://www.pexels.com/photo/black-video-camera-on-tripod-11638027/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/38038519/pexels-photo-38038519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Magda Ehlers",
+        "page": "https://www.pexels.com/photo/professional-video-camera-on-outdoor-film-set-38038519/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/11638034/pexels-photo-11638034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Caleb Oquendo",
+        "page": "https://www.pexels.com/photo/close-up-of-camera-on-tripod-11638034/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8520581/pexels-photo-8520581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Bruno Massao",
+        "page": "https://www.pexels.com/photo/sunlight-over-camera-8520581/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/32263775/pexels-photo-32263775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Bảo Minh",
+        "page": "https://www.pexels.com/photo/professional-cameraman-filming-indoors-event-32263775/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/12075629/pexels-photo-12075629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Radu Daniel ( MRD )",
+        "page": "https://www.pexels.com/photo/a-man-holding-a-camera-12075629/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2363675/pexels-photo-2363675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Vlad Vasnetsov",
+        "page": "https://www.pexels.com/photo/camera-man-with-video-camera-on-tripod-position-by-the-street-across-people-at-the-sidewalk-2363675/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/4966483/pexels-photo-4966483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Saulo Zayas",
+        "page": "https://www.pexels.com/photo/a-man-using-a-video-camera-4966483/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5599289/pexels-photo-5599289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Áo Cưới Tiến Thành",
+        "page": "https://www.pexels.com/photo/man-in-black-and-white-floral-long-sleeve-shirt-and-blue-denim-jeans-holding-a-camera-5599289/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/33499834/pexels-photo-33499834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Emre Gokceoglu",
+        "page": "https://www.pexels.com/photo/professional-cameraman-filming-an-outdoor-event-33499834/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/3945322/pexels-photo-3945322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/black-and-gray-camera-on-brown-carpet-3945322/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/39351606/pexels-photo-39351606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Caleb Oquendo",
+        "page": "https://www.pexels.com/photo/cameraman-filming-event-with-professional-equipment-39351606/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2848475/pexels-photo-2848475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Nino Souza",
+        "page": "https://www.pexels.com/photo/person-holding-video-camera-2848475/"
+      }
+    ]
+  },
+  "artificial intelligence server": {
+    "at": "2026-11-23T01:00:01.586Z",
+    "photos": [
+      {
+        "url": "https://images.pexels.com/photos/5474035/pexels-photo-5474035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "cottonbro studio",
+        "page": "https://www.pexels.com/photo/close-up-shot-of-a-man-5474035/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/17489157/pexels-photo-17489157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "panumas nikhomkhai",
+        "page": "https://www.pexels.com/photo/close-up-of-computer-hardware-17489157/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "panumas nikhomkhai",
+        "page": "https://www.pexels.com/photo/box-server-illuminated-on-blue-17489160/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5050305/pexels-photo-5050305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Brett Sayles",
+        "page": "https://www.pexels.com/photo/high-angle-shot-of-network-switch-5050305/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Alex Knight",
+        "page": "https://www.pexels.com/photo/high-angle-photo-of-robot-2599244/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/17483873/pexels-photo-17483873.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Google DeepMind",
+        "page": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-was-inspired-neural-networks-used-in-deep-learning-it-was-created-by-novoto-studio-as-part-of-the-visualising-ai-proje-17483873/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/17489152/pexels-photo-17489152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "panumas nikhomkhai",
+        "page": "https://www.pexels.com/photo/boxes-of-computers-17489152/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Kindel Media",
+        "page": "https://www.pexels.com/photo/low-angle-shot-of-robot-8566526/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/18799047/pexels-photo-18799047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "igovar igovar",
+        "page": "https://www.pexels.com/photo/person-in-a-robot-costume-18799047/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pavel Danilyuk",
+        "page": "https://www.pexels.com/photo/white-toy-robot-of-pink-and-purple-background-8294654/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8294663/pexels-photo-8294663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Pavel Danilyuk",
+        "page": "https://www.pexels.com/photo/close-up-shot-of-white-toy-robot-on-blue-and-pink-background-8294663/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Kindel Media",
+        "page": "https://www.pexels.com/photo/white-and-blue-robot-toy-on-blue-string-lights-8566467/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Kindel Media",
+        "page": "https://www.pexels.com/photo/white-and-blue-robot-figure-8566473/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/20870805/pexels-photo-20870805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Solen Feyissa",
+        "page": "https://www.pexels.com/photo/man-holding-a-mobile-phone-20870805/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Tara Winstead",
+        "page": "https://www.pexels.com/photo/an-artificial-intelligence-illustration-on-the-wall-8849295/"
+      }
+    ]
+  },
+  "people meeting smartphone": {
+    "at": "2026-11-23T01:00:01.900Z",
+    "photos": [
+      {
+        "url": "https://images.pexels.com/photos/6147175/pexels-photo-6147175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Keira Burton",
+        "page": "https://www.pexels.com/photo/diverse-cheerful-friends-with-smartphone-laughing-near-door-of-building-6147175/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7278865/pexels-photo-7278865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Anastasia  Shuraeva",
+        "page": "https://www.pexels.com/photo/a-person-writing-on-white-notebook-7278865/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7793694/pexels-photo-7793694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Yan Krukau",
+        "page": "https://www.pexels.com/photo/people-using-smartphones-near-paperwork-on-white-table-7793694/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/29284270/pexels-photo-29284270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Matheus Bertelli",
+        "page": "https://www.pexels.com/photo/casual-dining-and-smartphone-browsing-in-cafe-29284270/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/4428038/pexels-photo-4428038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "August de Richelieu",
+        "page": "https://www.pexels.com/photo/coworkers-sitting-at-a-cafe-4428038/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7115/iphone-speech-conference-cell-phone.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Startup Stock Photos",
+        "page": "https://www.pexels.com/photo/three-person-sitting-on-chairs-while-crossed-legs-7115/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5756857/pexels-photo-5756857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "RDNE Stock project",
+        "page": "https://www.pexels.com/photo/people-talking-in-the-living-room-while-looking-at-the-phone-5756857/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5789883/pexels-photo-5789883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "AlphaTradeZone",
+        "page": "https://www.pexels.com/photo/business-professional-using-mobile-phone-5789883/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/27374263/pexels-photo-27374263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Nano Erdozain",
+        "page": "https://www.pexels.com/photo/a-man-and-woman-looking-at-a-cell-phone-27374263/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/20732953/pexels-photo-20732953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "BBSO",
+        "page": "https://www.pexels.com/photo/person-using-smartphone-20732953/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5756864/pexels-photo-5756864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "RDNE Stock project",
+        "page": "https://www.pexels.com/photo/a-woman-teaching-another-person-to-use-the-app-5756864/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/5686084/pexels-photo-5686084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Tima Miroshnichenko",
+        "page": "https://www.pexels.com/photo/people-using-smartphone-sitting-at-the-table-together-5686084/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/3863770/pexels-photo-3863770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Andrea Piacquadio",
+        "page": "https://www.pexels.com/photo/group-of-people-holding-their-phones-while-seated-by-the-window-3863770/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/36277462/pexels-photo-36277462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "The_Remnant potraiture",
+        "page": "https://www.pexels.com/photo/two-people-engaging-with-smartphone-game-in-jakarta-36277462/"
+      },
+      {
+        "url": "https://images.pexels.com/photos/7930526/pexels-photo-7930526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "by": "Atlantic Ambience",
+        "page": "https://www.pexels.com/photo/happy-women-using-smartphone-in-cafe-7930526/"
       }
     ]
   }
