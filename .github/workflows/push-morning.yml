@@ -2,7 +2,7 @@ name: Notification push du matin
 
 on:
   schedule:
-    - cron: '30 6 * * *'   # 7 h 30 au Cameroun
+  - cron: '10,40 * * * *'   # à :10 et :40 de chaque heure # 7 h 30 au Cameroun
   workflow_dispatch:
     inputs:
       dry_run:
