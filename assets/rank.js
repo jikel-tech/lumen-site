@@ -5,11 +5,10 @@
   if (!JT) return;
   const { esc, jget, jset, getProg, getProfile, toast } = JT;
   const LEAGUES = [
-    { id: 'bronze', n: 'Bronze', e: '🥉', min: 0 },
-    { id: 'silver', n: 'Argent', e: '🥈', min: 250 },
-    { id: 'gold', n: 'Or', e: '🥇', min: 700 },
-    { id: 'plat', n: 'Platine', e: '💠', min: 1400 },
-    { id: 'diam', n: 'Diamant', e: '💎', min: 2400 },
+    { id: 'bronze', n: 'Bronze', e: '🥉', min: 0, max: 199 },
+    { id: 'silver', n: 'Argent', e: '🥈', min: 200, max: 499 },
+    { id: 'gold', n: 'Or', e: '🥇', min: 500, max: 999 },
+    { id: 'legend', n: 'Légendaire', e: '👑', min: 1000, max: 0 },
   ];
   const leagueOf = (xp) => { let i = 0; LEAGUES.forEach((l, k) => { if (xp >= l.min) i = k; }); return { i, cur: LEAGUES[i], next: LEAGUES[i + 1] || null }; };
   const cfg = () => window.LUMEN || {};
@@ -33,25 +32,35 @@
     jset('jt_rank', { ...getR(), last: now });
   }
   async function top() {
-    const r = await fetch(cfg().RANK_URL + '/rest/v1/lb_public?select=uid,name,xp,chapters&order=xp.desc&limit=20', { headers: hdr() });
+    const r = await fetch(cfg().RANK_URL + '/rest/v1/lb_public?select=uid,name,xp,chapters&order=xp.desc&limit=100', { headers: hdr() });
     if (!r.ok) throw new Error('top ' + r.status);
     return r.json();
   }
 
-  function html() {
-    const g = getProg(), L = leagueOf(g.xp), r = getR(), p = getProfile();
-    const pct = L.next ? Math.min(100, Math.round(((g.xp - L.cur.min) / (L.next.min - L.cur.min)) * 100)) : 100;
-    const leagues = LEAGUES.map((l, k) => `<span class="lg ${k <= L.i ? 'on' : ''}" title="${esc(T(l.n))}">${l.e}</span>`).join('');
-    let on = '';
-    if (!online()) on = `<p class="av-sub">${T('Le classement en ligne arrive bientôt. En attendant, monte de ligue en gagnant des XP.')}</p>`;
-    else if (!r.on) on = `<p class="av-sub">${T('Rejoins le classement : ton prénom et tes XP seront visibles par les autres apprenants. Pas de compte ni de mot de passe.')}</p>
-      <div class="exbar" style="margin-top:0"><button type="button" class="btn-main" data-rk="join">${T('Rejoindre le classement')}</button><button type="button" class="btn-line" data-rk="top">${T('Voir le top 20')}</button></div>`;
-    else on = `<p class="av-sub">${T('Tu es dans le classement avec ton prénom « {n} ».', { n: esc(p.name || T('Anonyme')) })}</p>
-      <div class="exbar" style="margin-top:0"><button type="button" class="btn-main" data-rk="top">${T('Voir le top 20')}</button><button type="button" class="btn-line" data-rk="sync">${T('Mettre à jour mon score')}</button><button type="button" class="btn-line" data-rk="leave">${T('Quitter le classement')}</button></div>`;
-    return `<h2 class="sect-title">${T('Ligue et classement')}</h2>
-      <div class="league"><div class="lg-now"><span class="lg-big">${L.cur.e}</span><div><b>${T('Ligue')} ${esc(T(L.cur.n))}</b><small>${g.xp} XP${L.next ? ' · ' + T('encore {n} XP pour {l}', { n: L.next.min - g.xp, l: T(L.next.n) }) : ' · ' + T('ligue maximale')}</small></div></div>
-      <div class="xpbar" aria-hidden="true"><i style="width:${pct}%"></i></div><div class="lgs">${leagues}</div></div>
-      ${on}<ol class="rk" id="rkList" hidden></ol><p class="msg" id="rkMsg" role="status"></p>`;
+  const hue = (s) => { let h = 0; for (const c of String(s)) h = (h * 31 + c.charCodeAt(0)) % 360; return h; };
+  const av = (name, uid) => `<span class="rk-av" style="background:hsl(${hue(uid || name)} 55% 45%)">${esc([...String(name || '?')][0].toUpperCase())}</span>`;
+  const fmt = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '\u202f');
+
+  async function board(el, tab) {
+    if (!el) return;
+    const g = getProg(), r = getR(), p = getProfile(), L = leagueOf(g.xp);
+    const ctl = () => !online() ? '' : (!r.on
+      ? `<button type="button" class="btn-main wide" data-rk="join">🏆 ${T('Rejoindre le classement')}</button>`
+      : `<div class="exbar" style="margin-top:10px"><button type="button" class="btn-line" data-rk="sync">${T('Mettre à jour mon score')}</button><button type="button" class="btn-line" data-rk="leave">${T('Quitter le classement')}</button></div>`);
+    if (!online()) { el.innerHTML = `<p class="av-sub">${T('Le classement en ligne arrive bientôt. En attendant, monte de ligue en gagnant des XP.')}</p>`; return; }
+    el.innerHTML = `<p class="av-sub">${T('Chargement…')}</p>`;
+    let rows = [];
+    try { if (r.on) await submit(false).catch(() => {}); rows = await top(); } catch { el.innerHTML = `<p class="msg err">${T('Connexion impossible. Réessaie plus tard.')}</p>`; return; }
+    const me = r.uid, pos = rows.findIndex((x) => x.uid === me);
+    if (tab === 1) {
+      el.innerHTML = `<div class="myrank"><span class="lg-big">${L.cur.e}</span><div><b>${T('Ligue')} ${esc(T(L.cur.n))}</b><small>${fmt(g.xp)} XP</small></div></div>
+        <div class="stats4"><div class="st4"><span>🏆</span><small>${T('Ma position')}</small><b>${r.on ? (pos >= 0 ? '#' + (pos + 1) : T('Hors top 100')) : '—'}</b></div><div class="st4"><span>👥</span><small>${T('Classés')}</small><b>${rows.length}</b></div></div>${ctl()}<p class="msg" id="rkMsg" role="status"></p>`;
+      return;
+    }
+    if (!rows.length) { el.innerHTML = `<p class="av-sub">${T('Personne pour l\'instant : sois le premier !')}</p>${ctl()}<p class="msg" id="rkMsg" role="status"></p>`; return; }
+    const pod = (x, k) => x ? `<div class="pod p${k}"><span class="crown">${k === 1 ? '👑' : ''}</span>${av(x.name, x.uid)}<span class="pn">${k}</span><b>${esc(String(x.name).slice(0, 14))}</b><small>${fmt(x.xp | 0)} XP</small></div>` : '<div class="pod"></div>';
+    const list = rows.slice(3).map((x, i) => `<li class="${x.uid === me ? 'me' : ''}"><span class="n">${i + 4}</span>${av(x.name, x.uid)}<b>${esc(String(x.name).slice(0, 24))}</b>${x.uid === me ? `<em class="toi">${T('Toi')}</em>` : `<small>${fmt(x.xp | 0)} XP</small>`}</li>`).join('');
+    el.innerHTML = `<div class="podium">${pod(rows[1], 2)}${pod(rows[0], 1)}${pod(rows[2], 3)}</div><ol class="rk">${list}</ol>${ctl()}<p class="msg" id="rkMsg" role="status"></p>`;
   }
 
   async function act(a) {
@@ -76,7 +85,7 @@
     } catch { msg(T('Connexion impossible. Réessaie plus tard.'), true); }
   }
 
-  JT.rank = { leagueOf, html, act, submit, LEAGUES };
+  JT.rank = { leagueOf, board, act, submit, LEAGUES };
   document.addEventListener('click', (e) => { const b = e.target.closest('[data-rk]'); if (b) act(b.dataset.rk); });
   document.addEventListener('jt:progress', () => { submit(false).catch(() => {}); });
 })();

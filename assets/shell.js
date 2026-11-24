@@ -138,7 +138,7 @@
     }
     if (t === 'news' && opts.cat && APP()) APP().openCategory(opts.cat);
     if (t === 'home') renderHome();
-    if (t === 'me') renderMe();
+    if (t === 'me') { meView = 'hub'; meTab = 0; renderMe(); }
     document.dispatchEvent(new CustomEvent('jt:tab', { detail: t }));
     if (!opts.keepScroll) scrollTo(0, 0);
     track('tab_view', { tab: t });
@@ -290,52 +290,95 @@
       return `<details class="bgrp"${n ? ' open' : ''}><summary>${esc(names[k] || k)} <small>${n}/${list.length}</small></summary><div class="badges">${list.map((b) => `<div class="badge ${owned.has(b.id) ? 'on' : 'off'}"><span class="e">${b.e}</span><small>${esc(b.name)}</small></div>`).join('')}</div></details>`;
     }).join('');
   }
+  let meView = 'hub', meTab = 0;
+  const MEDAL_TXT = { bronze: ['Médaille de Bronze', 'Premiers pas réussis !'], silver: ['Médaille d\'Argent', 'Tu progresses vite !'], gold: ['Médaille d\'Or', 'Un vrai champion !'], legend: ['Médaille Légendaire', 'Tu es une légende !'] };
+  const fmtN = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
   function renderMe() {
     const p = getProfile(), g = getProg(), lv = level(g.xp);
-    const reads = jget('lumen_read', []);
-    const favs = jget('lumen_favs', []);
-    const theme = document.documentElement.getAttribute('data-theme') === 'light' ? T('clair') : T('sombre');
-    const owned = new Set(g.badges);
-    $('#view-me').innerHTML = `
-      <div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">${T('Profil')}</i></span></div>
-      <div class="me-head">${avatarHtml()}<div style="min-width:0;flex:1">
-        <div class="me-name">${p.name ? esc(p.name) : T('Invité')}</div>
-        <div class="me-lvl">${T('Niveau')} ${lv.lvl} · ${g.xp} XP</div>
-        <div class="xpbar" aria-label="Progression vers le niveau suivant"><i style="width:${lv.into}%"></i></div>
-      </div></div>
-      <form class="me-name-form" id="meNameForm"><input class="field" id="meName" type="text" maxlength="24" placeholder="Ton prénom" value="${esc(p.name)}" aria-label="Ton prénom"><button class="btn-line" type="submit">Enregistrer</button></form>
-      <div class="photo-row"><label class="btn-line" for="photoInput">📷 ${T(p.photo ? 'Changer la photo' : 'Ajouter une photo')}</label><input type="file" id="photoInput" accept="image/*" hidden>${p.photo ? `<button type="button" class="btn-line" data-me="photo-del">${T('Retirer la photo')}</button>` : ''}</div>
-      <div class="colors" role="group" aria-label="Couleur de l'avatar">${COLORS.map((c) => `<button type="button" data-color="${c}" class="${c === p.color ? 'on' : ''}" style="background:${c}" aria-label="Couleur ${c}"></button>`).join('')}</div>
-      ${window.JT && JT.rank ? JT.rank.html() : ''}
-      <h2 class="sect-title">Mes stats</h2>
-      <div class="statgrid">
-        <div class="stat"><b>${g.xp}</b><span>XP gagnés</span></div>
-        <div class="stat"><b>🔥 ${streakNow(g)}</b><span>${T('jours de suite (record {n})', { n: g.streak.best })}</span></div>
-        <div class="stat"><b>${g.solved}</b><span>exercices réussis</span></div>
-        <div class="stat"><b>${doneChapters(g)}</b><span>chapitres validés</span></div>
-        <div class="stat"><b>${Array.isArray(reads) ? reads.length : 0}</b><span>actus lues</span></div>
-        <div class="stat"><b>${Array.isArray(favs) ? favs.length : 0}</b><span>favoris</span></div>
-      </div>
-      <h2 class="sect-title">${T('Mes modules')}</h2>
-      ${modsProfileHtml()}
-      <h2 class="sect-title">Mes badges <span style="font-size:.8rem;color:var(--paper-dim);font-family:'Space Grotesk',sans-serif">${g.badges.length}/${BADGES.length}</span></h2>
-      ${badgesHtml(owned)}
-      <h2 class="sect-title">Historique</h2>
-      ${historyHtml(g)}
-      <h2 class="sect-title">Réglages</h2>
-      <div class="setrow"><div>Thème<small>${T('Actuellement : {x}', { x: theme })}</small></div><button type="button" class="btn-line" data-me="theme">Changer</button></div>
-      <div class="setrow"><div>Notifications<small>L'actu du matin sur ton téléphone</small></div><button type="button" class="btn-line" data-me="push">Activer</button></div>
-      <div class="setrow"><div>Newsletter<small>3 actus tech chaque matin</small></div><button type="button" class="btn-line" data-sub-btn>S'abonner</button></div>
-      <div class="setrow"><div>${T('Langue')}<small>${I18N.lang === 'en' ? 'English' : 'Français'}</small></div><span class="langsw"><button type="button" class="btn-line${I18N.lang === 'fr' ? ' on' : ''}" data-lang="fr">FR</button> <button type="button" class="btn-line${I18N.lang === 'en' ? ' on' : ''}" data-lang="en">EN</button></span></div>
-      <h2 class="sect-title">Ma progression</h2>
-      <p class="av-sub" style="margin-bottom:10px">Sans compte, ta progression reste sur ce téléphone. Pour la garder en cas de changement de téléphone, copie ce code et conserve-le.</p>
-      <div class="exbar" style="margin-top:0"><button type="button" class="btn-line" data-me="export">Générer mon code</button><button type="button" class="btn-line" data-me="import">Restaurer avec un code</button></div>
-      <textarea class="code-box" id="meCode" hidden spellcheck="false" aria-label="Code de sauvegarde"></textarea>
-      <div class="exbar" id="meCodeBar" hidden><button type="button" class="btn-main" data-me="copy">Copier</button><button type="button" class="btn-main" data-me="apply" hidden>Restaurer</button></div>
-      <p class="msg" id="meMsg" role="status"></p>
-      <h2 class="sect-title">Infos</h2>
-      <div class="exbar" style="margin-top:0"><button type="button" class="btn-line" data-me="about">À propos</button><button type="button" class="btn-line" data-me="contact">Contact</button><button type="button" class="btn-line" data-me="privacy">Confidentialité</button><button type="button" class="btn-line" data-me="terms">Conditions</button></div>
-      <div class="exbar"><button type="button" class="btn-line" data-me="reset" style="color:var(--amber)">Effacer ma progression</button></div>`;
+    const R = window.JT.rank, L = R.leagueOf(g.xp);
+    const el = $('#view-me');
+    const head = (title, ico) => `<div class="sub-head"><button type="button" class="sub-back" data-me="back" aria-label="${T('Retour')}">←</button><h2>${title}</h2><span class="sub-ico">${ico}</span></div>`;
+    const tabs = (names) => `<div class="seg">${names.map((n, i) => `<button type="button" class="${meTab === i ? 'on' : ''}" data-metab="${i}">${n}</button>`).join('')}</div>`;
+    const mods = window.JT.coursesProgress ? window.JT.coursesProgress() : [];
+    let html = '';
+    if (meView === 'hub') {
+      const tile = (v, ico, t, sub) => `<button type="button" class="tile2" data-view="${v}"><span class="ti">${ico}</span><span class="tx"><b>${t}</b><small>${sub}</small></span><i class="ch">›</i></button>`;
+      const avatar = p.photo ? `<span class="avatar photo big"><img src="${p.photo}" alt=""></span>` : avatarHtml('big');
+      const msg = g.xp === 0 ? [T('Bienvenue !'), T('Valide ton premier chapitre 🚀')] : [T('Continue d\'avancer !'), T('Tu es sur la bonne voie 💪')];
+      html = `<div class="av-top"><span class="av-brand">Jikel<em>Tech</em><i class="av-sec">${T('Profil')}</i></span></div>
+        <div class="hero">
+          <button type="button" class="hero-edit" data-me="editname" aria-label="${T('Changer mon prénom')}">✎</button>
+          <label class="me-photo" for="photoInput" aria-label="${T('Changer la photo')}">${avatar}<span class="cam" aria-hidden="true">📷</span></label>
+          <input type="file" id="photoInput" accept="image/*" hidden>
+          <div class="hero-name"><b id="heroName">${p.name ? esc(p.name) : T('Invité')}</b> <span>${L.cur.e}</span></div>
+          <form class="me-name-form" id="meNameForm" hidden><input class="field" id="meName" type="text" maxlength="24" placeholder="Ton prénom" value="${esc(p.name)}" aria-label="Ton prénom"><button class="btn-line" type="submit">✓</button></form>
+          <p class="hero-tag">${T('Apprendre • Explorer • Réussir')}</p>
+          <div class="hero-pills"><span class="pill2">📊 ${T('Niveau')} ${lv.lvl}</span><span class="pill2">⭐ ${fmtN(g.xp)} XP</span></div>
+        </div>
+        <h3 class="space-t">⭐ ${T('Ton espace')}</h3>
+        <div class="tiles2">
+          ${tile('rewards', '🏅', T('Mes récompenses'), T('Médailles & Badges'))}
+          ${tile('rank', '🏆', T('Classement'), T('Top 100'))}
+          ${tile('progress', '📈', T('Ma progression'), T('Stats & Historique'))}
+          ${tile('settings', '⚙️', T('Paramètres'), T('Notifications, Thème…'))}
+          ${tile('info', 'ℹ️', T('Informations'), T('À propos, Contact…'))}
+        </div>
+        <div class="encour"><span>👑</span><div><b>${msg[0]}</b><small>${msg[1]}</small></div></div>`;
+    } else if (meView === 'rewards') {
+      html = head(T('Mes récompenses'), '🏆') + tabs(['🏅 ' + T('Médailles'), '🎖️ ' + T('Badges')]);
+      if (meTab === 0) {
+        const cur = L.cur, tx = MEDAL_TXT[cur.id];
+        const recent = g.badges.slice(-3).reverse().map((id) => BADGES.find((b) => b.id === id)).filter(Boolean);
+        html += `<div class="medal-hero"><div class="laurel"><span class="lf">🌿</span><span class="mb">${cur.e}</span><span class="lf r">🌿</span></div>
+          <h3>${T(tx[0])}</h3><p>${T(tx[1])}</p><span class="pill2">🛡️ ${T('Obtenue grâce à {n} XP', { n: fmtN(cur.min) + (cur.min ? '+' : '') })}</span></div>
+          <div class="medals4">${R.LEAGUES.map((l, k) => `<div class="m4${k === L.i ? ' cur' : ''}${k > L.i ? ' lock' : ''}"><span>${l.e}</span><b>${T(l.n)}</b><small>${l.max ? '(' + l.min + '–' + l.max + ')' : '(' + fmtN(l.min) + '+)'}</small></div>`).join('')}</div>
+          ${L.next ? `<p class="lg-next">${T('encore {n} XP pour {l}', { n: L.next.min - g.xp, l: T(L.next.n) })}</p>` : ''}
+          <div class="rec-h"><h4>⭐ ${T('Badges récents')}</h4><button type="button" class="lnk" data-metab="1">${T('Voir tout')} →</button></div>
+          ${recent.length ? `<div class="rec3">${recent.map((b) => `<div class="rb"><span>${b.e}</span><b>${esc(b.name)}</b></div>`).join('')}</div>` : `<p class="av-sub">${T('Tes badges apparaîtront ici après ton premier chapitre.')}</p>`}`;
+      } else {
+        html += `<h4 class="mods-t">${g.badges.length}/${BADGES.length} ${T('badges')}</h4>${badgesHtml(new Set(g.badges))}`;
+      }
+    } else if (meView === 'rank') {
+      html = head(T('Classement'), '🏆') + tabs(['📊 Top 100', '👤 ' + T('Mes rangs')]) + `<div id="rkBoard" data-tab="${meTab}"></div>`;
+    } else if (meView === 'progress') {
+      html = head(T('Ma progression'), '📈') + tabs(['📊 ' + T('Statistiques'), '🕘 ' + T('Historique')]);
+      if (meTab === 0) {
+        const started = mods.filter((m) => m.done > 0).length;
+        const tot = mods.reduce((n, m) => n + m.total, 0), dn = mods.reduce((n, m) => n + m.done, 0), pc = tot ? Math.round((dn / tot) * 100) : 0;
+        const st = (ico, n, t) => `<div class="st4"><span>${ico}</span><small>${t}</small><b>${n}</b></div>`;
+        html += `<div class="stats4">${st('📘', started, T('Cours suivis'))}${st('✅', g.solved, T('Défis réussis'))}${st('⭐', fmtN(g.xp), T('XP total'))}${st('🔥', streakNow(g) + ' ' + T('jours'), T('Série actuelle'))}</div>
+          <div class="glob"><div><b>${T('Progression globale')}</b><b>${pc}%</b></div><i class="mbar"><u style="width:${pc}%"></u></i></div>
+          <h4 class="mods-t">${T('Mes modules')}</h4>${modsProfileHtml()}
+          <h4 class="mods-t">${T('Gestion des données')}</h4>
+          <div class="rowlist">
+            <button type="button" data-me="export"><span>🔳</span><div><b>${T('Générer mon code')}</b><small>${T('Sauvegarder ma progression')}</small></div><i>›</i></button>
+            <button type="button" data-me="import"><span>🔄</span><div><b>${T('Restaurer avec un code')}</b><small>${T('Récupérer ma progression')}</small></div><i>›</i></button>
+            <button type="button" data-me="reset" class="danger"><span>🗑️</span><div><b>${T('Effacer ma progression')}</b><small>${T('Recommencer depuis zéro')}</small></div><i>›</i></button>
+          </div>
+          <textarea class="code-box" id="meCode" hidden spellcheck="false" aria-label="Code de sauvegarde"></textarea>
+          <div class="exbar" id="meCodeBar" hidden><button type="button" class="btn-main" data-me="copy">Copier</button><button type="button" class="btn-main" data-me="apply" hidden>Restaurer</button></div>
+          <p class="msg" id="meMsg" role="status"></p>`;
+      } else html += historyHtml(g);
+    } else if (meView === 'settings') {
+      const light = document.documentElement.getAttribute('data-theme') === 'light';
+      const pushOn = typeof Notification !== 'undefined' && Notification.permission === 'granted';
+      const sub = store.get('lumen_sub') === '1';
+      html = head(T('Paramètres'), '⚙️') + `<div class="rowlist set">
+          <div class="srow"><span>🔔</span><div><b>Notifications</b><small>${T('Recevoir les alertes et mises à jour')}</small></div><button type="button" class="sw${pushOn ? ' on' : ''}" data-me="push" aria-label="Notifications"><i></i></button></div>
+          <div class="srow"><span>🌙</span><div><b>${T('Thème')}</b><small>${T('Choisir le mode d\'affichage')}</small></div><span class="seg mini"><button type="button" class="${light ? '' : 'on'}" data-theme-set="dark">${T('Sombre')}</button><button type="button" class="${light ? 'on' : ''}" data-theme-set="light">${T('Clair')}</button></span></div>
+          <div class="srow"><span>✉️</span><div><b>Newsletter</b><small>${T('Recevoir la newsletter JikelTech')}</small></div><button type="button" class="${sub ? 'btn-line' : 'btn-main'} mini-btn" data-sub-btn>${sub ? T('Abonné ✔') : T('S\'abonner')}</button></div>
+          <div class="srow"><span>🌐</span><div><b>${T('Langue')}</b><small>${T('Choisir votre langue')}</small></div><span class="seg mini"><button type="button" class="${I18N.lang === 'fr' ? 'on' : ''}" data-lang="fr">FR</button><button type="button" class="${I18N.lang === 'en' ? 'on' : ''}" data-lang="en">EN</button></span></div>
+          <div class="srow"><span>🎨</span><div><b>${T('Couleur de l\'avatar')}</b></div><div class="colors" role="group" aria-label="Couleur de l'avatar">${COLORS.map((c) => `<button type="button" data-color="${c}" class="${c === p.color ? 'on' : ''}" style="background:${c}" aria-label="Couleur ${c}"></button>`).join('')}</div></div>
+          ${p.photo ? `<div class="srow"><span>🖼️</span><div><b>${T('Photo de profil')}</b></div><button type="button" class="btn-line mini-btn" data-me="photo-del">${T('Retirer la photo')}</button></div>` : ''}
+        </div><div class="note-ok">ℹ️ ${T('Tes préférences sont enregistrées automatiquement.')}</div>`;
+    } else if (meView === 'info') {
+      const row = (a, ico, t, sub) => `<button type="button" data-me="${a}"><span>${ico}</span><div><b>${t}</b><small>${sub}</small></div><i>›</i></button>`;
+      html = head(T('Informations et assistance'), 'ℹ️') + `<div class="info-hero"><div class="brand-big">Jikel<em>Tech</em></div><p>${T('Innover • Apprendre • Partager')}</p></div>
+        <div class="rowlist">${row('about', '📖', 'À propos', T('Notre vision et notre mission'))}${row('contact', '✉️', 'Contact', T('Écris-nous'))}${row('privacy', '🔒', 'Confidentialité', T('Tes données, nos engagements'))}${row('terms', '📜', 'Conditions', T('Règles d\'utilisation du site'))}</div>
+        <div class="encour"><span>💚</span><div><b>JikelTech</b><small>${T('Merci d\'être avec nous !')} ❤️</small></div></div>`;
+    }
+    el.innerHTML = html;
+    if (meView === 'rank') R.board($('#rkBoard'), meTab);
     // Le bouton newsletter de ce nouvel écran est rattaché au même comportement que les autres.
     $$('[data-sub-btn]', $('#view-me')).forEach((b) => b.addEventListener('click', () => $('#popupCta')?.click()));
     I18N.apply($('#view-me'));
@@ -373,12 +416,20 @@
   $('#view-me').addEventListener('click', async (e) => {
     const c = e.target.closest('[data-color]');
     if (c) { setProfile({ color: c.dataset.color }); renderMe(); return; }
+    const vw = e.target.closest('[data-view]');
+    if (vw) { meView = vw.dataset.view; meTab = 0; renderMe(); scrollTo(0, 0); return; }
+    const mt = e.target.closest('[data-metab]');
+    if (mt) { meTab = +mt.dataset.metab; renderMe(); return; }
+    const ts = e.target.closest('[data-theme-set]');
+    if (ts) { const isLight = document.documentElement.getAttribute('data-theme') === 'light'; if ((ts.dataset.themeSet === 'light') !== isLight) $('#themeToggle').click(); renderMe(); return; }
     const lb = e.target.closest('[data-lang]');
     if (lb) { I18N.set(lb.dataset.lang); return; }
     const b = e.target.closest('[data-me]');
     if (!b) return;
     const act = b.dataset.me;
-    if (act === 'theme') { $('#themeToggle').click(); renderMe(); }
+    if (act === 'back') { meView = 'hub'; meTab = 0; renderMe(); scrollTo(0, 0); }
+    else if (act === 'editname') { $('.hero-name').hidden = true; const fm = $('#meNameForm'); fm.hidden = false; $('#meName').focus(); $('#meName').select(); }
+    else if (act === 'theme') { $('#themeToggle').click(); renderMe(); }
     else if (act === 'push') {
       const pb = $('#pushBtn');
       if (pb && !pb.hidden) pb.click(); else toast(T('Les notifications ne sont pas disponibles sur ce navigateur.'));
