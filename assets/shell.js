@@ -35,6 +35,14 @@
     { id: 'cyber:c2', name: T('Anti-arnaque'), e: '🎣' },
     { id: 'cyber:c3', name: T('Bouclier'), e: '🛡️' },
     { id: 'cyber:c4', name: T('Défenseur'), e: '🧯' },
+    { id: 'linux:c1', name: T('Premier pas Linux'), e: '🐧' },
+    { id: 'linux:c2', name: T('Maître des fichiers'), e: '📁' },
+    { id: 'linux:c3', name: T('Gardien des droits'), e: '🔐' },
+    { id: 'linux:c4', name: T('Administrateur'), e: '🖧' },
+    { id: 'web:c1', name: T('Bâtisseur de pages'), e: '🧱' },
+    { id: 'web:c2', name: T('Styliste web'), e: '🎨' },
+    { id: 'web:c3', name: T('Publieur'), e: '🚀' },
+    { id: 'web:c4', name: T('Dépanneur web'), e: '🧰' },
     { id: 'pylab:c1', name: T('Codeur débutant'), e: '🖥️' },
     { id: 'pylab:c2', name: T('Logicien'), e: '🔁' },
     { id: 'pylab:c3', name: T('Esprit fonction'), e: '🧩' },
@@ -75,7 +83,7 @@
     g.history.unshift({ d: dayKey(), k, l: String(label || '').slice(0, 80), xp: xp | 0, ok: !!ok, n: String(note || '').slice(0, 20) });
     g.history.length = Math.min(g.history.length, 40);
   }
-  const saveProg = (g) => jset('jt_progress', g);
+  const saveProg = (g) => { jset('jt_progress', g); document.dispatchEvent(new CustomEvent('jt:progress')); };
   const level = (xp) => ({ lvl: Math.floor(xp / 100) + 1, into: xp % 100 });
   function touchStreak(g) {
     const today = dayKey();
@@ -246,7 +254,7 @@
 
   /* ---------- Profil ---------- */
   function exportCode() {
-    const data = { p: getProfile(), g: getProg() };
+    const data = { p: getProfile(), g: getProg(), r: jget('jt_rank', {}) };
     return 'JT1.' + btoa(unescape(encodeURIComponent(JSON.stringify(data))));
   }
   function importCode(code) {
@@ -255,6 +263,8 @@
     const d = JSON.parse(decodeURIComponent(escape(atob(m[1]))));
     if (!d || typeof d !== 'object' || !d.g) throw new Error('Code non valide.');
     jset('jt_profile', { name: String(d.p?.name || '').slice(0, 24), color: COLORS.includes(d.p?.color) ? d.p.color : COLORS[0], since: String(d.p?.since || '') });
+    const rr = d.r;
+    if (rr && /^[0-9a-f]{12}$/.test(rr.uid || '') && /^[0-9a-f]{32}$/.test(rr.secret || '')) jset('jt_rank', { uid: rr.uid, secret: rr.secret, on: !!rr.on, last: 0 });
     const g = d.g;
     jset('jt_progress', { xp: Math.max(0, +g.xp || 0), streak: g.streak || {}, courses: g.courses && typeof g.courses === 'object' ? g.courses : {}, badges: Array.isArray(g.badges) ? g.badges.filter((b) => typeof b === 'string') : [], daily: g.daily || {}, solved: Math.max(0, +g.solved || 0), history: Array.isArray(g.history) ? g.history.slice(0, 40) : [] });
   }
@@ -280,6 +290,7 @@
       </div></div>
       <form class="me-name-form" id="meNameForm"><input class="field" id="meName" type="text" maxlength="24" placeholder="Ton prénom" value="${esc(p.name)}" aria-label="Ton prénom"><button class="btn-line" type="submit">Enregistrer</button></form>
       <div class="colors" role="group" aria-label="Couleur de l'avatar">${COLORS.map((c) => `<button type="button" data-color="${c}" class="${c === p.color ? 'on' : ''}" style="background:${c}" aria-label="Couleur ${c}"></button>`).join('')}</div>
+      ${window.JT && JT.rank ? JT.rank.html() : ''}
       <h2 class="sect-title">Mes stats</h2>
       <div class="statgrid">
         <div class="stat"><b>${g.xp}</b><span>XP gagnés</span></div>
@@ -312,6 +323,7 @@
     I18N.apply($('#view-me'));
   }
 
+  document.addEventListener('jt:rank-change', () => renderMe());
   const meMsg = (t, err) => { const m = $('#meMsg'); if (m) { m.textContent = t; m.classList.toggle('err', !!err); } };
 
   $('#view-me').addEventListener('submit', (e) => {

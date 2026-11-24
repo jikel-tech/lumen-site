@@ -1,0 +1,530 @@
+{
+ "id": "linux",
+ "title": "Linux",
+ "emoji": "🐧",
+ "tagline": "Le terminal sans peur : navigation, fichiers, droits et dépannage d'un serveur.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "Le terminal et la navigation",
+   "minutes": 10,
+   "badge": {
+    "name": "Premier pas Linux",
+    "emoji": "🐧"
+   },
+   "lesson": [
+    {
+     "h": "Pourquoi le terminal ?",
+     "p": "Linux fait tourner la plupart des serveurs Internet. Le terminal te permet de lui parler avec des commandes, très vite et sans souris."
+    },
+    {
+     "h": "Où suis-je ?",
+     "p": "pwd affiche le dossier actuel. ls liste son contenu. cd change de dossier.",
+     "code": "pwd\nls\ncd Documents\ncd ..",
+     "out": "/home/jikel\nDocuments  Images  notes.txt"
+    },
+    {
+     "h": "Chemins",
+     "p": "Un chemin absolu commence par / (ex. /home/jikel). Un chemin relatif part du dossier actuel. « .. » veut dire le dossier parent, « ~ » ton dossier personnel."
+    },
+    {
+     "h": "Demander de l'aide",
+     "p": "man ls ouvre le manuel de la commande, et la plupart des commandes acceptent --help. Les majuscules comptent : Documents et documents sont différents."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quelle commande affiche le dossier actuel ?",
+     "options": [
+      "pwd",
+      "cd",
+      "mv",
+      "rm"
+     ],
+     "answer": 0,
+     "hint": "Print Working Directory.",
+     "why": "pwd = « où suis-je ? »."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Quelle commande liste les fichiers d'un dossier ?",
+     "options": [
+      "ls",
+      "pwd",
+      "cat",
+      "touch"
+     ],
+     "answer": 0,
+     "hint": "Deux lettres, comme « list ».",
+     "why": "ls affiche le contenu du dossier."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "Pour remonter au dossier parent, tape : cd …",
+     "answer": [
+      ".."
+     ],
+     "hint": "Deux points.",
+     "why": "« .. » désigne le dossier parent."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Que signifie « ~ » dans un chemin ?",
+     "options": [
+      "Ton dossier personnel",
+      "Le disque entier",
+      "Le dossier parent",
+      "Un fichier caché"
+     ],
+     "answer": 0,
+     "hint": "C'est ta maison.",
+     "why": "~ est un raccourci vers /home/ton-nom."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "« Documents » et « documents » sont-ils le même dossier sous Linux ?",
+     "options": [
+      "Non, les majuscules comptent",
+      "Oui, toujours",
+      "Seulement le lundi",
+      "Ça dépend de l'écran"
+     ],
+     "answer": 0,
+     "hint": "Linux distingue la casse.",
+     "why": "Linux fait la différence entre majuscules et minuscules."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Remets dans l'ordre pour entrer dans Documents.",
+     "lines": [
+      "pwd",
+      "ls",
+      "cd Documents",
+      "pwd"
+     ],
+     "hint": "Regarder d'abord où tu es.",
+     "why": "Où suis-je, que contient-il, j'entre, je vérifie."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Gérer les fichiers",
+   "minutes": 12,
+   "badge": {
+    "name": "Maître des fichiers",
+    "emoji": "📁"
+   },
+   "lesson": [
+    {
+     "h": "Créer",
+     "p": "mkdir crée un dossier, touch crée un fichier vide.",
+     "code": "mkdir projet\ntouch projet/notes.txt"
+    },
+    {
+     "h": "Copier, déplacer, renommer",
+     "p": "cp copie, mv déplace ou renomme.",
+     "code": "cp notes.txt copie.txt\nmv copie.txt archive/"
+    },
+    {
+     "h": "Lire",
+     "p": "cat affiche un fichier entier, head les premières lignes, tail les dernières. Très utile pour les journaux d'erreurs."
+    },
+    {
+     "h": "Supprimer : attention",
+     "p": "rm supprime sans corbeille : impossible de revenir en arrière. rm -r supprime un dossier entier. Ne tape jamais rm -rf / : tu détruis tout le système."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quelle commande crée un dossier ?",
+     "options": [
+      "mkdir",
+      "touch",
+      "cp",
+      "ls"
+     ],
+     "answer": 0,
+     "hint": "make directory.",
+     "why": "mkdir = make directory."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Quelle commande renomme un fichier ?",
+     "options": [
+      "mv",
+      "cp",
+      "cat",
+      "pwd"
+     ],
+     "answer": 0,
+     "hint": "Déplacer vers un autre nom.",
+     "why": "mv sert à déplacer et à renommer."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Pour voir les dernières lignes d'un journal, on utilise…",
+     "options": [
+      "tail",
+      "head",
+      "touch",
+      "mkdir"
+     ],
+     "answer": 0,
+     "hint": "La queue.",
+     "why": "tail affiche la fin d'un fichier."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Pourquoi faut-il être prudent avec rm ?",
+     "options": [
+      "Il supprime sans corbeille",
+      "Il copie le fichier",
+      "Il ouvre le fichier",
+      "Il renomme le fichier"
+     ],
+     "answer": 0,
+     "hint": "Pas de retour en arrière.",
+     "why": "Un fichier supprimé avec rm est perdu."
+    },
+    {
+     "id": "e5",
+     "type": "fill",
+     "q": "Quelle commande crée un fichier vide ? (un mot)",
+     "answer": [
+      "touch"
+     ],
+     "hint": "Comme toucher le fichier.",
+     "why": "touch crée un fichier vide."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Relie chaque commande à son rôle.",
+     "nodes": [
+      {
+       "id": "a",
+       "e": "📁",
+       "label": "mkdir"
+      },
+      {
+       "id": "a2",
+       "e": "🆕",
+       "label": "Créer un dossier"
+      },
+      {
+       "id": "b",
+       "e": "🚚",
+       "label": "mv"
+      },
+      {
+       "id": "b2",
+       "e": "✏️",
+       "label": "Déplacer ou renommer"
+      }
+     ],
+     "links": [
+      [
+       "a",
+       "a2"
+      ],
+      [
+       "b",
+       "b2"
+      ]
+     ],
+     "hint": "mkdir crée, mv déplace.",
+     "why": "Chaque commande a un rôle précis."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Droits et administrateur",
+   "minutes": 12,
+   "badge": {
+    "name": "Gardien des droits",
+    "emoji": "🔐"
+   },
+   "lesson": [
+    {
+     "h": "Lire les droits",
+     "p": "ls -l affiche des droits comme -rwxr-xr--. r = lire, w = écrire, x = exécuter, pour le propriétaire, puis le groupe, puis les autres.",
+     "code": "ls -l script.sh",
+     "out": "-rwxr-xr-- 1 jikel dev 120 script.sh"
+    },
+    {
+     "h": "chmod",
+     "p": "chmod change les droits. chmod +x script.sh rend un script exécutable. Si tu vois « Permission denied », c'est souvent un problème de droits."
+    },
+    {
+     "h": "sudo",
+     "p": "sudo exécute une commande en administrateur. Puissant, donc dangereux : ne l'utilise que si tu comprends la commande."
+    },
+    {
+     "h": "Services et espace disque",
+     "p": "df -h montre l'espace disque. systemctl status nom montre si un service tourne, et systemctl restart nom le redémarre. Un disque plein est une cause fréquente de panne de serveur."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Que signifie la lettre x dans les droits ?",
+     "options": [
+      "Exécuter",
+      "Écrire",
+      "Lire",
+      "Supprimer"
+     ],
+     "answer": 0,
+     "hint": "Pour lancer un script.",
+     "why": "x = exécuter."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "« Permission denied » signifie…",
+     "options": [
+      "Tu n'as pas les droits nécessaires",
+      "Le fichier n'existe pas",
+      "Le disque est plein",
+      "Internet est coupé"
+     ],
+     "answer": 0,
+     "hint": "Pense aux droits.",
+     "why": "Le système refuse l'action faute de droits."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Quelle commande rend un script exécutable ?",
+     "options": [
+      "chmod +x script.sh",
+      "cat script.sh",
+      "pwd script.sh",
+      "touch +x"
+     ],
+     "answer": 0,
+     "hint": "Change mode.",
+     "why": "chmod +x ajoute le droit d'exécution."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Quand utiliser sudo ?",
+     "options": [
+      "Seulement si tu comprends la commande",
+      "Toujours, par précaution",
+      "Jamais",
+      "Pour tout copier"
+     ],
+     "answer": 0,
+     "hint": "Pouvoir = risque.",
+     "why": "sudo donne tous les droits : une erreur peut être grave."
+    },
+    {
+     "id": "e5",
+     "type": "fill",
+     "q": "Quelle commande montre l'espace disque ? (df …)",
+     "answer": [
+      "-h",
+      "df -h"
+     ],
+     "hint": "Human-readable.",
+     "why": "df -h donne les tailles lisibles."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Remets dans l'ordre pour dépanner un service arrêté.",
+     "lines": [
+      "Voir l'état : systemctl status",
+      "Lire le journal d'erreurs",
+      "Corriger la cause (ex. libérer le disque)",
+      "Redémarrer : systemctl restart"
+     ],
+     "hint": "D'abord observer.",
+     "why": "On observe, on lit, on corrige, puis on redémarre."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Atelier : le serveur de l'école",
+   "minutes": 15,
+   "badge": {
+    "name": "Administrateur",
+    "emoji": "🖧"
+   },
+   "lesson": [
+    {
+     "h": "Ton serveur Linux",
+     "p": "Tu es l'administrateur du serveur d'une école. 8 comptes utilisateurs ont été signalés. 4 ont un vrai problème, 4 vont bien."
+    },
+    {
+     "h": "La méthode",
+     "p": "Pour chaque compte : liste les fichiers (ls -l), vérifie l'espace disque (df -h), regarde le service et lis le journal. Puis choisis la bonne correction."
+    },
+    {
+     "h": "Évite les commandes dangereuses",
+     "p": "rm -rf / ou un redémarrage inutile n'arrangent rien et font perdre des points. Trouve la vraie cause."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 comptes ont un problème (en rouge). Touche un compte, fais les tests, puis corrige.",
+     "hint": "Compare droits, disque, service et journal.",
+     "why": "Quatre causes : droits, disque plein, service arrêté, mauvais chemin.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "awa",
+       "icon": "👩‍💻"
+      },
+      {
+       "id": "m2",
+       "name": "paul",
+       "icon": "👨‍💻",
+       "fault": "perm"
+      },
+      {
+       "id": "m3",
+       "name": "salome",
+       "icon": "🧑‍💻"
+      },
+      {
+       "id": "m4",
+       "name": "eric",
+       "icon": "👨‍🏫",
+       "fault": "disk"
+      },
+      {
+       "id": "m5",
+       "name": "mariam",
+       "icon": "👩‍🏫"
+      },
+      {
+       "id": "m6",
+       "name": "brice",
+       "icon": "🧑‍🎓",
+       "fault": "svc"
+      },
+      {
+       "id": "m7",
+       "name": "nadine",
+       "icon": "👩‍🎓",
+       "fault": "path"
+      },
+      {
+       "id": "m8",
+       "name": "yves",
+       "icon": "🧑‍🔧"
+      }
+     ],
+     "cmds": [
+      "Lister les fichiers (ls -l)",
+      "Voir l'espace disque (df -h)",
+      "Voir le service (systemctl status)",
+      "Lire le journal d'erreurs"
+     ],
+     "out": {
+      "ok": [
+       "Fichiers présents, droits normaux (-rw-r--r--).",
+       "Disque : 40 % utilisé.",
+       "Service web : actif (running).",
+       "Journal : aucune erreur."
+      ],
+      "perm": [
+       "-rw------- root root : le fichier appartient à root, illisible pour l'utilisateur.",
+       "Disque : 40 % utilisé.",
+       "Service web : actif.",
+       "Journal : « Permission denied » sur devoir.txt."
+      ],
+      "disk": [
+       "Fichiers présents. Un énorme fichier logs.old de 20 Go.",
+       "Disque : 100 % utilisé (0 octet libre).",
+       "Service web : en échec (écriture impossible).",
+       "Journal : « No space left on device »."
+      ],
+      "svc": [
+       "Fichiers présents, droits normaux.",
+       "Disque : 45 % utilisé.",
+       "Service web : inactive (dead). Il s'est arrêté.",
+       "Journal : le service s'est arrêté après une mise à jour."
+      ],
+      "path": [
+       "Le fichier cherché est dans /home/nadine/cours/, pas dans /home/nadine/.",
+       "Disque : 40 % utilisé.",
+       "Service web : actif.",
+       "Journal : « No such file or directory »."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "perm",
+       "label": "chmod pour donner les droits à l'utilisateur"
+      },
+      {
+       "id": "disk",
+       "label": "Supprimer l'ancien fichier logs.old pour libérer le disque"
+      },
+      {
+       "id": "svc",
+       "label": "systemctl restart du service web"
+      },
+      {
+       "id": "path",
+       "label": "Utiliser le bon chemin (cd cours)"
+      },
+      {
+       "id": "rmrf",
+       "label": "rm -rf / pour tout nettoyer"
+      },
+      {
+       "id": "reboot",
+       "label": "Redémarrer tout le serveur"
+      }
+     ],
+     "fixes": {
+      "perm": "perm",
+      "disk": "disk",
+      "svc": "svc",
+      "path": "path"
+     },
+     "txt": {
+      "tap": "Touche un compte pour commencer.",
+      "ok": "Ce compte n'a aucun problème : rien à corriger.",
+      "wrong": "Ça ne règle pas ce compte. Relis les observations.",
+      "fixed": "✅ Corrigé ! Ce compte fonctionne de nouveau.",
+      "allfixed": "Bravo, les 4 comptes sont corrigés !",
+      "need": "Fais d'abord quelques tests pour comprendre le problème.",
+      "run": "Tests",
+      "fix": "Corriger",
+      "reported": "Problème",
+      "good": "OK",
+      "progress": "{n}/4 comptes corrigés"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

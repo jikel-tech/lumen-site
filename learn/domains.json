@@ -41,8 +41,9 @@
     "id": "linux",
     "title": "Linux",
     "emoji": "🐧",
-    "status": "soon",
-    "desc": "Le terminal sans peur : fichiers, droits, commandes utiles et serveurs."
+    "status": "open",
+    "desc": "Labo immersif : administre le serveur d'une école, corrige droits, disque et services.",
+    "course": "linux"
   },
   {
     "id": "cyber",
@@ -64,7 +65,8 @@
     "id": "web",
     "title": "Web",
     "emoji": "🧱",
-    "status": "soon",
-    "desc": "HTML et CSS : crée ta première page, puis ton premier site."
+    "status": "open",
+    "desc": "Atelier : répare 8 pages web (balises, images, mobile, CSS) comme dans une agence.",
+    "course": "web"
   }
 ]

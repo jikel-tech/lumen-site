@@ -1,0 +1,528 @@
+{
+ "id": "web",
+ "title": "Web",
+ "emoji": "🧱",
+ "tagline": "Construis une page, stylise-la, adapte-la au mobile et publie-la.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "HTML : la structure",
+   "minutes": 10,
+   "badge": {
+    "name": "Bâtisseur de pages",
+    "emoji": "🧱"
+   },
+   "lesson": [
+    {
+     "h": "Le squelette d'une page",
+     "p": "HTML décrit le contenu d'une page avec des balises. Une page contient <html>, <head> (infos invisibles) et <body> (ce qu'on voit).",
+     "code": "<html>\n <head><title>Ma page</title></head>\n <body>\n  <h1>Bonjour</h1>\n </body>\n</html>"
+    },
+    {
+     "h": "Balises courantes",
+     "p": "<h1> un titre, <p> un paragraphe, <a href=\"…\"> un lien, <img src=\"…\" alt=\"…\"> une image, <ul><li> une liste."
+    },
+    {
+     "h": "Ouvrir puis fermer",
+     "p": "La plupart des balises s'ouvrent et se ferment : <p>texte</p>. Oublier de fermer une balise casse la page."
+    },
+    {
+     "h": "L'attribut alt",
+     "p": "alt décrit l'image : utile si elle ne charge pas (connexion faible) et pour les personnes malvoyantes."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quelle balise crée le plus grand titre ?",
+     "options": [
+      "<h1>",
+      "<p>",
+      "<a>",
+      "<li>"
+     ],
+     "answer": 0,
+     "hint": "h comme heading.",
+     "why": "<h1> est le titre principal."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Où met-on ce qu'on voit sur la page ?",
+     "options": [
+      "<body>",
+      "<head>",
+      "<title>",
+      "<meta>"
+     ],
+     "answer": 0,
+     "hint": "Le corps.",
+     "why": "<body> contient le contenu visible."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "Quelle balise crée un lien ? (une lettre)",
+     "answer": [
+      "a",
+      "<a>"
+     ],
+     "hint": "a comme anchor.",
+     "why": "<a href=…> crée un lien."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "À quoi sert l'attribut alt d'une image ?",
+     "options": [
+      "Décrire l'image si elle ne s'affiche pas",
+      "La rendre plus grande",
+      "La colorer",
+      "La supprimer"
+     ],
+     "answer": 0,
+     "hint": "Pense connexion faible.",
+     "why": "alt s'affiche à la place de l'image et aide l'accessibilité."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Que se passe-t-il si tu oublies de fermer une balise ?",
+     "options": [
+      "La mise en page peut se casser",
+      "Rien du tout",
+      "Le site devient plus rapide",
+      "L'image devient rouge"
+     ],
+     "answer": 0,
+     "hint": "Une porte laissée ouverte.",
+     "why": "Le navigateur devine mal et affiche de travers."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Remets dans l'ordre pour construire une page.",
+     "lines": [
+      "<html>",
+      "<head> + <title>",
+      "<body>",
+      "<h1> + <p>"
+     ],
+     "hint": "Du plus grand au plus petit.",
+     "why": "html, head, body, puis le contenu."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "CSS : le style",
+   "minutes": 12,
+   "badge": {
+    "name": "Styliste web",
+    "emoji": "🎨"
+   },
+   "lesson": [
+    {
+     "h": "Le rôle du CSS",
+     "p": "CSS décrit l'apparence : couleurs, tailles, espaces, polices. Il se compose de règles : un sélecteur et des propriétés.",
+     "code": "h1 {\n  color: green;\n  font-size: 32px;\n}"
+    },
+    {
+     "h": "Sélecteurs",
+     "p": "p cible les paragraphes, .carte cible la classe « carte », #haut cible l'id « haut ». Les classes sont les plus utilisées."
+    },
+    {
+     "h": "La boîte",
+     "p": "Chaque élément est une boîte : contenu, padding (espace dedans), border (bordure), margin (espace dehors)."
+    },
+    {
+     "h": "Flexbox",
+     "p": "display:flex aligne les éléments en ligne ou en colonne et gère l'espace facilement. C'est la base des mises en page modernes."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Quel langage gère les couleurs et l'apparence ?",
+     "options": [
+      "CSS",
+      "HTML",
+      "Python",
+      "Linux"
+     ],
+     "answer": 0,
+     "hint": "Cascading Style Sheets.",
+     "why": "CSS = feuilles de style."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Quel sélecteur cible la classe « carte » ?",
+     "options": [
+      ".carte",
+      "#carte",
+      "carte()",
+      "<carte>"
+     ],
+     "answer": 0,
+     "hint": "Un point pour les classes.",
+     "why": "Les classes commencent par un point."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Quelle propriété ajoute de l'espace à l'intérieur d'une boîte ?",
+     "options": [
+      "padding",
+      "margin",
+      "color",
+      "font-size"
+     ],
+     "answer": 0,
+     "hint": "Rembourrage.",
+     "why": "padding = espace intérieur, margin = extérieur."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Quelle valeur de display aligne facilement les éléments ? (un mot)",
+     "answer": [
+      "flex"
+     ],
+     "hint": "Flexible.",
+     "why": "display:flex active Flexbox."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Quelle règle met les titres h1 en vert ?",
+     "options": [
+      "h1 { color: green; }",
+      "h1 = green",
+      "color(h1, green)",
+      "<h1 green>"
+     ],
+     "answer": 0,
+     "hint": "sélecteur { propriété: valeur; }",
+     "why": "Un sélecteur puis des propriétés entre accolades."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Relie chaque propriété à son effet.",
+     "nodes": [
+      {
+       "id": "a",
+       "e": "🎨",
+       "label": "color"
+      },
+      {
+       "id": "a2",
+       "e": "🖍️",
+       "label": "Couleur du texte"
+      },
+      {
+       "id": "b",
+       "e": "📏",
+       "label": "margin"
+      },
+      {
+       "id": "b2",
+       "e": "↔️",
+       "label": "Espace extérieur"
+      }
+     ],
+     "links": [
+      [
+       "a",
+       "a2"
+      ],
+      [
+       "b",
+       "b2"
+      ]
+     ],
+     "hint": "color = couleur, margin = espace.",
+     "why": "Chaque propriété a un effet précis."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Mobile, vitesse et publication",
+   "minutes": 12,
+   "badge": {
+    "name": "Publieur",
+    "emoji": "🚀"
+   },
+   "lesson": [
+    {
+     "h": "Pense mobile d'abord",
+     "p": "La majorité de tes visiteurs sont sur téléphone. La balise viewport (<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">) adapte la page à l'écran. Sans elle, la page apparaît minuscule."
+    },
+    {
+     "h": "Images légères",
+     "p": "Une image trop lourde ralentit tout, surtout avec peu de data. Compresse-les et choisis des dimensions adaptées."
+    },
+    {
+     "h": "Chemins des fichiers",
+     "p": "Un lien ou une image qui ne s'affiche pas vient souvent d'un mauvais chemin (img/photo.jpg vs Img/Photo.JPG : la casse compte sur le serveur)."
+    },
+    {
+     "h": "Publier",
+     "p": "Un site statique se publie en envoyant tes fichiers sur GitHub puis Netlify : à chaque envoi, le site se met à jour. Teste toujours sur téléphone avant."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "À quoi sert la balise viewport ?",
+     "options": [
+      "Adapter la page à la taille de l'écran",
+      "Changer la couleur",
+      "Ajouter une image",
+      "Créer un lien"
+     ],
+     "answer": 0,
+     "hint": "Pense au téléphone.",
+     "why": "Sans elle, la page est minuscule sur mobile."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Pourquoi compresser les images ?",
+     "options": [
+      "Pour que la page charge plus vite et consomme moins de data",
+      "Pour les rendre floues",
+      "Pour les cacher",
+      "Aucune raison"
+     ],
+     "answer": 0,
+     "hint": "Poids = lenteur.",
+     "why": "Une image légère charge vite, même en réseau faible."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Une image ne s'affiche pas. Première vérification ?",
+     "options": [
+      "Le chemin et la casse du nom de fichier",
+      "La couleur du fond",
+      "Le prix du forfait",
+      "L'heure"
+     ],
+     "answer": 0,
+     "hint": "Où est le fichier exactement ?",
+     "why": "Le chemin ou la casse est souvent la cause."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Sur quel type d'appareil dois-tu toujours tester avant de publier ? (un mot)",
+     "answer": [
+      "téléphone",
+      "smartphone",
+      "mobile"
+     ],
+     "hint": "Dans ta poche.",
+     "why": "La plupart des visiteurs sont sur mobile."
+    },
+    {
+     "id": "e5",
+     "type": "order",
+     "q": "Remets dans l'ordre pour publier une mise à jour.",
+     "lines": [
+      "Modifier les fichiers",
+      "Tester sur téléphone",
+      "Envoyer sur GitHub",
+      "Vérifier le site en ligne"
+     ],
+     "hint": "On teste avant d'envoyer.",
+     "why": "Modifier, tester, envoyer, vérifier."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "Quel est l'intérêt d'un site statique léger ?",
+     "options": [
+      "Il est rapide et peu coûteux à héberger",
+      "Il est toujours lent",
+      "Il ne marche pas sur mobile",
+      "Il coûte très cher"
+     ],
+     "answer": 0,
+     "hint": "Léger = rapide.",
+     "why": "Peu de fichiers, chargement rapide, hébergement simple."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Atelier : 8 pages à réparer",
+   "minutes": 15,
+   "badge": {
+    "name": "Dépanneur web",
+    "emoji": "🧰"
+   },
+   "lesson": [
+    {
+     "h": "Ton agence web",
+     "p": "Des clients t'envoient 8 pages. 4 ont un bug. À toi de trouver chaque bug avec le rendu, le code, la console et un test sur téléphone."
+    },
+    {
+     "h": "La méthode",
+     "p": "Regarde le rendu, lis le code, ouvre la console (elle signale les fichiers introuvables), puis teste sur téléphone. Choisis ensuite la bonne correction."
+    },
+    {
+     "h": "Évite les fausses pistes",
+     "p": "Tout réécrire ou changer d'hébergeur ne règle presque jamais un bug simple. Cherche la cause précise."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 pages ont un bug (en rouge). Touche une page, fais les tests, puis corrige-la.",
+     "hint": "Compare rendu, code, console et mobile.",
+     "why": "Quatre bugs : balise non fermée, mauvais chemin d'image, viewport absent, faute dans le CSS.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "accueil.html",
+       "icon": "🏠"
+      },
+      {
+       "id": "m2",
+       "name": "galerie.html",
+       "icon": "🖼️",
+       "fault": "path"
+      },
+      {
+       "id": "m3",
+       "name": "contact.html",
+       "icon": "📞"
+      },
+      {
+       "id": "m4",
+       "name": "menu.html",
+       "icon": "🍽️",
+       "fault": "tag"
+      },
+      {
+       "id": "m5",
+       "name": "blog.html",
+       "icon": "📰"
+      },
+      {
+       "id": "m6",
+       "name": "boutique.html",
+       "icon": "🛒",
+       "fault": "viewport"
+      },
+      {
+       "id": "m7",
+       "name": "apropos.html",
+       "icon": "ℹ️",
+       "fault": "css"
+      },
+      {
+       "id": "m8",
+       "name": "faq.html",
+       "icon": "❓"
+      }
+     ],
+     "cmds": [
+      "Voir la page",
+      "Lire le code",
+      "Ouvrir la console",
+      "Tester sur téléphone"
+     ],
+     "out": {
+      "ok": [
+       "La page s'affiche correctement.",
+       "Code propre, balises fermées.",
+       "Console : aucune erreur.",
+       "Sur téléphone : tout est lisible."
+      ],
+      "path": [
+       "Les images sont remplacées par des cadres vides.",
+       "<img src=\"Img/photo.JPG\"> alors que le fichier s'appelle img/photo.jpg.",
+       "Console : 404 – fichier introuvable Img/photo.JPG.",
+       "Sur téléphone : mêmes cadres vides."
+      ],
+      "tag": [
+       "La moitié de la page est en gras et mal alignée.",
+       "Un <b> est ouvert mais jamais fermé.",
+       "Console : aucune erreur (le navigateur devine).",
+       "Sur téléphone : même défaut."
+      ],
+      "viewport": [
+       "Sur ordinateur, la page est correcte.",
+       "Il manque la balise meta viewport dans <head>.",
+       "Console : aucune erreur.",
+       "Sur téléphone : texte minuscule, il faut zoomer."
+      ],
+      "css": [
+       "Le titre reste noir au lieu d'être vert.",
+       "Le CSS contient « colour: green; » (faute).",
+       "Console : aucune erreur (propriété ignorée).",
+       "Sur téléphone : même défaut."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "path",
+       "label": "Corriger le chemin et la casse de l'image"
+      },
+      {
+       "id": "tag",
+       "label": "Fermer la balise <b> avec </b>"
+      },
+      {
+       "id": "viewport",
+       "label": "Ajouter la balise meta viewport"
+      },
+      {
+       "id": "css",
+       "label": "Corriger en color: green;"
+      },
+      {
+       "id": "rewrite",
+       "label": "Tout réécrire de zéro"
+      },
+      {
+       "id": "host",
+       "label": "Changer d'hébergeur"
+      }
+     ],
+     "fixes": {
+      "path": "path",
+      "tag": "tag",
+      "viewport": "viewport",
+      "css": "css"
+     },
+     "txt": {
+      "tap": "Touche une page pour commencer.",
+      "ok": "Cette page n'a aucun bug : rien à corriger.",
+      "wrong": "Ça ne règle pas ce bug. Relis les observations.",
+      "fixed": "✅ Corrigé ! La page s'affiche bien.",
+      "allfixed": "Bravo, les 4 pages sont réparées !",
+      "need": "Fais d'abord quelques tests pour comprendre le bug.",
+      "run": "Tests",
+      "fix": "Corriger",
+      "reported": "Bug",
+      "good": "OK",
+      "progress": "{n}/4 pages réparées"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

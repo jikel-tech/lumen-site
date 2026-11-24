@@ -1,0 +1,528 @@
+{
+ "id": "web",
+ "title": "Web",
+ "emoji": "🧱",
+ "tagline": "Build a page, style it, make it mobile-friendly and publish it.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "HTML: the structure",
+   "minutes": 10,
+   "badge": {
+    "name": "Page builder",
+    "emoji": "🧱"
+   },
+   "lesson": [
+    {
+     "h": "A page's skeleton",
+     "p": "HTML describes a page's content with tags. A page has <html>, <head> (invisible info) and <body> (what you see).",
+     "code": "<html>\n <head><title>Ma page</title></head>\n <body>\n  <h1>Bonjour</h1>\n </body>\n</html>"
+    },
+    {
+     "h": "Common tags",
+     "p": "<h1> a heading, <p> a paragraph, <a href=\"…\"> a link, <img src=\"…\" alt=\"…\"> an image, <ul><li> a list."
+    },
+    {
+     "h": "Open then close",
+     "p": "Most tags open and close: <p>text</p>. Forgetting to close a tag breaks the page."
+    },
+    {
+     "h": "The alt attribute",
+     "p": "alt describes the image: useful when it doesn't load (weak connection) and for visually impaired people."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which tag makes the biggest heading?",
+     "options": [
+      "<h1>",
+      "<p>",
+      "<a>",
+      "<li>"
+     ],
+     "answer": 0,
+     "hint": "h as in heading.",
+     "why": "<h1> is the main heading."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Where do you put what appears on the page?",
+     "options": [
+      "<body>",
+      "<head>",
+      "<title>",
+      "<meta>"
+     ],
+     "answer": 0,
+     "hint": "The body.",
+     "why": "<body> holds the visible content."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "Which tag makes a link? (one letter)",
+     "answer": [
+      "a",
+      "<a>"
+     ],
+     "hint": "a as in anchor.",
+     "why": "<a href=…> creates a link."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "What is an image's alt attribute for?",
+     "options": [
+      "Describing the image if it doesn't show",
+      "Making it bigger",
+      "Colouring it",
+      "Deleting it"
+     ],
+     "answer": 0,
+     "hint": "Think weak connection.",
+     "why": "alt shows in place of the image and helps accessibility."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "What happens if you forget to close a tag?",
+     "options": [
+      "The layout may break",
+      "Nothing at all",
+      "The site gets faster",
+      "The image turns red"
+     ],
+     "answer": 0,
+     "hint": "A door left open.",
+     "why": "The browser guesses wrong and renders it crooked."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Put in order to build a page.",
+     "lines": [
+      "<html>",
+      "<head> + <title>",
+      "<body>",
+      "<h1> + <p>"
+     ],
+     "hint": "From largest to smallest.",
+     "why": "html, head, body, then content."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "CSS: styling",
+   "minutes": 12,
+   "badge": {
+    "name": "Web stylist",
+    "emoji": "🎨"
+   },
+   "lesson": [
+    {
+     "h": "What CSS does",
+     "p": "CSS describes looks: colours, sizes, spacing, fonts. It is made of rules: a selector and properties.",
+     "code": "h1 {\n  color: green;\n  font-size: 32px;\n}"
+    },
+    {
+     "h": "Selectors",
+     "p": "p targets paragraphs, .card targets the “card” class, #top targets the “top” id. Classes are the most used."
+    },
+    {
+     "h": "The box",
+     "p": "Every element is a box: content, padding (space inside), border, margin (space outside)."
+    },
+    {
+     "h": "Flexbox",
+     "p": "display:flex lines items up in a row or column and handles space easily. It is the base of modern layouts."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which language handles colours and appearance?",
+     "options": [
+      "CSS",
+      "HTML",
+      "Python",
+      "Linux"
+     ],
+     "answer": 0,
+     "hint": "Cascading Style Sheets.",
+     "why": "CSS = style sheets."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Which selector targets the “card” class?",
+     "options": [
+      ".card",
+      "#card",
+      "card()",
+      "<card>"
+     ],
+     "answer": 0,
+     "hint": "A dot for classes.",
+     "why": "Classes start with a dot."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Which property adds space inside a box?",
+     "options": [
+      "padding",
+      "margin",
+      "color",
+      "font-size"
+     ],
+     "answer": 0,
+     "hint": "Padding.",
+     "why": "padding = inner space, margin = outer space."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "Which display value lines items up easily? (one word)",
+     "answer": [
+      "flex"
+     ],
+     "hint": "Flexible.",
+     "why": "display:flex turns on Flexbox."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Which rule turns h1 headings green?",
+     "options": [
+      "h1 { color: green; }",
+      "h1 = green",
+      "color(h1, green)",
+      "<h1 green>"
+     ],
+     "answer": 0,
+     "hint": "selector { property: value; }",
+     "why": "A selector then properties in braces."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Connect each property to its effect.",
+     "nodes": [
+      {
+       "id": "a",
+       "e": "🎨",
+       "label": "color"
+      },
+      {
+       "id": "a2",
+       "e": "🖍️",
+       "label": "Text colour"
+      },
+      {
+       "id": "b",
+       "e": "📏",
+       "label": "margin"
+      },
+      {
+       "id": "b2",
+       "e": "↔️",
+       "label": "Outer space"
+      }
+     ],
+     "links": [
+      [
+       "a",
+       "a2"
+      ],
+      [
+       "b",
+       "b2"
+      ]
+     ],
+     "hint": "color = colour, margin = space.",
+     "why": "Each property has a precise effect."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Mobile, speed and publishing",
+   "minutes": 12,
+   "badge": {
+    "name": "Publisher",
+    "emoji": "🚀"
+   },
+   "lesson": [
+    {
+     "h": "Think mobile first",
+     "p": "Most of your visitors are on phones. The viewport tag (<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">) fits the page to the screen. Without it, the page looks tiny."
+    },
+    {
+     "h": "Light images",
+     "p": "A too-heavy image slows everything, especially on little data. Compress them and pick suitable dimensions."
+    },
+    {
+     "h": "File paths",
+     "p": "A link or image that doesn't show is often a wrong path (img/photo.jpg vs Img/Photo.JPG: case matters on the server)."
+    },
+    {
+     "h": "Publishing",
+     "p": "A static site is published by sending your files to GitHub then Netlify: each upload updates the site. Always test on a phone first."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "What is the viewport tag for?",
+     "options": [
+      "Fitting the page to the screen size",
+      "Changing the colour",
+      "Adding an image",
+      "Creating a link"
+     ],
+     "answer": 0,
+     "hint": "Think of the phone.",
+     "why": "Without it, the page is tiny on mobile."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Why compress images?",
+     "options": [
+      "So the page loads faster and uses less data",
+      "To make them blurry",
+      "To hide them",
+      "No reason"
+     ],
+     "answer": 0,
+     "hint": "Weight = slowness.",
+     "why": "A light image loads fast, even on a weak network."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "An image doesn't show. First check?",
+     "options": [
+      "The path and the filename's case",
+      "The background colour",
+      "The data plan price",
+      "The time"
+     ],
+     "answer": 0,
+     "hint": "Where exactly is the file?",
+     "why": "The path or the case is often the cause."
+    },
+    {
+     "id": "e4",
+     "type": "fill",
+     "q": "On which kind of device must you always test before publishing? (one word)",
+     "answer": [
+      "phone",
+      "smartphone",
+      "mobile"
+     ],
+     "hint": "In your pocket.",
+     "why": "Most visitors are on mobile."
+    },
+    {
+     "id": "e5",
+     "type": "order",
+     "q": "Put in order to publish an update.",
+     "lines": [
+      "Edit the files",
+      "Test on a phone",
+      "Send to GitHub",
+      "Check the live site"
+     ],
+     "hint": "Test before sending.",
+     "why": "Edit, test, send, check."
+    },
+    {
+     "id": "e6",
+     "type": "choice",
+     "q": "What is the benefit of a light static site?",
+     "options": [
+      "It is fast and cheap to host",
+      "It is always slow",
+      "It doesn't work on mobile",
+      "It costs a lot"
+     ],
+     "answer": 0,
+     "hint": "Light = fast.",
+     "why": "Few files, fast loading, simple hosting."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Workshop: 8 pages to fix",
+   "minutes": 15,
+   "badge": {
+    "name": "Web fixer",
+    "emoji": "🧰"
+   },
+   "lesson": [
+    {
+     "h": "Your web agency",
+     "p": "Clients send you 8 pages. 4 have a bug. It's up to you to find each bug with the render, the code, the console and a phone test."
+    },
+    {
+     "h": "The method",
+     "p": "Look at the render, read the code, open the console (it flags missing files), then test on a phone. Then pick the right fix."
+    },
+    {
+     "h": "Avoid false leads",
+     "p": "Rewriting everything or changing host almost never fixes a simple bug. Find the precise cause."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 pages have a bug (in red). Tap a page, run the tests, then fix it.",
+     "hint": "Compare render, code, console and mobile.",
+     "why": "Four bugs: unclosed tag, wrong image path, missing viewport, CSS typo.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "accueil.html",
+       "icon": "🏠"
+      },
+      {
+       "id": "m2",
+       "name": "galerie.html",
+       "icon": "🖼️",
+       "fault": "path"
+      },
+      {
+       "id": "m3",
+       "name": "contact.html",
+       "icon": "📞"
+      },
+      {
+       "id": "m4",
+       "name": "menu.html",
+       "icon": "🍽️",
+       "fault": "tag"
+      },
+      {
+       "id": "m5",
+       "name": "blog.html",
+       "icon": "📰"
+      },
+      {
+       "id": "m6",
+       "name": "boutique.html",
+       "icon": "🛒",
+       "fault": "viewport"
+      },
+      {
+       "id": "m7",
+       "name": "apropos.html",
+       "icon": "ℹ️",
+       "fault": "css"
+      },
+      {
+       "id": "m8",
+       "name": "faq.html",
+       "icon": "❓"
+      }
+     ],
+     "cmds": [
+      "View the page",
+      "Read the code",
+      "Open the console",
+      "Test on a phone"
+     ],
+     "out": {
+      "ok": [
+       "The page displays correctly.",
+       "Clean code, tags closed.",
+       "Console: no errors.",
+       "On a phone: everything is readable."
+      ],
+      "path": [
+       "Images are replaced by empty frames.",
+       "<img src=\"Img/photo.JPG\"> while the file is called img/photo.jpg.",
+       "Console: 404 – file not found Img/photo.JPG.",
+       "On a phone: same empty frames."
+      ],
+      "tag": [
+       "Half the page is bold and misaligned.",
+       "A <b> is opened but never closed.",
+       "Console: no errors (the browser guesses).",
+       "On a phone: same defect."
+      ],
+      "viewport": [
+       "On a computer the page looks fine.",
+       "The meta viewport tag is missing from <head>.",
+       "Console: no errors.",
+       "On a phone: tiny text, you have to zoom."
+      ],
+      "css": [
+       "The heading stays black instead of green.",
+       "The CSS contains “colour: green;” (typo).",
+       "Console: no errors (property ignored).",
+       "On a phone: same defect."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "path",
+       "label": "Fix the image path and case"
+      },
+      {
+       "id": "tag",
+       "label": "Close the <b> tag with </b>"
+      },
+      {
+       "id": "viewport",
+       "label": "Add the meta viewport tag"
+      },
+      {
+       "id": "css",
+       "label": "Fix to color: green;"
+      },
+      {
+       "id": "rewrite",
+       "label": "Rewrite everything from scratch"
+      },
+      {
+       "id": "host",
+       "label": "Change host"
+      }
+     ],
+     "fixes": {
+      "path": "path",
+      "tag": "tag",
+      "viewport": "viewport",
+      "css": "css"
+     },
+     "txt": {
+      "tap": "Tap a page to start.",
+      "ok": "This page has no bug: nothing to fix.",
+      "wrong": "That doesn't fix this bug. Re-read the observations.",
+      "fixed": "✅ Fixed! The page looks right.",
+      "allfixed": "Well done, all 4 pages are fixed!",
+      "need": "Run a few tests first to understand the bug.",
+      "run": "Tests",
+      "fix": "Fix",
+      "reported": "Bug",
+      "good": "OK",
+      "progress": "{n}/4 pages fixed"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}

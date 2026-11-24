@@ -295,3 +295,10 @@ body.tab-learn .popup{display:none !important;}
 .keybar button:active{background:rgba(127,255,176,.18);}
 .codeblock .lbl{display:block; font-family:'Space Grotesk',sans-serif; font-size:.64rem; letter-spacing:.1em; text-transform:uppercase; color:var(--paper-dim); margin-bottom:4px;}
 .term .err{color:#ff9b9b; margin-top:6px;}
+
+/* Ligues et classement */
+.league{background:var(--card,rgba(255,255,255,.04));border:1px solid var(--line,rgba(255,255,255,.1));border-radius:14px;padding:12px;margin-bottom:10px}
+.lg-now{display:flex;gap:12px;align-items:center;margin-bottom:8px}.lg-now b{display:block}.lg-now small{color:var(--paper-dim)}
+.lg-big{font-size:2rem;line-height:1}.lgs{display:flex;gap:8px;margin-top:8px;font-size:1.2rem}.lgs .lg{opacity:.3;filter:grayscale(1)}.lgs .lg.on{opacity:1;filter:none}
+.rk{list-style:none;margin:10px 0;padding:0;display:grid;gap:6px}.rk li{display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:8px 10px;border-radius:10px;background:rgba(255,255,255,.04)}
+.rk li.me{outline:2px solid var(--green,#34d399)}.rk .n{min-width:1.6em;font-weight:700;color:var(--paper-dim)}.rk small{margin-left:auto;color:var(--paper-dim)}

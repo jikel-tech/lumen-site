@@ -41,8 +41,9 @@
     "id": "linux",
     "title": "Linux",
     "emoji": "🐧",
-    "status": "soon",
-    "desc": "The terminal without fear: files, permissions, useful commands and servers."
+    "status": "open",
+    "desc": "Immersive lab: administer a school server and fix permissions, disk and services.",
+    "course": "linux"
   },
   {
     "id": "cyber",
@@ -64,7 +65,8 @@
     "id": "web",
     "title": "Web",
     "emoji": "🧱",
-    "status": "soon",
-    "desc": "HTML and CSS: build your first page, then your first website."
+    "status": "open",
+    "desc": "Workshop: fix 8 web pages (tags, images, mobile, CSS) like in an agency.",
+    "course": "web"
   }
 ]

@@ -28,5 +28,9 @@ window.LUMEN = {
   // Éditeur Python réel (Pyodide, chargé seulement quand on ouvre un défi de code ; ~10 Mo, mis en cache ensuite).
   PYODIDE_BASE: 'https://cdn.jsdelivr.net/pyodide/v0.26.4/full/',
 
+  // Classement en ligne (facultatif, Supabase gratuit). Vide = classement caché, les ligues restent locales.
+  RANK_URL: 'https://qyoxxeryjikkocwkuaab.supabase.co',
+  RANK_KEY: 'sb_publishable_9lMRFxRHBEthixUttj4H4g_BgQjfFK1',
+
   CONTACT_EMAIL: 'arthurdjeu@gmail.com',
 };

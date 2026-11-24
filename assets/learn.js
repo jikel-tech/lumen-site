@@ -69,7 +69,7 @@
   // Résumé pour l'accueil : le premier cours pas encore terminé (Python, puis Réseau), sinon le dernier.
   JT.courseSummary = () => {
     const g = getProg();
-    const list = ['python', 'reseau', 'pylab', 'maintenance', 'cyber'].map((id) => cache[id + '.json']).filter(Boolean);
+    const list = ['python', 'reseau', 'pylab', 'maintenance', 'cyber', 'linux', 'web'].map((id) => cache[id + '.json']).filter(Boolean);
     if (!list.length) return null;
     let pick = list[list.length - 1], i = -1, sts = [];
     for (const course of list) {
@@ -124,7 +124,7 @@
       <h2 class="sect-title">Domaines</h2>
       ${domains ? `<div class="dom-grid">${domains.map((d) => `<button type="button" class="dom ${d.status === 'open' ? 'open' : 'soon'}" ${d.status === 'open' ? `data-open="${esc(d.course)}"` : 'disabled'}>
         <span class="tag ${d.status === 'open' ? 'go' : ''}">${d.status === 'open' ? 'Ouvert' : 'Bientôt'}</span><span class="ic">${esc(d.emoji)}</span><b>${esc(d.title)}</b><small>${esc(d.desc)}</small></button>`).join('')}</div>
-      <p class="soon-note">De nouveaux domaines arrivent régulièrement : Linux, Web…</p>`
+      <p class="soon-note">De nouveaux domaines arrivent régulièrement : JavaScript, PHP, comptes en ligne…</p>`
       : '<p class="av-sub">Impossible de charger les cours. Vérifie ta connexion et réessaie.</p>'}`;
   }
 
@@ -608,7 +608,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
   });
 
   // Charge les cours en arrière-plan pour que « Ton parcours » affiche le bon chapitre.
-  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('pylab.json'), loadJson('maintenance.json'), loadJson('cyber.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
+  Promise.all([loadJson('python.json'), loadJson('reseau.json'), loadJson('pylab.json'), loadJson('maintenance.json'), loadJson('cyber.json'), loadJson('linux.json'), loadJson('web.json'), loadJson('domains.json')]).then(() => document.dispatchEvent(new CustomEvent('jt:ready')));
 
   if (document.body.classList.contains('tab-learn')) renderLearn();
   if (document.body.classList.contains('tab-sos')) renderSos();

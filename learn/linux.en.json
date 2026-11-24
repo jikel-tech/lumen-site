@@ -1,0 +1,530 @@
+{
+ "id": "linux",
+ "title": "Linux",
+ "emoji": "🐧",
+ "tagline": "The terminal without fear: navigation, files, permissions and server troubleshooting.",
+ "passScore": 0.6,
+ "chapters": [
+  {
+   "id": "c1",
+   "title": "The terminal and navigation",
+   "minutes": 10,
+   "badge": {
+    "name": "First Linux step",
+    "emoji": "🐧"
+   },
+   "lesson": [
+    {
+     "h": "Why the terminal?",
+     "p": "Linux runs most of the Internet's servers. The terminal lets you talk to it with commands, fast and without a mouse."
+    },
+    {
+     "h": "Where am I?",
+     "p": "pwd shows the current folder. ls lists its contents. cd changes folder.",
+     "code": "pwd\nls\ncd Documents\ncd ..",
+     "out": "/home/jikel\nDocuments  Images  notes.txt"
+    },
+    {
+     "h": "Paths",
+     "p": "An absolute path starts with / (e.g. /home/jikel). A relative path starts from the current folder. “..” means the parent folder, “~” your home folder."
+    },
+    {
+     "h": "Asking for help",
+     "p": "man ls opens the command's manual, and most commands accept --help. Case matters: Documents and documents are different."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which command shows the current folder?",
+     "options": [
+      "pwd",
+      "cd",
+      "mv",
+      "rm"
+     ],
+     "answer": 0,
+     "hint": "Print Working Directory.",
+     "why": "pwd = “where am I?”."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Which command lists a folder's files?",
+     "options": [
+      "ls",
+      "pwd",
+      "cat",
+      "touch"
+     ],
+     "answer": 0,
+     "hint": "Two letters, like “list”.",
+     "why": "ls shows the folder's contents."
+    },
+    {
+     "id": "e3",
+     "type": "fill",
+     "q": "To go up to the parent folder, type: cd …",
+     "answer": [
+      ".."
+     ],
+     "hint": "Two dots.",
+     "why": "“..” means the parent folder."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "What does “~” mean in a path?",
+     "options": [
+      "Your home folder",
+      "The whole disk",
+      "The parent folder",
+      "A hidden file"
+     ],
+     "answer": 0,
+     "hint": "It's your home.",
+     "why": "~ is a shortcut to /home/your-name."
+    },
+    {
+     "id": "e5",
+     "type": "choice",
+     "q": "Are “Documents” and “documents” the same folder on Linux?",
+     "options": [
+      "No, case matters",
+      "Yes, always",
+      "Only on Mondays",
+      "Depends on the screen"
+     ],
+     "answer": 0,
+     "hint": "Linux is case-sensitive.",
+     "why": "Linux tells uppercase from lowercase."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Put in order to enter Documents.",
+     "lines": [
+      "pwd",
+      "ls",
+      "cd Documents",
+      "pwd"
+     ],
+     "hint": "First look where you are.",
+     "why": "Where am I, what's in it, enter, check."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Managing files",
+   "minutes": 12,
+   "badge": {
+    "name": "File master",
+    "emoji": "📁"
+   },
+   "lesson": [
+    {
+     "h": "Create",
+     "p": "mkdir creates a folder, touch creates an empty file.",
+     "code": "mkdir projet\ntouch projet/notes.txt"
+    },
+    {
+     "h": "Copy, move, rename",
+     "p": "cp copies, mv moves or renames.",
+     "code": "cp notes.txt copie.txt\nmv copie.txt archive/"
+    },
+    {
+     "h": "Read",
+     "p": "cat shows a whole file, head the first lines, tail the last ones. Very handy for error logs."
+    },
+    {
+     "h": "Deleting: careful",
+     "p": "rm deletes with no recycle bin: no way back. rm -r deletes a whole folder. Never type rm -rf /: you destroy the whole system."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "Which command creates a folder?",
+     "options": [
+      "mkdir",
+      "touch",
+      "cp",
+      "ls"
+     ],
+     "answer": 0,
+     "hint": "make directory.",
+     "why": "mkdir = make directory."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "Which command renames a file?",
+     "options": [
+      "mv",
+      "cp",
+      "cat",
+      "pwd"
+     ],
+     "answer": 0,
+     "hint": "Move to another name.",
+     "why": "mv moves and renames."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "To see the last lines of a log, we use…",
+     "options": [
+      "tail",
+      "head",
+      "touch",
+      "mkdir"
+     ],
+     "answer": 0,
+     "hint": "The tail.",
+     "why": "tail shows the end of a file."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "Why be careful with rm?",
+     "options": [
+      "It deletes with no recycle bin",
+      "It copies the file",
+      "It opens the file",
+      "It renames the file"
+     ],
+     "answer": 0,
+     "hint": "No way back.",
+     "why": "A file deleted with rm is gone."
+    },
+    {
+     "id": "e5",
+     "type": "fill",
+     "q": "Which command creates an empty file? (one word)",
+     "answer": [
+      "touch"
+     ],
+     "hint": "Like touching the file.",
+     "why": "touch creates an empty file."
+    },
+    {
+     "id": "e6",
+     "type": "link",
+     "q": "Connect each command to its role.",
+     "nodes": [
+      {
+       "id": "a",
+       "e": "📁",
+       "label": "mkdir"
+      },
+      {
+       "id": "a2",
+       "e": "🆕",
+       "label": "Create a folder"
+      },
+      {
+       "id": "b",
+       "e": "🚚",
+       "label": "mv"
+      },
+      {
+       "id": "b2",
+       "e": "✏️",
+       "label": "Move or rename"
+      }
+     ],
+     "links": [
+      [
+       "a",
+       "a2"
+      ],
+      [
+       "b",
+       "b2"
+      ]
+     ],
+     "hint": "mkdir creates, mv moves.",
+     "why": "Each command has a precise role."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Permissions and admin",
+   "minutes": 12,
+   "badge": {
+    "name": "Permissions keeper",
+    "emoji": "🔐"
+   },
+   "lesson": [
+    {
+     "h": "Reading permissions",
+     "p": "ls -l shows permissions like -rwxr-xr--. r = read, w = write, x = execute, for the owner, then the group, then others.",
+     "code": "ls -l script.sh",
+     "out": "-rwxr-xr-- 1 jikel dev 120 script.sh"
+    },
+    {
+     "h": "chmod",
+     "p": "chmod changes permissions. chmod +x script.sh makes a script executable. If you see “Permission denied”, it is often a permissions problem."
+    },
+    {
+     "h": "sudo",
+     "p": "sudo runs a command as administrator. Powerful, so dangerous: only use it if you understand the command."
+    },
+    {
+     "h": "Services and disk space",
+     "p": "df -h shows disk space. systemctl status name shows whether a service runs, and systemctl restart name restarts it. A full disk is a frequent cause of server failure."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "e1",
+     "type": "choice",
+     "q": "What does the letter x mean in permissions?",
+     "options": [
+      "Execute",
+      "Write",
+      "Read",
+      "Delete"
+     ],
+     "answer": 0,
+     "hint": "To run a script.",
+     "why": "x = execute."
+    },
+    {
+     "id": "e2",
+     "type": "choice",
+     "q": "“Permission denied” means…",
+     "options": [
+      "You don't have the needed rights",
+      "The file doesn't exist",
+      "The disk is full",
+      "The Internet is down"
+     ],
+     "answer": 0,
+     "hint": "Think permissions.",
+     "why": "The system refuses the action for lack of rights."
+    },
+    {
+     "id": "e3",
+     "type": "choice",
+     "q": "Which command makes a script executable?",
+     "options": [
+      "chmod +x script.sh",
+      "cat script.sh",
+      "pwd script.sh",
+      "touch +x"
+     ],
+     "answer": 0,
+     "hint": "Change mode.",
+     "why": "chmod +x adds the execute right."
+    },
+    {
+     "id": "e4",
+     "type": "choice",
+     "q": "When should you use sudo?",
+     "options": [
+      "Only if you understand the command",
+      "Always, to be safe",
+      "Never",
+      "To copy everything"
+     ],
+     "answer": 0,
+     "hint": "Power = risk.",
+     "why": "sudo gives all rights: a mistake can be serious."
+    },
+    {
+     "id": "e5",
+     "type": "fill",
+     "q": "Which command shows disk space? (df …)",
+     "answer": [
+      "-h",
+      "df -h"
+     ],
+     "hint": "Human-readable.",
+     "why": "df -h gives readable sizes."
+    },
+    {
+     "id": "e6",
+     "type": "order",
+     "q": "Put in order to fix a stopped service.",
+     "lines": [
+      "Check state: systemctl status",
+      "Read the error log",
+      "Fix the cause (e.g. free disk space)",
+      "Restart: systemctl restart"
+     ],
+     "hint": "Observe first.",
+     "why": "Observe, read, fix, then restart."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Workshop: the school server",
+   "minutes": 15,
+   "badge": {
+    "name": "Administrator",
+    "emoji": "🖧"
+   },
+   "lesson": [
+    {
+     "h": "Your Linux server",
+     "p": "You are a school server's administrator. 8 user accounts were reported. 4 have a real problem, 4 are fine."
+    },
+    {
+     "h": "The method",
+     "p": "For each account: list the files (ls -l), check disk space (df -h), check the service and read the log. Then pick the right fix."
+    },
+    {
+     "h": "Avoid dangerous commands",
+     "p": "rm -rf / or a pointless reboot fix nothing and cost points. Find the real cause."
+    }
+   ],
+   "exercises": [
+    {
+     "id": "lab1",
+     "type": "lab",
+     "obs": true,
+     "q": "4 accounts have a problem (in red). Tap an account, run the tests, then fix it.",
+     "hint": "Compare permissions, disk, service and log.",
+     "why": "Four causes: permissions, full disk, stopped service, wrong path.",
+     "pcs": [
+      {
+       "id": "m1",
+       "name": "awa",
+       "icon": "👩‍💻"
+      },
+      {
+       "id": "m2",
+       "name": "paul",
+       "icon": "👨‍💻",
+       "fault": "perm"
+      },
+      {
+       "id": "m3",
+       "name": "salome",
+       "icon": "🧑‍💻"
+      },
+      {
+       "id": "m4",
+       "name": "eric",
+       "icon": "👨‍🏫",
+       "fault": "disk"
+      },
+      {
+       "id": "m5",
+       "name": "mariam",
+       "icon": "👩‍🏫"
+      },
+      {
+       "id": "m6",
+       "name": "brice",
+       "icon": "🧑‍🎓",
+       "fault": "svc"
+      },
+      {
+       "id": "m7",
+       "name": "nadine",
+       "icon": "👩‍🎓",
+       "fault": "path"
+      },
+      {
+       "id": "m8",
+       "name": "yves",
+       "icon": "🧑‍🔧"
+      }
+     ],
+     "cmds": [
+      "List the files (ls -l)",
+      "Check disk space (df -h)",
+      "Check the service (systemctl status)",
+      "Read the error log"
+     ],
+     "out": {
+      "ok": [
+       "Files present, normal permissions (-rw-r--r--).",
+       "Disk: 40% used.",
+       "Web service: active (running).",
+       "Log: no errors."
+      ],
+      "perm": [
+       "-rw------- root root: file owned by root, unreadable for the user.",
+       "Disk: 40% used.",
+       "Web service: active.",
+       "Log: “Permission denied” on homework.txt."
+      ],
+      "disk": [
+       "Files present. A huge 20 GB logs.old file.",
+       "Disk: 100% used (0 bytes free).",
+       "Web service: failed (cannot write).",
+       "Log: “No space left on device”."
+      ],
+      "svc": [
+       "Files present, normal permissions.",
+       "Disk: 45% used.",
+       "Web service: inactive (dead). It stopped.",
+       "Log: the service stopped after an update."
+      ],
+      "path": [
+       "The file sought is in /home/nadine/cours/, not in /home/nadine/.",
+       "Disk: 40% used.",
+       "Web service: active.",
+       "Log: “No such file or directory”."
+      ]
+     },
+     "repairs": [
+      {
+       "id": "perm",
+       "label": "chmod to give the user the rights"
+      },
+      {
+       "id": "disk",
+       "label": "Delete the old logs.old file to free the disk"
+      },
+      {
+       "id": "svc",
+       "label": "systemctl restart the web service"
+      },
+      {
+       "id": "path",
+       "label": "Use the right path (cd cours)"
+      },
+      {
+       "id": "rmrf",
+       "label": "rm -rf / to clean everything"
+      },
+      {
+       "id": "reboot",
+       "label": "Reboot the whole server"
+      }
+     ],
+     "fixes": {
+      "perm": "perm",
+      "disk": "disk",
+      "svc": "svc",
+      "path": "path"
+     },
+     "txt": {
+      "tap": "Tap an account to start.",
+      "ok": "This account has no problem: nothing to fix.",
+      "wrong": "That doesn't fix this account. Re-read the observations.",
+      "fixed": "✅ Fixed! This account works again.",
+      "allfixed": "Well done, all 4 accounts are fixed!",
+      "need": "Run a few tests first to understand the problem.",
+      "run": "Tests",
+      "fix": "Fix",
+      "reported": "Problem",
+      "good": "OK",
+      "progress": "{n}/4 accounts fixed"
+     }
+    }
+   ],
+   "passScore": 0,
+   "bonus": 50
+  }
+ ]
+}
