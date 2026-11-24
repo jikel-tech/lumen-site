@@ -1,5 +1,6 @@
 {
   "ids": [
+    "bbaf6332f2bf",
     "17c6314b2cdb",
     "4f6c4dc91146",
     "97d42488e5cc",
@@ -65,8 +66,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-24T19:14:24.259Z",
+      "id": "bbaf6332f2bf",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-24T12:29:26.616Z",
       "id": "17c6314b2cdb",
@@ -503,15 +513,6 @@
       "at": "2026-10-30T14:43:05.359Z",
       "id": "e52e71f525cf",
       "title": "Le Tunisien Yahya Hmida crée une IA pour libérer les entreprises du travail répétitif",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-29T22:14:09.559Z",
-      "id": "0bd1d573ceee",
-      "title": "Google autorise l’installation d’apps Android en un seul clic depuis Chrome",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
