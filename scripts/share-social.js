@@ -1,4 +1,4 @@
-// Partage automatique d'une actu sur la page Facebook et le compte X de LUMen.
+// Partage automatique d'une actu sur la page Facebook et le compte X de JikelTech.
 // Exécuté 3 fois par jour (workflow share-social.yml) : 1 publication par passage.
 //
 // Secrets GitHub (Settings → Secrets and variables → Actions) — chaque réseau est optionnel :
@@ -6,7 +6,7 @@
 //   X        : X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET  (app avec droit "Lecture et écriture")
 // Un réseau sans secrets est simplement ignoré. DRY_RUN=1 affiche les posts sans les envoyer.
 //
-// Le lien partagé est https://…/#a=<id> : il ouvre directement le résumé de l'actu sur LUMen.
+// Le lien partagé est https://…/#a=<id> : il ouvre directement le résumé de l'actu sur JikelTech.
 
 import { createHmac, randomBytes } from 'node:crypto';
 import { DATA, SITE_URL, readJson, writeJson, score, readMixed } from './lib.js';

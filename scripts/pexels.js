@@ -10,6 +10,7 @@
 import { DATA, readJson, writeJson } from './lib.js';
 
 const KEY = () => process.env.PEXELS_API_KEY || process.env.PEXEL_API_KEY || '';
+const UKEY = () => process.env.UNSPLASH_ACCESS_KEY || process.env.UNSPLASH_API_KEY || '';
 const TTL_MS = 7 * 86400_000;
 const PRUNE_MS = 21 * 86400_000;
 const PER_QUERY = 30;       // recherches de rubrique (réutilisées par beaucoup d'articles)
@@ -43,6 +44,20 @@ const generic = (a) => (a.category === 'wanda' ? WANDA_QUERIES[a.sub] || WANDA_Q
 const genericQuery = (a) => { const qs = generic(a); return qs[hash(a.id) % qs.length]; };
 // Recherche propre à l'article : texte court, lettres et chiffres seulement (jamais de marque seule : l'IA a l'instruction de décrire une scène).
 const specificQuery = (a) => (typeof a.photoQuery === 'string' && /^[a-z0-9][a-z0-9 \-]{2,40}$/i.test(a.photoQuery.trim()) ? a.photoQuery.trim().toLowerCase() : '');
+
+// Unsplash : complément facultatif (secret UNSPLASH_ACCESS_KEY). Les images restent chargées depuis leur serveur (images.unsplash.com),
+// avec le nom du photographe et le lien vers la photo, comme l'exige Unsplash.
+async function searchUnsplash(query, perPage) {
+  const key = UKEY();
+  if (!key) return [];
+  const url = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=${Math.min(perPage, 30)}&orientation=landscape&content_filter=high`;
+  const res = await fetch(url, { headers: { Authorization: `Client-ID ${key}`, 'Accept-Version': 'v1' }, signal: AbortSignal.timeout(20000) });
+  if (!res.ok) throw new Error(`Unsplash HTTP ${res.status}`);
+  const data = await res.json();
+  return (data.results || [])
+    .map((p) => ({ url: p.urls?.regular, by: p.user?.name || '', page: p.links?.html ? `${p.links.html}?utm_source=jikeltech&utm_medium=referral` : '' }))
+    .filter((p) => typeof p.url === 'string' && p.url.startsWith('https://images.unsplash.com/'));
+}
 
 async function search(query, key, perPage) {
   const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=${perPage}&orientation=landscape&size=medium`;
@@ -85,7 +100,8 @@ export async function attachPhotos(articles) {
     if (failed || searches >= MAX_SEARCHES_PER_RUN) break;
     try {
       searches++;
-      const photos = await search(q, key, perPage);
+      let photos = await search(q, key, perPage);
+      if (photos.length < 3) { try { photos = [...photos, ...(await searchUnsplash(q, perPage))]; } catch (err) { console.error('📷 Unsplash :', err.message); } }
       pool[q] = { at: new Date().toISOString(), photos }; // même vide : évite de refaire la recherche à chaque passage
       poolChanged = true;
     } catch (err) {

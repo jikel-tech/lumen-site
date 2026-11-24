@@ -1,4 +1,4 @@
-// Utilitaires partagés par les scripts LUMen (Node 18+).
+// Utilitaires partagés par les scripts JikelTech (Node 18+).
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
@@ -279,7 +279,7 @@ export function pageShell({ title, description, path: p, body, jsonLd, noindex =
 ${noindex ? '<meta name="robots" content="noindex">' : ''}
 <link rel="canonical" href="${escapeHtml(url)}">
 <link rel="icon" href="/icons/icon-192.png">
-<meta property="og:site_name" content="LUMen">
+<meta property="og:site_name" content="JikelTech">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:type" content="article">
 <meta property="og:title" content="${escapeHtml(title)}">
@@ -313,11 +313,11 @@ ul.days{list-style:none}ul.days li{padding:10px 0;border-top:1px solid var(--lin
 </style>
 </head>
 <body>
-<header><div class="wrap"><a class="logo" href="/">LUM<em>en</em></a><a href="/jour/">Archives</a></div></header>
+<header><div class="wrap"><a class="logo" href="/">Jikel<em>Tech</em></a><a href="/jour/">Archives</a></div></header>
 <main><div class="wrap">
 ${body}
 </div></main>
-<footer><div class="wrap">© 2026 JikelTech — LUMen, Kribi, Cameroun · <a href="/">Retour à l’actualité en direct</a></div></footer>
+<footer><div class="wrap">© 2026 JikelTech, Kribi, Cameroun · <a href="/">Retour à l’actualité en direct</a></div></footer>
 </body>
 </html>
 `;

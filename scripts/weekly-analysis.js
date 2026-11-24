@@ -1,4 +1,4 @@
-// Analyse hebdomadaire LUMen : un texte d'analyse "maison" (pas une simple agrégation RSS),
+// Analyse hebdomadaire JikelTech : un texte d'analyse "maison" (pas une simple agrégation RSS),
 // rédigé avec l'aide de Gemini à partir des actus de la semaine, puis publié :
 //   data/weekly.json            → affiché dans la colonne latérale du site
 //   hebdo/AAAA-Www.html         → page indexable (SEO)
@@ -18,12 +18,12 @@ function buildPrompt(items) {
   const list = items
     .map((a, i) => `${i + 1}. [${CAT_LABELS[a.category] || a.category}] ${a.title} (${a.source}${a.coverage > 1 ? `, couvert par ${a.coverage} sources` : ''}) — ${a.summary || ''}`)
     .join('\n');
-  return `Tu es l'éditorialiste de LUMen, un site d'actualité tech francophone lu notamment au Cameroun et en Afrique francophone.
+  return `Tu es l'éditorialiste de JikelTech, un site d'actualité tech francophone lu notamment au Cameroun et en Afrique francophone.
 Voici les principales actus de la semaine :
 
 ${list}
 
-Rédige l'analyse hebdomadaire de LUMen. Réponds uniquement par un objet JSON de la forme :
+Rédige l'analyse hebdomadaire de JikelTech. Réponds uniquement par un objet JSON de la forme :
 {"title": string, "intro": string, "sections": [{"heading": string, "text": string}], "takeaway": string}
 
 Règles :
@@ -50,7 +50,7 @@ ${a.sections.map((s) => `<h2>${h(s.heading)}</h2><p>${h(s.text)}</p>`).join('\n'
 <p>${h(a.takeaway)}</p>
 <h2>Les actus de la semaine</h2>
 ${items.map((x) => `<div class="item"><h3><a href="${h(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer">${h(x.title)}</a></h3><div class="meta">${h(x.source)} · ${h(CAT_LABELS[x.category] || x.category)}</div></div>`).join('\n')}
-<p class="note">Cette analyse a été rédigée avec l’aide de l’IA à partir des titres et résumés des actualités ci-dessus. Elle exprime une lecture éditoriale de LUMen, pas un avis d’expert : consultez les sources pour le détail.</p>`;
+<p class="note">Cette analyse a été rédigée avec l’aide de l’IA à partir des titres et résumés des actualités ci-dessus. Elle exprime une lecture éditoriale de JikelTech, pas un avis d’expert : consultez les sources pour le détail.</p>`;
 }
 
 async function main() {
@@ -72,7 +72,7 @@ async function main() {
   const dateLong = frDate(new Date(), { dateStyle: 'long' });
   const pagePath = `hebdo/${week}.html`;
   await mkdir(path.join(OUT, 'hebdo'), { recursive: true });
-  const title = `${analysis.title} — Analyse LUMen`;
+  const title = `${analysis.title} — Analyse JikelTech`;
   const description = analysis.intro.slice(0, 280);
   await writeFile(
     path.join(OUT, pagePath),
@@ -88,7 +88,7 @@ async function main() {
         description,
         inLanguage: 'fr',
         datePublished: new Date().toISOString(),
-        author: { '@type': 'Organization', name: 'LUMen' },
+        author: { '@type': 'Organization', name: 'JikelTech' },
         publisher: { '@type': 'Organization', name: 'JikelTech', logo: { '@type': 'ImageObject', url: `${SITE_URL}/icons/icon-512.png` } },
         mainEntityOfPage: `${SITE_URL}/${pagePath}`,
       },

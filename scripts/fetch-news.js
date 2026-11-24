@@ -1,4 +1,4 @@
-// Script d'agrégation LUMen
+// Script d'agrégation JikelTech
 // Lit des flux RSS officiels (pas de scraping de pages HTML : on respecte les conditions
 // d'utilisation des sites sources), puis écrit data/articles.json que le site affiche.
 // Exécuté toutes les 30 min par GitHub Actions (.github/workflows/fetch-news.yml).
@@ -245,10 +245,12 @@ function dedupe(items) {
 // Résumé IA (Gemini, repli Anthropic) — renvoie { summary, keywords } ou null
 // -----------------------------------------------------------------------
 function buildPrompt(item) {
-  return `Tu es rédacteur pour LUMen, un site d'actualité tech francophone lu notamment en Afrique francophone.
-À partir du titre et de l'extrait ci-dessous, réponds uniquement par un objet JSON {"summary": string, "keywords": string[], "photo": string}.
+  return `Tu es rédacteur pour JikelTech, un site d'actualité tech francophone lu notamment en Afrique francophone.
+À partir du titre et de l'extrait ci-dessous, réponds uniquement par un objet JSON {"summary": string, "keywords": string[], "photo": string, "title_en": string, "summary_en": string}.
 - summary : exactement 3 phrases courtes en français, factuelles, sans recopier les phrases du texte source. N'invente aucun fait absent du titre ou de l'extrait. Cite naturellement la marque, le produit ou l'entreprise concernés.
 - keywords : 3 à 5 mots-clés de recherche précis (marque, produit, sujet, pays), en minuscules, sans dièse.
+- title_en : le titre traduit en anglais clair et naturel (max 120 caractères).
+- summary_en : les mêmes 3 phrases courtes, rédigées en anglais naturel (pas de traduction mot à mot), sans rien ajouter.
 - photo : 2 à 4 mots EN ANGLAIS décrivant une photo d'illustration réaliste du sujet (un objet, un lieu, une activité), jamais une marque, un nom de personne ni un texte. Exemples : "microchip close up", "solar panels field", "mobile money payment", "football stadium night".
 Titre : ${item.title}
 Extrait : ${item.aiInput || item.excerpt}`;
@@ -267,7 +269,8 @@ function parseAi(raw) {
       ? obj.keywords.filter((k) => typeof k === 'string').map((k) => k.trim().toLowerCase()).filter(Boolean).slice(0, 5)
       : [];
     const photo = typeof obj.photo === 'string' && /^[a-z0-9][a-z0-9 \-]{2,40}$/i.test(obj.photo.trim()) ? obj.photo.trim().toLowerCase() : '';
-    return { summary, keywords, photo };
+    const clip = (v, n) => (typeof v === 'string' && v.trim().length >= 5 && v.trim().length <= n ? v.trim() : '');
+    return { summary, keywords, photo, titleEn: clip(obj.title_en, 160), summaryEn: clip(obj.summary_en, 700) };
   } catch {
     return null;
   }
@@ -275,7 +278,7 @@ function parseAi(raw) {
 
 async function aiSummarize(item) {
   // Gemini d'abord, puis les fournisseurs de secours ; une réponse au JSON invalide passe au suivant.
-  const raw = await llm(buildPrompt(item), { json: true, maxOutputTokens: 400, accept: (t) => !!parseAi(t) });
+  const raw = await llm(buildPrompt(item), { json: true, maxOutputTokens: 650, accept: (t) => !!parseAi(t) });
   return parseAi(raw);
 }
 
@@ -402,6 +405,7 @@ async function main() {
       pubDate: it.pubDate || prev?.pubDate || nowIso,
       summary: prev?.summary || it.excerpt,
       keywords: prev?.keywords || [],
+      titleEn: prev?.titleEn || '', summaryEn: prev?.summaryEn || '',
       photoQuery: prev?.photoQuery || '',
       aiDone: !!prev?.aiDone,
       image: prev?.image, imageBy: prev?.imageBy, imagePage: prev?.imagePage,
@@ -418,7 +422,8 @@ async function main() {
     .slice(0, MAX_ARTICLES);
 
   // 3. Résumés IA pour les nouveaux articles seulement (les plus récents d'abord)
-  const todo = merged.filter((a) => !a.aiDone).slice(0, MAX_NEW_SUMMARIES);
+  // Nouveaux articles d'abord, puis (rattrapage progressif) ceux qui n'ont pas encore de version anglaise.
+  const todo = [...merged.filter((a) => !a.aiDone), ...merged.filter((a) => a.aiDone && !a.summaryEn)].slice(0, MAX_NEW_SUMMARIES);
   const providers = aiProviders();
   const hasKey = providers.length > 0;
   if (todo.length) console.log(`🔑 IA disponibles : ${providers.join(', ') || 'aucune'}`);
@@ -431,10 +436,8 @@ async function main() {
         todo.slice(i, i + 2).map(async (a) => {
           const r = await aiSummarize(a);
           if (r) {
-            a.summary = r.summary;
-            a.keywords = r.keywords;
-            a.photoQuery = r.photo;
-            a.aiDone = true;
+            if (!a.aiDone) { a.summary = r.summary; a.keywords = r.keywords; a.photoQuery = r.photo; a.aiDone = true; }
+            if (r.summaryEn) { a.summaryEn = r.summaryEn; a.titleEn = r.titleEn || ''; }
             done++;
           }
         })
@@ -451,8 +454,8 @@ async function main() {
   try { await attachPhotos(merged); } catch (err) { console.error('📷 Photos ignorées :', err.message); }
 
   // 4. Sortie propre (sans champs internes)
-  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, photoQuery, aiDone, coverage, also, image, imageBy, imagePage }) => ({
-    id, title, source, category, url, pubDate, summary, keywords, ...(photoQuery ? { photoQuery } : {}), aiDone, coverage, also,
+  const out = merged.map(({ id, title, source, category, url, pubDate, summary, keywords, titleEn, summaryEn, photoQuery, aiDone, coverage, also, image, imageBy, imagePage }) => ({
+    id, title, source, category, url, pubDate, summary, keywords, ...(summaryEn ? { titleEn, summaryEn } : {}), ...(photoQuery ? { photoQuery } : {}), aiDone, coverage, also,
     ...(image ? { image, imageBy, imagePage } : {}),
   }));
 

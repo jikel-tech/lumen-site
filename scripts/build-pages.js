@@ -23,7 +23,7 @@ async function listPages(dir, re) {
 
 function dayPage(day, items) {
   const dateLong = frDate(`${day}T12:00:00Z`, { dateStyle: 'full' });
-  const title = `Actu tech du ${dateLong} — LUMen`;
+  const title = `Actu tech du ${dateLong} — JikelTech`;
   const byCat = ORDER.map((c) => [c, items.filter((a) => a.category === c)]).filter(([, l]) => l.length);
   const topKeywords = [...new Set(items.flatMap((a) => a.keywords || []))].slice(0, 6);
   const description = `${items.length} actualités tech du ${dateLong} résumées et sourcées : ${byCat.map(([c]) => CAT_LABELS[c]).join(', ')}${topKeywords.length ? ' — ' + topKeywords.slice(0, 4).join(', ') : ''}.`;
@@ -46,7 +46,7 @@ ${(a.keywords || []).length ? `<div class="kw">${a.keywords.map(h).join(' · ')}
 
   const body = `<p class="meta">${h(dateLong)}</p>
 <h1>L’actualité tech du ${h(dateLong)}</h1>
-<p class="lead">${items.length} actualités sélectionnées par LUMen, avec un résumé court et un lien vers l’article d’origine.</p>
+<p class="lead">${items.length} actualités sélectionnées par JikelTech, avec un résumé court et un lien vers l’article d’origine.</p>
 ${sections}
 <p class="note">Les résumés sont générés avec l’aide de l’IA à partir du titre et de l’extrait publiés par les sources. Pour le détail, consultez toujours l’article d’origine.</p>`;
 
@@ -58,7 +58,7 @@ ${sections}
     url: `${SITE_URL}/jour/${day}.html`,
     inLanguage: 'fr',
     datePublished: `${day}T00:00:00+01:00`,
-    isPartOf: { '@type': 'WebSite', name: 'LUMen', url: SITE_URL },
+    isPartOf: { '@type': 'WebSite', name: 'JikelTech', url: SITE_URL },
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: items.map((a, i) => ({ '@type': 'ListItem', position: i + 1, name: a.title, url: safeUrl(a.url) })),
@@ -90,14 +90,14 @@ async function main() {
   // Index des archives
   const days = (await listPages('jour', /^\d{4}-\d{2}-\d{2}\.html$/)).map((f) => f.replace('.html', ''));
   const weeks = (await listPages('hebdo', /^\d{4}-W\d{2}\.html$/)).map((f) => f.replace('.html', ''));
-  const indexBody = `<h1>Archives LUMen</h1>
+  const indexBody = `<h1>Archives JikelTech</h1>
 <p class="lead">Retrouvez l’actualité tech jour par jour, et nos analyses hebdomadaires.</p>
 ${weeks.length ? `<h2>Analyses de la semaine</h2><ul class="days">${weeks.map((w) => `<li><a href="/hebdo/${w}.html">Semaine ${h(w)}</a></li>`).join('')}</ul>` : ''}
 <h2>Jour par jour</h2>
 ${days.length ? `<ul class="days">${days.map((d) => `<li><a href="/jour/${d}.html">${h(frDate(`${d}T12:00:00Z`, { dateStyle: 'full' }))}</a>${archive[d] ? ` <span class="meta">· ${archive[d]} actus</span>` : ''}</li>`).join('')}</ul>` : '<p class="meta">Les premières archives arrivent bientôt.</p>'}`;
   await writeFile(
     path.join(OUT, 'jour', 'index.html'),
-    pageShell({ title: 'Archives de l’actualité tech — LUMen', description: 'Toute l’actualité tech jour par jour, résumée et sourcée par LUMen, avec les analyses hebdomadaires.', path: '/jour/', body: indexBody }),
+    pageShell({ title: 'Archives de l’actualité tech — JikelTech', description: 'Toute l’actualité tech jour par jour, résumée et sourcée par JikelTech, avec les analyses hebdomadaires.', path: '/jour/', body: indexBody }),
     'utf-8'
   );
 
