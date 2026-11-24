@@ -1,4 +1,4 @@
-/* LUMen — application front (aucune dépendance) */
+/* JikelTech — application front (aucune dépendance) */
 (() => {
   'use strict';
 
@@ -172,7 +172,7 @@
       b.classList.toggle('active', on);
       if (on) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current');
     });
-    document.title = view.cat === 'all' ? T('LUMen — L’actualité tech, résumée et sourcée') : `${catLabel(view.cat)} — LUMen`;
+    document.title = view.cat === 'all' ? T('JikelTech — Actus tech, cours et dépannage') : `${catLabel(view.cat)} — JikelTech`;
     if (view.cat !== 'wanda') view.sub = 'all';
     if (isHome) renderHome(); else renderList();
     renderRefreshNote();
@@ -288,7 +288,7 @@
     const box = $('#weeklyBox');
     if (!WEEKLY || !WEEKLY.title) { box.hidden = true; return; }
     const link = WEEKLY.path ? safeUrl(new URL(WEEKLY.path, location.href).href) : '';
-    box.innerHTML = `<span class="kicker">${T('Analyse de la semaine')}</span><h2 id="weeklyTitle">${esc(WEEKLY.title)}</h2><p>${esc(snip(WEEKLY.intro || '', 220))}</p>${link ? `<a class="btn-solid" href="${esc(link)}">${T('Lire l’analyse')}</a>` : ''}<p class="ai-note">${T('Analyse LUMen rédigée avec l’aide de l’IA à partir des actus de la semaine.')}</p>`;
+    box.innerHTML = `<span class="kicker">${T('Analyse de la semaine')}</span><h2 id="weeklyTitle">${esc(WEEKLY.title)}</h2><p>${esc(snip(WEEKLY.intro || '', 220))}</p>${link ? `<a class="btn-solid" href="${esc(link)}">${T('Lire l’analyse')}</a>` : ''}<p class="ai-note">${T('Analyse JikelTech rédigée avec l’aide de l’IA à partir des actus de la semaine.')}</p>`;
     box.hidden = false;
   }
 
@@ -393,7 +393,7 @@
     if (open) closeOverlay(open);
   });
 
-  [['footerAbout', 'aboutModal'], ['footerContact', 'contactModal'], ['footerPrivacy', 'privacyModal']].forEach(([t, m]) => {
+  [['footerAbout', 'aboutModal'], ['footerContact', 'contactModal'], ['footerPrivacy', 'privacyModal'], ['footerTerms', 'termsModal']].forEach(([t, m]) => {
     $('#' + t).addEventListener('click', (e) => { e.preventDefault(); showOverlay($('#' + m)); });
   });
 
@@ -502,7 +502,7 @@
       box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">' + T('J’ai terminé mon inscription') + '</button>';
       $('#nlDone').addEventListener('click', () => { store.set('lumen_sub', '1'); updateSubButtons(); hideOverlay($('#nlModal')); });
     } else {
-      setNlStatus(T('Pour te désabonner, clique sur le lien « Se désabonner » en bas de n’importe quel email LUMen.'), '');
+      setNlStatus(T('Pour te désabonner, clique sur le lien « Se désabonner » en bas de n’importe quel email JikelTech.'), '');
       box.innerHTML = '<button type="button" class="btn-ghost" id="nlDone">' + T('C’est fait') + '</button>';
       $('#nlDone').addEventListener('click', () => { store.del('lumen_sub'); updateSubButtons(); hideOverlay($('#nlModal')); });
     }

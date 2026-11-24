@@ -1,4 +1,4 @@
-/* JikelTech / LUMen — nouveau cadre : onglets, accueil, profil, progression locale.
+/* JikelTech — nouveau cadre : onglets, accueil, profil, progression locale.
    Tout reste sur l'appareil (localStorage) : pas de compte, pas d'envoi de données. */
 (() => {
   'use strict';
@@ -58,7 +58,7 @@
 
   function getProfile() {
     const p = jget('jt_profile', {});
-    return { name: typeof p.name === 'string' ? p.name.slice(0, 24) : '', color: COLORS.includes(p.color) ? p.color : COLORS[0], since: p.since || '' };
+    return { name: typeof p.name === 'string' ? p.name.slice(0, 24) : '', color: COLORS.includes(p.color) ? p.color : COLORS[0], since: p.since || '', photo: typeof p.photo === 'string' && p.photo.startsWith('data:image/') && p.photo.length < 60000 ? p.photo : '' };
   }
   function setProfile(patch) {
     const p = { ...getProfile(), ...patch };
@@ -112,6 +112,7 @@
 
   const avatarHtml = (cls = '') => {
     const p = getProfile();
+    if (typeof p.photo === 'string' && p.photo.startsWith('data:image/')) return `<span class="avatar ${cls} photo" aria-hidden="true"><img src="${p.photo}" alt=""></span>`;
     const ch = p.name ? esc([...p.name][0].toUpperCase()) : '🙂';
     return `<span class="avatar ${cls}" style="background:${p.color}" aria-hidden="true">${ch}</span>`;
   };
@@ -166,23 +167,21 @@
   function parcoursHtml() {
     const g = getProg();
     const sum = window.JT.courseSummary ? window.JT.courseSummary() : null;
-    const done = doneChapters(g);
-    const total = sum && sum.total ? sum.total : TOTAL_STEPS;
-    const cdone = sum && sum.total ? sum.done : done;
-    const pct = Math.round((cdone / total) * 100);
-    const lv = level(g.xp);
+    const mods = window.JT.coursesProgress ? window.JT.coursesProgress() : [];
+    const lv = level(g.xp), st = streakNow(g);
+    const pct = sum ? sum.pct : 0, cdone = sum ? sum.done : 0;
     const title = sum ? `${sum.name} · ${sum.nextTitle}` : T('Python · Chapitre 1');
-    const sub = cdone === 0 ? T('Commence ton parcours : 10 minutes suffisent.') : cdone >= total ? T('Bravo ! Tu as validé tous les chapitres et l\'examen.') : T(cdone > 1 ? '{n} étapes validées sur {t}' : '{n} étape validée sur {t}', { n: cdone, t: total });
-    const cta = cdone === 0 ? T('Commencer') : sum && sum.waiting ? T('Voir le parcours') : T('Continuer');
-    const st = streakNow(g);
+    const sub = !sum ? T('Commence ton parcours : 10 minutes suffisent.') : sum.waiting ? T('Bravo ! Tu as validé tous les chapitres et l\'examen.') : cdone === 0 ? T('Commence ce module : 10 minutes suffisent.') : T(cdone > 1 ? '{n} étapes validées sur {t}' : '{n} étape validée sur {t}', { n: cdone, t: sum.total });
+    const cta = !sum || cdone === 0 ? T('Commencer') : sum.waiting ? T('Voir le parcours') : T('Continuer');
+    const rows = mods.map((m) => `<button type="button" class="mod${m.finished ? ' fin' : ''}" data-mod="${esc(m.id)}"><span class="me">${m.emoji}</span><span class="mt"><b>${esc(m.name)}</b><i class="mbar"><u style="width:${m.pct}%"></u></i></span><small>${m.done}/${m.total}</small></button>`).join('');
     return `<div class="parcours">
       <div class="parcours-row">
         <div class="ring" style="--p:${pct}"><i>${pct}%</i></div>
         <div><h3>${esc(title)}</h3><p>${esc(sub)}</p></div>
       </div>
       <div class="pstats"><span class="pill xp">⭐ ${g.xp} XP</span><span class="pill">${T('Niveau')} ${lv.lvl}</span>${st ? `<span class="pill">🔥 ${T(st > 1 ? '{n} jours' : '{n} jour', { n: st })}</span>` : ''}</div>
-      <div class="xpbar" aria-hidden="true"><i style="width:${lv.into}%"></i></div>
-      <button type="button" class="btn-main" data-act="to-learn">${cta} →</button>
+      <button type="button" class="btn-main" data-act="to-mod" data-mod="${sum ? esc(sum.id) : 'python'}">${cta} →</button>
+      ${rows ? `<h4 class="mods-t">${T('Tous mes modules')}</h4><div class="mods">${rows}</div>` : ''}
     </div>`;
   }
 
@@ -220,6 +219,8 @@
   }
 
   $('#view-home').addEventListener('click', (e) => {
+    const md = e.target.closest('[data-mod]');
+    if (md) { if (window.JT.openCourse) window.JT.openCourse(md.dataset.mod); else setTab('learn'); return; }
     const a = e.target.closest('[data-act],[data-art]');
     if (!a) return;
     if (a.dataset.art) { location.hash = '#a=' + encodeURIComponent(a.dataset.art); return; }
@@ -275,6 +276,20 @@
     const fmt = (d) => { try { return new Date(d + 'T12:00:00').toLocaleDateString(I18N.locale, { day: 'numeric', month: 'short' }); } catch { return d; } };
     return `<ol class="hist">${g.history.slice(0, 12).map((h) => `<li class="${h.ok ? 'ok' : 'ko'}"><span class="hi">${icon[h.k] || '•'}</span><span class="ht"><b>${esc(h.l)}</b><small>${esc(fmt(h.d))}${h.n ? ' · ' + esc(h.n) : ''} · ${h.ok ? T('validé') : T('à refaire')}</small></span><span class="hx">${h.xp ? '+' + h.xp + ' XP' : ''}</span></li>`).join('')}</ol>`;
   }
+  function modsProfileHtml() {
+    const mods = window.JT.coursesProgress ? window.JT.coursesProgress() : [];
+    if (!mods.length) return '';
+    return `<div class="mods">${mods.map((m) => `<button type="button" class="mod${m.finished ? ' fin' : ''}" data-mod="${esc(m.id)}"><span class="me">${m.emoji}</span><span class="mt"><b>${esc(m.name)}</b><i class="mbar"><u style="width:${m.pct}%"></u></i></span><small>${m.done}/${m.total}</small></button>`).join('')}</div>`;
+  }
+  function badgesHtml(owned) {
+    const names = {}; (window.JT.coursesProgress ? window.JT.coursesProgress() : []).forEach((m) => { names[m.id] = m.emoji + ' ' + m.name; });
+    const groups = {};
+    BADGES.forEach((b) => { const k = b.id.split(':')[0]; (groups[k] = groups[k] || []).push(b); });
+    return Object.keys(groups).map((k) => {
+      const list = groups[k], n = list.filter((b) => owned.has(b.id)).length;
+      return `<details class="bgrp"${n ? ' open' : ''}><summary>${esc(names[k] || k)} <small>${n}/${list.length}</small></summary><div class="badges">${list.map((b) => `<div class="badge ${owned.has(b.id) ? 'on' : 'off'}"><span class="e">${b.e}</span><small>${esc(b.name)}</small></div>`).join('')}</div></details>`;
+    }).join('');
+  }
   function renderMe() {
     const p = getProfile(), g = getProg(), lv = level(g.xp);
     const reads = jget('lumen_read', []);
@@ -289,6 +304,7 @@
         <div class="xpbar" aria-label="Progression vers le niveau suivant"><i style="width:${lv.into}%"></i></div>
       </div></div>
       <form class="me-name-form" id="meNameForm"><input class="field" id="meName" type="text" maxlength="24" placeholder="Ton prénom" value="${esc(p.name)}" aria-label="Ton prénom"><button class="btn-line" type="submit">Enregistrer</button></form>
+      <div class="photo-row"><label class="btn-line" for="photoInput">📷 ${T(p.photo ? 'Changer la photo' : 'Ajouter une photo')}</label><input type="file" id="photoInput" accept="image/*" hidden>${p.photo ? `<button type="button" class="btn-line" data-me="photo-del">${T('Retirer la photo')}</button>` : ''}</div>
       <div class="colors" role="group" aria-label="Couleur de l'avatar">${COLORS.map((c) => `<button type="button" data-color="${c}" class="${c === p.color ? 'on' : ''}" style="background:${c}" aria-label="Couleur ${c}"></button>`).join('')}</div>
       ${window.JT && JT.rank ? JT.rank.html() : ''}
       <h2 class="sect-title">Mes stats</h2>
@@ -300,8 +316,10 @@
         <div class="stat"><b>${Array.isArray(reads) ? reads.length : 0}</b><span>actus lues</span></div>
         <div class="stat"><b>${Array.isArray(favs) ? favs.length : 0}</b><span>favoris</span></div>
       </div>
+      <h2 class="sect-title">${T('Mes modules')}</h2>
+      ${modsProfileHtml()}
       <h2 class="sect-title">Mes badges <span style="font-size:.8rem;color:var(--paper-dim);font-family:'Space Grotesk',sans-serif">${g.badges.length}/${BADGES.length}</span></h2>
-      <div class="badges">${BADGES.map((b) => `<div class="badge ${owned.has(b.id) ? 'on' : 'off'}"><span class="e">${b.e}</span><small>${esc(b.name)}</small></div>`).join('')}</div>
+      ${badgesHtml(owned)}
       <h2 class="sect-title">Historique</h2>
       ${historyHtml(g)}
       <h2 class="sect-title">Réglages</h2>
@@ -316,7 +334,7 @@
       <div class="exbar" id="meCodeBar" hidden><button type="button" class="btn-main" data-me="copy">Copier</button><button type="button" class="btn-main" data-me="apply" hidden>Restaurer</button></div>
       <p class="msg" id="meMsg" role="status"></p>
       <h2 class="sect-title">Infos</h2>
-      <div class="exbar" style="margin-top:0"><button type="button" class="btn-line" data-me="about">À propos</button><button type="button" class="btn-line" data-me="contact">Contact</button><button type="button" class="btn-line" data-me="privacy">Confidentialité</button></div>
+      <div class="exbar" style="margin-top:0"><button type="button" class="btn-line" data-me="about">À propos</button><button type="button" class="btn-line" data-me="contact">Contact</button><button type="button" class="btn-line" data-me="privacy">Confidentialité</button><button type="button" class="btn-line" data-me="terms">Conditions</button></div>
       <div class="exbar"><button type="button" class="btn-line" data-me="reset" style="color:var(--amber)">Effacer ma progression</button></div>`;
     // Le bouton newsletter de ce nouvel écran est rattaché au même comportement que les autres.
     $$('[data-sub-btn]', $('#view-me')).forEach((b) => b.addEventListener('click', () => $('#popupCta')?.click()));
@@ -324,6 +342,23 @@
   }
 
   document.addEventListener('jt:rank-change', () => renderMe());
+  $('#view-me').addEventListener('change', (e) => {
+    if (e.target.id !== 'photoInput') return;
+    const f = e.target.files && e.target.files[0];
+    if (!f || !/^image\//.test(f.type)) return;
+    const url = URL.createObjectURL(f), img = new Image();
+    img.onload = () => {
+      const S = 160, c = document.createElement('canvas'); c.width = c.height = S;
+      const m = Math.min(img.width, img.height), sx = (img.width - m) / 2, sy = (img.height - m) / 2;
+      c.getContext('2d').drawImage(img, sx, sy, m, m, 0, 0, S, S);
+      URL.revokeObjectURL(url);
+      let q = 0.82, d = c.toDataURL('image/jpeg', q);
+      while (d.length > 50000 && q > 0.4) { q -= 0.1; d = c.toDataURL('image/jpeg', q); }
+      setProfile({ photo: d }); renderMe(); toast(T('Photo enregistrée ✔'));
+    };
+    img.onerror = () => { URL.revokeObjectURL(url); toast(T('Image non lisible.')); };
+    img.src = url;
+  });
   const meMsg = (t, err) => { const m = $('#meMsg'); if (m) { m.textContent = t; m.classList.toggle('err', !!err); } };
 
   $('#view-me').addEventListener('submit', (e) => {
@@ -348,9 +383,11 @@
       const pb = $('#pushBtn');
       if (pb && !pb.hidden) pb.click(); else toast(T('Les notifications ne sont pas disponibles sur ce navigateur.'));
     }
+    else if (act === 'photo-del') { setProfile({ photo: '' }); renderMe(); toast(T('Photo retirée')); }
     else if (act === 'about') $('#footerAbout').click();
     else if (act === 'contact') $('#footerContact').click();
     else if (act === 'privacy') $('#footerPrivacy').click();
+    else if (act === 'terms') $('#footerTerms').click();
     else if (act === 'export') {
       const ta = $('#meCode');
       ta.hidden = false; ta.readOnly = true; ta.value = exportCode();

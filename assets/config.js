@@ -1,4 +1,4 @@
-/* Configuration de LUMen — les seules valeurs à modifier pour brancher les services. */
+/* Configuration de JikelTech — les seules valeurs à modifier pour brancher les services. */
 window.LUMEN = {
   SITE_URL: 'https://jikeltech.netlify.app',
 

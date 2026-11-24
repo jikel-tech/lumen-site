@@ -1,4 +1,4 @@
-/* LUMen / JikelTech — nouveau cadre : barre du bas, accueil, Apprendre, SOS Tech, Profil.
+/* JikelTech / JikelTech — nouveau cadre : barre du bas, accueil, Apprendre, SOS Tech, Profil.
    Les couleurs, polices et l'ambiance du site actuel sont reprises telles quelles (variables de style.css).
    Seule la section Apprendre a sa propre ambiance vert sombre. */
 
@@ -302,3 +302,16 @@ body.tab-learn .popup{display:none !important;}
 .lg-big{font-size:2rem;line-height:1}.lgs{display:flex;gap:8px;margin-top:8px;font-size:1.2rem}.lgs .lg{opacity:.3;filter:grayscale(1)}.lgs .lg.on{opacity:1;filter:none}
 .rk{list-style:none;margin:10px 0;padding:0;display:grid;gap:6px}.rk li{display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:8px 10px;border-radius:10px;background:rgba(255,255,255,.04)}
 .rk li.me{outline:2px solid var(--green,#34d399)}.rk .n{min-width:1.6em;font-weight:700;color:var(--paper-dim)}.rk small{margin-left:auto;color:var(--paper-dim)}
+
+/* Photo de profil et modules de l'accueil */
+.avatar.photo{background:#222;overflow:hidden;padding:0}.avatar.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.photo-row{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}.photo-row label{cursor:pointer}
+.mods-t{margin:16px 0 8px;font-size:.9rem;color:var(--paper-dim);font-weight:600}
+.mods{display:grid;gap:6px}.mod{display:flex;align-items:center;gap:10px;background:rgba(255,255,255,.04);border:1px solid var(--line);border-radius:12px;padding:8px 10px;color:var(--paper);font-family:inherit;cursor:pointer;text-align:left;min-width:0}
+.mod .me{font-size:1.2rem}.mod .mt{flex:1;min-width:0;display:grid;gap:5px}.mod b{font-size:.88rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mbar{display:block;height:6px;border-radius:6px;background:rgba(127,255,176,.15);overflow:hidden}.mbar u{display:block;height:100%;background:var(--phosphor);text-decoration:none;border-radius:6px}
+.mod small{color:var(--paper-dim);font-size:.78rem}.mod.fin small{color:var(--phosphor)}
+
+.bgrp{margin-bottom:8px;border:1px solid var(--line);border-radius:14px;padding:8px 10px;background:rgba(255,255,255,.02)}
+.bgrp summary{cursor:pointer;font-weight:600;font-size:.92rem;list-style:none;display:flex;justify-content:space-between;gap:8px;padding:4px 0}
+.bgrp summary::-webkit-details-marker{display:none}.bgrp summary small{color:var(--paper-dim)}.bgrp .badges{margin-top:8px}

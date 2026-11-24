@@ -1,4 +1,4 @@
-/* LUMen — feuille de style (structure éditoriale type journal en ligne) */
+/* JikelTech — feuille de style (structure éditoriale type journal en ligne) */
 :root{
   --ink:#0B0F0D; --ink-2:#121814; --paper:#ECE9DF; --paper-dim:#B9B6AC;
   --phosphor:#7FFFB0; --phosphor-dim:#4E8E68; --amber:#FFB25E;
@@ -252,3 +252,5 @@ footer{padding:44px 0 36px; border-top:1px solid var(--line);}
 
 .search-toggle{font-size:1.25rem;}
 @media(min-width:861px){.search-toggle{display:none;}}
+
+.modal .mh{font-family:inherit;font-size:1rem;font-weight:700;margin:18px 0 6px;color:var(--phosphor)}

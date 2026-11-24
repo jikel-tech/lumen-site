@@ -66,19 +66,23 @@
     });
   };
 
-  // Résumé pour l'accueil : le premier cours pas encore terminé (Python, puis Réseau), sinon le dernier.
-  JT.courseSummary = () => {
+  // Progression de tous les modules (accueil) et résumé du parcours à reprendre.
+  const COURSE_IDS = ['python', 'pylab', 'reseau', 'maintenance', 'cyber', 'linux', 'web'];
+  JT.coursesProgress = () => {
     const g = getProg();
-    const list = ['python', 'reseau', 'pylab', 'maintenance', 'cyber', 'linux', 'web'].map((id) => cache[id + '.json']).filter(Boolean);
+    return COURSE_IDS.map((id) => cache[id + '.json']).filter(Boolean).map((c) => {
+      const s = chapterStatus(c, g), total = c.chapters.filter((x) => !x.soon).length, done = s.filter((x) => x === 'done').length, i = s.indexOf('current');
+      return { id: c.id, name: c.title, emoji: c.emoji || '📘', total, done, pct: total ? Math.round((done / total) * 100) : 0, nextTitle: i >= 0 ? c.chapters[i].title : '', finished: i < 0 };
+    });
+  };
+  JT.openCourse = (id) => { L.course = id; L.view = 'course'; learnNav.enter(); JT.go('learn'); renderLearn(); };
+  JT.courseSummary = () => {
+    const list = JT.coursesProgress();
     if (!list.length) return null;
-    let pick = list[list.length - 1], i = -1, sts = [];
-    for (const course of list) {
-      const s = chapterStatus(course, g);
-      if (s.indexOf('current') >= 0) { pick = course; sts = s; i = s.indexOf('current'); break; }
-    }
-    if (i < 0) sts = chapterStatus(pick, g);
-    return { name: pick.title, total: pick.chapters.filter((x) => !x.soon).length, done: sts.filter((s) => s === 'done').length,
-      nextTitle: i >= 0 ? pick.chapters[i].title : T('Parcours terminé 🏆'), waiting: i < 0 };
+    const g = getProg();
+    const last = list.find((c) => c.id === g.lastCourse && !c.finished);
+    const pick = last || list.find((c) => c.done > 0 && !c.finished) || list.find((c) => !c.finished) || list[list.length - 1];
+    return { id: pick.id, name: pick.name, total: pick.total, done: pick.done, pct: pick.pct, nextTitle: pick.finished ? T('Parcours terminé 🏆') : pick.nextTitle, waiting: pick.finished };
   };
 
   const learnNav = makeNav(() => L.view, () => {
@@ -434,6 +438,7 @@ catch(e){self.postMessage({type:'done',id:m.id,out:out,err:String(e&&e.message||
       saveProg(g);
       track('chapter_done', { course: L.course, chapter: c.id, score: S.firstTry + '/' + total });
     }
+    g.lastCourse = L.course;
     logHist(g, c.final ? 'exam' : 'chap', c.title, S.xpEarned + bonus, pass, S.firstTry + '/' + total);
     saveProg(g);
     L.result = { pass, score: S.firstTry, total, xp: S.xpEarned + bonus, bonus, newBadge, badge: c.badge };
