@@ -45,16 +45,34 @@ function xText(a, link) {
   return `${body}\n${link}`;
 }
 
+async function uploadXMedia(imageUrl, creds) {
+  const img = await fetch(imageUrl, { signal: AbortSignal.timeout(20000) });
+  if (!img.ok) throw new Error('image HTTP ' + img.status);
+  const buf = Buffer.from(await img.arrayBuffer());
+  if (buf.length > 4_500_000) throw new Error('image trop lourde');
+  const url = 'https://upload.twitter.com/1.1/media/upload.json';
+  const fd = new FormData();
+  fd.append('media', new Blob([buf]), 'actu.jpg');
+  const res = await fetch(url, { method: 'POST', headers: { Authorization: oauthHeader('POST', url, creds) }, body: fd, signal: AbortSignal.timeout(30000) });
+  if (!res.ok) throw new Error(`X media HTTP ${res.status} ${(await res.text()).slice(0, 150)}`);
+  return (await res.json()).media_id_string;
+}
+
 async function postX(a, link) {
   const creds = { key: process.env.X_API_KEY, secret: process.env.X_API_SECRET, token: process.env.X_ACCESS_TOKEN, tokenSecret: process.env.X_ACCESS_SECRET };
   if (!Object.values(creds).every(Boolean)) return { skipped: true };
   const text = xText(a, link);
-  if (DRY) { console.log('--- X (simulation) ---\n' + text); return { ok: true, dry: true }; }
+  if (DRY) { console.log('--- X (simulation) ---\n' + text + '\nPhoto : ' + (imgOk(a.image) ? a.image : '(aucune)')); return { ok: true, dry: true }; }
+  const payload = { text };
+  if (imgOk(a.image)) {
+    try { payload.media = { media_ids: [await uploadXMedia(a.image, creds)] }; }
+    catch (err) { console.error('Photo X ignorée, tweet sans photo :', err.message); }
+  }
   const url = 'https://api.twitter.com/2/tweets';
   const res = await fetch(url, {
     method: 'POST',
     headers: { Authorization: oauthHeader('POST', url, creds), 'Content-Type': 'application/json' },
-    body: JSON.stringify({ text }),
+    body: JSON.stringify(payload),
     signal: AbortSignal.timeout(20000),
   });
   if (!res.ok) throw new Error(`X HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
@@ -62,19 +80,29 @@ async function postX(a, link) {
 }
 
 // ---------- Facebook (Page) ----------
+const imgOk = (u) => /^https:\/\/(images\.pexels\.com|images\.unsplash\.com)\//.test(String(u || ''));
+
 async function postFacebook(a, link) {
   const page = process.env.FB_PAGE_ID;
   const token = process.env.FB_PAGE_TOKEN;
   if (!page || !token) return { skipped: true };
-  const message = `${a.title}\n\n${firstSentences(a.summary, 2)}`.trim();
-  if (DRY) { console.log('--- Facebook (simulation) ---\n' + message + '\n' + link); return { ok: true, dry: true }; }
-  const res = await fetch(`https://graph.facebook.com/${encodeURIComponent(page)}/feed`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({ message, link, access_token: token }),
-    signal: AbortSignal.timeout(20000),
-  });
-  if (!res.ok) throw new Error(`Facebook HTTP ${res.status} ${(await res.text()).replace(token, '***').slice(0, 200)}`);
+  const message = `${a.title}\n\n${firstSentences(a.summary, 2)}\n\n👉 ${link}\nJikelTech`.trim();
+  if (DRY) { console.log('--- Facebook (simulation) ---\n' + message + '\nPhoto : ' + (imgOk(a.image) ? a.image : '(aucune, aperçu du lien)')); return { ok: true, dry: true }; }
+  const call = async (edge, params) => {
+    const res = await fetch(`https://graph.facebook.com/${encodeURIComponent(page)}/${edge}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({ ...params, access_token: token }),
+      signal: AbortSignal.timeout(30000),
+    });
+    if (!res.ok) throw new Error(`Facebook ${edge} HTTP ${res.status} ${(await res.text()).replace(token, '***').slice(0, 200)}`);
+  };
+  // Avec photo : l'image de l'actu est publiée directement, le lien est dans le texte.
+  if (imgOk(a.image)) {
+    try { await call('photos', { url: a.image, caption: message }); return { ok: true }; }
+    catch (err) { console.error('Photo refusée, publication du lien seul :', err.message); }
+  }
+  await call('feed', { message: `${a.title}\n\n${firstSentences(a.summary, 2)}\n\nJikelTech`.trim(), link });
   return { ok: true };
 }
 
