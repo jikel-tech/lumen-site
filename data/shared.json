@@ -1,5 +1,6 @@
 {
   "ids": [
+    "0bd132b176b6",
     "bbaf6332f2bf",
     "17c6314b2cdb",
     "4f6c4dc91146",
@@ -66,8 +67,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-25T18:18:26.128Z",
+      "id": "0bd132b176b6",
+      "title": "Apple préparerait le retour des éditions (PRODUCT)RED avec la HomePod mini 2 et les AirPods Max 2",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-24T19:14:24.259Z",
       "id": "bbaf6332f2bf",
@@ -504,15 +514,6 @@
       "at": "2026-10-30T21:49:23.326Z",
       "id": "102cad4ffe0e",
       "title": "Inoxtag dévoile The Blood Island pour Halloween, 48 heures de survie et d’horreur, avec une vidéo de 2 heures !",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-30T14:43:05.359Z",
-      "id": "e52e71f525cf",
-      "title": "Le Tunisien Yahya Hmida crée une IA pour libérer les entreprises du travail répétitif",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
