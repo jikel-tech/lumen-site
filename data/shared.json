@@ -1,5 +1,6 @@
 {
   "ids": [
+    "b410f6349d63",
     "e2f1bda7c4de",
     "0bd132b176b6",
     "bbaf6332f2bf",
@@ -68,8 +69,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "ia",
+  "lastCategory": "smartphones",
   "log": [
+    {
+      "at": "2026-11-27T01:34:25.283Z",
+      "id": "b410f6349d63",
+      "title": "LG brade son OLED55C6 pour le Black Friday : 920 € de remise sur un téléviseur noté 8/10",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-26T17:59:27.654Z",
       "id": "e2f1bda7c4de",
@@ -506,15 +516,6 @@
       "at": "2026-10-31T20:49:21.111Z",
       "id": "0191020af1d4",
       "title": "Mini LED, 144 Hz, 75″ : ce TV 4K XXL signé Samsung profite du Black Friday pour perdre 200 €",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-31T14:07:07.671Z",
-      "id": "9cd0974a7de6",
-      "title": "Google envoie un prompt à ses puces d’IA dans l’espace (elles ont répondu)",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
