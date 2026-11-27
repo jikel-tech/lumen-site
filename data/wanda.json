@@ -1,5 +1,35 @@
 [
   {
+    "id": "d10042ab06ec",
+    "title": "Cameroun : le MINDEF évalue la situation sécuritaire en prélude aux fêtes et aux élections de 2027",
+    "source": "ActuCameroun",
+    "category": "wanda",
+    "sub": "actus",
+    "url": "https://actucameroun.com/2026/11/26/cameroun-le-mindef-evalue-la-situation-securitaire-en-prelude-aux-fetes-et-aux-elections-de-2027/",
+    "pubDate": "2026-11-26T23:48:23.000Z",
+    "summary": "En marge des fêtes de fin d’année et du double scrutin législatif et municipal du 7 février 2027, le ministre délégué à la Présidence chargé […]",
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/17290985/pexels-photo-17290985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "K",
+    "imagePage": "https://www.pexels.com/photo/crowded-street-in-nigeria-17290985/"
+  },
+  {
+    "id": "dbc92dbd98ef",
+    "title": "Jensen Huang a-t-il lâché l’ingénieur en robotique qui regrette d’avoir démissionné par solidarité pour lui?",
+    "source": "Digital Business Africa",
+    "category": "wanda",
+    "sub": "tech",
+    "url": "https://www.digitalbusiness.africa/jensen-huang-a-t-il-lache-lingenieur-en-robotique-qui-regrette-davoir-demissionne-par-solidarite-pour-lui/",
+    "pubDate": "2026-11-26T21:02:44.000Z",
+    "summary": "[DIGITAL Business Africa] – Quitter le navire alors qu’il tangait n’a pas été une bonne idée pour Darrell Dai. Le capitaine Jensen Huang parti le 12 novembre 2026 à la suite de révélations sur des…",
+    "coverage": 1,
+    "also": [],
+    "image": "https://images.pexels.com/photos/37786290/pexels-photo-37786290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageBy": "The Chongaiman Ace",
+    "imagePage": "https://www.pexels.com/photo/friends-taking-a-selfie-in-traditional-attire-37786290/"
+  },
+  {
     "id": "b51a80f21566",
     "title": "Rdpc : La trahison qui vient de Sangmelima…",
     "source": "ActuCameroun",
@@ -2218,35 +2248,5 @@
     "image": "https://images.pexels.com/photos/2803160/pexels-photo-2803160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "imageBy": "Tembela Bohle",
     "imagePage": "https://www.pexels.com/photo/photo-of-man-running-during-daytime-2803160/"
-  },
-  {
-    "id": "3d65058bab83",
-    "title": "Drame à Yaoundé : Le Pr Philippe Djondiné retrouvé mort dans une chambre d’hôtel",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "actus",
-    "url": "https://actucameroun.com/2026/11/22/drame-a-yaounde-le-pr-philippe-djondine-retrouve-mort-dans-une-chambre-dhotel/",
-    "pubDate": "2026-11-22T11:18:58.000Z",
-    "summary": "Le corps sans vie du chef du département de physique de l’École normale supérieure (ENS) de Bertoua a été découvert ce samedi 21 novembre 2026 […]",
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/31718989/pexels-photo-31718989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "Abdulrahman Abubakar",
-    "imagePage": "https://www.pexels.com/photo/aerial-view-of-busy-intersection-in-kaduna-nigeria-31718989/"
-  },
-  {
-    "id": "d8565cadb70f",
-    "title": "« Argent, argent et argent » : Jean Crépin Nyamsi secoue les dirigeants du football africain",
-    "source": "ActuCameroun",
-    "category": "wanda",
-    "sub": "sport",
-    "url": "https://actucameroun.com/2026/11/22/argent-argent-et-argent-jean-crepin-nyamsi-secoue-les-dirigeants-du-football-africain/",
-    "pubDate": "2026-11-22T11:01:57.000Z",
-    "summary": "Le débat sur l’avenir du football africain est relancé. Jean Crépin Nyamsi pointe du doigt la dépendance financière des fédérations africaines et leur manque d’ambition […]",
-    "coverage": 1,
-    "also": [],
-    "image": "https://images.pexels.com/photos/10098666/pexels-photo-10098666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "imageBy": "RUN 4 FFWPU",
-    "imagePage": "https://www.pexels.com/photo/man-in-green-shirt-running-10098666/"
   }
 ]
