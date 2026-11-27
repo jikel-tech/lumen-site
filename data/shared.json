@@ -1,5 +1,6 @@
 {
   "ids": [
+    "53f9b899944f",
     "b410f6349d63",
     "e2f1bda7c4de",
     "0bd132b176b6",
@@ -69,8 +70,17 @@
     "d1259963a189",
     "2d8a9344d027"
   ],
-  "lastCategory": "smartphones",
+  "lastCategory": "ia",
   "log": [
+    {
+      "at": "2026-11-27T17:44:47.676Z",
+      "id": "53f9b899944f",
+      "title": "Samsung Messages : l’IA pourrait bientôt prendre le contrôle de vos conversations",
+      "results": {
+        "facebook": "publié",
+        "x": "ignoré (secrets absents)"
+      }
+    },
     {
       "at": "2026-11-27T01:34:25.283Z",
       "id": "b410f6349d63",
@@ -507,15 +517,6 @@
       "at": "2026-11-01T14:38:06.282Z",
       "id": "765ccb3efabb",
       "title": "Elon Musk promet de rendre la vue aux aveugles et de faire remarcher les paralysés grâce à Neuralink",
-      "results": {
-        "facebook": "publié",
-        "x": "ignoré (secrets absents)"
-      }
-    },
-    {
-      "at": "2026-10-31T20:49:21.111Z",
-      "id": "0191020af1d4",
-      "title": "Mini LED, 144 Hz, 75″ : ce TV 4K XXL signé Samsung profite du Black Friday pour perdre 200 €",
       "results": {
         "facebook": "publié",
         "x": "ignoré (secrets absents)"
